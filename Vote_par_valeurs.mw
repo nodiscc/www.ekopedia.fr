@@ -1,0 +1,60 @@
+{{Vivre ensemble}}
+
+Le '''vote par valeurs''' ou '''vote de valeur''' est un système [[Alternative|alternatif]] de [[vote]] destiné à mieux prendre en compte la diversité des [[opinion]]s politiques lors d'élections démocratiques. Dans le vote par valeurs, l'électeur n'est pas obligé d'adhérer entièrement aux propositions d'un candidat unique mais peut moduler son vote en attribuant des « ''valeurs'' » positives, nulles ou négatives à chacun des candidats.
+
+== Description ==
+[[Image:Voteparvaleur.png|thumb|300px|Exemple de bulletin de vote par valeurs]]
+
+Le vote par valeurs se distingue du vote traditionnel (dit vote binaire ou vote par classement) par l'existence d'un système de pondération des options proposées au vote.
+
+Imaginons par exemple un vote portant sur le choix de quatre candidats (M. Haa, Mme Baie, M. Cey, Mme Dhay), un bulletin de vote par valeur permet d'attribuer une valeur à chacun des candidats en fonction de l'opinion que l'on a de lui (favorable, neutre ou défavorable) comme le montre par exemple la figure ci-contre.
+
+== Utilisation du vote par valeurs ==
+
+Le système de vote par valeur est applicable à tout évènement nécessitant la prise d'une décision commune que cela soit une élection, un jury de compétition, un concours...<br />
+Malgré ses avantages, il n'est pas encore à l'heure actuelle appliqué pour les échéances politiques.
+
+=== Méthode de mise en œuvre ===
+Pour mettre en place un système de vote par valeur, il est en premier lieu nécessaire de définir le système de valeurs qui sera utilisé. Celui-ci peut être exprimé soit par une échelle quantitative, par exemple de 0 à 10 ou de -5 à +5, soit par une échelle qualitative qui peut être symbolique ou sémantique, par exemple "très favorable, plutôt favorable, plutôt opposé, complètement opposé".
+
+=== Modes de calcul du résultat ===
+Deux méthodes distinctes peuvent être employées pour déterminer le résultat d'un vote par valeurs.
+
+* '''La méthode de la somme :'''
+Il s'agit d'additionner pour l'ensemble des bulletins de vote les valeurs attribuées à chaque option. Le candidat ou la proposition qui sera finalement retenue sera celle qui obtient au final le plus grand nombre de points. Cette méthode de comptage est relativement simple à mettre en oeuvre et peut même s'effectuer sans recours à des ordinateurs pour le calcul. Dans le cas d'une échelle qualitative, une valeur chiffrée doit être attribuée à chacune des options afin de pouvoir en faire la somme.
+
+* '''La méthode de la médiane :'''
+Il s'agit ici non plus de faire la somme des résultats mais de calculer la médiane des évaluations de chaque option du vote. Cette méthode est adaptée aux valeurs qualitatives, mais elle est susceptible de générer de nombreux paradoxes. En effet, si le nombre de candidats et plus important que le nombre de degrés dans l'échelle de valeur elle génère de nombreux cas d'ex-aequos ne pouvant être départagés. Par ailleurs, le classement par cette méthode ne correspond pas à un critère de majorité. Plusieurs méthodes ont été proposées pour tenter de résoudre ces paradoxes, notamment par Michel Balinski et Rida Laraki <ref>{{en}} M. Balinski & R. Laraki, ''A theory of measuring, electing and ranking'', Ecole Polytechnique et CNRS, cahier n°2006-11 - [http://ceco.polytechnique.fr/fichiers/ceco/publications/pdf/2006-11-29-1528.pdf pdf]</ref>.
+
+=== Variantes ===
+* Le '''vote à 5 points''' : l'électeur dispose de 5 points qu'il peut répartir comme il le désire entre son ou ses candidat(s) favoris.
+* Le '''vote à eau''' : chaque électeur dispose d'une même quantité d'eau définie, au sein de l'isoloir il déverse cette eau dans divers réservoirs correspondants aux différentes options du vote selon les proportions qui correspondent à ses préférences.
+
+== Comparaison avec les autres systèmes ==
+
+=== Avantages du vote par valeurs ===
+Par rapport aux systèmes actuels de vote binaires, l'avantage du vote par valeurs est une prise en compte plus fidèle de l'opinion de l'électeur. Chacun peut exprimer sa désapprobation autant que son approbation, par rapport à une proposition ou un candidat. Si l'électeur hésite entre plusieurs choix il peut moduler son opinion en donnant une partie de son vote pour chacune des options qu'il préfère.
+
+Ainsi le vote par valeur redonne à chaque citoyen un véritable outil de décision démocratique. En ayant la possibilité de moduler son choix, l'électeur ne se sent plus contraint au «vote utile»<ref>{{fr}} Le dilemme du vote utile par Michel Balinski et Rida Laraki dans ''LeMonde.fr'' - [http://ceco.polytechnique.fr/fichiers/ceco/perso/fichiers/laraki_398_Monde.2007.03.31C.pdf pdf]</ref> face à la peur de voir les idées qu'il ne soutient pas mises en œuvre. Les partis minoritaires reprennent alors une véritable place au sein du débat politique ce qui évite la dérive vers le bipartisme que l'on peut observer dans les démocraties modernes.
+
+=== Contraintes du vote par valeurs ===
+Le point fort du vote par valeur peut également constituer son point faible, en effet le nombre élevé de combinaisons possibles pourrait permettre d'identifier spécifiquement chaque bulletin et donc être utilisé à l'encontre du principe d'anonymat du vote. Par exemple pour une élection avec 10 candidats basée sur une échelle de valeur à 10 niveaux (de 1 à 10 par exemple) il existe alors 10^10 soit 10 milliards de bulletins différents possibles. Cette particularité pourrait permettre à des groupes de pression mal intentionnés de menacer des électeurs de représailles si telle ou telle combinaison n'est pas retrouvée dans les bulletins lors du dépouillement.
+
+Cet inconvénient peut heureusement être contourné par deux méthodes simples. La première consiste à séparer les bulletins de chaque candidat, l'électeur note la valeur du candidat sur une partie de chaque bulletin puis le replie en laissant seulement le nom visible et dépose ensuite dans l'urne les 10 bulletins. La seconde possibilité consiste à découper les bulletins à l'aveugle au début du dépouillement pour séparer les différentes parties du bulletin et ainsi empêcher la reconnaissance des combinaisons.
+
+== Références ==
+<references/>
+
+== Voir aussi ==
+
+=== Lien interne ===
+* [[Politique]]
+
+=== Liens externes ===
+* {{fr}} [http://www.votedevaleur.info Site d'information sur le vote de valeur]
+* {{fr}} [http://gonic.lyon.free.fr/vote_a_eau.html Réflexion sur les outils de la démocratie et ''vote à eau'']
+* {{en}} [http://rangevoting.org Site américain de promotion du vote par valeurs]
+
+{{Portail Vivre ensemble}}
+
+[[Catégorie:Politique]]
