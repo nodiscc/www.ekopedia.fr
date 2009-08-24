@@ -1,0 +1,34 @@
+Le '''''pH''''' ou '''Potentiel hydrogène''' mesure la concentration d'une solution [[eau|aqueuse]] en protons (H<sup>+</sup>), présents sous la forme de l'ion oxonium (également, et improprement, appelé hydronium), et mesure effectivement le degré d'acidité ou de basicité d'une solution.
+
+Chacun a sa propre impression de saveur plus ou moins acidulée d'une boisson. Les chimistes ont établi une échelle de pH qui traduit de façon plus précise l'acidité ou la basicité (alcalinité) d'un milieu. Cette acidité est donnée par un nombre positif et sans unité, le pH (potentiel hydrogène ou hydronium). Le pH est compris entre 0 (solutions les plus acides) et 14 (solutions les plus basiques); une solution est dite "acide" lorsque son pH est inférieur à 7, "neutre" lorsqu'il est égal à 7, et "basique" lorsqu'il est supérieur à 7. Le pH d'une solution est égal à l'opposé du logarithme de la concentration en H<sup>+</sup> ou H<sub>3</sub>O<sup>+</sup>, hydronium. En formule cela donne ph = -log[H<sub>3</sub>O<sup>+</sup>].
+
+Plus le pH est faible, plus la solution est acide. Un pH de 5 est 10 fois plus acide qu'un pH de 6. Un pH de 4 est 10 fois plus acide qu'un pH de 5 et 100 fois plus acide qu'un pH de 6. De la même façon, lorsque le pH augment de 1 unité, la basicité (ou alcalinité) est multipliée par 10! Il y a peu d'espèces vivantes qui évoluent dans des milieux de pH inférieurs à 4 ou supérieurs à 10.
+
+== Mesurer le pH ==
+Une manière naturelle d'avoir une approximation du pH est par l'utilisation d'un indicateur coloré. Celui-ci, présenté sous forme de solution ou de bandelette spécialement enduite permettent une lecture approximative du PH par le biais de la couleur.
+
+À titre d'exemple, un indicateur naturel de pH est le jus du chou rouge, qui peut être confectionné avec le filtrat de la cuisson du chou rouge dans de l'eau distillée (pH neutre). Il suffit ensuite de verser quelques gouttes de solution dont on veut connaitre le pH dans le jus de chou rouge pour avoir une modification de la couleur. Un exercice de Bac (Guadeloupe, Septembre 1998) <ref>http://www.spc.ac-aix-marseille.fr/labospc/spip.php?article238</ref> donne l’échelle suivante :
+
+{|class="ekotable" align="center"
+!PH de 0 à 3!!pH de 4 à 6!!pH de 7 à 8!!pH de 9 à 12!!pH de 13 à 14
+|- align="center"
+|rouge
+|violet
+|bleu
+|vert
+|jaune
+|}
+
+
+== Voir aussi ==
+=== Liens internes ===
+* la [[chaux]]
+* [[Dureté]]
+
+=== Liens externes ===
+=== Bibliographie ===
+
+== Références ==
+<references />
+
+[[Catégorie:Chimie]]
