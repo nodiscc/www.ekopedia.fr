@@ -1,0 +1,82 @@
+{{Wikifier}}
+Une '''licence de logiciel''' est un document « par lequel le titulaire des droits du logiciel autorise un tiers à poser des gestes qui autrement les enfreindraient.»<ref>Pierre-Paul Lemeyre, ''Les logiciels libres sous l'angle de la Responsabilité Civile'', 2002. Adresse URL : http://www.juriscom.net/documents/log20030325.pdf</ref>. Dans certaines juridictions une telle licence est forcément un [[contrat]], alors que d'autres juridications font la distinction entre [[licence]] et contrat.
+
+== Principe ==
+
+Pour avoir le droit d'utiliser un logiciel, il faut que le titulaire des droits l'autorise. La licence est le document dans lequel il énumère les droits qu'il accorde au licencié (installer le logiciel, l'utiliser, faire une copie de sauvegarde). Utiliser sans licence un logiciel dont on n'est pas l'auteur revient à violer le [[droit d'auteur]].
+
+Souvent, le titulaire des droits ne se contente pas de vendre la licence, il ajoute également des exigences comme l'interdiction d'utiliser le logiciel à plusieurs, d'étudier le logiciel, de publier des mesures de ses performances, etc. Pour le grand public, l'achat d'un logiciel revient en fait à acheter une licence, puis à accepter le contrat de licence utilisateur final (CLUF).
+
+== Contrat de licence utilisateur final ==
+
+Le terme '''Contrat de Licence Utilisateur Final''' ('''CLUF''') est une traduction du terme anglais ''EULA'', (''End User License Agreement'').
+
+Il s'agit d'un contrat liant une personne installant un logiciel affecté par ce type de licence sur un/son ordinateur et l'éditeur du logiciel. La plupart d'entre elles, que l'on dénomme aussi licences de [[logiciel propriétaire|logiciels propriétaires]], limitent le nombre de machines sur lesquelles on peut installer le logiciel, le nombre d'utilisateurs qui peuvent utiliser le logiciel, et contiennent d'autres limitations qui ne sont pas inhérentes à la technologie.  
+
+Les produits logiciels ont un coût minimal de reproduction (coût marginal quasi-nul), alors que les coûts initiaux de développement se chiffrent en mois, voire plus souvent en « années-hommes ». Il est donc important de vendre un nombre maximal de licences pour rentabiliser l'investissement. C'est ainsi que des sociétés (exemple Microsoft avec Windows ou la suite bureautique ''Office'', ou sociétés de jeux qui sortent le « jeu de l'année ») ont réussi à faire des bénéfices considérables. Il est donc stratégique pour de nombreux éditeurs de logiciels de distribuer leur produits avec une licence qui leur garantisse un volume maximal de ventes.
+
+Ces enjeux entraînent un certain nombre de pratiques controversées : 
+* la manière qu'a un utilisateur d'agréer le contrat qui le lie à un éditeur du logiciel,
+* le contenu du contrat lui même.
+
+=== Méthode d'agrément du contrat ===
+
+Deux modes d'agréments, très couramment utilisés, sont critiqués car souvent considérés comme de la vente forcée :
+* il peut y avoir un encart sur l'emballage du logiciel précisant que lorsqu'on ôte le cellophane ou un sceau autocollant, on accepte de fait le contrat qui est dans la boîte (qui n'a donc pas été lu). Elles sont nommées ''shrink-wrap licences'' en anglais ;
+* pour les logiciels pré-installés ou ceux qui sont téléchargés à partir d'Internet, au moment de l'installation un écran informe de l'acceptation d'un texte écrit dans la fenêtre avant de pouvoir continuer. Certains logiciels d'installation refusent de continuer si l'on n'a pas fait défiler le texte jusqu'en bas (équivalent logiciel du « si vous n'avez pas tourné toutes les pages du contrat »). Elles sont nommées ''click-through licences'' en anglais.
+
+La première méthode est juridiquement controversée : il peut exister des contrats oraux de vente, mais pas de licence. Il se pose aussi la question de la validité de la méthode d'agrément du contrat selon les pays. En Belgique, il est par exemple considéré qu'un contrat n'est valide que s'il est signé à l'encre ou s'il est signé par signature électronique qualifiée (voir la législation belge relative à l'e-ID belge et à la signature électronique). Le cas s'est par exemple posé pour les systèmes d'exploitation Windows de Microsoft. Si quelques revendeurs ont procédé à des remboursements de leur propre initiative, la société Microsoft n'a jamais accepté de reprendre un produit dont l'acheteur aurait refusé le contrat de licence. En France, la loi reconnaît, sous certaines conditions, la validité de la signature électronique, ce qui autorise de contracter par inscription sur un site Internet, par exemple.
+
+=== Contrat lié à l'utilisation d'un logiciel ===
+
+Les droits patrimoniaux accordant aux propriétaires d'une œuvre des droits d'exploitation exclusifs, ces droits ne sont limités que par l'accord des parties à l'accepter et à leur validité dans le droit national. Elles visent à protéger avant tout la [[propriété intellectuelle]] du détenteur. La plupart du temps cela correspond à interdire la rétro-ingénierie, à demander un paiement en échange de l'utilisation du logiciel et à interdire sa copie.
+
+== Protection face aux vices cachés ==
+
+On retrouvera fréquemment une clause ''as is'' ; il est impossible de déterminer à la livraison si un logiciel n'est pas bogué c'est-à-dire défectueux. L'éditeur du logiciel décline donc couramment toute garantie en cas de fonctionnement défectueux et se réserve le droit de faire payer les corrections. 
+
+En droit français cette pratique est contradictoire avec la volonté des éditeurs de placer les produits logiciels dans le domaine des œuvres manufacturées (poursuite pénale pour le vol en cas de duplication). La législation prévoit en effet pendant une durée illimitée la responsabilité du fabricant en cas de vice caché ayant entraîné un préjudice.
+
+== Autres clauses ==
+
+Enfin, on peut trouver, selon les contrats, d'autres clauses :
+* des clauses spécifiant que les utilisateurs donnent le droit au propriétaire d'enregistrer des données les concernant ;
+* des clauses limitant l'utilisation en fonction du pays (par exemple pour se conformer à la législation des États-Unis qui assimilait les logiciels de cryptographie à des armes de guerre) ou du lieu d'utilisation (centrale nucléaire pour certains logiciels grand public) ;  
+* des clauses sur les créations produites avec leurs logiciels : interdiction de créer des contenus avec le logiciel disant du mal de l'éditeur ou copyright automatique sur les œuvres créées avec leurs logiciels. 
+* des clauses sur la modification unilatérale du contrat sans remise en cause de l'agrément. AOL a perdu un procès pour l'avoir utilisée. 
+
+== [[Licence libre|Licences libres]] ==
+
+Les licences de [[logiciel libre]], sont une forme particulière de licence, voir l'article [[licence libre]].
+
+=== Liste de licences ===
+
+Licences de [[logiciel libre|logiciels libres]] :
+*[[Licence Publique Générale|GPL]]
+*[[Licence BSD]]
+*[[Licence Apache]]
+*[[Licence X11]]
+
+Licences sur les [[Contenu libre|« contenus » libres]] et/ou ouverts :
+*[[GFDL]]
+*[[Licence Art Libre]]
+*[[Licence Creative Commons]] (qui est la [[Ekopedia:Copyright|licence d'Ekopédia]])
+*{{en}}[http://www.openoffice.org/licenses/PDL.html ''Public Documentation License'']
+
+== Notes ==
+<references/>
+
+== Voir aussi ==
+=== Liens internes ===
+* [[Licence libre]]
+
+=== Liens externes ===
+* [http://users.skynet.be/kulturo/copyleft/chapitre3.html#n4s Kulturo, une introduction philosophique au copyleft], avec un paragraphe intéressant sur la distinction entre droit d'auteur et copyright
+* [http://www2.aful.org/sections/wikis/detaxe/PageAccueil Le Groupe Detaxe qui lutte contre la vente forcée sous CLUF et l'abusivité du procédé]
+* [http://www.gnu.org/licenses/license-list.fr.html Liste des licences « Logiciel Libre » et « Logiciel propriétaire »]
+* {{en}} [http://www.theregister.co.uk/content/4/24131.html Le gouvernement danois se rebelle contre les termes de la licence Microsoft]
+* {{en}} [http://www.opensource.org/licenses/index.php Les licences certifiées « {{lang|en|Open Source}} »]
+
+
+
+[[Catégorie:Communiquer]]
