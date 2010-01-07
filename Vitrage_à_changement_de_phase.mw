@@ -1,0 +1,63 @@
+La construction de bâtiment à basse consommation énergétique nécessite la mise en œuvre d’une enveloppe performante. D’autre part, les ouvertures sont nécessaires pour bénéficier des apports solaires mais sont plus déperditives que les parois opaques. Il s’agit donc d’utiliser des vitrages appropriés afin d’obtenir le meilleur compromis entre les gains et les pertes. Il en existe de plusieurs catégories, les plus connus étant les doubles vitrages ou triple vitrages. Le '''vitrage à changement de phase''' en fait partie.
+
+==Fonctionnement du système==
+
+Il s’agit d’une fenêtre à double ou triple vitrages, et dont l’une des lames d’air est remplacée par un '''matériau à changement de phase''' (MCP). Son principe de fonctionnement est simple mais il varie suivant les saisons. Nous diviserons donc notre description en deux parties : été et hiver.
+
+
+* '''Fonctionnement été :''' Le vitrage à changement de phase possède une technologie qui laisse entrer les rayons du soleil seulement si leur angle d’incidence est inférieur à 40° environ : il s'agit d'un '''verre prismatique'''. En été, le soleil étant haut dans le ciel, ses rayons seront donc réfléchis lorsqu’ils atteindront le vitrage et n’agiront pas sur le matériau à changement de phase.
+**Etape 1 : Pendant, la journée la chaleur contenue dans la maison est absorbée dans le vitrage.
+**Etape 2 : La température du matériau contenu dans le vitrage augmente au fur et à mesure. De ce fait, il absorbe de la chaleur sensible jusqu’à atteindre sa température de changement de phase (fusion). Il change alors d’état, emmagasinant ainsi une quantité de chaleur supplémentaire équivalente à la chaleur latente de changement d’état qui lui correspond.
+**Etape 3 : Lorsque le soleil disparaît, la température du matériau à changement de phase diminue jusqu’à ce qu’il reprenne son état initial. Il re-émet alors la chaleur qu’il a absorbée.
+[[Image:Glazing summer.jpg|thumb|600px|Fonctionnement en été|center]]
+
+*'''Fonctionnement hiver : '''
+**Etape 1 : En hiver, le soleil est plus bas sur l’horizon. Ainsi, les rayons horizontaux peuvent traverser le vitrage et, en particulier, le matériau à changement de phase contenu à l’intérieur. 
+**Etape 2 : De la même manière que le fonctionnement été, le matériau emmagasine l’énergie thermique fournie par le soleil. Il stocke cette énergie sous forme de chaleur sensible et latente.
+**Etape 3 : Lorsque le soleil disparaît, la température du matériau à changement de phase diminue jusqu’à ce qu’il reprenne son état initial. La chaleur absorbée est alors restituée des deux cotés du vitrage. Une partie sera récupérée dans le bâtiment.
+
+[[Image:Hiver.JPG|thumb|600px|Fonctionnement en hiver|center]]
+
+==Caractéristiques techniques==
+
+Le matériau à changement de phase utilisé dans ce type de vitrage est en général un '''sel hydraté'''. Sa température de fusion est approximativement de 27°C. Il possède une capacité calorifique de fusion de 125 kJ/kg.K (la capacité calorifique correspond à une quantité de chaleur stockée dans un matériau). Lorsqu’il se refroidit, sa température de solidification approxime les 21°C et sa capacité calorifique à cette température est de 325kJ/kg.K. La capacité du vitrage à absorber ou ré-émettre de la chaleur dépend donc de sa taille.
+
+==Avantages==
+
+===Eté===
+*Le vitrage permet de réfléchir les rayons du soleil.
+*Il permet d’absorber une partie des surchauffes enregistrées en été. On parle alors d’'''écrêtage des températures maximales'''.
+*En général, sa faible conductivité thermique et son stockage de la chaleur permettent de réduire de manière significative l’épaisseur des isolants du bâtiment.
+===Hiver===
+*Le vitrage permet de '''stocker la chaleur''' du soleil pendant la journée et de la récupérer lorsque la température se rafraîchit.
+===En général===
+*'''Aucun entretien''' particulier.
+*Fonctionnement '''autonome'''.
+
+==Inconvénients==
+
+*Le prix du vitrage est supérieur à celui d’un vitrage standard.
+*Il n’existe '''pas de régulation possible''' puisqu’il s’agit d’un système autonome dont les seuls paramètres de fonctionnement sont les caractéristiques du matériau à changement de phase utilisé.
+*'''Élément translucide''' : ces vitrages ne sont pas parfaitement transparents. En effet à cause du MCP, une partie du rayonnement lumineux est absorbé dans le vitrage puis réémit de manière légèrement diffuse, ne donnant pas une image parfaitement nette de l'extérieur. Cependant, durant la phase liquide (soit la journée), il y a une meilleur transmittance lumineuse qu'en phase solide.
+
+==Exemple de produit==
+
+La société suisse GLASSX a mis au point un vitrage à changement de phase, semblable à celui que nous avons présenté. En effet, le vitrage conçu par cette entreprise est constitué d’une triple structure de verre isolant, contenant :
+*Dans la première structure un verre prismatique réfléchissant les rayons du soleil.
+*Dans la seconde une lame d’air assurant une bonne isolation thermique.
+*Dans la troisième le matériau à changement de phase.
+Le prix nécessaire à une telle installation peut varier de 700€ à 1000€ et dépend de la spécification et de la taille du vitrage.
+
+==Liens internes==
+
+*[[Matériau à changement de phase]]
+*[[Maison passive]]
+
+==Liens externes==
+
+* [http://www.glassx.ch/index.php?id=168 GlassX]
+* [http://www.cstb.fr/actualites/webzine/thematiques/batimat/materiaux-a-changement-de-phase-vers-une-climatisation-douce.html Vers une climatisation douce]
+* [http://www.chantier.net/prebat/tab/0090.pdf climatisation passive d’été et chauffage d’inter-saison]
+* [http://www.maison-passive-nice.fr/135-glassx-crystal-un-vitrage-solaire-hors-du-commun.html Exemple de maison passive à Nice]
+
+[[Catégorie:Se loger]]
