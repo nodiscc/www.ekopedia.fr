@@ -1,0 +1,72 @@
+{{Se déplacer}}
+
+Si la pratique sportive ou de loisir du vélo tend à reléguer l'[[éclairage]] au rang d'accessoire encombrant, l'utilisation régulière du vélo comme moyen de locomotion le rend indispensable.
+Même si de nuit les rues sont souvent bien éclairées, c'est utile pour être vu par les autres usagers de la route.
+
+L''''éclairage par dynamo''' est la solution la plus écologique, et contrairement aux idées reçues une dynamo de qualité ne freine que très peu le vélo.
+
+
+== Composition ==
+
+Il est composé de 3 éléments reliés entre eux par deux fins fils électriques:
+* la [[dynamo]] génératrice de courant,
+* les récepteurs :
+** le feu rouge à l'arrière,
+** le phare à l'avant.
+
+
+== Les causes/solutions de pannes ==
+
+* '''ampoule grillée'''
+* '''coupure d'un fil électrique''' : Dans ce cas, suivre le cheminement du fil, le plus souvent, le fil se coupe au passage du cadre et de la fourche.
+* '''rupture des continuités''' : L'électricité part de la dynamo par les fils pour aller aux ampoules et revient par les masses métalliques de la bicyclette ([[garde-boue]], [[fourche]] ou [[cadre]]). L'oxydation du métal ou une nouvelle peinture par exemple sont des isolants. <br/> Pour y remédier, poncez les zones en contact et si nécessaire, rajoutez une [[rondelle éventail]]. <br/> Une autre solution consiste à câbler le système d'éclairage avec deux fils, sans utiliser le cadre du vélo comme masse.
+* '''court-circuit''' : Il arrive que l'isolant des fils soit détérioré, et du coup rentre en contact avec la masse. Pour y remédier, débranchez tour à tour les deux fils de la dynamo puis rebranchez les chacun leur tour en faisant tourner la dynamo. Comme il est rare que les deux fils soient défectueux, un des deux points lumineux va s'allumer. Changez le fil de celui qui ne s'allume pas.
+
+
+== Les différents types de dynamo ==
+
+=== La dynamo latérale ===
+C'est le système le plus courant. L'axe de la dynamo est entraîné par un galet en frottement sur le flan du pneu. Ce système à l'avantage d'être peu onéreux. En revanche, il offre un faible rendement (les modèles les plus courant ont un rendement de 30 à 40%), de plus la dynamo devient inutilisable par temps pluvieux : l'eau réduit fortement l'adhérence entre le pneu et le galet de la dynamo qui dès lors n'est plus entraîné en rotation.
+
+=== La dynamo sous l'axe du pédalier ===
+
+=== La dynamo de moyeu ===
+C'est le système le plus performant. La dynamo remplace un moyeu ordinaire de roue. Ce système, bien que plus onéreux, présente de nombreux avantages :
+* un excellent rendement (souvent supérieur à 80%);
+* une grande fiabilité (la dynamo fonctionne quel que soit le temps);
+* une grande longévité.
+Une dynamo de moyeu n'est pas débrayable et rend obligatoire l'utilisation d'un interrupteur.
+
+
+== Les phares ==
+
+En France, le système en vigueur se compose d'une ampoule de 2,4 W à l'avant et de 0,6 W à l'arrière. En comparaison, les systèmes à piles sont courament équipés d'ampoules de 1,2 W.
+
+=== Les ampoules ===
+Si les ampoules arrières restent traditionnelles, il existe des ampoules halogènes pour le phare avant. Celles-ci ont un meilleur rendement et offrent une assez bonne qualité d'éclairage.
+
+=== Visibilité à l'arrêt ===
+Certains phares sont équipés d'un condensateur et d'une LED permettant un éclairage réduit pendant quelques minutes à l'arrêt.
+
+=== Capteur de luminosité ===
+Certains phares sont équipés d'un capteur de luminosité permettant la mise en marche automatique de l'éclairage dès que la luminosité est insuffisante.
+
+Ce système est particulièrement intéressant quand il est utilisé avec une dynamo de moyeu, la mise en marche ou l'arrêt de l'éclairage est alors entièrement automatique.
+
+
+== Voir aussi ==
+
+===Liens internes===
+* La [[bicyclette]]
+
+===Liens externes===
+
+* [http://fubicy.org/cdlr/eclairage.htm fubicy.org] : Extraits du code de la route français concernant l'éclairage des cycles
+* [http://www.mdb-idf.org/spip/spip.php?article229 Mieux se Déplacer à Bicyclette] : Dossier ''S'éclairer à vélo : un peu de technique''
+* [http://jeanpba.free.fr/Eclairages_FR.html Site personnel] : Solutions d'éclairages
+
+===Bibliographie===
+
+{{Multi bandeau|Portail Énergie|Portail Se déplacer}}
+{{DEFAULTSORT:Eclairage}}
+[[Catégorie:Cycle]]
