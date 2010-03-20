@@ -1,0 +1,105 @@
+{{Ebauche}}
+
+{{Se loger}}
+
+La réalisation d'une installation électrique domestique ne réclame pas de don particulier. Il suffit d'apprendre les gestes élémentaires, d'avoir suffisamment de bon sens et de bien connaître les règles, ''il est toutefois impératif de connaitre les risques liés au chocs électriques (électrisation), et ceux pouvant entrainer la mort (électrocution)''. On trouvera en librairie un petit  vade-mecum et un bon ouvrage d'initiation qui apportera l'essentiel. Cette section n'a pas d'autre prétention que d'attirer l'attention de l'électricien-amateur sur cet essentiel.
+Une installation électrique dans le "neuf" doit répondre aux exigences de la '''norme NFC 15-100.''',
+pour une rénovation, il s'agit de la mise en sécurité des personnes répondant à la norme "NF XP C 16.600"d'août 2007, norme utilisée pour la vente d'un bien immobilier.
+La norme NFC 15.100 exige une protection à la terre de tous les circuits, la NF XP C 16.600 admet la mesure compensatoire du DDHS ( Dispositif Différentiel Haute Sécurité 30mA)en l'absence de circuit sans terre.
+
+
+== Les besoins ==
+
+On commencera par recenser tous les points d'utilisation potentiels de la future construction en commençant par les prises de courant :
+* extérieur : prises pour outillage électroportatif de [[jardinage]], [[bricolage]]... Ces prises doivent pouvoir être coupées de l'intérieur de la maison. Penser à tirer les gaines avant l'isolation thermique.
+* garage : une prise tous les deux mètres de chaque côté de l'aire de rangement des véhicules.
+* atelier : une à deux prises par mètre au-dessus de l'établi, prises sous l'établi, prises au plafond, éclairage puissant au-dessus des lieux de travail.
+* cave : une prise et une lampe (interrupteur avec témoin situé à l'extérieur du local.
+* chaufferie : prises pour la chaudière, le chauffe-eau électrique...
+* cellier : prises pour le [[congélateur]], 
+* buanderie : prises pour le [[lave-linge]], [[sèche-linge]]
+* lingerie : une ou deux prises par mètre au niveau des plans de travail ([[machine à coudre]], [[fer à repasser]]...) éclairage puissant au dessus des plans de travail.
+* salle de bain : normes particulières. Prises protégées par disjoncteur différentiel sensible. Prises pour [[rasoir]], [[sèche-cheveux]], chauffage d'appoint, sèche serviettes...
+* cuisine : une prise par mètre derrière les meubles pour les appareils fixes ([[lave-vaisselle]], [[réfrigérateur]], terminal pour [[four]] et [[plaques de cuisson]], [[four à micro-ondes]]. Plusieurs prises au-dessus des plans de travail pour appareils électroménagers.
+* salon, salle à manger, chambres, bureau  : deux prises par mur plus une à l'entrée de chaque pièce pour l'[[aspirateur]].
+* salle de jeu : comme pour les chambres mais appareillage sécurisé pour les enfants.
+
+Les prises doubles comptent normalement pour un point d'utilisation.
+Faire l'inventaire des besoins en fonction des appareils connus et des acquisitions prévisibles. Tenir compte des différentes possibilités d'aménagement des pièces.  Le nombre de prises peut sembler énorme et pourtant il se révélera immanquablement insuffisant dans certains cas particuliers. Le dimensionnement des prises dépend de la puissance qui leur sera demandé. Les circuits du chauffage électrique sont à distinguer de ceux des prises banales.
+
+
+== Circuits électriques ==
+
+Un circuit est un ensemble de prises, de points d'éclairage, de points d'utilisation et de connexions. Le nombre de points d'utilisation d'un circuit est limité. Le circuit est protégé par un fusible ou mieux, par un disjoncteur modulaire placé sur le tableau d'où part le circuit. Cette protection peut aussi être un disjoncteur différentiel, c’est-à-dire coupant le circuit lorsqu'une fuite électrique est détectée. 
+
+Pour un même circuit, tous les fils doivent avoir la même section (on ne mélange pas les sections de fils pour une même prise, par exemple).
+
+La section des fils utilisés dépend de la nature du circuit : pour des prises de courant ordinaires on utilisera du fil de section plus élevée que pour un circuit de points d'éclairage. De même, la section des fils d'alimentation d'une plaque de cuisson est plus grande que celle d'une prise ordinaire car elle est d'un ampérage supérieur. 
+
+La couleur des fils est normalisée : le neutre est toujours de couleur bleue et le conducteur de protection "terre" est vert strié de jaune ; la phase est ''obligatoirement d'une autre couleur que le bleu et la terre'', et généralement rouge, orange ; le fil de retour d'un interrupteur et ou d'un va-et-vient est généralement noir, violet... 
+
+On évitera de passer des fils de couleurs identiques dans la même gaine, à moins de les regrouper par destination avec du scotch de couleur. Lors du câblage on aura intérêt à mettre des étiquettes numérotées sur chaque fil, sur chaque gaine et à laisser un petit schéma dans la boîte de dérivation ou le tableau concerné pour faciliter la maintenance éventuelle. Les boîtes de dérivation doivent être facilement accessibles, suffisamment vastes et repérées sur le schéma général de l'installation.
+
+Le raccordement des fils se fait sur l'appareillage, sur les bornes ou disjoncteurs du tableau à l'aide de « dominos » ou de vis. Dénuder précautionneusement les fils et veiller à bien les serrer : le contact doit être sûr.
+
+Évitez le repiquage sur les points d'appareils de chauffage et préférez l'usage de boîtes de dérivation étant plus sécuritaire et performant.
+
+
+==Installations monophasées et triphasées==
+
+===Régime de "neutre" OU "retour de phase"===
+
+==Les tableaux ==
+
+
+==Disjoncteur d'abonné==
+
+
+==Les appareils modulaires==
+
+
+==Disjoncteur différentiel==
+
+===Disjoncteur sur la phase===
+
+===Disjoncteur différentiel===
+
+===Contacteur et télérupteur===
+Un contacteur est un appareil électromagnétique qui se compose d'une bobine et des contacts fermés ou ouverts au repos
+
+===Afpa===
+
+
+==L'installation ultraterminale==
+
+===Les prises de courant électrique===
+
+===Les interrupteurs et les va-et-viens ===
+
+===La domotique et les témoins ===
+
+
+==Recette de l'installation==
+
+Pour être raccordée au réseau général de distribution d'électricité, l'installation domestique doit répondre à des normes précises. La vérification de la conformité à ces normes est effectué par un organisme qui enverra un inspecteur contrôler que la résistance de la prise de terre n'est pas trop élevée, que l'appareillage électrique est normalisé, que chaque prise est correctement câblée... Un particulier qui a réalisé lui-même son installation sera systématiquement inspecté. Le certificat délivré est valable pour l'installation en l'état où elle se trouvait le jour de la recette.
+
+La validation par un organisme agréé est indispensable pour les assurances en cas d'incident d'origine électrique.
+
+Le "CONSUEL" fournit ce type de prestation.
+
+
+==Installation antivol et de surveillance ==
+
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Autoconstruction]]
+* [[Construire son habitat]]
+
+===Liens externes===
+
+=== Bibliographie ===
+* Référence ''Texte de norme NF C15-100''
+
+[[Catégorie:Autoconstruction]]
