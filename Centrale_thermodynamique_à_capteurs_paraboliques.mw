@@ -1,0 +1,96 @@
+On désigne par '''solaire thermodynamique''' l'ensemble des techniques qui visent à transformer l'énergie rayonnée par le soleil en chaleur à température élevée, puis celle-ci en énergie mécanique (et électrique) à travers un cycle thermodynamique.
+Ce type de centrale utilise des capteurs paraboliques qui suivent au cours de la journée la course du soleil, ainsi tous les rayons incidents parallèles a l'axe optique, vont, par réflexion parvenir au foyer. L'énergie solaire captée permet de transférer a un gaz (hydrogène ou hélium) qui monte en température (de 600 à 1200°C) et en pression (couramment supérieur à 100 bar). Ce fluide est ensuite utilisé comme source chaude dans un moteur Stirling qui produit alors de l'électricité.
+
+
+== Principe général ==
+{{...}}
+<center>[[Image:principe_centrale_solaire.jpg|Schéma de principe]]</center>
+
+
+=== Exemple ===
+[[Image:photo_capteur.gif|thumb|300px|Capteur à Font Romeu (Sud de la France) utilisé pour la recherche.]]
+Caractéristiques générales:
+* Puissance : 15 kW
+* Rendement global : 23 %
+* Diamètre : 8.5 m 
+* Surface collectrice : 56.7 m²
+* Distance focale : 4.5 m
+
+
+'''Caractéristiques du moteur Stirling''':
+* Température atteinte : 650 °C
+*  Fluide utilise : hydrogène
+*  Pression 20 – 150 bar
+* Puissance électrique nominale : 9.8 kW
+
+
+== Avantages  et inconvénients ==
+=== Les points forts ===
+* La source d'énergie solaire est illimitée et gratuite.
+* L'utilisation d'un moteur Stirling apporte plusieurs avantages :*  rendement jusqu'à 40 %*  moins polluant ( pas d'énergie fossile utilisée, pas de dégagement de fumée)*  moins bruyant*  entretien facilité car peu de pièces mobiles
+* Il existe une possibilité de mise en réseau des capteurs pour obtenir une centrale de taille industrielle.
+* L'utilisation de gaz (hydrogène ou hélium) ayant une capacité importante à absorber les calories augmente le rendement.
+* Le rendement d'une unité de production varie entre 20 – 25% contre 15 % environ pour les capteurs photovoltaïques.
+
+=== Les points faibles ===
+* La  taille des capteurs est limitée afin d'obtenir une rotation sur deux axes pour suivre la course du soleil. 
+* Fonctionnement par intermittence
+* On obtient actuellement de faibles puissances par rapport aux autres technologies de centrales solaires thermodynamiques ( de 5 à 50 kW électrique)
+* L'hydrogène diffuse facilement dans les matériaux.
+* Les capteurs sont difficiles a obtenir car ils nécessitent une double courbure pour obtenir  la forme parabolique.
+* Les forts écarts de température créent des dilatations thermiques qui limitent le choix des matériaux.  
+* Coût d'investissement encore élevé car la commercialisation est en cours.
+
+== Aspects techniques ==
+=== Matériaux  ===
+'''2 types de conception''':
+* soit en juxtaposant plusieurs miroirs trapèzes que l'on colle sur une structure métallique. Cette solution est plus intéressante économiquement mais le choix de la colle reste aujourd'hui encore un problème.
+*  Il est aussi possible de mettre en forme un matériau réfléchissant (mylar aluminisé).
+
+C'est souvent la première solution qui est choisie aujourd'hui notamment a cause du facteur économique.
+
+=== Maintenance ===
+* Nettoyage des miroirs
+* Maintenance réduite sur le moteur Stirling
+* Maintenance des systèmes d'axes.
+
+=== Règles de dimensionnement ===
+* Le système doit être dimensionné pour suivre la course du soleil.
+* Choix du fluide pour le moteur en fonction de ses propriétés.
+* La taille du capteur doit être correctement dimensionnée de façon à ce que la rotation sur les 2 axes soit possible.
+
+== Aspects économiques ==
+Le coût d'investissement pour un tel système est de 10 à 14 € / W électrique.
+{{...}}
+
+== Centrales existantes ==
+=== En France ===
+Il existe un capteur prototype à Font Romeu, utilisé essentiellement pour la recherche ( cf exemple)
+
+=== Dans le monde ===
+* La centrale de Warner Springs aux USA est composée de systèmes contenant chacun 24 miroirs paraboliques disposés en coupelles (les héliostats) : la puissance électrique maximale du site atteint 25 mégawatts (MW).
+*  Dans le désert de Mojave, près de Los Angeles, 9 centrales solaires construites entre 1984 et 1990 fournissent une puissance totale de 350 mégawatts (MW). Chaque centrale occupe environ 150 hectares (ha) au sol, occupé par des milliers de mètres carrés (m2) de miroirs. La conduite, la surveillance, l'entretien de chaque centrale sont assurés par une équipe de 45 personnes dont 5 uniquement pour le lavage des miroirs tous les 15 jours.
+
+== Perspectives d'avenir ==
+Centrale combinée : il est possible de coupler une centrale parabolique Stirling avec une chaudière biomasse. La chaudière compense alors le manque d'ensoleillement et permet de chauffer le fluide. La production d'électricité est alors continue tout au long de la journée, sans intermittence. La première centrale de ce type a été installée à Oberlech (Autriche) récemment.
+
+
+== Références ==
+<references/>
+* rapport de Bruno Rivoire responsable du "groupe d'évaluation de Themis " le solaire thermodynamique"
+* rapport "La recherche en matière de solaire à concentration. Extrait de la stratégie nationale de recherche énergétique. Approche thématique : les énergies renouvelables" (05/06/07) du ministère de l'écologie, du développement et de l'aménagement durable et du ministère de l'économie, des finances et de l'emploi.
+
+== Voir aussi ==
+=== Liens internes ===
+* [[Énergie solaire]]
+
+=== Liens externes ===
+* [http://www.outilssolaires.com www.outilssolaires.com]
+* [http://www.promes.cnrs.fr CNRS - centrale prototype de Font Romeu]
+* Dossier ecosources : [http://www.ecosources.info/Centrale-solaire-thermique-capteurs-cylindro-paraboliques Les centrales à capteurs cylindro-paraboliques]
+* [http://www.renewables-made-in-germany.com/fr/centrales-solaires-thermiques Les centrales solaires thermiques]
+* Vidéo d'un [http://www.youtube.com/watch?v=d_j_RxRR0lg capteur suivant la course du  soleil]
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
+
+[[Catégorie:énergie solaire]]
