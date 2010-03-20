@@ -1,0 +1,131 @@
+{{Ebauche}}
+
+Une chaudière est un générateur de chaleur produisant un fluide caloporteur, principalement de l’eau chaude, voire de la vapeur pour des applications industrielles. La chaudière comporte un corps de chauffe avec un circuit d’eau intégré qui récupère la chaleur produite par un brûleur utilisant un combustible gaz, fioul, bois …
+
+
+=== Le dimensionnement de la chaudière === 
+
+ 
+
+La tendance voudrait que le choix d’une chaudière surpuissante puisse être un avantage, voire un gage de confort d’utilisation supplémentaire…. Or, il n’en est rien, et dans bien des cas de graves problèmes sont à redouter….
+
+ 
+
+1/Comment la chaudière s’adapte-elle à la puissance réellement nécessaire ?
+
+ 
+
+Par son système de régulation ,mais surtout en fonctionnant par intermittence.
+
+ 
+
+Il faut savoir que toutes les chaudières ne fonctionnent à plein rendement que quand elles ont atteint la bonne température. Autrement dit, et ceci est valable pour tous les systèmes à combustion - moteurs compris - le rendement est (le) meilleur lorsque le fonctionnement est proche de la pleine puissance de l'appareil.
+
+Pour consommer moins, il faudrait faire fonctionner sa chaudière le plus souvent possible proche de sa puissance maximale.
+
+ 
+
+Quand le brûleur de votre chaudière mazout de 30kW fonctionne, il délivre environ 30kW, si le besoin dans la maison n’est que de 10kW, alors le brûleur s’arrête 2/3 du temps en moyenne, en effet 10 kW = 1/3 * 30 kW.
+
+Un brûleur à mazout ou à gaz démarre en quelques secondes et s’arrête instantanément, il a été étudié pour cela et c'est un des avantages de ces combustibles fossiles.
+
+Ce n'est pas le cas d'un feu de bois, qui ne peut démarrer et s’arrêter à la demande.
+
+Il nous faudra donc compter sur la régulation et l’hydro-accumulation.
+
+ 
+
+2/ La régulation :
+
+ 
+
+La régulation de la puissance par hachage (cycles marche/arrêt) est très mal adaptée à la combustion du bois, pour ne pas dire impossible, puisqu’il faudrait éteindre les braises à chaque arrêt.
+
+ 
+
+La chaudière à bûches :
+
+ 
+
+Pour une chaudière à bois, le seul moyen de "réguler" la puissance est de jouer sur le tirage (en étouffant le feu de manière plus ou moins efficace).
+
+ 
+
+Cette solution est assez limitée en efficacité, et comme il faut évacuer en permanence la chaleur produite, un tampon thermique est toujours nécessaire pour toute installation de chaudière à bûches! Voir aussi: hydro-accumulation.
+
+De plus, un fonctionnement à trop bas régime provoque à coup sûr un encrassement très préjudiciable pour le rendement et l’écologie.
+
+ 
+
+La chaudière à pellets :
+
+ 
+
+Les constructeurs de chaudières à granulés ont cherché et trouvé des moyens de moduler la puissance des chaudières par différents dispositifs qui font varier essentiellement 2 facteurs: l'alimentation en combustible (impossible avec des bûches) et l'alimentation en air (comme avec les bûches).
+
+La modulation ne peut aller au delà d’un seuil minimal, seuil qui n’offre qu’un rendement assez faible .
+
+ 
+
+Cette solution est assez limitée en efficacité, et comme il faut évacuer en permanence la chaleur produite, un tampon thermique est toujours nécessaire pour toute installation de chaudière à pellets! Voir aussi: Hydro-accumulation.
+
+De plus, un fonctionnement à trop bas régime provoque à coup sûr un encrassement très préjudiciable pour le rendement et l’écologie.
+
+ 
+
+3/ Analyse des besoins :
+
+ 
+
+Approximation par le volume :
+
+Une méthode très simple (mais également très imprécise) consiste en première approximation à utiliser le volume de l’habitation.
+
+On peut aussi multiplier le volume habité par 30W/m3 (bonne isolation) à 50W/m3 (faible isolation) mais la marge d’erreur est grande et le surdimensionnement de la chaudière est probable avec les problèmes que cela engendre.
+
+ 
+
+Le chauffage d’une maison est un système en équilibre constant entre un flux de chaleur qui s’échappe de la maison (ce sont les pertes thermiques) et un flux de chaleur entrant (le chauffage, évidemment, mais aussi le soleil,et les occupants...chaque personne apportant entre 60 et 100W suivant sa morphologie).
+
+Le besoin en chauffe d’une maison varie au long des saisons mais, à échelle d’une journée, on a une demande de chauffe qu’on peut définir comme régulière.
+
+La puissance de la chaudière doit correspondre aux pertes moyennes de l’habitation lorsqu'il fait le plus froid.
+
+Estimer les pertes, c'est à dire faire un bilan thermique, c'est donc trouver la bonne puissance de sa chaudière.
+
+ 
+
+Pour bien dimensionner l’installation, il est préférable d’effectuer une étude des pertes thermiques du logement. Dans certaines régions, cette étude est subventionnée. Un bilan thermique précis sera rentabilisé en quelques mois d'utilisation.
+
+ 
+
+En cas de renouvellement de la chaudière, choisir une puissance équivalente peut sembler évident, mais ce n'est pas forcément la bonne solution, car les anciens appareils de chauffage sont souvent surdimensionnés, des travaux d'amélioration (isolation, changement des châssis...etc) ont peut être été réalisés dans la maison. Dans ce cas, les besoins seront moins importants qu'auparavant.
+
+ 
+
+ 
+
+4/ Conclusions sur le choix de la puissance :
+
+ 
+
+Le surdimensionnement d'une chaudière à bois peut être catastrophique au niveau des performances, de plus une chaudière plus puissante coûte plus cher et consommera davantage.
+
+ 
+==Voir aussi==
+
+===Liens internes===
+* [[Chaudière_bois_à_plaquettes]]
+* [[Chaudière_à_condensation]]
+* [[Chauffage]]
+* [[Chauffage_au_bois]]
+
+===Liens externes===
+* [http://www.climamaison.com/chaudiere.php?choix=&Key=132&subk=94 chaudière]
+* [http://www.econergies.org/index.php/site/blog/1/le_dimensionnement_d_une_chaudiere Econergies]
+
+=== Bibliographie ===
+
+[[Catégorie:Chauffage]]
+[[Catégorie:Énergie]]
+{{Portail Énergie}}
