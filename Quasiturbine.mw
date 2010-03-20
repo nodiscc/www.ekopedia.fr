@@ -1,0 +1,74 @@
+{{Se déplacer}}
+[[Image:Quasiturbine_Diagram.png|thumb|Le cycle de combustion de la Quasiturbine : Admission (turquoise), compression (bordeau), combustion (rouge), échappement (noir). La bougie est située au-dessus (vert).]]
+
+Le moteur '''Quasiturbine''' ou '''Qurbine''' est un type de [[moteur]] rotatif à [[combustion]], inventé par la famille québécoise Saint-Hilaire et initialement breveté en [[1996]]. Ce moteur sans [[vilebrequin]] utilise un [[rotor]] articulé à quatre faces tournant dans un [[ovale]] complexe calculé par [[ordinateur]], et formant des chambres à volume croissant et décroissant lors de la rotation. Le centre du rotor est libre et accessible, et le rotor tourne sans vibration ni temps mort tout en produisant un fort couple moteur à faible vitesse de rotation. Elle est de plus capable de fonctionner avec différents [[carburant]]s. La conception de la Quasiturbine permet également de fonctionner en moteur à air, [[moteur à vapeur]], compresseur à gaz ou [[pompe]].
+
+Elle constitue aussi une théorie d'optimisation des concepts de moteurs compacts et efficaces.
+
+== Fonctionnement ==
+
+Dans le moteur Quasiturbine, les quatre temps d'un cycle [[Beau de Rochas]] (Cycle [[Nikolaus Otto|Otto]]) typiques sont distribués séquentiellement autour d'un quasi-ovale, à la différence du mouvement alternatif du moteur à [[piston]]. Dans le moteur Quasiturbine de base à rotor unique, un stator quasi-ovale encercle le rotor articulé à quatre faces qui tourne en se déformant tout en suivant exactement le contour du boîtier. L’étanchéité du rotor est assurée par des joints contre les parois latérales, et par des joints de contour contre la périphérie intérieure du stator, constituant quatre chambres de volume variable. Contrairement au [[moteur Wankel]] dont le [[vilebrequin]] déplace radialement les faces du piston rotatif successivement vers l'intérieur et l'extérieur, les faces du rotor de la Quasiturbine basculent alternativement en référence au rayon du moteur, mais elles restent à une distance fixe du centre du moteur à tout instant durant la rotation, produisant une pure force tangentielle de rotation. Puisque la Quasiturbine n'a pas de [[vilebrequin]], les variations de volume interne ne suivent pas nécessairement le mouvement sinusoïdal habituel des moteurs, ce qui lui confère des caractéristiques très différentes de celles du piston ou du moteur Wankel.
+
+Lorsque le rotor tourne, sa déformation et la forme du stator font en sorte que chaque section du stator se rapproche et s’éloigne, comprimant et détendant ainsi les chambres à la façon des « temps moteur » associés au piston alternatif. Cependant, alors qu’un moteur à piston à quatre temps produit une combustion par cylindre à chaque deux révolutions, soit une demi combustion de puissance par révolution et par cylindre, les quatre chambres du rotor de la Quasiturbine produisent 4 temps de combustion par révolution du rotor ; c'est-à-dire huit fois plus qu'un piston dans le moteur à pistons à quatre temps.
+
+== Avantages ==
+
+Les moteurs Quasiturbine sont plus simples, ils ne contiennent aucun [[engrenage]] et ont beaucoup moins de pièces mobiles. Par exemple, comme l’admission et l'échappement sont de simples ouvertures dans le stator, il n’y a pas de soupape, ni de tringlerie. Cette simplicité et la taille réduite et compacte permettent d'épargner sur les coûts de construction. 
+
+Puisque son centre de masse est immobile durant la rotation, la Quasiturbine a très peu ou pas de vibration. En raison de son cycle ininterrompu sans temps mort, la Quasiturbine peut être alimentée en air comprimé ou à la vapeur sans vanne de synchronisation, et aussi avec du liquide comme moteur hydraulique ou [[pompe]]. 
+
+D'autres avantages incluent un couple élevé à bas rpm, la propension à la combustion de l’[[hydrogène]], et la compatibilité au mode photo-détonation avec la Quasiturbine à chariots, là où le haut rapport surface / volume devient un facteur atténuant de la violence de la détonation : par rapport à de nombreuses propositions innovantes dans le domaine de la conception de moteurs, la Quasiturbine ouvre un nouveau champ de développement, en particulier en ce qui concerne la photo-détonation.
+
+[[Image:Quasiturbine_Picture1.jpg|thumb|La Quasiturbine configurée en moteur à vapeur]]
+
+== Inconvénients ==
+
+Le moteur Quasiturbine est typiquement construit d’[[aluminium]] et de [[Fonte (métallurgie)|fonte]] dont les pièces se dilatent et se contractent à différents degrés lorsque exposées à la chaleur, ce qui tend à provoquer certaines fuites. Un problème semblable existait dans les [[moteur Wankel|moteurs Wankel]] de première génération, mais les développements techniques ont permis de maîtriser ces difficultés dans les deux cas.
+
+== Historique ==
+
+La Quasiturbine a été conçue par une famille de 4 chercheurs sous la direction du Dr Gilles Saint-Hilaire, un [[physicien]] thermonucléaire. L'objectif originel était de concevoir un turbo-moteur dont la turbine de la partie compresseur et la turbine chaude de puissance seraient dans le même plan. Pour réaliser cela, il a fallu conceptuellement détacher les pales de l’arbre central et les joindre les unes aux autres comme une chaîne tournant à la manière d'un rotor unique, et agissant pendant un quart de tour comme [[compresseur]], et comme [[moteur]] le quart de tour suivant. Le concept général de la Quasiturbine a été breveté en [[1996]]. De petites unités pneumatiques et vapeur sont disponibles pour la recherche, la formation universitaire et la démonstration industrielle. Des prototypes à combustion ont également pour objectif la démonstration.
+
+== Usages ==
+
+Le haut rapport puissance / poids de la Quasiturbine la rend particulièrement appropriée comme moteur [[avion|d'avions]] et sa très faible propension à générer des vibrations la favorise pour plusieurs usages, tels que : tronçonneuse, parachute motorisé ([[paramoteur]]) ou moto-neige. Des variations du concept de base de la Quasiturbine la rendent également utilisable comme compresseur d'air et comme turbocompresseur. En novembre [[2004]], une démonstration du moteur Quasiturbine a été faite sur un go-kart.
+
+== Comparaison avec le moteur Wankel ==
+
+Le [[moteur Wankel]] a un rotor triangulaire rigide synchronisé par engrenage avec le stator, et entraîné par un vilebrequin tournant à 3 fois la vitesse du rotor, lequel éloigne radialement vers l’extérieur et rappelle vers l’intérieur les faces du rotor. La tentative du Wankel de réaliser les 4 temps moteur avec un rotor à 3 cotés limite l’optimisation du chevauchement des fenêtres, et en raison du vilebrequin le Wankel a des caractéristiques d'impulsions de volume sinusoïdales semblables à celles du piston. Le rotor articulé à quatre faces de la Quasiturbine, quant à lui, tourne sur une piste de support circulaire intérieure et entraîne l’arbre moteur à la même vitesse que le rotor. Elle n’a pas d’engrenage de synchronisation, ni de vilebrequin, ce qui permet aux modèles avec chariots une mise en forme « presque à volonté » des caractéristiques d'impulsion de pression pour des besoins spécifiques, y compris pour atteindre la photo-détonation.
+
+Le moteur Wankel divise le périmètre en 3 sections tandis que la Quasiturbine le divise en 4, pour une élongation inférieure de 30 % des chambres à combustion. La géométrie du Wankel impose de plus un volume résiduel au point mort haut qui limite son taux de [[compression]] et l’empêche de se conformer au diagramme Pression-Volume. Le Wankel a trois temps mort de 30 degrés chacun par rotation de son rotor, alors que la Quasiturbine n'en a aucun, ce qui rend possible la [[combustion]] continue par transfert de [[flamme]], et elle peut même être alimentée à l'air comprimé ou à la [[vapeur]] sans vanne de synchronisation (ou aussi par du liquide comme moteur hydraulique ou [[pompe]]). Pendant la rotation, les joints d’apex du Wankel interceptent le stator à des angles variant de -60 avec +60 degrés, tandis que les joints de contours de la Quasiturbine sont presque perpendiculaires au stator en tout temps. Tandis que le moteur Wankel exige un double (ou plus) rotor hors de phase pour la compensation des vibrations, la Quasiturbine s’accommode d’un rotor unique, puisque son [[centre de masse]] est immobile durant la rotation. Enfin, alors que l’arbre du [[moteur Wankel|Wankel]] tourne de façon continue, ce n’est pas le cas pour son rotor, lequel arrête sa rotation (voire l'inverse) à chaque point mort haut et bas, une modulation importante de [[vitesse]] angulaire du rotor produisant d’importants efforts internes qui ne se retrouvent pas dans la Quasiturbine.
+
+== Photo-détonation ==
+
+La photo-détonation est le mode optimum de [[combustion]], tel une combustion volumétrique produite par [[laser]], un mode que la forme sinusoïdale d'impulsion du moteur Wankel et du piston ne peut supporter. Dans le [[diesel]] la combustion est contrôlée par le thermo-allumage ; la [[combustion]] dans le [[moteur]] à piston à essence est contrôlée par un front d’onde thermique ; le cognement de la détonation est contrôlé par une onde de choc supersonique ; tandis que la photo-détonation est une combustion volumétrique contrôlée par un intense rayonnement dans la chambre de combustion. Puisque la Quasiturbine n'a aucun [[vilebrequin]] et peut avoir de chariots, l'impulsion de volume peut être mise en forme suivant la lettre cursive minuscule « i », avec une durée au sommet de 15 à 30 fois plus brève que l’impulsion du Wankel ou du [[piston]], et avec une rampe linéaire rapide de montée et de descente. Ce genre d'impulsion de volume auto-synchronise la photo-détonation et réduit le stress subi par la mécanique en raccourcissant la durée des moments de hautes pressions. La Quasiturbine ouvre la porte à une telle machine du futur... qui rendrait désuets les concepts de véhicule hybrides.
+
+=== Efficace à faible puissance ===
+
+L'efficacité d'un moteur à essence de 200 CV chute de manière importante lorsqu'il est utilisé pour produire seulement 20 CV en raison de la dépressurisation nécessaire dans le collecteur d'admission, dépressurisation qui devient moins importante lorsque la puissance produite par le moteur augmente. Un moteur à photo-détonation n'a pas besoin de produire ce vide d'admission puisqu'il admet tout l'air possible, et principalement pour cette raison, son efficacité demeure élevée même à faible puissance moteur.
+
+Le développement d’un moteur à photo-détonation aura une très faible pénalité d’efficacité à basse puissance ; il sera plus respectueux de l'environnement et se contentera d'essence ou de carburant diesel à bas taux d’octane sans additif ; il sera compatible avec de multiples carburants, y compris la combustion directe d'hydrogène; et il permettra une drastique réduction du système de propulsion en poids, taille, entretien et coût.
+
+=== Alternative à l'hybride ===
+
+C'est justement l'objectif du concept hybride d'économiser sur la faible efficacité à bas régime moteur. Dit autrement, la raison du concept hybride moderne est d’éviter la pénalité d’efficacité à basse puissance des puissants moteurs des véhicules d’aujourd'hui, généralement utilisés avec un facteur de charge moyen de seulement 15%. Il y a là un potentiel d'économie de carburant de 50%, dont la moitié est récupérable par la méthode hybride. Mais accroître l’efficacité de cette manière exige des composants de puissance et de stockage d'énergie additionnels, avec des inconvénients contre-productifs associés aux augmentations de poids, d’espace, d’entretien, de coût et des processus de [[recyclage]] environnemental. Le moteur à photo-détonation fournira un moyen plus direct d'atteindre au moins le même résultat.
+
+== Voir aussi ==
+* [[Agrocarburant]]
+* [[Énergies renouvelables]]
+* [[Moteurs alternatifs]]
+* [[Moteur Stirling]]
+* [[Modes de déplacement alternatifs]]
+* [[Véhicules à carburants alternatifs]]
+
+== Liens extérieurs ==
+*[http://www.quasiturbine.com Quasiturbine site officiel]
+*[http://quasiturbine.promci.qc.ca/Presse/FQuantum0312Typo.pdf eMotionReports : Livre blanc sur la technologie Quasiturbine]
+*[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/search-bool.html&r=1&f=G&l=50&co1=AND&d=ptxt&s1=6,164,263.WKU.&OS=PN/6,164,263&RS=PN/6,164,263 Brevet Quasiturbine AC (Avec Chariots) déc. 1996]
+*[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/search-bool.html&r=1&f=G&l=50&co1=AND&d=ptxt&s1=6899075.WKU.&OS=PN/6899075&RS=PN/6899075 Brevet Quasiturbine SC (Sans Chariot) fév. 2003]
+*[http://auto.howstuffworks.com/quasiturbine.htm How Quasiturbine Engines Work] sur HowStuffWorks.com
+
+
+
+{{wikipedia|Quasiturbine}}
+[[Catégorie:Moteurs_alternatifs]]
