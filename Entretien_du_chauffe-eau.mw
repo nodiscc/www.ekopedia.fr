@@ -1,0 +1,100 @@
+{{Ebauche}}
+
+{{Se loger}}
+
+
+==Chauffe-eau à huile végétale==
+{{...}}
+
+
+==Chauffe-eau solaire ou [[Capteur héliothermique]]==
+
+Dans sa version la plus simple, un chauffe-eau solaire est un simple tuyau, noir de préférence, disposé en serpentin dans un volume dont la face exposée au soleil est transparente afin de capter l'énergie solaire (notamment infrarouge) et échauffer l'eau. Pour plus d’efficacité, ce serpentin peut circuler dans un caisson peint en noir, avec un fond réfléchissant et recouvert d’une surface vitrée. Pour vous en faire une idée, pensez à une voiture restée au soleil. L'échauffement varie selon l'ensoleillement, la surface exposée, le débit d'eau ... Il n'est pas toujours suffisant pour une utilisation domestique, mais peut représenter une économie d'énergie intéressante dans les régions ensoleillées.
+
+Cette technique est souvent utilisée pour chauffer l'eau des piscines, et peut venir en complément d'un chauffe-eau classique pour en réduire la consommation.
+
+Un autre exemple simple est la "douche solaire" bien connue des campeurs. Il s'agit d'un sac en plastique ayant une face transparente et une face noire, et disposant d'un tuyau avec une pomme de douche. On le remplit d'eau et l'expose au soleil (généralement suspendu). Les rayons lumineux traversent la face transparente (bombée par le liquide, fait-elle loupe ?) et échauffent la face noire ainsi que l'eau. L'écoulement se fait par gravité.
+
+Il existe des systèmes plus complexes de centrales solaires à eau chaude, basées sur de grandes étendues de miroirs paraboliques concentrant les rayons solaires en un point focal ou sur un tuyau courant le long des miroirs. Si le bilan économique de ces installations peut prêter à discussion, le bilan écologique (du fait de la constitution simple des matériaux mis en œuvre, des possibilités de recyclage, de l'usure minime, etc.) est indéniablement positif.
+
+
+==Chauffe-eau à bois==
+
+Le principe est simple : il s'agit d'un poêle à bois qui dispose d'un réservoir d'eau au dessus. Le feu de bois chauffe le métal du poêle qui réchauffe le réservoir et l'eau à l'intérieur. L'entretien est le même que pour un poêle à bois.
+
+
+==Chauffe-eau électrique==
+
+===Cuve===
+La cuve est généralement en tôle d'[[acier]] émaillée, protégée contre la corrosion, et entourée extérieurement d'un isolant lui-même protégé par une paroi en tôle peinte ou en [[plastique]]. Il existe aussi des cuves en cuivre ; elles sont un peu plus chères mais donnent de meilleures garanties de longévité contre la corrosion.
+Le [[calcaire]] se dépose sur la résistance (lorsqu'elle est à nue, thermoplongée) ou sur le tube qui l'isole de l'eau de la cuve (stéatite). 
+
+====Anode====
+Habituellement, les chauffe-eau contiennent une anode en magnésium servant à les protéger de la corrosion. Celle-ci se sacrifie au profit de la cuve. Il faut donc de temps en temps la changer. Sa durée de vie est fonction de divers paramètres (qualité de l'eau, température d'utilisation,...) Peu de gens le sachant, elle n'est en général jamais changée ; son rôle est donc limité dans le temps (5 à 10 ans) et par conséquent, celui du chauffe-eau aussi. Les modèles haut de gamme possèdent aujourd'hui une protection anti-corrosion électrique (la corrosion est un échange d'ions, il suffit de le contrer), sans entretien.
+
+En fin de vie de la cuve du chauffe-eau, il peut se produire des fuites, généralement proches des soudures et des angles de la cuve, parce que la protection anti-corrosion est partie plus facilement à cet endroit : des dilatations apparaissent en ces endroits. L'eau va alors s'infiltrer dans l'isolant (ce qui va alourdir énormément le poids du chauffe-eau) et suintera à l'extérieur avec une belle couleur rouille. 
+
+Des aimants à fixer sur les canalisation en amont du chauffe-eau dépolarisent les ions calcaires, et sont supposés diminuer leur fixation sur l'élément chauffant (il n'existe pas d'étude sérieuse sur le sujet)
+
+====Détartrage====
+En cas d'eau très minéralisée, la résistance n'arrive plus à chauffer l'eau de la cuve, du fait que le ''calcaire'' s'est agglutiné autour d'elle. On change alors cette électrode en cuivre ou en inox lorsqu'on nettoie la cuve du chauffe-eau.
+On procède à la même manipulation avec un chauffe-eau stéatite, même si le besoin est moindre.
+
+Il est préférable d'avoir les pièces de rechange sous la main, sauf si vous pouvez vous passer d'eau chaude pendant quelques jours !
+Pour cela prendre toutes les références du chauffe-eau (étiquettes collées dessus) et aller au magasin où vous l'avez acheté (si vous avez de la chance, vous avez aussi le n° de téléphone du SAV et vous pouvez les appeler directement). Là il faut commander :
+* pour un chauffe-eau à résistance thermoplongée : un joint, une anode, voire une résistance,
+* pour un chauffe-eau à résistance stéatite : un joint, une anode (pas besoin de résistance, sauf si vous la cassez en la démontant !).
+
+Manipulez l'anode avec soin, car elle est fragile et risque de casser.
+
+Pour cela on vide totalement la cuve (nécessite une heure ou deux pour un chauffe-eau de 200 litres) par l'intermédiaire du groupe de sécurité, on démonte ensuite une partie de la paroi (sur laquelle est fixée la résistance et l'anode ou le tube stéatite et l'anode) maintenue par 5 à 8 écrous. On prend garde au joint pour ne pas l'abîmer et espérer éventuellement le réutiliser. On enlève les sédiments calcaires de la cuve à la main (il faut avoir une main pas trop grosse) : ils se présentent sous forme de "copeaux" de calcaire, donc s'évacuent assez facilement. Mais il y en a aussi sur la résistance (ou le tube stéatite) et l'anode. On peut procéder à leur remplacement, et gratter le calcaire sur le tube stéatite. On peut maintenant remonter le tout, en serrant modérément et en suivant un ordre de serrage alternatif des boulons par rapport au centre (par exemple en deux triangles pour du 6 écrous), surtout si le joint a été remplacé : il vaut mieux resserrer en cas de suintement que d'écraser le joint qui fuira alors sous peu. Prévoir dans tous les cas seaux et serpillières : ça mouille !
+
+===Résistance===
+Deux types de systèmes existent :
+* à résistance immergée : la résistance est au contact de l'[[eau]], et donc du calcaire,
+* à résistance stéatite : la résistance est dans un tube en métal, elle n'est donc pas en contact avec l'eau, dans ce système c'est le tube en métal qui voit le calcaire se former sur lui, la résistance reste intacte.
+
+La température à laquelle on règle le chauffe-eau va influer sur la quantité de calcaire qui va s'y déposer : généralement une température plus élevée favorise le dépôt de calcaire. Attention toutefois à ne pas régler la température trop basse, ceci pourrait permettre le développement de bactéries (Légionelles - maladie du légionnaire). Veiller à avoir des températures de plus de 65 degrés en tous cas. <ref>http://aqualyse.info/legionelles.htm</ref>
+
+===Groupe de sécurité===
+Le groupe de sécurité est le mécanisme qui reçoit l'arrivée d'eau (froide) et qui comporte une soupape de sécurité pour évacuer l'eau lors de la surpression provoquée par la dilatation de l'eau chauffée.
+
+Il est équipé d'un robinet pour isoler l'arrivée d'eau, ainsi que d'un clapet pour permettre la vidange de la cuve.
+
+Il est conseillé d'actionner ce clapet assez régulièrement (toutes les deux semaines), pour vérifier que l'eau s'écoule facilement (donc éviter un risque de surpression). Il est normal qu'une fois le clapet refermé, l'eau s'écoule au goutte à goutte. Normalement au bout de plusieurs dizaines de minutes ça doit cesser (sauf si le chauffe-eau est en chauffe).
+
+Le groupe de sécurité, qui est obligatoire sous peine de voir son installation de plomberie exploser quelque part, doit être changé lorsqu'on remplace le chauffe-eau (coût minime par rapport au service rendu, en 2007 un groupe de sécurité standard vaut entre 10 et 40 € en magasin de bricolage).
+
+
+==Chauffe-eau à gaz==
+
+Voici les opérations d’entretien complet d’un chauffe-eau à gaz (avant toute opération, fermer les robinets de gaz et d’eau) :
+* Démonter l’injecteur de veilleuse et le déboucher en soufflant dedans.
+* Démonter la veilleuse et nettoyer son filtre et ses trous d’aspiration.
+* Remplacer le clapet et le joint de tête du robinet d’arrivée d’eau.
+* Nettoyer les ailettes du corps de chauffe avec une brosse métallique souple.
+* Démonter et nettoyer les becs du brûleur à l’eau sous pression.
+* Détartrer le corps de chauffe.
+
+
+==Chauffe-eau à fioul==
+{{...}}
+
+
+==Voir aussi==
+
+===Liens internes===
+* [[Chauffe-eau]]
+* [[Détartrant]]
+
+===Liens externes===
+* http://perso.wanadoo.fr/michel.flegon/bri/solair01.htm
+* http://www.hespul.org/ecs.html
+* http://amet.pierre.free.fr/
+
+===Bibliographie=== 
+    <references />
+
+[[Catégorie:Entretenir son habitat]]
+
+{{Portail Se loger}}
