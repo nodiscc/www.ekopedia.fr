@@ -1,0 +1,113 @@
+{{ébauche}}
+{{Vivre ensemble}}
+
+Cet article est un atelier destiné à ce que l'on explique comment peut se passer le management dans le logiciel libre. Par ''Management'' j'entends l'ensemble des actions stratégiques destinées à monter son entreprise et la faire vivre.
+
+
+==Philosophie du Libre==
+Le principe du logiciel libre peut s'étendre à toute recherche: "je fais de la recherche et je n'empêche pas les autres d'utiliser mes travaux".
+
+Faire du Libre, c'est dire "Pour travailler, j'ai besoin de telles avancées technologiques. Je profite des recherches faites par les autres, je fais moi aussi des recherches et les laisse accessibles aux autres".
+
+C'est à l'opposé du comportement "j'ai produit du travail intellectuel, je veux qu'on m'en remercie". Conserver des parties de logiciel en "propriétaire", c'est '''refuser que les autres m'apportent leurs améliorations, leur travail'''; mais c'est '''plus sécurisant''' car on est sûr d'être payé pour le travail que l'on fait.
+
+Produire de la technologie Libre pour une utilisation donnée (par exemple produire des documents dans mon entreprise), cela donne la possibilité à '''tout le monde de faire pareil''' (tout le monde pourra produire des documents dans son entreprise), et donc de me '''concurrencer'''. Dans beaucoup de cas, produire du Libre, c'est donc supposer que la Terre est assez grande pour que mes concurrents ne me fassent pas d'ombre. De toutes façons, j'ai un avantage (j'ai de l'avance) et si je suis dépassé par un concurrent, c'est que je faisais un moins bon usage des outils libres.
+
+Donc quelques principes:
+#S'enrichir du travail de la communauté.
+#Ne pas tirer parti de la création d'un "outil de production" (le logiciel informatique) mais des produits réalisés avec cet outil de production. Chacun, de son côté, tâche de tirer parti des réalisations de la communauté en vendant les produits "faits avec", et non en conservant le monopole sur "les outils de production".
+#Prendre le risque de se faire concurrencer en se disant que cette concurrence aurait aussi lieu dans le monde privé sous une autre forme.
+#Avouer que l'on ne peut pas, tout seul, développer l'outil génial dont on vient d'avoir l'idée, étant donné qu'il nécessite des traductions, des modifications culturelles et contextuelles, des améliorations... et donc accepter que les autres utilisent purement et simplement nos recherches, mais pour couvrir un champ d'application qu'on n'aurait, de toutes façons, pas eu le temps d'explorer...
+
+==Cœur de métier==
+Les entreprises spécialisées dans le logiciel libre peuvent cibler leurs avantages stratégiques sur:
+*Les ressources humaines: rassembler un ensemble de programmeurs qui maîtrisent le domaine de développement.
+*Un rôle décisionnel dans des projets libres: même si ce rôle peut être partagé avec des partenaires,
+un pouvoir de décision permet d'être assuré que l'on pourra se baser durablement sur ce projet.
+*Une bonne expertise due à la connaissance avancée des outils qui correspondent au besoin-métier.
+*Une politique de management qui apporte une légitimité auprès des autres participants au logiciel.
+
+Le cœur de métier d'une entreprise proposant du logiciel libre peut être:
+*Répondre aux besoins de ses clients en leur proposant des solutions logicielles.
+=> ici, vous avez besoin d'un capital logiciel sur lequel vous avez de bonnes connaissances et une
+capacité d'adaptation de ce capital-logiciel aux besoin de vos clients (càd une capacité de développement spécifique,
+tout simplement)
+*ou proposer du service après-vente aux clients du logiciel libre.
+=> ici, votre client s'est procuré tout seul votre logiciel, et ils vous demande de tout connaître
+sur celui-ci (et de répondre à leurs questions). Vous avez besoin de bonnes connaissances techniques
+sur un logiciel en particulier. Vous avez aussi besoin d'une légitimité par rapport à ce logiciel
+auprès du client: Dans la tête du client, qui mieux que Red Hat peut fournir du support sur Red Hat ???
+
+==Développements==
+Dans l'un ou l'autre des cœurs de métiers que vous avez choisis, vous aurez sans doute à mettre
+sur pied une équipe de développement. Cette équipe aura un rôle: construire votre outil de
+travail. C'est-à-dire que votre offre commerciale ne peut se justifier que s'il y a du
+logiciel libre que le client peut utiliser.
+
+===Politique de management===
+Dans votre entreprise, vous avez fait un choix entre deux positions (pas forcément antagonistes):
+*Profiter d'une communauté de développeurs bénévoles pour vous aider (et les aider) à développer un logiciel qui correspond aux besoins de tous.
+*Travailler sans l'objectif de concourir à cette communauté, mais avec celui de vous faire aider par d'autres entreprises qui ont le même besoin que vous.
+La méthode ne sera pas identique. Dans le premier cas, vous devez intéresser une communauté de bénévoles; dans le second vous partagez vos connaissances avec un partenaire commercial:
+
+===Communication en direction de la communauté===
+Rappelez-vous la première idée qu'on vous a sortie à propos du logiciel libre: est-ce que c'était "Ah oui, c'est enfin la fin du monopole des gros fabricants de logiciels" ?
+
+L'entrepreneuriat dans le logiciel libre surfe donc sur cette veine, et même si elle tend à disparaître des discours des gens qui sont salariés, c'est quand même souvent leurs convictions qui se trouvent là. Vous devrez donc, dans le but d'intéresser une communauté à votre développement, leur donner le change. Cela signifie:
+*Travailler contre les monopoles et dans le but d'une informatique libre.
+*Travailler contre les monopoles = montrer en quoi votre action dans le milieu de l'informatique favorise l'égalité des chances.
+*Informatique libre: souvent, c'est donner du pouvoir de décision à tout contributeur suivant le rapport entre la quantité de travail qu'il peut fournir dans le futur et sa capacité à faire un fork. La ''quantité de travail'' qu'il peut fournir peut être évaluée grâce à sa quantité de travail déjà investie par ce contributeur et à la connaissance du poids de ses besoins. Sa ''capacité à faire un fork'' est le ratio entre sa légitimité dans la communauté (donc le nombre de personnes qui le suivront s'il part) et la capacité de notre entreprise à justifier ses choix. Exemple: un contributeur qui a déjà investi cent heures de travail et qui a l'intention de monter son entreprise, c'est un contributeur crédible quand il dit "si vous ne mettez pas tel besoin au cœur du cahier des charges, moi, je me casse".
+
+===Le travail des ressources humaines===
+Du côté des ressources humaines, il y a un sacré travail... comme dans toute entreprise. En effet, les collaborateurs (salariés) doivent:
+*être '''attirés par le Libre'''.
+*avoir une '''légitimité''' dans le milieu, grâce à de nombreuses contributions par exemple.
+*être '''attirés par votre position'''.
+*être de '''bons négociateurs''' du milieu. Et sur ce point, je ne voudrais pas généraliser, mais je pense que peu de "diplômes de bon négociateur" existent pour le moment. En effet, il me semble très difficile de dire si un contributeur a été bon en persuasion au cours de projets libres sans l'avoir vu à l'œuvre. Or il faut avoir soi-même contribué à du libre pour savoir quelles sont les attitudes bonnes, mauvaises, constructives, destructives, etc. Et aujourd'hui, il est possible (là, par contre, j'invente) que les RH ne sachent pas juger ce genre de qualités par manque de points de repères. En gros, ''évitez de faire recruter des gens pour du Libre par des gens qui n'ont pas participé à du Libre''.
+
+Vous devrez, après les avoir recruté, cultiver vos points forts:
+*Cohésion de vos développeurs '''avec votre besoin'''.
+*'''Implication de vos développeurs''' dans le milieu (càd vous devrez leur laisser le temps de participer à des points qui ne sont pas directement vitaux à l'entreprise), de façon individuelle.
+*'''Pouvoir décisionnel''' possible pour votre entreprise. Ce pouvoir prend en compte les paramètres suivants déjà cités:
+**'''cohésion de la communauté''' avec votre projet (donc les sous-critères: 1.défense du Libre 2.adhésion de la société au projet de la communauté)
+**'''Absence d'éléments perturbateurs''' dans la communauté, solitaires ou en groupe. Ces personnes peuvent allonger les débats, dissiper les contributeurs, etc. Elles sont dans la plupart des cas constructives, mais peuvent aussi se révéler contre-productives.
+**Capacité à '''gérer la légitimité de la décision''' dans le projet. Il n'est pas obligatoire de choisir la démocratie comme mode de décision dans un projet; on peut choisir l'autocratie à condition que le grand chef réussisse à convaincre qu'il a toujours raison et qu'on fait bien de le suivre.
+**L' '''inertie de la communauté''' à faire un fork, favorisée par:
+***Disposer à l'entreprise du référentiel de codes sources.
+***'''Disposer auprès du client d'une légitimité supérieure''' à tous les contributeurs.
+*et enfin, dernier point fort à cultiver, votre '''connaissance des développements''' qui ont été effectués dans le milieu, car c'est ainsi que vous pourrez le mieux proposer des solutions auprès de votre client.
+
+
+==Talons d'Achille d'une entreprise qui travaille dans le logiciel libre==
+Pour plus d'information sur une méthode de qualification du logiciel libre: http://qsos.org
+===Fork===
+ Le "fork" est le point fatal où une partie de la communauté part fonder son projet ailleurs avec le code source.
+ Il est fatal au sens où le pouvoir de décision change de main. C'est un droit vital, par essence du logiciel libre.
+ Alors vous aurez toujours le droit de développer votre logiciel, mais si vous faites "bande à part", vous prenez
+ le risque d'avoir un sérieux concurrent.
+ Cela nécessite quand même à une équipe de s'être fondée, organisée pour prendre la main et qu'elle ait établi
+ de nouveaux processus de prise de décision, ce qui est quand même assez lourd à monter.
+Donc l'un des talons d'Achille est qu'un projet "nous" échappe, càd qu'il évolue sans répondre à nos besoins.
+
+===Publication de la logique métier===
+En diffusant votre code, vous diffusez aussi la ''logique métier'' qui vous donnait un avantage concurrentiel.
+
+''Exemple: dans certaines entreprises la façon dont est traité le client (accueil par téléphone, façon dont le système trie les informations à donner à l'agent d'accueil suivant son poste - commercial, secrétaire, directeur, etc) peut être votre première force. Dans ce cas,  on considère que le "logiciel" fait partie du cœur de métier de votre entreprise, même si son travail est tout autre (vendre du béton par exemple). Si, au contraire, vous utilisez des progiciels (càd des logiciels qui n'ont pas été développés spécifiquement pour vous), alors votre département informatique n'a rien à faire ''dans'' votre entreprise, et vous pouvez l'externaliser sans perte de qualité ;-).''
+
+Cette publication peut se freiner par le paramétrage: ainsi la logique métier par dans le paramétrage qui est propre à chaque entreprise, et c'est ce paramétrage qui constitue votre véritable capital, celui que vous vendez à vos clients...
+
+Sur ce point, consultez les blogs:
+*http://blog1.lemondeinformatique.fr/ingenierie_logicielle/2006/01/open_source_et__4.html
+*http://blog1.lemondeinformatique.fr/ingenierie_logicielle/2006/01/open_source_et__4.html
+
+===Apparition d'un concurrent===
+Qui dit libre, dit concurrent soudain ? Peut-être. A vous de vous arranger pour disposer d'un capital stratégique unique: que ce soit le paramétrage, le pouvoir de décision dans un projet, votre connaissance pointue du projet, il est certain que c'est ce capital que vous vendez et non le logiciel en tant que tel...
+
+==Liens==
+
+* [http://www.net-libre.info Net Libre] : Présentations de logiciels, musique, vidéos libres
+
+
+[[Catégorie:Travailler]]
+
+{{Portail Vivre ensemble}}
