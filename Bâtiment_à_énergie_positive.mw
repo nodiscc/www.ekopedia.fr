@@ -1,0 +1,110 @@
+{{Ébauche}}
+
+==Introduction==
+Un bâtiment à énergie positive est un bâtiment qui globalement produit plus d'énergie qu'il n'en consomme. Il convient de travailler sur deux axes à la fois pour arriver à un tel résultat : d'abord, cela passe par la réduction des besoins énergétiques afin d'obtenir un bâtiment à basse consommation, ensuite on répond à ces besoins par des énergies renouvelables.
+
+== Principe==
+Voici quelques conseils pour y arriver :
+
+*Jouer sur l'isolation.
+Il convient tout d'abord de réduire les pertes par les parois. On doit assurer une bonne isolation, c'est à dire augmenter l'épaisseur et la qualité des isolants. On peut ainsi utiliser de la laine de verre ou la laine de roche qui présentent des conductivités thermiques très faibles (de l'ordre de 0.04W/m².K):
+De nombreux matériaux d'isolation plus (?) écologiques (chanvre, laine de bois, liège etc...)sont aussi performants et permettent de valoriser les déchets de l'agriculture et de la sylviculture, leur impact sur le réchauffement climatique étant bien plus raisonnable il convient aussi de prendre en compte cet aspect des choses.
+<center>[[Image:Isover010-1-.jpg]]</center>
+''Généraliser la conductivité thermique de la laine de verre à 0.04W/(m.K) est très réducteur car il s'agit du lambda de la laine de verre la plus classique. Les lambdas de la laine de verre varient de 0.03 W/(m.K) pour la plus performante à 0.04 W/(m.K) pour la plus classique. Il est donc inexact de dire que les matériaux dits "écologiques" sont aussi performants !''
+
+*Réduire les ponts thermiques:
+
+Les ponts thermiques sont des ruptures dans l'isolation d'un bâtiment. Un moyen efficace de les supprimer, ou du moins de les réduire est " l'isolation par l'extérieur " (voir schéma si dessous). Cette méthode est peu utilisée en France mais bien connue dans d'autres pays notamment en Allemagne.
+
+<center>[[Image:Ponts.gif]]</center>
+
+
+Il existe aussi des rupteurs de ponts thermiques qui sont des pièces isolantes (généralement en polystyrène) qui viennent s'intercaler au moment de la construction entre le mur et les planchers par exemple.
+
+<center>[[Image:Ponts tehrmiques.gif]]</center>
+
+*Construire compact
+
+Plus un bâtiment est compact, plus il est performant. On mesure la compacité avec le rapport surface déperditive (mur, toit, etc.) sur volume à chauffer : ratio S/V. Plus ce rapport est grand, plus il y a de surfaces déperditives, et plus il y a de pertes par les parois. La forme optimale est la sphère : c'est le volume géométrique qui a le rapport S/V le plus petit. Ainsi plus le bâtiment ressemble à une sphère, moins il y a de pertes. C'est pourquoi à volume égal : un immeuble consomme moins que plein de petites maisons individuelles. Le graphique ci-dessous illustre la compacité de géométries types. Pour un bâtiment de 1000 m², il convient de ne pas dépasser un ratio S/V de 0,65 (soit +12% par rapport à une sphère).
+<center>[[Image:31.gif]]</center>
+
+ 
+*Réduire les déperditions par les vitrages
+
+Les fenêtres constituent un véritable gouffre énergétique en hiver malgré le fait qu'elles sont nécessaires dans un bâtiment, pour le confort, pour bénéficier des apports solaires,etc. La résistance thermique d'une fenêtre est en effet 10 fois plus faible que celle d'un mur. Plusieurs conseils pour réduire les pertes par les fenêtres :
+
+# Privilégier les ouvertures sur les façades orientées sud.
+# Éviter les menuiseries métalliques : le métal est conducteur. Privilégiez le bois ou les composites bois-lièges, etc.
+''Il existe aujourd'hui des menuiseries métal à rupture thermique pour palier cet inconvénient et donc éviter les déperditions!''
+
+# Maximiser l'épaisseur de la lame d'air : le double vitrage est constitué de 2 vitres de verre (de 4mm chacun par ex.) entre lesquels est enfermée une lame d'air (de 16 mm par ex.). C'est la lame d'air qui rend ce type de vitrage plus isolant que le simple vitrage. C'est pourquoi le triple vitrage (3 vitres, 2 lames d'air) est encore plus isolant.On peut aussi changer le gaz entre les vitres : l'argon, le krypton sont moins conducteurs que l'air, le vide est un excellent isolant.
+''Attention, le triple vitrage réduit considérablement la luminosité dans les pièces obligeant bien plus souvent le recours à la lumière artificielle ! A utiliser intelligemment donc pour éviter une surconsommation électrique inutile ; mieux vaut opter pour du double vitrage type VIR (vitrage à isolation renforcée) dans les pièces de vie, situées au sud de préférence (implantation bio-climatique de l'habitat !''
+
+# Utiliser des vitrages peu émissifs : les vitres peu émissives sont revêtues de couches ultra minces (comme sur les verres anti-reflets !) dont l'épaisseur est astucieusement calculée pour arrêter les infrarouges. Or les infrarouges, c'est la chaleur. Les couches sont totalement invisibles à l'œil nu. Optez toujours pour ce genre de vitrage.
+# Utiliser de bonnes fermetures nocturnes : la nuit, il fait toujours plus froid et on a pas besoin de regarder par la fenêtre... Fermez donc les volets pour augmenter la résistance thermique des ouvertures et limiter ainsi les pertes.
+<br />
+
+*Modifier la température interne et externe des parois:
+La loi interdit de chauffer à plus de 19°C
+ 
+''Quel texte législatif ? merci de citer vos sources !'',
+
+car si la température intérieure augmente, les déperditions aussi. On consomme 15% d'énergie en plus pour chaque degré supplémentaire.
+
+''là encore pouvez-vous citer vos sources ?''
+
+Il convient également d'utiliser des "espaces tampons", ce sont des locaux non-chauffés en contact d'un côté avec l'extérieur et de l'autre avec le logement, ce que l'on appelle un "local non chauffé". Par exemple : vérandas, celliers, ... La température de ce local sera plus élevé que celle de l'extérieur donc finalement moins de pertes. 
+
+On peut également enterrer le bâtiment.Par exemple, toute la façade nord où nous n'aurions pas mis d'ouvertures pourra être enterrée car la température du sol à quelques mètres sous-terre est constante toute l'année et égale à 12°C environ en France : en hiver moins de pertes, en été plus de fraicheur.
+
+''Il est nécessaire de descendre à 2m sous terre pour avoir une température constante de 12°C environ, pensez-vous que cette solution soit réellement à préconiser ?''
+
+
+*Se protéger des vents:
+
+# Jouer sur la forme des bâtiments en minimisant les surfaces au vent dominant en inclinant par exemple le toit de leur côté.
+# Placer les entrées et ouvertures sur les surfaces protégées du vent.
+# Éviter les ouvertures sur chaque côté du bâtiment pour réduire les courants d'air (Les courants d'air sont peut-être favorables pour le rafraichissement en été mais ils sont défavorables en hiver)
+# Utiliser des sas.
+
+
+<center>[[Image:38.gif]]</center>
+
+*Utiliser des systèmes de ventilation adaptés
+
+En France, on utilise communément la [[VMC]] (Ventilation Mécanique Contrôlée). Ce système de ventilation extrait l'air du logement. L'air neuf arrive par les petites bouches d'aération placées sur les fenêtres : c'est de l'air froid qui rentre. La solution internationalement adoptée pour résoudre les problèmes de ventilation est la ventilation double flux. 
+"internationalement, vraiment ? d'où tenez vous ces informations ? merci de citer vos sources"
+Par rapport à la VMC, on double le nombre de conduits d'air : un pour l'extrait et un pour l'air neuf ce qui permet de supprimer les bouches d'aération sur les fenêtres. De plus, un échangeur (voir [[Échangeur de chaleur]])  permet de faire passer la chaleur de l'air extrait sur l'air neuf, on économise ainsi de l'énergie. Il est également possible de combiner le double flux avec le préchauffage de l'air neuf dans une véranda ou dans un puits provençal.
+
+<center>[[Image:45.gif]]</center>
+
+*Utiliser un [[puits canadien]].
+*Pour produire de l'énergie, on peut utiliser des [[Cellule photovoltaïque|panneaux solaires]], avoir recours à l'[[énergie éolienne]].
+
+== Coût ==
+Il existe un surcoût initial d'au moins 10 % par rapport à une construction traditionnelle '''''réf. nécessaire''''' ; ce surcoût est d'autant plus élevé qu'on visera une production excédentaire importante (surtout si elle est totalement photovoltaïque). Aux conditions actuelle de rachat de l'électricité en Europe de l'ouest, l'investisseur est supposé pouvoir rentrer dans ses frais en 10 à 20 ans grâce aux économies d'énergie réalisées et à la vente de l'énergie excédentaire
+
+== Enjeux==
+Le secteur du bâtiment est pour l'Union européenne le premier consommateur d'énergie primaire (40% de l'énergie totale consommée) devant les transports (30%) et l'industrie (30%). Il est responsable de plus de 40% des émissions totales de {{CO2}}. Les économies d'énergie sont un enjeu économique et écologique majeur pour ce secteur. Selon l'ADEME, en France et pour chaque ménage, atteindre le "Facteur 4" représente un « montant d'investissement compris entre 15 000 et 30 000 euros à réaliser avant 2050 » 5. Des solutions du type bâtiment à énergie positive permettent d'espérer pouvoir doublement rentabiliser ce type d'investissement.
+
+Une Directive européenne sur la performance énergétique des bâtiments vise à réduire leur consommation énergétique de 22% d'ici 2010. Les gisements d'économie sont importants mais moindres dans le bâtiment ancien. Un bâtiment neuf à énergie positive peut compenser les pertes de quelques bâtiments anciens périphériques moins bien isolés et moins performants.
+
+== Un exemple en France==
+Fin du mythe place a la réalité! Un bâtiment à énergie positive a été construit à Toulouse<ref>http://www.cstb.fr/fileadmin/documents/webzines/energie-positive/pdf/batiment-energie-positive.pdf</ref>.
+
+== Voir aussi ==
+=== Références ===
+<References />
+=== Liens internes ===
+{{...}}
+
+=== Liens externes ===
+* http://www.energiepositive.info/fr/reduire-besoin/reduire-ponts-thermiques.html
+* http://www.energiepositive.info/fr/reduire-besoin/construire-compact.html
+* http://www.energiepositive.info/fr/reduire-besoin/proteger-vents.html
+* http://www.energiepositive.info/fr/reduire-besoin/systemes-ventilation-ada.html
+* http://www.cstb.fr/actualites/webzine/editions/decembre-2006/batiments-a-energie-positive-premieres-realisations.html
+* http://fr.wikipedia.org/wiki/Batiment_a_energie_positive
+
+{{DEFAULTSORT:Batiment a energie positive}}
+[[Catégorie:Construction écologique]]
