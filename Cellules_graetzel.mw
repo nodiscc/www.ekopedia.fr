@@ -1,0 +1,104 @@
+{{Vivre ensemble}}
+Les cellules de Graetzel (nom de l'inventeur, professeur à l'École polytechnique fédérale de Lausanne) sont des cellules solaires nano-cristallines à colorant. La résistance à la chaleur en était le point faible mais fait l'objet de recherches intensives.
+
+== Introduction ==
+La découverte de l'effet [[Solaire à concentration photovoltaïque|photovoltaïque]] remonte à l'année 1839 quand le physicien français Edmond Becquerel observa le changement de la tension d'une électrode en platine sous l'effet de l'illumination avec la lumière, Einstein en expliqua le mécanisme en 1912, mais cela resta une curiosité scientifique de laboratoire. La génération d'une petite quantité d'électricité par l'illumination de certains solides tels que le sélénium fut étudiée par Heinrich Hertz dès les années 1870. Avec des rendements de l'ordre de 1%, le sélénium fut rapidement adopté par des photographes comme luxmètre. 
+De rapides progrès furent obtenus dès les années 1950 par les équipes des Bell Laboratories aux Etats-Unis qui fabriquèrent la première cellule au silicium cristallin d'un rendement de 4% à partir du procédé de tirage de Czochralski. Ce furent en fait les programmes spatiaux qui donnèrent à cette technologie ses premières applications pratiques. En 1958 le satellite artificiel américain Vanguard emporta un petit générateur solaire pour alimenter sa radio. Jusqu'au milieu des années 70, les photopiles étaient vraiment trop chères pour être économiquement utilisées sur terre. Ce n'est que depuis le deuxième choc pétrolier qu'un intérêt véritable s'est rapidement propagé à travers le monde pour les applications énergétiques terrestres des photopiles.
+
+== Présentation du problème ==
+Les piles solaires existantes sont à base de silicium, impliquant un coût de fabrication nécessairement élevé.
+
+En effet, les piles solaires traditionnelles convertissent la lumière en électricité en exploitant l'effet photovoltaïque qui apparaît à la jonction de semi-conducteurs.
+
+Ce sont donc des dispositifs proches des transistors ou des circuits intégrés.
+Le semi-conducteur remplit simultanément les fonctions d'absorption de la lumière et de séparation des charges électriques résultantes. Pour que ces deux processus soient efficaces, les cellules doivent être constituées de matériaux de haute pureté.
+
+Leur fabrication est par conséquent onéreuse, ce qui limite leur emploi pour la production d'électricité à grande échelle. Les piles que nous allons étudier fonctionnent selon un autre principe, qui différencie les fonctions d'absorption de la lumière et de séparation des charges électriques.
+Elles offrent, par leur simplicité de fabrication, l'espoir d'une réduction significative du prix de l'électricité solaire.
+
+=== Principe de fonctionnement ===
+Comme dans le cas de la photosynthèse naturelle, l'absorption d'énergie solaire met en route une pompe à électrons mue par l'énergie lumineuse absorbée, dont le principe est illustré dans la figure ci-dessous.
+
+{{Image|Nanocristalline-1-.jpg|Schéma énergétique de la cellule solaire nanocristalline à colorant.|l=800|h=600}}
+
+Le sensibilisateur (S) est greffé à la surface d'un oxyde semi-conducteur sous la forme d'une couche monomoléculaire. Il absorbe les rayons solaires incidents qui le promeuvent dans un état électroniquement excité S*, d'où il est à même d'injecter un électron dans la bande de conduction du dioxyde de titane.
+
+Les électrons ainsi injectés traversent la couche et sont ensuite recueillis par un collecteur de courant qui permet de les diriger vers un circuit externe où leur passage produit de l'énergie électrique.
+
+Le retour de l'électron dans la bande de conduction sur le colorant oxydé S+ est beaucoup plus lent que la réduction de S+ par le médiateur (D) en solution. De ce fait la séparation de charge est efficace.
+
+Le médiateur oxydé (D+) est réduit à la contre-électrode.
+
+La tension maximale débitée correspond à la différence entre le potentiel d'oxydoréduction du médiateur et le niveau de Fermi du semi-conducteur.
+La charge positive est transférée du colorant (S+) à un médiateur (iodure) présent dans la solution qui baigne dans la cellule (interception). Ce médiateur, alors oxydé en tri-iodure, diffusé à travers la solution. Ainsi, le cycle des réactions redox est bouclé par transformation de l'énergie solaire absorbée en un courant électrique, sans changement de la composition de quelque partie du système que ce soit.
+
+=== Schéma explicatif ===
+Une cellule où la génération des porteurs et leur séparation sont assurées par deux matériaux différents, le générateur de charge est un colorant absorbant qui est déposé sur un semi-conducteur à gap optimal ou proche de l'optimal. La structure présentée utilise les composants suivants :
+# sur un substrat de verre, on dépose tout d'abord une couche métallique transparente, l'électrode négative.
+# ensuite un semi-conducteur, le TiO2 (dioxyde de titane) qui établit un bon contact ohmique avec l'électrode.
+# sur le TiO2 on ajoute un colorant à molécules complexes (l'absorbeur) dont la structure est proche de la chlorophylle.
+
+
+{{Image|Coupe_de_cellule.jpg|schéma de coupe de la cellule.|600px}}
+
+Les photons vont libérer des porteurs dans le colorant qui va injecter des électrons dans le semi-conducteur de type n où ils ne pourront pas se recombiner.
+
+Ce dopage n permet d'éviter d'utiliser un composant ultra pur et abaisse le coût du composant.
+On ajoute sur le colorant un électrolyte en parfait contact, ce qui permet aux trous restants dans le colorant d'être absorbés par l'électrolyte par réaction d'oxydoréduction, l'électrolyte fournissant les électrons.
+L'électrolyte est également en contact avec une électrode positive déposée sur une deuxième plaque de verre et lorsque l'on ferme le circuit entre les deux électrodes, le courant peut s'établir, les 2lectrons provenant du semi-conducteur passant dans l'électrolyte en une réaction de réduction et le régénérant.
+
+
+L'astuce principale de la cellule présentée provient de la texture du semi-conducteur: avec une surface plane, ce procédé pourrait au mieux récupérer environ 1% d'énergie solaire; dans la cellule réalisée, le TiO2 a une extrême rugosité qui permet de multiplier la surface en contact avec le colorant et l'électrolyte par 800 environ.
+
+
+== Le rendement et la stabilité des nouvelles cellules solaires ==
+A ce stade il est possible d'obtenir un rendement global en plein soleil entre 10 et 11%, rendement confirmé par des mesures au laboratoire de contrôle et de calibrage des cellules solaire (NREL) aux USA. A la lumière diffuse l'efficacité augmente à 15% environ. Une cellule solaire doit être capable de produire de l'électricité pendant vingt ans au moins sans baisse de rendement significative.
+
+Le TiO2 a un gap de 1.63 eV, proche de l'optimal, et permet d'atteindre plus de 0.7 V de tension ouverte. Les résultats présentés sont de 10% de rendement.
+
+Un autre aspect de ce composant provenant de la très grande surface développée est sa rétention de charge : la configuration actuelle stocke 1 coulomb par cm2; quand on coupe la lumière, le courant continue de passer pendant un bref laps de temps. Peut-être pourra-t-on exploiter cet effet pour fabriquer un véritable accumulateur solaire où l'énergie s'accumule à l'intérieur de la cellule ?
+
+
+
+== Points importants à retenir ==
+=== Avantages ===
+* Contrairement aux panneaux à silicium, dont l'efficacité diminue lorsque la température augmente fortement, l'efficacité des cellules est indépendante de la température.
+* Par ailleurs, en choisissant les différents composants, il est possible de créer des cellules transparentes, qui ouvrent de nombreuses possibilités.
+:* Possibilité d'utilisation bifacial.
+: L'énergie solaire peut être captée par les deux faces, donc il est possible d'utiliser ces cellules dans un environnement de faible luminosité ou de luminosité diffuse.
+:* Insertion dans des élément architecturaux.
+:En raison de leur transparence et de leur efficacité en faible luminosité, ces cellules pourront être insérées dans des menuiseries (fenêtres, portes, lumière zénithale, …), ou sur des éléments (toitures, bardages, parois, …) .Par ailleurs, en choisissant la couleur du colorant, il est possible de modifier les coloris des cellules.
+:* Utilisation de multicouches.
+:Plusieurs couches transparentes peuvent être superposées, ce qui augmentera l'efficacité des cellules. Un panneau ainsi constitué atteindra une efficacité de 20 à 30 %.
+* D'un faible encombrement, un panneau de cellule peut être miniaturisée. Ainsi, certaines cellules expérimentales sont composées de trois couches de 0,4 mm d'épaisseur.
+* Coût plus faible que les cellules au silicium.
+
+=== Inconvénients === 
+* Ces cellules ne sont apparues sur le marché que récemment. 
+* Instabilité dans le temps: une cellule solaire doit être capable de produire de l'électricité pendant vingt ans au moins sans baisse de rendement significative. Les cellules de Graetzel présentent certains inconvénients qui limitent leur durée de vie.
+* L'électrolyte actuellement utilisé majoritairement est instable. Les solvants le composant sont volatils et présentent un risque d'évaporation et même d'explosion de la cellule. Les sels d'iodure offrent un risque de corrosion de la cellule, entraînant ainsi des fuites de produits dangereux.
+
+
+=== Améliorations possibles ===
+Les cellules sont actuellement limitées par les caractéristiques des matériaux utilisés. Elles offrent de nombreuses possibilités, de rendement, d'utilisation et de miniaturisation.
+
+Les cellules de Graetzel ne sont actuellement qu'au stade expérimental. Les recherches actuelles visent à améliorer l'électrolyte, en synthétisant un liquide dit "ionique", possédant des propriétés conductrices, une tension de vapeur quasi nulle afin d'éviter les risques d'explosions, et des propriétés RedOx. De plus, des caractéristiques de viscosité, faible de préférence, et de transparence peuvent influer sur l'utilisation préférentiel de certains électrolytes.
+
+
+== Voir aussi ==
+=== Liens internes ===
+* [[Énergie solaire]]
+* [[Énergie renouvelable]]
+* [[Solaire à concentration photovoltaïque]]
+* [[Photovoltaïque]]
+* [[Cellules photovoltaïques de silicium amorphe]]
+
+=== Liens externes ===
+* Informations extraites de la thèse de [http://library.epfl.ch/theses/?nr=2955&lang=fre/ Mr Hervé NUSBAUMER]
+* Visitez aussi le site du [http://solar-club.web.cern.ch/ CERN]
+* Site de matériel de panneaux flexibles [http://www.nouveauxobjets.com/powerflex.php/ POWERFLEX]
+* Les prix indicatifs de l'étude de coût se retrouvent sur le site de l'entreprise [http://www.solaronix.com/ SOLARONIX]
+* [http://fr.wikipedia.org/wiki/Michael_Gr%C3%A4tzel/ Professeur GRAETZEL]
+
+{{Portail Énergie}}
+[[Catégorie:Énergie solaire]]
