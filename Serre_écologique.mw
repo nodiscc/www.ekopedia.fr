@@ -1,0 +1,158 @@
+[[Catégorie:Énergies renouvelables]]
+{{Se loger}}
+{{Vivre ensemble}} 
+{{S'alimenter}} 
+
+== Description ==
+
+*Les serres sont utilisées traditionnellement par les agriculteurs du monde entier pour optimiser leurs cultures. Le principe général est de piéger la chaleur les rayons solaires, ce qui entraîne une augmentation de la température à l'intérieur de l'enceinte, c'est [[Effet_de_serre|l'effet de serre]].
+*Mais pour maintenir une température à peu près constante durant l'hiver et la nuit, les agriculteurs ont souvent recours à un système de chauffage au gaz. Dans le contexte énergétique actuel, les [http://fr.wikipedia.org/wiki/Energie_fossile énergies fossiles] sont de plus en plus rares et donc chères. Aux Pays-Bas, où le chauffage des serres représente 10% de la consommation nationale de gaz naturel, des chercheurs ont réfléchi à une solution alternative pour le chauffage des serres.
+*L' idée était de développer un système permettant de s'affranchir de l'utilisation du gaz et qui plus est, de transformer les serres en sources d'[[Énergie renouvelable|énergie renouvelables]], utilisables par les habitations à proximité. De leur travail est né le concept de serre écologique avec un projet concret : la Cité serre <ref>http://www.eseta.fr/index_fichiers/citeserre.htm</ref>.
+*Ce projet est basé sur une serre fermée qui capte l'excès de chaleur du Soleil pendant l'été et le stocke dans un réservoir [http://fr.wikipedia.org/wiki/Aquif%C3%A8re aquifère] <ref>Nécessité d'être sur un site disposant d'un aquifère, sinon voir le système de [[#Serre semi fermée sans aquifère|Serre semi fermée sans aquifère]]</ref>. Cette chaleur est ensuite réutilisée pour chauffer la serre la nuit et en hiver, mais également pour chauffer les habitations environnantes.<ref>En effet, une serre écologique de 2 ha permet alors de chauffer 200 habitations à basse consommation d'énergie.</ref>
+
+
+
+== Principe de fonctionnement ==
+
+=== Schéma global de l'installation ===
+
+*Les différents systèmes sont étroitement connectés, le système de nutrition des plantes est une section du cycle de l'eau, lui même connecté avec le système de chauffage de la serre, ce qui forme les bases du schéma de la Cité Serre :
+
+[[Image:Serre.jpg|Schéma global de la serre écologique]]
+
+
+
+=== Chauffage ===
+
+[[Image:Fonctionnement de l'installation.jpg|500px|thumb|Le système de chauffage et de refroidissement]]
+
+*La serre est volontairement fermée et il n'y a pas de ventilation pour évacuer l'excès de chaleur dans l'air. Dans les périodes chaudes, le soleil chauffe la serre et la chaleur de l'air est transmise à un circuit d'eau via des [http://fr.wikipedia.org/wiki/%C3%89changeur_de_chaleur échangeurs] eau/air disposés aux pieds des plantes.
+*L'eau chauffée grâce aux échangeurs est ensuite envoyée dans un réservoir [http://fr.wikipedia.org/wiki/Aquif%C3%A8re aquifère] situé sous la serre, entre 25 et 100m de profondeur. 
+*Un gradient de température (8 à 25°C) s'établit naturellement dans l'aquifère (stratification naturelle due à la variation de masse volumique de l'eau) qui sert donc de réservoir pour stocker la chaleur.
+
+*Il est également possible de refroidir la serre pendant les chaudes journées d'été, en pompant  l'eau froide à 8°C dans le fond de l'aquifère puis en l'envoyant dans un autre échangeur eau/air permettant ainsi le refroidissement de l'air de la serre dont la température intérieure ne doit pas dépasser 30 °C.
+*Dans les périodes plus froides, en hiver ou pendant la nuit, l'eau chaude à 25°C est pompée et envoyée dans les échangeurs pour réchauffer la serre et chauffer les habitations via un plancher chauffant. 
+*Dans l'aquifère, il est nécessaire de conserver un équilibre thermique sur une base de temps annuelle. En été, la température dans l'aquifère ne doit pas dépasser 25°C (lois néerlandaises) pour éviter un lent réchauffement du sol. Pour se faire, il est nécessaire d'utiliser une [http://fr.wikipedia.org/wiki/Tour_de_refroidissement tour de refroidissement] fonctionnant grâce à un échangeur air/eau (un appoint en eau est nécessaire car l'air s'humidifie en montant).
+
+*Les échangeurs de chaleur eau/air utilisés sont basés sur une technologie qui permet d'obtenir une grande efficacité d'échange, et ce même à basse température. Ils sont composés d'un réseau de tubes en cuivre de diamètre 0.1mm, qui permet d'obtenir un très bon [http://fr.wikipedia.org/wiki/Coefficient_d%27%C3%A9change_thermique coefficient d'échange thermique surfacique] (jusqu'à 300 W/m²). Grâce à une capacité de traitement de 4000 m3/h, il est possible de chauffer ou refroidir rapidement de grands volumes. De plus, le faible pincement des échangeurs (différence de température entre l’air entrant et l’eau sortante inférieur à 5°C) permet de récupérer de la chaleur à basse température en consommant peu d'énergie. 
+*De tels échangeurs sont également utilisés pour le système de [http://fr.wikipedia.org/wiki/Climatisation conditionnement d'air] dans les habitations reliées à la serre : un système [http://fr.wikipedia.org/wiki/Ventilation_m%C3%A9canique_contr%C3%B4l%C3%A9e VMC double flux] « classique » (soufflage et extraction mécanique) couplés à deux de ces échangeurs. Les calories de l’air sortant sont captées par l’eau qui est immédiatement réintroduite dans l’autre échangeur relié à l’air entrant. L’air entrant est donc réchauffé avant son introduction dans le bâtiment.
+
+
+
+=== Cycle de l'eau ===
+
+[[Image:Eaux usees 2.jpg|600px|Le circuit des eaux usées]]
+
+*Les [http://fr.wikipedia.org/wiki/Effluent eaux usées] des logements raccordés à la serre sont récupérées pour être retraitées, on distingue :
+**Les eaux grises : douches, cuisine
+**Les eaux noires : toilettes
+ 
+*Pour réduire la production d'eau noire, des toilettes sèches sont utilisées dans les logements (chasse d'eau de 1L contre 10L pour des toilettes classiques).
+*L'eau noire récoltée est acheminée jusqu'à un [http://fr.wikipedia.org/wiki/Digesteur digesteur] anaérobique qui permet de traiter l'eau et de produire du [http://fr.wikipedia.org/wiki/Biogaz biogaz] <ref>Composition : 65% CH4 + 35% CO2 + traces H2, N2, H2S, [http://fr.wikipedia.org/wiki/Pouvoir_calorifique PCI] = 20-25 MJ/m3 (soit 60% de celui du gaz naturel : 35-40 MJ/m3).</ref>.<br />Une partie de l'eau grise est également introduite dans ce digesteur.
+*La majeure partie de l'eau grise est quant à elle traitée par [http://fr.wikipedia.org/wiki/A%C3%A9robie aérobiose] dans un bioréacteur. Le traitement a pour but de : 
+*#Baisser la [http://fr.wikipedia.org/wiki/Demande_chimique_en_oxyg%C3%A8ne DCO]
+*#Réaliser la [http://fr.wikipedia.org/wiki/Nitrification nitrification]
+*#Réaliser la [http://fr.wikipedia.org/wiki/Denitrification dénitrification] partielle 
+
+*A la sortie du bioréacteur, on obtient une eau contenant un taux de nitrate idéal pour le développement des plantes,<br />qui sera utilisée pour [http://fr.wikipedia.org/wiki/Irrigation l'irrigation] de la serre (on apporte au besoin de [[Récupération de l'eau de pluie|l'eau de pluie récupérée]]).
+
+[[Image:Le cycle de l'eau.jpg|650px|Le circuit de l'eau potable]]
+
+*Les plantes vont quant à elles prélever les nutriments et transpirer l'eau résiduelle : c'est [http://fr.wikipedia.org/wiki/%C3%89vapotranspiration l'évapotranspiration]. Cette vapeur d'eau est récupérée par condensation sur les parois de la serre. Un traitement à base de [http://fr.wikipedia.org/wiki/Charbon_actif charbon actif] et un apport de [http://fr.wikipedia.org/wiki/Caco3 CaCO3] (fournit ions Calcium et Carbonates) permettent la potabilisation de cette eau qui sera ensuite renvoyée vers les logements et consommée par les habitants. Un système de contrôle de la qualité de l'eau sera également mis en place.  En fonction des besoins, un apport d'eau potable s'avère éventuellement nécessaire.
+
+
+
+=== Cycle du carbone ===
+
+[[Image:Le cycle du carbone.jpg|500px|thumb|Le cycle du carbone]]
+
+*La [[biomasse]] (cela comprend les déchets végétaux, les déchets biodégradables des habitants et l’eau noire) est envoyée dans un [http://fr.wikipedia.org/wiki/Digesteur digesteur] anaérobique (absence d'oxygène) et fermentée.
+*Dans le digesteur, les [http://fr.wikipedia.org/wiki/Micro-organisme micro-organismes] fonctionnant en milieu [http://fr.wikipedia.org/wiki/Anaerobie anaérobie], vont transformer la matière organique en CH4 et CO2 : méthanisation qui permet de produire le biogaz. 
+*Le biogaz est ensuite envoyé dans une [http://fr.wikipedia.org/wiki/Turbine_%C3%A0_gaz turbine à gaz] pour faire de la [http://fr.wikipedia.org/wiki/Cog%C3%A9n%C3%A9ration cogénération] (production de chauffage + électricité) : la combustion produit de la chaleur, et les gaz font tourner une turbine, qui couplée à un alternateur, produit de l'électricité. Le chauffage sert à la production d'eau chaude sanitaire et l'électricité sert à faire fonctionner les différents ventilateurs et pompes de l'installation et assure une partie des besoins des habitations.
+*Les restes de la digestion anaérobique sont quant à eux séparés en deux phases :
+*#Les effluents liquides traités en bioréacteur [http://fr.wikipedia.org/wiki/Aerobie aérobiose] (comme l'eau grise).
+*#Le [http://fr.wikipedia.org/wiki/Digestat digestat] solide qui forme le compost (on peut ajouter des copeaux de bois pour l'améliorer), qui sert de substitut à la [http://fr.wikipedia.org/wiki/Tourbe tourbe] comme engrais pour les plantes.
+*Le CO2 (ainsi que les résidus de gaz de combustion) produit sera injecté dans la serre pour la croissance des plantes, permettant d'obtenir ainsi de meilleurs rendements.
+
+
+
+=== Nutriments ===
+
+[[Image:Le cycle de l'azote.jpg|thumb|500px|Le cycle des nutriments]]
+
+*Les minéraux de la biomasse (c'est à dire le digestat) mélangés à l'eau récupérée (après le passage dans le bioréacteur) permettent d'assurer la nourriture et l'engrais des plantes de la serre.
+
+
+
+== Serre semi fermée sans aquifère ==
+
+*L'unique condition nécessaire à un tel projet est d'être sur un terrain ayant un aquifère en sous-sol. Le sous-sol français ne dispose pas toujours d’aquifères de bonne qualité le permettant. On peut développer une variante autour du procédé initial de serre fermée avec aquifère : le concept de la Serre semi fermée<ref>http://www.eseta.fr/index_fichiers/semifermee.htm</ref>.
+**Le concept de la Serre semi fermée est basé sur le même système de chauffage par échangeurs de chaleur eau/air auquel on associe une tour aéro-réfrigérante et un bassin tampon qui joue le rôle d’aquifère en augmentant l’inertie thermique du système. Ce dispositif permet de refroidir la serre la journée et de la chauffer la nuit en utilisant l’énergie solaire et le froid de l’air.
+**La serre reste fermée ou semi fermée tout au long de l’année. La chaleur apportée par l’énergie solaire est refroidie avec l’eau froide créée la nuit par la tour aéro-réfrigérante et stockée dans le bassin. L’eau tiède ainsi obtenue est réutilisée pour chauffer la nuit. Lorsque cela est nécessaire en hiver, on peut utiliser l'eau chaude produite par une chaudière (économie de 65 à 70% de gaz).
+
+
+
+== Un habitat écologique, économique et social ==
+
+*Ce projet s'inscrit dans une démarche de [[développement durable]] puisqu'il réunit ses trois piliers, à savoir :
+*#Environnement, en préservant les ressources et en réduisant les émissions de CO2.
+*#Social, en améliorant les conditions de travail des employés et les conditions de vie et la santé des habitants.
+*#Economie, en réduisant les factures d'électricité, de chauffage et d'eau et en augmentant la production.
+
+
+Par rapport à une architecture de serre traditionnelle, il y a de nombreux '''avantages''' :
+
+
+*Environnement
+**100% de l'électricité (pour les habitations et les pompes et ventilateurs de l'installation) est d'origine renouvelable (cogénération via le biogaz dans la turbine).
+**100% du [[#Chauffage|chauffage]] de la serre et des logements est d'origine renouvelable (géothermie et cogénération pour l'eau chaude).
+**Les eaux usées sont traitées et réutilisées sur place et on produit de l'eau potable : on réduit de 75% la consommation d'eau.
+**75% des déchets sont recyclés en engrais, électricité et eau chaude (cogénération).
+**Les besoins externes en énergie fossile et en eau sont nuls.
+**Réduction de 90% des émissions de CO2 du complexe.
+**La production en serre fermée évite l’intrusion des insectes et limite les maladies, permettant de réduire de 90% l’utilisation de [http://fr.wikipedia.org/wiki/Pesticides pesticides].
+**Réduction de l'utilisation des [http://fr.wikipedia.org/wiki/Engrais engrais] car on utilise des engrais azotés comme nutriments en recyclant le carbone.
+
+*Economie
+**Baisse des coûts de fonctionnement (économies sur l'énergie, l'eau, le traitement des déchets, les engrais et pesticides et le transport aussi).
+**Qualité de la production agricole accrue (moins de pesticides) et baisse du prix de revient.
+**Augmentation de 20% du rendement de production grâce au contrôle de divers paramètres (CO2, taux d’humidité, etc.),<br />à une température plus homogène et à la fermeture de la serre (moins de parasites et de maladies).
+
+*Social
+**Les habitants ont des produits de meilleure qualité à un prix plus compétitif.
+**Meilleures conditions de travail car la serre est plus fraîche en été. L'atmosphère y est beaucoup plus saine (90% de pesticides en moins).
+**Meilleures conditions de santé car les habitants consomment des produits avec moins de pesticides donc plus sains.
+**Rapprochement du monde urbain et du monde rural avec la possibilité de cultiver des légumes directement consommables par les habitants de [[Écovillage|l'écovillage]].
+
+
+
+== Perspectives futures ==
+*Une serre de 2 ha permet de chauffer 200 habitations.
+*C'est un système rentable pour la population :
+*#Coût d'investissement : dépenses pour l'équipement
+*#Coûts d'exploitation : économies sur l'énergie, le transport, l'eau, le traitement des déchets
+*Améliorations possibles, axes de recherche :
+**Augmenter  le rendement des machines (électricité principalement).
+**Baisser le coût des machines et donc le coût d'investissement.
+*Les technologies utilisées sont simples, on devrait voir leur prix baisser dans le futur.
+*Une serre écologique de ce type est déjà implantée aux Pays Bas et il y a un énorme potentiel de développement.
+*La serre écologique constitue un système idéal de production décentralisée d’énergie, de potabilisation d’eau et de production maraîchère<br />pour les pays en développement, ce qui permettrait en plus de réduire les inégalités Nord/Sud.
+
+
+== Notes et références ==
+<References />
+
+
+== Voir aussi ==
+=== Liens internes ===
+*[[Agriculture]]
+*[[Biogaz]]
+*[[écovillage|Ecovillage]]
+*[[Énergie géothermique|Géothermie]]
+
+=== Liens externes ===
+*[http://www.eseta.fr/ Bureau d'étude du projet Cité Serre]
+*[http://www.enerzine.com/12/4489+quand-le-biomethane-aide-a-faire-pousser-les-tomates-!+.html Serre chauffée au biométhane au Canada]
+
+[[Catégorie:Potager]]
+{{Portail Se loger}}
