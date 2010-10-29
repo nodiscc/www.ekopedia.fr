@@ -1,0 +1,89 @@
+{{Vivre ensemble}}
+
+Le '''Kite Wind''' Generator, alias ''KiteGen'', ou ''KWG'', ou encore ''KiWiGen'' est un système qui, grâce au même principe que l’[[éolienne]], a pour but de produire de l’[[électricité]] en exploitant les vents qui circulent à très haute altitude, entre 500 et 10000 mètres.
+
+
+== Définition ==
+
+[[Image:Kite_Wind_3D.jpg‎|thumb|Aperçu de ce que pourrait être le Kite Wind]]
+
+Il s’agit d’un manège de cerfs-volants reliés à des bras pivotants par l’intermédiaire de très longs câbles. Un système électronique contrôle la position des cerfs volants, le manège alors actionné par la force du vent, entraîne une turbine qui produit l’électricité.
+
+Son nom vient de l’anglais « kite » qui signifie cerf-volant et « wind » qui signifie le vent.
+
+== Histoire ==
+
+Le Kite Wind Generator a été inventé par l’ingénieur italien Massimo Ippolito. Ce projet a impliqué l'Université Polytechnique de Turin, la société Sequoia Automation et la région Piémont pour la réalisation d'un premier prototype du système Kite wind. 
+
+En août 2006, le projet Kite Gen a reçu le premier prix au IXème Congrès mondial sur les [[énergie]]s [[Énergie renouvelable|renouvelable]]s.
+
+Fin septembre 2007, la société Kite Gen Research a procédé, sur l'aéroport F.Cappa de Casale Monferrato, au test très concluant d'une version améliorée du prototype KSU1 en le mettant en action, durant trois jours, à une hauteur de 800 mètres.
+
+Le premier prototype Kite Gen est prévu à l’horizon 2010. 
+
+== Description ==
+
+Ils passent au-dessus de l'Europe des vents capables de fournir une [[énergie]] équivalente à celle de 100 000 centrales nucléaires ! Le but du projet Kite Gen est justement d’exploiter cette puissance potentielle avec les vents soufflant à plusieurs centaines de mètres d'altitude.
+
+Contrairement aux éoliennes traditionnelles, le KWG utilise un axe de rotation vertical. Sa taille impressionnante (due notamment à ses longs câbles) lui permet de profiter aisément de la force des vents d’altitude et de le rendre ainsi plus efficace.
+
+== Fonctionnement ==
+
+[[Image:descriptid kite wind.jpg|thumb|Vue de haut du Kite wind]]
+[[Image:Puissance_du_vent_et_altitude.jpg|thumb|Altitude et puissance des vents]]
+
+La force des vents en altitude entraîne, grâce aux cerfs-volants reliés aux bras pivotants, la rotation de la plateforme circulaire qui actionne une turbine pour produire de l’électricité. Le KSU (Kite Steering Unit ou unité de manœuvre de voile) permet de piloter automatiquement les cerfs-volants ou voiles en altitudes. Chaque voile est reliée au sol par deux lignes chacune enroulées sur un treuil. Un logiciel permet de traiter les données des différents éléments (tension sur les câbles, position, vitesse des voiles) et ainsi de piloter de façon autonome les cerfs-volants en commandant les moteurs des treuils afin de les synchroniser pour maximiser la production d’énergie.
+
+Les cerfs-volants utilisés auront une superficie de quelques dizaines de mètres carrés, un profil alaire rigide en arc et seront réalisés en polyéthylène alvéolaire. Au repos, les cerfs-volants seront insérés dans des bras creux. Ce système pourra être activé soit en lançant, hors de son bras, un des cerfs-volants qui se lèvera alors à la plus petite brise et commencera à faire tourner le système, provoquant la sortie et le décollage des autres cerfs-volants, soit en le faisant tourner avec l'alternateur qui jouera le rôle de moteur. Cette opération peut évidemment être réalisée en sens inverse quand il est nécessaire de rentrer les cerfs-volants dans leurs bras respectifs pour l'arrêter.
+
+Une centrale de ce type permet d’exploiter la force du vent sur une très grande surface, l’illustration ci-contre montre la surface balayée par une centrale dont la plateforme au sol mesure 800 m de diamètre.
+
+Pour exploiter une surface comparable, il faudrait approximativement 150 éoliennes au sol de dernière génération, soit une ferme éolienne de 40 km² (Les éoliennes au sol doivent être espacées entre elles pour éviter les turbulences et obtenir un rendement maximum) là ou ce type de centrale emploie approximativement 5 km² (périmètre de sécurité inclus). De plus le coût du kilowatt heure est vingt fois moins élevé que celui du pétrole (d’après Milanese, [http://www.thewindpower.net/article-33-le-prototype-kite-gen.php lien]).
+
+Des tests sont actuellement réalisés sur des prototypes afin de mettre en place d’ici 2010 un générateur Kite Wind viable à l’exploitation.
+
+== Aspect énergétique ==
+
+{{...}}
+
+On estime qu’une centrale Kite Gen peut produire une puissance de 100MW pour un diamètre au sol de 800 mètres. 
+
+== Avantages / inconvénients ==
+
+=== Avantages ===
+* Les vents captés sont plus stables et plus puissants qu’au sol
+* Génératrice placée au sol
+* La surface de vent exploitée est proportionnellement au territoire occupé plus importante à celle d’une ferme éolienne "classique"
+* Utilisation des plus puissants vents d’altitude (au lieu des vents les plus faibles situés au niveau du sol)
+* La puissance qui peut être fournie augmente très vite avec un diamètre conséquent de la roue : 0,5 MW pour 100 mètres, 5 MW pour 200 mètres, 500 MW pour 1 000 mètres (Alors qu'une éolienne classique ne fournit que 100 W par mètre carré de surface balayée par les pales)
+* En occupant la même place qu’une centrale nucléaire (en termes de zone interdite aux vols d'un kilomètre de hauteur pour cinq de longueur) le KWG permet d’exploiter quant à lui une source d’énergie renouvelable.
+
+=== Inconvénients ===
+* Dispositif énorme ! Pour que cela fonctionne, il faut au moins cent mètres de diamètres pour la roue.
+* De nombreux obstacles techniques restent à surmonter, la puissance du vent exercée sur les voiles à des altitudes de plus de 800 mètres est telle qu’il va falloir concevoir des voiles et des câbles de très hautes résistances.
+* Il faut pouvoir maîtriser la position, la vitesse et l’accélération des voiles afin que ces dernières puissent évoluer dans le même espace aérien sans s’emmêler.
+
+== Coût ==
+
+Le coût de construction d'un KiWiGen d'un GigaWatt serait d'environ 80 millions €, c'est-à-dire moins que celui d'une installation traditionnelle ''-- il serait intéressant de préciser à quelle "installation traditionnelle" l'auteur fait référence et de combien moins cher --'', tandis que le prix de l’énergie produite par une centrale KiWiGen de 100 MW devrait être inférieur à 0,03 € par kWh.
+
+== Quelques images ==
+* [http://www.laplanetebleue.com/images/KiteGen_50MW.jpg Une image du prototype KiteGen]
+* [http://planetebleue.canalblog.com/images/t-wind.jpg Un bref schéma du kitewind]
+* [http://www.lowtechmagazine.com/images/2008/08/05/kitegen_kite_wind_energy_3.jpg Et encore une image!]
+
+Une autre variante : [http://www.syncronos.com/blog/wp-content/uploads/2008/12/kite_wind_generator.jpg Ballon transportable]
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Énergie]] [[Énergie éolienne|éolienne]]
+
+===Liens externes===
+* {{en}} [http://www.kitegen.com/index_en.html Le site qui en parle] <br />
+* {{it}} [http://www.youtube.com/watch?v=hcPV4b2sCd4&feature=related Une vidéo Youtube du prototype] <br />
+* {{en}} [http://www.magenn.com/ La variante du ballon transportable]
+
+{{Portail Énergie}}
+
+[[en:Kitegen]]
