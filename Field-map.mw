@@ -1,0 +1,23 @@
+Field-Map est un outil pour la collecte et traitement des données de terrain. Il est principalement utilisé pour la cartographie des écosystèmes forestiers et la collecte des données lors des examens sur le terrain. Cette application est capable de travailler avec base de données relationnelle multi-niveaux et fournit également une bonne communication avec des périphériques externes tels que le [[GPS]], [[télémètre laser]] et [[inclinomètre]]. La technologie Field-Map est actuellement utilisé pour les [[inventaire forestier|inventaires forestiers]] nationaux dans l'[[Islande]], l'[[Irlande]], le [[Cap-Vert]], [[République tchèque]], la [[Belgique]] wallonne, la [[Slovaquie]], la [[Hongrie]] et la [[Russie]].
+Field-Map permet les mesures [[dendrologie|dendrologiques]] complètes (hauteur d'arbres, projection/profil du houppier, profil du tronc, l'estimation du volume du bois sur pied selon la qualité), cartographe des arbres, bois mort, transepts, mesures répétitives, vérification des données etc.
+<references />
+
+== References ==
+#[http://www.https://aplikace.isvav.cvut.cz/resultDetail.do?rowId=RIV%2F60460709%3A41410%2F05%3A12021!RIV06-MZP-41410___  Analysis of forest structure for sustainability management (2005)]. Publié 2009-13-3.
+#[http://www.smuf.com.ua/docs/EventsDecisionofSeminarBoyarkaENG1.pdf Decisions of the International scientifically-practical seminar «Advanced technologies of forest inventory and monitoring: current condition and perspectives»]. Publié 2009-13-3.
+#[http://www.esri.com/news/arcnews/winter0506articles/in-transcarpathia.html In Transcarpathia, Ukraine, GIS Aids Statistical Forest Inventory]. Publié 2009-13-3.
+#SCHNEIDER, J. -- DYMÁK, M. -- REBROŠOVÁ, K. -- CHMELAŘ, J. Prostorová struktura porostu zakrslých kyselých bučin v přírodní památce Máchova dolina. In Diverzita, dynamika a management lesní vegetace. 1. vyd. Praha: 2008, s. 32.
+#[ftp://ftp.uhul.cz/Public/NIL/PUBLIKACE_NIL/NIL%20CR%202001-2004%20po%20kapitolach_NFI%20CZ%202001-2004%20by%20chapters/05_Sber%20dat%20v%20terenu_Collecting%20data%20in%20the%20field.pdf Collecting data in the field]. Publié 2009-13-3.
+#[http://www.uhul.cz/tzp/ Informační systém na bázi trvalých zkusných ploch]. Publié 2009-13-3.
+#[http://www.http://www.pralesy.cz/?id=5960 METODIKA VÝZKUMU (CELOPLOŠNÁ ŠETŘENÍ)]. Publié 2009-13-3.
+#[http://www.http://lesprace.silvarium.cz/content/view/1601/142/ INFORMAČNÍ SYSTÉMY V ZEMĚDĚLSTVÍ A LESNICTVÍ - SEČ 2000]. Publié 2009-13-3.
+#[http://www.agriculture.gov.ie/forestry/presentations/NFI_Methodology.pdf National Forest Inventory Conference, 11 July 2007]. Publié 2009-13-3.
+#R. Hédl, M. Svátek, M. Dancak, Rodzay A.W., M. Salleh A.B., Kamariah A.S. [http://docserver.ingentaconnect.com/deliver/connect/nhn/00065196/v54n1/s22.pdf?expires=1277800171&id=57461531&titleid=75002419&accname=Guest+User&checksum=0209D91201F8A29EB19B2AF3C7D7EF1A A new technique for inventory of permanent plots in tropical forests: a case study from lowland dipterocarp forest in Kuala Belalong, Brunei Darussalam], In Blumea 54, 2009, p 124–130. Publié 30. 10. 2009.
+#Tomaštík, J., Technical University in Zvolen (Slovak Republic), Faculty of Forestry. [http://agris.fao.org/agris-search/search/display.do;jsessionid=18D457ABB60D96989D3FF5BEAA4C73FC?f=2010/SK/SK0903.xml;SK2009200047 Comparison of measurement methods and calculation of compass traverse in forestry mapping], Publié 2008
+
+== Liens externes ==
+* [http://www.fieldmap.cz/?verze=fr&page=home&id= Field-Map]
+
+{{Portail Vivre ensemble}}
+
+[[Catégorie:Environnement]]
