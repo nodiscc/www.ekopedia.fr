@@ -1,0 +1,120 @@
+{{Se loger}}
+
+Notre environnement stocke chaque jour de la chaleur émise principalement par les rayonnements solaires. L'air, l'eau et la terre sont ainsi réchauffés et accumulent une énergie gratuite et inépuisable. Récupérer cette chaleur et l'utiliser pour le chauffage de la maison est possible grâce aux '''pompes à chaleur'''.
+
+Une '''pompe à chaleur''' est un dispositif thermodynamique permettant de transférer la chaleur du milieu le plus froid (et donc, le refroidir encore) vers le milieu le plus chaud (et donc de le chauffer), alors que spontanément la chaleur se diffuse du plus chaud vers le plus froid jusqu'à l'égalité des températures. Le [[réfrigérateur]] ainsi que le [[congélateur]] sont les systèmes de pompe à chaleur les plus connus.
+
+Mais le terme de '''"pompe à chaleur"''' (PAC) s'est surtout diffusé pour désigner des systèmes de chauffage domestique, popularisés avec la forte hausse du prix des combustibles dans les années 1970. Ils peuvent maintenant, au début XXI<sup>ème</sup> siècle, souvent servir de [[climatiseur]]s. 
+
+Ces équipements permettent d’économiser les énergies fossiles tout en limitant nos rejets de gaz à effet de serre. Il en existe plusieurs types, qui puisent la chaleur soit dans l'air (pompes aérothermiques), soit dans le sol ou l'eau des nappes phréatiques ([[Énergie géothermique]]).
+
+
+== Principe ==
+
+[[Image:Heatpump.svg|thumb|270px|Schéma du cycle de réfrigération&nbsp;:<br/>1)&nbsp;circuit de condensation (dégagement de chaleur)<br/>2)&nbsp;goulot d'expansion du gaz réfrigérant<br/>3)&nbsp;circuit d'évaporation (production de froid)<br/>4)&nbsp;compresseur.]]
+
+Une PAC fonctionne comme un réfrigérateur, les principes et techniques en sont les mêmes. 
+
+Elle pompe des calories d'un milieu qui au sens courant est ''froid'' (un lac à 4°C, par exemple, comme pour le chauffage urbain de Zurich), mais qui au sens thermodynamique est "chaud" tout de même (277,15 kelvins). La consommation énergétique sert uniquement à mettre en mouvement les fluides (compression). 
+
+On définit l'efficacité d'une PAC par le rapport de ce qui est « utile », la chaleur reçue, sur ce qui est coûteux, le travail fourni à la PAC.
+
+L'efficacité d'une pompe à chaleur décroît avec l'écart de température. L'efficacité d'une PAC est limitée par la deuxième loi de la thermodynamique.
+
+Plus spécifiquement, les vendeurs de pompes affichent en général le rapport de puissance thermique entre leur machine avec la consommation électrique. On lui donne par convention le nom de ''coefficient de performance'' ou ''COP'' (de l'Anglais: coefficient of performance). En outre, des contraintes techniques limitent la température la plus basse et la différence de température.
+
+Les températures T sont en Kelvin. Le cycle de Carnot est le cycle ditherme présentant la meilleure efficacité...
+
+== Les systèmes ==
+
+Certaines « PAC » travaillent sur la chaleur de l'air, d'autres avec la chaleur de l'eau, ou du sol ([[Énergie géothermique]]). 
+
+Les systèmes les plus performants se font par chauffage au sol dans l'habitation, et par des tuyaux enterrés en moyenne 2 mètres sous le sol, en général dans le jardin. Ces systèmes sont utilisés pour transférer de l'[[énergie]] du sol vers une habitation, pour les besoins en chauffage l'hiver. Mais ce sont des systèmes qui réclament un fort investissement financier. Aussi, certains modèles sont réversibles, capables de transférer de la chaleur de la maison vers le sol. 
+
+Il y a aussi d'autres pompes à chaleur qui utilisent l'air comme source  (refroidissement de l'air pour chauffer de l'eau de piscine par exemple) mais le rendement est moins bon (et même très faible quand il fait froid !). L'investissement est par contre bien moins important. 
+
+Le COP est de l'ordre de 5 sur les modèles installés à l'heure actuelle (cela veut dire que pour 1 kW d'électricité consommé, la maison recevra 5 kW de chaleur). 
+
+Les systèmes les plus performants sont à 7 de COP. Les systèmes à air ont des COP de 4 à 5 maximums. Les systèmes vendus dans le commerce procurent une puissance thermique de 15 à 20 kW ce qui est l'équivalent d'une chaudière au [[gaz naturel|gaz]] ou au [[fioul]]. Pour des raisons de confort, une cheminée à insert est utilisée très occasionnellement. L'autre avantage est que ces machines peuvent servir de [[climatisation]].
+
+===Fonctionnement===
+
+==== Circuit de captage ====
+Pour les habitations individuelles ou les petits immeubles, la plupart des pompes à chaleur géothermiques captent l'énergie du sol par un circuit constitué de tuyaux de polyéthylène. Il existe deux types de captage :
+* capteurs horizontaux : enterré à environ 1 mètre sous le sol, le circuit est constitué de boucles (par exemple sous le jardin). Il occupe environ deux fois la surface à chauffer, soit par exemple 400m² pour une surface à chauffer de 200m². Cet espace peut être planté de gazon ou de petits arbustes, mais ne peut accepter d'arbres aux longues racines.
+* capteurs verticaux : le circuit comporte un tuyau formant une seule boucle verticale. Il nécessite un forage en profondeur (environ 80m). Plus coûteux, il présente l'avantage d'occuper moins de surface au sol. Les capteurs verticaux sont également appelés sondes géothermiques.
+
+==== Parties principales de la PAC====
+Elle dispose de 4 organes principaux
+* l''''évaporateur''' : la chaleur prélevée dans le sol vaporise un fluide frigorigène.
+* le '''compresseur''' : actionné par un moteur électrique, il élève la température du fluide frigorigène en le comprimant.
+* le '''condenseur''' : en retournant à l'état liquide, le fluide frigorigène libère sa chaleur dans l'habitation.
+* le '''détendeur''' : il prépare la réaction de vaporisation en abaissant la pression du liquide.
+Il existe deux systèmes principaux :
+* la '''détente directe''' : il n'existe qu'un seul circuit. Le fluide frigorigène passe directement dans le sol chauffant ou les convecteurs. Le circuit de captage joue le rôle d'évaporateur et celui de chauffage assure la condensation.
+* les '''fluides intermédiaires''' : on dispose d'un circuit séparé pour le captage, la pompe à chaleur et le chauffage. Un peu plus coûteux, il est plus performant, notamment pour le rafraîchissement et il utilise moins de fluide frigorigène.
+Il existe également des systèmes mixtes.
+
+==== Le circuit de chauffage ====
+La température de l'eau chaude fournie par une pompe à chaleur est moins importante qu'avec une chaudière classique (30 à 40°C). Ce de fait on utilise principalement deux types de système de chauffage qui sont bien adaptés aux basses températures :
+* Le plancher chauffant
+* Les convecteurs surdimensionnés (par rapport à une installation chaudière classique)
+
+[[Image:Pompe à chaleur géothermique.jpg|thumb|center|600px|Fonctionnement d'une pompe à chaleur géothermique à fluides intermédiaires]]
+
+== Avantages et inconvénients ==
+=== Avantages ===
+{{...}}
+
+=== Inconvénients ===
+{{...}}
+ATTENTION: cet article est incomplet. Il manque, entre autre, un important chapitre sur l'aspect peu écologique des pompes à chaleur:''
+
+''coefficient de performances pas aussi bon que ceux avancés en théorie,''
+
+''fluide frigorigène très polluant,''
+
+''l'électricité utilisé provient soit d'une centrale nucléaire soit d'une centrale thermique(charbon ou fioul),''
+
+''la forte augmentation du nombre de pompes à chaleur en France conduit à une surconsommation d'électricité en période hivernale d'où le risque de "blackout" (surconsommation accentuée par la baisse du rendement des pompes à chaleur lorsque la température extérieure décroit). EDF se trouve donc dans l'obligation de renforcer les lignes à très hautes tension (avec les effets néfastes que ces lignes produisent) voire de créer de nouvelles centrales nucléaires.''
+
+
+''J'incite les personnes intéressés par le sujet à mieux se renseigner sur les aspects négatifs des pompes à chaleur. Et j'espère que quelqu'un de mieux "calé" que moi sur le sujet pourra compléter celui-ci.
+
+Le COP d'une PAC dépend moins de sa technologie que des températures d'utilisation.
+Typiquement les PAC air/air ont des COP nominaux de l'ordre de 3.5 pour une température extérieure de + 7°C, BH 6°C c'est à dire pour une température d'air sec de 7 degrés et d'un bulbe humide de 6 degrés.
+À ces températures, le COP est produit par une part de refroidissement de l'air extérieur et une part de condensation d'humidité.
+Autrement dit, pour les spécialistes, la part chaleur sensible plus la part chaleur latente.
+
+Pour ces températures, il n'y a pas de givrage sur l'évaporateur, la température du fluide frigorifique est encore positive.
+Pour les températures inférieures, non seulement le COP se dégrade mais aussi les temps d'arrêt pour dégivrage augmentent.
+
+Autrement dit, plus on a besoin de sa PAC air-air, moins elle est efficace.
+
+Aux températures de références extérieures minimales en Île de France, -7°C par exemple, le COP d'une PAC air-air n'est plus que de 1.5 environ.
+
+Ce qui revient à dire que pour couvrir tous les besoins de chauffage d'une maison, il faut installer une unité extérieure du double de la puissance nominale donnée pour +7°C.
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Puits provençal]]
+* [[Réfrigérateur]]
+* [[Congélateur]]
+* [[Pieu énergétique]]
+* [[Isolation (thermique)]]
+
+=== Liens externes ===
+* [http://www.abcclim.net Site didactique sur la pompe à chaleur]
+* [http://www.europe-geothermie.com/geothermie/comparatifs.php3 Comparatif avec les autres énergies]
+* [http://pagesperso-orange.fr/pompe-a-chaleur/ Comparatif entre les différents types de pompes à chaleur]
+* [http://www.ademe.fr/particuliers/Fiches/pacg/ Série d'articles sur les pompes à chaleur <small>(ADEME)</small>]
+* [http://www.3ehabitat.fr/energies-renouvelables/fonctionnement-circuit-pac/ Fonctionnement du circuit de la pompe à chaleur <small>(PAC)</small>]
+* [http://www.metiers-btp.fr/reperes/evolutions-du-btp/Pages/developpement-durable-renovation-energetique.aspx/ Animation sur la pompe à chaleur et la rénovation énergétique]
+* [http://www.acqualys.fr/pages/index.php?id=444 Inconvénients des PAC]
+
+===Bibliographie===
+
+{{Portail Se loger}}
+
+[[Catégorie:Énergies renouvelables]]
