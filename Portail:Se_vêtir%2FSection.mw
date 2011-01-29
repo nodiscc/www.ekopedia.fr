@@ -1,0 +1,13 @@
+<div style="display:block; border:1px solid #3416A9; vertical-align:top; width:100%; background-color:#F4F2FD; margin-bottom:10px; padding:0px 0px 5px 0px;">
+<div style="float:right;">
+<font size="1"><nowiki>[</nowiki>[[{{{partie}}}|modifier]]<nowiki>]</nowiki>&nbsp;</font>
+</div>
+<h2 style="background-color:#D9D1F8; color:#120A3D; text-align:center; font-weight:bold; margin:0px 0px 5px 0px; padding:5px 3px 5px 3em; font-size:{{{tailleTitre|100%}}};border-bottom:1px solid #3416A9;">
+{{{titre}}}
+</h2>
+<div style="padding-left:4px; padding-right:4px; vertical-align:top;">
+{{{{{partie}}}}}
+</div>
+</div>
+
+<noinclude>[[Catégorie:Portail:Se vêtir|Section]]</noinclude>
