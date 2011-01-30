@@ -1,0 +1,13 @@
+<div style="display:block; border:1px solid #9C4374; vertical-align:top; width:100%; background-color:#F8EFF3; margin-bottom:10px; padding:0px 0px 5px 0px;">
+<div style="float:right;">
+<font size="1"><nowiki>[</nowiki>[[{{{partie}}}|modifier]]<nowiki>]</nowiki>&nbsp;</font>
+</div>
+<h2 style="background-color:#E7C7D9; color:#000000; text-align:center; font-weight:bold; margin:0px 0px 5px 0px; padding:5px 3px 5px 3em; font-size:{{{tailleTitre|100%}}}; border-bottom:1px solid #9C4374;">
+{{{titre}}}
+</h2>
+<div style="padding-left:4px; padding-right:4px; vertical-align:top;">
+{{{{{partie}}}}}
+</div>
+</div>
+
+<noinclude>[[Catégorie:Portail:Se divertir|Section]]</noinclude>
