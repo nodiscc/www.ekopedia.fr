@@ -1,0 +1,24 @@
+[[File:Heckert GNU.png|thumb]]
+
+La '''Licence de documentation libre GNU''', de l'anglais '''''GNU Free Documentation License''''', abrégée '''GFDL''', est une licence dans le cadre du droit d'auteur, produite par la Free Software Foundation. Cette licence a pour but de protéger la diffusion de contenu libre. Elle peut être utilisée par chacun pour couvrir la distribution de ses œuvres. C'est notamment la licence couvrant les textes de Wikipédia.
+
+''L'objet de cette licence est de rendre tout manuel, livre ou autre document écrit « libre » au sens de la liberté d'utilisation, à savoir : assurer à chacun la liberté effective de le copier ou de le redistribuer, avec ou sans modifications, commercialement ou non.''
+
+Cette licence est basée sur le même principe de copyleft que la Licence publique générale GNU (GPL) utilisée par les logiciels libres. En fait elle a été notamment conçue pour couvrir la documentation accompagnant les logiciels libres.
+
+Comme pour la GPL, la GFDL autorise chacun à redistribuer une œuvre sous GFDL, pour autant que la redistribution se fasse selon les termes de la GFDL. Une particularité de la GFDL est qu'elle prévoit des possibilités de restrictions de la liberté de modification de l'œuvre couverte. Pour cette raison, les œuvres sous GFDL ne sont pas forcément considérées comme libres, notamment par la plus importante distribution Linux totalement libre, Debian.
+
+
+== Voir aussi ==
+===Liens internes===
+*[[Logiciel libre]]
+
+===Liens externes===
+* {{en}} (version officielle de la GFDL) : http://www.gnu.org/copyleft/fdl.html
+* {{fr}} (traduction non officielle de la GFDL, version 1.1) : http://cesarx.free.fr/gfdlf.html
+* {{en}}: http://people.debian.org/~srivasta/Position_Statement.html L'avis de Debian sur la GFDL (Draft Debian Position Statement about the GFDL)
+
+===Bibliographie===
+
+[[Catégorie:GFDL]]
+[[en:The GNU license]]
