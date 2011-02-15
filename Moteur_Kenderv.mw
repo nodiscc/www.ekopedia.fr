@@ -1,0 +1,147 @@
+{{Vivre ensemble}}
+
+Un moteur qui ne consomme pas d’[[énergie]] [[énergie fossile|fossile]], qui ne [[Pollution|pollue]] pas et qui permet de faire avancer une [[voiture]] ou d’alimenter le [[groupe électrogène]] d’une [[maison]] pour presque rien...
+
+Tout le monde en rêve. Jean Cousin l’a fait.
+
+Après vingt ans de calculs et d’essais, cet ingénieur électronicien, aujourd’hui retraité à Auray, vient de [[brevet]]er un procédé. Reste à trouver des partenaires pour passer à la phase d’[[industrialisation]].
+
+== Premier principe de la thermodynamique ==
+
+=== Énoncé général ===
+Le bilan [[Thermodynamie|Thermodynamique]] des échanges entre un système et le milieu extérieur a la même valeur pour toutes les transformations qui conduisent du même état initial au même état final soit :<br />
+si un système passe de l'état A à l'état B, après avoir échangé avec le milieu extérieur un travail W et une quantité de chaleur Q le bilan thermodynamique W+Q est constant qu'elles que soient les transformations intermédiaires du système.
+
+== Principe de Carnot ou Second principe de la thermodynamique ==
+
+=== Énoncé ===
+Un [[moteur]] [[thermique]] ne peut fonctionner qu'avec au moins deux sources de chaleur, une source chaude et une source froide: l'agent de transformation de la chaleur en travail reçoit de la chaleur de la source chaude et cède de la chaleur à la source froide.
+chaleur fournie par la source chaude Q1<br />
+chaleur cédée à la source à la source froide Q2<br />
+travail effectué par la machine W<br />
+Compte tenu du premier prince de la thermodynamique on a : Q1 = W + Q2
+
+== Étude qualitative de la thermodynamique ==
+
+=== Remarques ===
+Le [[principe de Carnot]] a été établi à partir de l'étude des [[moteurs à vapeur]]
+Ces deux principes reposent sur l'équation d'état des [[gaz]] parfaits :<br />
+Q = (p . V) / T = constante<br />
+avec<br />
+Q = p . V = n . R . T<br />
+avec<br />
+Q énergie interne ou potentielle d'un gaz en joules (J)<br />
+p pression de ce gaz en pascals ( Pa)<br />
+V volume de ce gaz en mètres cubes<br />
+T température de ce gaz en degrés kelvin (°K)<br />
+n nombre de moles de gaz<br />
+R constante quantifiée par mole et qui s'exprime en joules par degrés kelvins<br />
+R = 8,317 J / °K
+
+=== Analyse du fonctionnement des moteurs thermiques ===
+Principe :
+* une [[chaudière]] (source chaude) produit de la vapeur d'[[eau]] à haute pression
+* un [[condenseur]] (source froide) liquéfie cette vapeur ce qui réduit très fortement sa pression
+* une turbine ou un piston est placé entre ces deux sources
+
+Cet élément : 'moteur' fonctionne comme tous les moteurs pneumatiques tel que les vérins pneumatiques, et les moteurs à turbine utilisés dans les [[outillage]]s pneumatiques, dans des articulations de manipulateurs de robots, etc.
+
+Tous ces moteurs fonctionnent avec un gaz dont la pression est supérieure à l'entrée du moteur par rapport à la pression du gaz en sortie du moteur.
+
+====Analysons les entrées et sorties de ces moteurs 'pneumatiques====
+
+'''entrées'''<br />
+cas de la machine à vapeur<br />
+le gaz est de la vapeur d'eau mise sous forte pression dans une chaudière<br />
+cas des moteurs pneumatiques classiques<br />
+le gaz est généralement de l'[[air]] comprimé mis sous pression par un compresseur<br />
+cas des moteurs thermiques à combustion interne<br />
+le gaz est un mélange de [[carburant]] et de [[comburant]] mis sous pression par sa [[combustion]]<br />
+'''sorties'''<br />
+cas de la [[machine à vapeur]]<br />
+le gaz est aspiré par la liquéfaction de la vapeur par un condenseur<br />
+cas des moteurs pneumatiques classiques<br />
+le gaz est aspiré par l'[[atmosphère]]<br />
+cas des moteurs à combustion interne<br />
+le gaz est aspiré par l'atmosphère
+
+''N.B :'' Tous ces moteurs ' pneumatiques ' fonctionnent avec le seul principe qu'ils nécessitent une pression de gaz à l'entrée supérieure à celle de leur sortie.
+
+== Nouvelle génération de moteurs pneumatiques à énergie basses températures ==
+
+Le concept de cette nouvelle génération est basée sur l'équation d'état des gaz parfaits<br />
+Q=p.V=n.R.T<br />
+et l'équation résultant du principe de Carnot<br />
+Qe=W+Qs<br />
+avec<br />
+Qe énergie interne du gaz à l'entrée du moteur<br />
+W travail effectué par le moteur<br />
+Qs énergie interne du gaz à la sortie du moteur
+
+=== Principe de fonctionnement ===
+À l'entrée du moteur, le gaz utilisé est à haute pression et à température ambiante<br />
+Qe = pe.Ve<br />
+à la sortie du moteur, le gaz est à pression beaucoup plus faible<br />
+Qs = ps.Vs<br />
+travail effectué par le moteur<br />
+W = (pe.Ve) - (ps.Vs)
+
+À la sortie du moteur une tuyère conduit le gaz dans un accélérateur qui l'aspire et le propulse dans un réchauffeur<br />
+Wa travail absorbé par l'accélérateur<br />
+k coefficient de compression<br />
+avec :<br />
+Wa = k.Qs
+
+L'[[énergie]] interne du gaz (Qa), à la sortie de l'accélérateur, est de<br />
+Qa = k.Qs<br />
+Entre l'accélérateur et le moteur le réchauffeur ramène le gaz à son état initial en lui fournissant une énergie [[thermique]] Qr<br />
+Qr = Qe-Qa
+
+Des [[outil]]s [[mathématique]]s nous permettent de faire les observations suivantes :<br />
+Cycle transitoire au démarrage<br />
+ps = pe<br />
+En actionnant l'accélérateur<br />
+W=Qe - Qs<br />
+ps' = ps / k<br />
+ps' . Vs = (ps . Vs) / k
+
+On observe , en actionnant l'accélérateur , que l'énergie interne du gaz en sortie est de plus en plus faible, ce qui augmente de plus en plus le travail effectué par le moteur et que le travail absorbé par l'accélérateur est de plus en plus faible.
+
+Les outils mathématiques nous permettent de prédire que dans le cas d'un gaz parfait la température du gaz à l'entrée de l'accélérateur serait de 0°K
+soit : W = Qe
+
+Le gaz parfait n'existe pas puisque tout les ' éléments ' à l'état gazeux passent à l'état liquide et à l'état solide dans des conditions température-pression qui leurs sont propre
+
+Ces mêmes outils mathématiques nous permettent d'établir le tableau suivant
+
+Wu Ts
+
+40% 160°K -113°C<br />
+60% 112°K -161°C<br />
+80% 53°K -220°C<br />
+avec :<br />
+Wu : travail mécanique utilisable<br />
+Wu = W - Wa<br />
+Ts température à la sortie du moteur
+
+Mais des gaz, comme l'[[hydrogène]] et l'[[hélium]], se comportent pratiquement comme des gaz parfaits puisqu'ils ont une température de fusion et de liquéfaction très faible.
+
+== Conclusion ==
+
+Ces moteurs 'thermiques' fonctionnent à basse température et notre [[air]] ambiant (ou l'[[eau]] pour ce qui est immergé) est suffisant pour les faire fonctionner.
+
+La production de températures très basses permet d'envisager l'utilisation des matériaux supraconducteurs non conventionnels pour la [[production]] d'[[électricité]].
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Moteur Stirling]]
+* [[Moteur Pantone]]
+* [[Moteurs alternatifs]]
+* [[Moteur à air comprimé]]
+
+=== Liens externes ===
+* [http://letelegramme.com/gratuit/generales/regions/morbihan/innovation-le-moteur-ecolo-dun-alreen-20080116-2321847_1184327.php Innovation : le moteur écolo d’un Alréen]
+
+{{Portail Se déplacer}}
+[[Catégorie:Se déplacer|*]][[Catégorie:Moteurs alternatifs]]
