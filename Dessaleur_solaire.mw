@@ -1,0 +1,38 @@
+{{S'alimenter}}
+
+
+==Description==
+
+Un des problèmes qui afflige une grande partie de l'humanité est le manque d'eau. Il y a des lieux de la planète où les nappes sont difficilement accessibles et l'unique eau disponible est saumâtre, de très mauvaise qualité, ou encore salée.
+
+[[Image:Dessalinisateur-solaire.png]]
+
+Avec peu de moyens et avec facilité on peut par contre construire une unité distillatrice d'eau pour produire (en petite quantité) de l'eau de qualité. Il sera toutefois nécessaire d'ajouter un tout petit peu d'eau salée à l'eau qui en ressort (ceci afin de lui ajouter des minéraux je suppose). Pour l'instant il est encore difficile et coûteux de construire des installations pour la distillation de l'eau saumâtre ou marine mais pour peu de quantité ce système est simple et économique.
+
+* Rendement du dessaleur solaire par distillation : entre 2 et 6 litres par m² par jour.
+
+==Remarques==
+
+Remarque d'un internaute : Effectivement l'eau obtenue en sortie est deminéralisée et donc impropre à la consommation. En la mélangeant à de l'eau salée on récupère des minéraux la rendant ainsi potable, cela évite une étape couteuse de reminéralisation (voir effets sur la santé à long terme...) . Il faut essayer d'évaluer en fonction de la salinité de l'eau saumatre dans quelle proportion mélanger les deux eaux salée/dessalée afin d'atteindre le meilleur équilibre rendement/minéraux/potabilité. En effet plus on mélange, meilleur est le rendement du système qui fournit alors plus d'eau potable. C'est une limite à trouver et qui depend aussi du consommateur : adulte/enfant/personne agée/femme enceinte...
+
+Remarque d'un autre internaute : Elle est propre à la consommation du moins à court terme (survie en mer par exemple), mais ne pas oublier que rien qu'une petite portion d'eau pas distillée peut si elle contient par exemple des bactéries contaminer le reste de l'eau distillée, ce qui nous fait revenir au même problême.. 
+
+Le modèle proposé ne tient pas compte de nombreux facteurs de contraintes (evacuation de la saumure ...)mais surtout la condensation sur la vitre est trés limitée du fait du peu d'écart de température pour arriver à des rendements intéressant il faut séparer l'évaporateur du condenseur puisqu'ils demandent chacun des températures inverses .
+Dans le schéma, un second condenseur devrait se trouver à l'ombre, à ajouter du coté opposé à l'évaporateur.
+
+==Voir aussi==
+
+===Liens internes===
+* [[Soleil]]
+* [[Solaire thermique]]
+
+===Liens externes===
+* http://www.outilssolaires.com/Jeux/prin-distil.htm
+* http://fr.wikipedia.org/wiki/Dessalement
+
+===Bibliographie===
+
+{{Portail S'alimenter}}
+
+[[Catégorie:Énergie solaire]]
+[[Catégorie:gestion de l'eau]]
