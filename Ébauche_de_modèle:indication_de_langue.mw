@@ -1,0 +1,62 @@
+<big>Cette page est une page de construction de modèle. Toute contribution est la bienvenue. Modéliste en charge</big> : --<font face="Mistral" size="4"> Amiteusement </font><font face="Mistral" size="4">[[Utilisateur:Saint amand|Saint amand]]</font> | [[Discussion_utilisateur:Saint_amand|d]] 19 février 2011 à 14:03 (CET) 
+==Évaluation des modèles existants et des modèles WP==
+===[http://commons.wikimedia.org/wiki/Template:Language Template:Language de commons]===
+==== Utilisation ====
+Donne le nom de la langue selon le code langue de MediaWiki
+* ne correspond pas toujours à la norme ISO 639
+* la doc renvoie à une page de code de langues avec leurs noms en anglais, mais le ''modèle'' n'est pas valable. Il n'est d'ailleurs pas utilisé dans le ''Template:Language''.
+==== Source ====
+<nowiki>{{Language/{{Fallback|Language|{{{2|}}}}}|1={{{1|}}}}}<noinclude>
+{{documentation}}
+[[Category:Internationalization templates|{{PAGENAME}}]]
+</noinclude></nowiki>
+ 
+=====Sous-modèle ''Fallback''=====
+<nowiki>{{#ifexist: Template:{{{1|}}}/{{#if: {{{2|}}} |{{{2}}}|{{int:Lang}}}} | {{#if: {{{2|}}} |{{{2}}}|{{int:Lang}}}} | {{#ifexist: Template:{{{1|}}}/{{GetFallback|{{#if: {{{2|}}} |{{{2}}}|{{int:Lang}}}}}} | {{GetFallback|{{#if: {{{2|}}} |{{{2}}}|{{int:Lang}}}}}} | {{#ifexist: Template:{{{1|}}}/{{GetFallback2|{{#if: {{{2|}}} |{{{2}}}|{{int:Lang}}}}}} | {{GetFallback2|{{#if: {{{2|}}} |{{{2}}}|{{int:Lang}}}}}} | {{CONTENTLANGUAGE}} }} }} }}<noinclude></nowiki>
+* utilisé pour déterminer la langue appropriée (de repli) d'un modèle losqu'il s'organise autour de sous-pages linguistiques. La langue de repli choisi
+* paramètre 1 : vide par défaut, mais doit être renseigné avec le nom du modèle concerné par la langue de repli
+* paramètre 2 : valeur de <nowiki>{{int:Lang}}</nowiki>, renseignement optionnel
+* la valeur de <nowiki>{{int:Lang}}=</nowiki> est celle de l'interface utilisateur.
+====Rendu====
+Exemple de langue : arabe<br>
+*code choisi : ar
+* à rendre dans les langues suivantes (code choisi entre parenthèses) : allemand (de), anglais (en), français (fr)
+<nowiki>{{language|ar|de}}</nowiki> → Arabisch<br>
+<nowiki>{{language|ar|en}}</nowiki> → Arabic<br>
+<nowiki>{{language|ar|fr}}</nowiki> → arabe<br>
+
+Si l'interface utilisateur est en anglais (en), la variable <nowiki>{{int:Lang}}=</nowiki> donne le code langue. cela revient au modèle suivant :
+* <nowiki>{{language/{{Fallback|Language|{{int:Lang}}}}|ar}}</nowiki> → Arabic
+Si l'interface utilisateur était en français, <nowiki>{{int:Lang}}=</nowiki> aurait donné ''fr'' et affiché "arabe''.<br>
+Si l'interface utilisateur donne une valeur <nowiki>{{int:Lang}}=</nowiki> imprévue, disons ''cy'' (gallois), la langue de repli (''fallback language'') doit être définie :<br>
+
+Le modèle ''Fallback'' comporte deux sous-modèles (''GetFallback'' et ''Getfallback2'') à cet effet.
+* ''GetFallback'' comporte une liste de codes <nowiki>{{int:Lang}}=</nowiki> qui renvoient vers une langue de repli.<br>
+** Quand il n'existe pas de renvoi, la langue de repli choisie est ici l'anglais (''en'') : <nowiki>#default = {{#if: {{{default|}}} | {{{default|}}} | en }}</nowiki>
+** Exemples : 
+*** l'afrikaans (''af'') et le néerlandais informel ne sont pas pris en charge, ils sont renvoyés vers le néerlandais (af | nl-informal = nl'')
+*** les différents dialectes et écritures du chinois sont tous renvoyés vers une seule prise en charge : ''zh-cn | zh-hans | zh-hant | zh-hk | zh-mo | zh-my | zh-sg | zh-tw = zh''
+*** le bas-allemand (''nds'') est renvoyé vers le bas-saxon (''nds-nl'')
+*** le bas-saxon (''nds-nl'') et le plautdietsch (''pdt'') sont renvoyés vers le bas-allemand (''nds'')<br>C'est le serpent qui se mord la queue. C'est pour cela qu'il existe le modèle ''GetFallback2'' 
+* ''GetFallback2'' est une liste complémentaire de codes pour briser la redirection entre langues de repli :
+** le ''nds'' est cette fois renvoyé vers l'allemand (''de'')
+** le ''nds-nl'' vers le néerlandais (''nl'')
+** le ''pdt'' vers l'allemand (''de)
+Dans la pratique, le modèle ''Fallback'' prévoit voit ses deux sous-modèles, deux langues de repli pour ''nds'', ''nds-nl'' et ''pdt''.
+====Template:Language/..====
+Dans la première partie du code se trouve le modèle donnant les noms de langues dans une langue donnée.<br>
+<nowiki>{{Language/{{Fallback|Language|{{{2|}}}}}|1={{{1|}}}}}<noinclude></nowiki> <br>
+Quand le modèle ''Fallback'' a déterminé la langue, disons le français (''fr''), on obtiendrait le code suivant :<br>
+<nowiki>{{Language/fr}}<noinclude></nowiki> <br>
+Ce modèle donne les noms des langues en français (p.ex. ''haw=hawaiien'').<br>
+Certains noms qui figurent dans la liste ne sont pas définis dans le fichier ''Names.php'' du logiciel ''MediaWiki'' utilisé par Ékopédia. Ces langues sont indentées par rapport à la liste afin de les différencier (ce n'est pas nécessaire, mais cela donne l'information).<br>
+====Implications pour Ékopédia====
+Le passage à la norme ISO 639-6 entrainera une modification à terme de ce fichier ''names.php'' du logiciel ''MediaWiki'', surtout que des codes sont obsolètes ou erronés. Le code langue des versions linguistiques actuelles d'Ékopédia pourrait devoir être modifié :
+* exemple : http://fr.ekopedia.org => fra.ekopedia.org (probabilité faible car c'est un nom de domaine)
+Pour les prochaines versions linguistiques, il faudrait pouvoir prendre en compte l'ISO 639-6, mais ce n'est pas une obligation. Les habitudes actuelles vont dans le sens des codes à 2 lettres (3 lettres pour des langues moins parlées), mais cela pourrait changer.
+* exemple : Ékopédia en russe ''rus.ekopedia.org'' (code de 3 lettres en l'occurence) à la place de ''ru.ekopedia.org''
+En l'état,
+
+===[http://fr.wikipedia.org/wiki/Mod%C3%A8le:Langue-local modèle langue local])===
+
+[[Catégorie:Modèles]]
