@@ -1,0 +1,24 @@
+La '''radioactivité''' est un phénomène au cours duquel des noyaux [[Atome|atomique]]s instables se désintègrent spontanément.
+
+== Introduction ==
+Dans un [[matériau]] radioactif, des noyaux atomiques se désintègrent spontanément en d'autres noyaux plus légers et émettent au passage des rayonnements. C'est un phénomène [[naturel]] qui a toujours existé sur [[Terre]] et nous sommes en permanence baignés par une légère radioactivité naturelle. A dose faible, la radioactivité n'est pas dangereuse, elle a même un effet bénéfique. La dangerosité dépend de la nature des rayonnements émis et de leur quantité (liée au nombre de désintégrations par seconde). Les rayonnements alpha sont arrêtés par une simple feuille de [[papier]], les rayonnements bêta par une feuille d'[[aluminium]], tandis que les rayonnements gamme ne sont qu'atténués par le [[plomb]], décroissant exponentiellement selon l'épaisseur du plomb.
+
+== Impact sur les organismes vivants ==
+Dans cette optique on s'intéresse surtout à l'[[énergie]] de radiation reçue par unité de masse des corps vivants. On utilise pour cela le ''gray'' qui représenté l'énergie reçue par unité de masse (J/kg). Mais tous les rayonnements ne sont pas aussi dangereux l'un que l'autre et seule une partie du rayonnement est absorbée (cela dépend des organes exposés, etc). On utilise donc une autre unité synthétique qui exprime directement la gravité d'une exposition aux rayonnements pour un organisme vivant : c'est le ''sievert'' (Sv) qui représente l'énergie efficace absorbée par unité de masse (J/kg). On utilise parfois aussi le ''rem'', correspondant à 10 mSv (millisieverts).
+
+Voici les effets des doses reçues sur une période très courte, basées sur l'expérience d'Hiroshima :
+* < 0.1 Sv : aucun effet notable.
+* 0.5 Sv : élévation de la morbidité sans signe clinique, 7% de mortalité en plus dans les 30 années suivantes.
+* 1 Sv : premiers symptômes d'un mal des rayons, hospitalisation recommandée. 14% de mortalité en plus dans les 30 années suivantes.
+* 5 Sv : très graves symptômes, hospitalisation requise, 50% de mortalité dans les jours qui suivent.
+
+Voici certains seuils annuels pour une contamination diffuse :
+* Limite légale d'exposition aux rayonnements artificiels : 1 mSv par an. 
+* Irradiation reçue en fumant un paquet de cigarette par jour : 7,3 mSv par an. 
+* Limite légale d'exposition aux rayonnements artificiels pour les professionnels du [[nucléaire]] : 20 mSv par an
+
+== Atténuation de la radioactivité avec le temps ==
+[[Image:Loi exponentielle.gif|right|Loi exponentielle selon laquelle la radioactivité diminue]]
+La radioactivité disparaît selon une loi exponentielle, comme illustré sur l'image ci-contre. On utilise le concept de demi-vie : si la demie-vie est de 30 ans, après cette période la radioactivité initiale aura été divisée par deux. Par 4 après 60 ans, par 8 après 90 ans, par 16 après 120 ans, etc... Certains rayonnements émis peuvent toutefois contaminer leur environnement, le rendant à son tour radioactif. Tout dépend de la matière touchée et de la nature des rayonnements émis. Des mesures de décontamination sont possibles, à base de traitement à l'iode et, pour la terre par exemple, en enfouissant les couches superficielles de terre sous une profondeur de 20m de terre.
+
+[[Catégorie:Énergie nucléaire]]
