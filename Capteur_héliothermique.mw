@@ -1,0 +1,212 @@
+{{Vivre ensemble}}
+
+
+Le '''capteur solaire thermique (ou capteur héliothermique)''' est un dispositif conçu pour recueillir l'énergie provenant du [[soleil]] et la transmettre à un fluide caloporteur.
+
+
+== Présentation Générale ==
+=== Principe de fonctionnement d'un collecteur plan ===
+
+* Un capteur ou collecteur solaire plan comprend normalement cinq parties :
+# Une couverture transparente, composée éventuellement de plusieurs éléments (vitre),
+# L’absorbeur qui est aussi la plaque où se réalise la conversion de l’énergie solaire en chaleur,
+# Un circuit caloporteur,
+# Une isolation thermique arrière et latérale,
+# Une structure de liaison, modulaire ou intégrée (toiture solaire).
+
+
+* Schéma d’un collecteur plan standard. Bilan énergétique net simplifié 
+
+<center>[[Image:schemacapteur.gif]] </center>
+
+
+* Du flux solaire global incident sur la vitre, direct et diffus, une fraction importante, entre 80 et 92 %, appelée coefficient de transmission énergétique t, atteint l’absorbeur où une fraction a (coefficient d’absorption) de ce rayonnement est transformée en chaleur. Cette absorption se réalise au sein d’une couche superficielle de la plaque sur une épaisseur très faible (< 0,1 mm). A cet endroit, nous disposons alors d’un flux thermique disponible par m² de surface de vitre égal à :  
+
+
+<center>'''&phi;<sub>plaque</sub> = &alpha;&tau; (G)'''</center>
+
+
+* Ce flux sert d’abord à compenser les pertes thermiques de la plaque vers son environnement avant et arrière. Ces pertes sont en première approximation proportionnelles à la différence de température entre la plaque et l’ambiance, soit Up.(Tp – Ta), où Up est le coefficient global de pertes (W/m².K). Up est de l’ordre de 7 à 8 W/m².K pour un capteur standard. Ce que l’on obtient finalement est le flux utile &phi;u utilisé pour réchauffer le fluide du circuit caloporteur, l’eau (glycolée ou non suivant le type de régions) ou l’air en général.
+
+
+=== Performances d’un capteur plan standard ===
+
+* On obtient donc la formule de Hottel-Whillier-Bliss :
+
+'''&phi;u = (&alpha;&tau;).G – Up.(Tp – Ta)'''
+
+
+* Ainsi que celle du rendement correspondant :
+                                      
+'''&eta; = &phi;u/G = (&alpha;&tau;) – Up.(Tp – Ta)/G '''             
+       
+  			       
+* Cette relation est représentée sur la ''figure'' ci-dessous qui comprend aussi une abaque permettant la détermination de la température atteinte par l’absorbeur par rapport à l’ambiance. L’abscisse est ((Tp-Ta)/G). Cette figure illustre les principales caractéristiques de fonctionnement des capteurs solaire plans.
+
+<center>[[Image:abaque.gif]] </center>
+<center>''Performances d’un capteur plan''</center>
+
+
+* '''Remarque sur le schéma'''
+
+# Le rendement maximum est au point A où (at) sera d’autant meilleur que les matériaux utilisés sont de bonne qualité (vitre – absorbeur).
+# Le rendement décroît selon AB linéairement avec DT et à l’inverse de G.
+# Cette décroissance est d’autant plus rapide que Up est grand. Nous pouvons remarquer que Up est de nature essentiellement thermique et est calculable en fonction des matériaux utilisés, de leur agencement et du dimensionnement.
+# Sous G donné, par exemple 800 W/m²/K, DT possède une valeur maximale égale à [G.(at)/Up] qui ne dépend que de la conception du capteur et est proportionnelle à l’ensoleillement G. Pour G = 800 W/m², on lit DTmax = 87°C (point C) soit une température de l‘absorbeur de l’ordre de 112°C alors qu’à ce moment le rendement est nul ! Nous avons donc ici un ordre de grandeur qui justifie que le capteur solaire plan est lié à des utilisations de températures modérées (< 80°C) ce qui représente 30 à 50 % des besoins totaux d’un pays.
+# Si l’utilisation impose une valeur minimale de DT , par exemple 30 °C pour l’eau chaude sanitaire, il existe un valeur minimale de l’ensoleillement nécessaire, soit 275 W/m² pour l’exemple choisi (point D). Si on impose en outre un rendement de 40 %, c’est un seuil de 536 W/m² qui devient nécessaire (point E) ce qui réduit considérablement les heures effectives de fonctionnement au cours de la journée.
+
+
+''Les performances des capteurs plans dépendent donc beaucoup de la température d’utilisation et de l’ensoleillement disponible. ''
+
+
+
+== Le plus simple des capteurs héliothermiques ==
+Le plus simple des capteurs héliothermiques est un tuyau noir (au pire un tuyau classique : vert) enroulé lâchement sur une tôle ondulée ou un toit, ou simplement sur le gazon : plus il est long, et plus on aura d'eau chaude longtemps. Attention! l'eau peut être ''très'' chaude lorsque le tuyau a été exposé durant une heure! 
+
+
+== Le réservoir tampon ==
+En faisant passer ce tuyau dans un réservoir contentant de l'eau de sorte que l'eau chauffée par le soleil dans le tuyau vienne à chauffer celle dans le réservoir, on crée une inertie thermique dans ce réservoir qu'il est possible ensuite d'utiliser pour chauffer à son tour de l'eau domestique. Mieux ce ''réservoir tampon'' sera isolé, plus facilement il sera chauffé et plus longtemps il gardera la chaleur emmagasinée. 
+
+Le rapport entre le contenu du réservoir et la surface développée de tuyau est d'environ 1 m² pour 1/4 m³ pour un temps de chauffe d'un capteur bien exposé au printemps de 1 à 2 semaines à 60°C.
+
+
+== Capteur héliothermique amélioré ==
+Par l'[[Isolation thermique|isolation]] du tuyau, en le plaçant dans une enceinte appropriée, on augmente notablement la captation de l'énergie solaire par [[effet de serre]]. De même, le choix de [[liquide caloporteur]] améliora sensiblement le système.
+
+=== Capteur plan à vitrage traditionnels ===
+Les capteurs plans avec vitrage sont les plus répandus. Ils sont composés de plusieurs éléments (voir schéma ci-dessous).
+
+<center>[[Image:captsolaire.gif]]'''<   Légende   >'''[[Image:legende.gif]]</center>
+
+
+<center>''Capteur plan avec vitrage''</center>
+
+
+
+====L’absorbeur====
+
+Il a trois fonctions :
+
+* Absorber le rayonnement solaire
+* Puis le transformer en chaleur
+* Enfin la transmettre au fluide caloporteur
+
+L’éclairement de l’absorbeur dépend de l’inclinaison du capteur par rapport au soleil. Il faut donc l’orienter de façon à ce qu’il reçoive un rayonnement solaire optimal. L’absorbeur utilise le rayonnement direct (provenant du disque solaire) et diffus (provenant de la voûte céleste), il n’est donc pas nécessaire de l’orienter en permanence en direction du soleil.
+
+Il faut que l’absorbeur absorbe le maximum de flux solaire, c’est pourquoi il est généralement noir. De cette façon, son coefficient d’absorption a est proche de 0.95. il est préférable d’obtenir cette teinte par traitement chimique que par peinture car celle-ci a tendance à jouer le rôle d’isolant.
+
+Il est aussi souhaitable de limiter les ré-émissions par rayonnement infrarouge. Pour ce faire, il faut que l’absorbeur ait une faible émissivité e (e<0.15). De tels absorbeurs sont appelés sélectifs.
+
+Il faut que la transmission de la chaleur au fluide soit réalisée de façon optimale. C’est pourquoi, l’absorbeur doit être constitué d’un matériau à forte conductivité. On utilise donc des métaux. Plus le coefficient de conductivité est élevé, plus l’épaisseur est réduite pour un même flux transmis au fluide.
+Les tuyaux de circulation du fluide sont montés en parallèle et leur espacement dépend de leur diamètre.
+
+
+====L’isolation et le vitrage====
+
+Le but est de limiter les pertes thermiques au maximum au niveau du capteur. Ainsi, on dispose un isolant sur les faces latérales et arrière du capteur. Cet isolant doit avoir une bonne tenue aux hautes températures en cas d’arrêt de circulation du fluide en période estivale.
+
+En ce qui concerne, la face avant, il est naturellement indispensable qu’elle soit transparente afin de laisser passer le rayonnement solaire. On peut alors utiliser du verre (simple ou double vitrage) ou du plastique (polycarbonate, méthacrylate…). On bénéficie alors du phénomène de l’effet de serre car le vitrage laisse passer le rayonnement solaire mais pas le rayonnement infrarouge émis par l’absorbeur. Cela limite alors le refroidissement par rayonnement. Par ailleurs, l’absorbeur est isolé de l’environnement extérieur, les pertes thermiques par convection dues au vent sont atténuées.
+
+<center>[[Image:abaque2.gif]]</center>
+
+Les performances d’un capteur se mesurent au rapport entre l’énergie transmise à l’eau et l’énergie incidente sur le capteur. Le rendement instantané d’un capteur solaire est d’autant meilleur que la température de sortie du liquide est plus basse. En effet, les pertes thermiques augmentent avec la température du capteur.
+ 
+
+====Exemple de capteur plan avec vitrage : le C8 de Giordano industries====
+Les capteurs C8 « HI » sont pourvus d’une double isolation de 30 mm de mousse de polyuréthane et 30 mm de laine de verre.
+<center>[[Image:photo.gif]]</center>
+<center>''Capteur plan avec vitrage C8S''</center>
+
+
+<center>[[Image:schema2.gif]][[Image:legende2.gif]]</center>
+
+
+====Les capteurs plans sous vide====
+
+Les performances des capteurs plans avec vitrage peuvent encore être améliorées en faisant le vide entre l’absorbeur et le vitrage. Les pertes par convection sont alors plus faibles. L’absorbeur est enveloppé d’un tube en verre trempé très résistant aux chocs.
+
+
+''Exemple de capteur plan sous vide : le Cortec 2C sous vide de Giordano industries''
+<center>[[Image:exple.gif]]</center>
+<center>''Capteur sous vide Cortec 2C''</center>
+
+
+
+
+<center>[[Image:detail.gif]]</center>
+<center>''Capteur Cortec 2C vu de dessus''</center>
+
+
+
+
+<center>[[Image:detail3.gif]]</center>
+<center>''Tube en verre vu de côté et de face''</center>
+
+
+
+====Les capteurs à plaque perforée sans vitrage====
+
+Le principe de ce type de capteur est un recouvrement mural extérieur professionnel perforé de nombreux petits trous espacés de 2 à 4 cm. L’air traverse les trous dans le capteur avant d’être envoyé à l’intérieur du bâtiment afin de fournir du nouvel air de ventilation préchauffé. 
+Les économies sont généralement importantes puisque le capteur fonctionne à des températures proches de celles de l’extérieur. Ces systèmes peuvent être très rentables, particulièrement lorsqu’ils remplacent un revêtement mural du bâtiment classique, puisqu’il est nécessaire de comparer uniquement les coûts différentiels aux économies d’énergie. 
+
+
+
+====Remarque :====
+
+''Il faut souligner que les capteurs solaires sont utilisés pour répondre à certains objectifs : chauffage le plus souvent mais également pour la production d’eau chaude sanitaire et plus récemment la réfrigération thermique et la production thermodynamique d’électricité.''
+
+
+
+
+==Orientation et situation d'un capteur héliothermique==
+Il doit évidemment être disposé de façon à absorber un maximum d'énergie solaire. C'est-à-dire qu'il doit globalement être orienté vers le sud, et tenir compte de la déclinaison, qui est l'angle que forme le soleil avec la verticale. Cet angle varie suivant la latitude et la saison. Il convient donc de connaître, avant toute chose, la latitude de l'endroit où l'on souhaite implanter le capteur. Puis on se sert d'une table astronomique ou éphéméride qui donne la variation saisonnière de la déclinaison.
+
+Prenons un exemple pour une habitation placée à une latitude de 45° :
+
+On sait que l'inclinaison de l'axe de la terre est de 23°5. Cela signifie que la déclinaison du soleil à midi sera de 45° aux équinoxe de printemps et d'automne. Il sera de 45°-23°5 = 21°5 au solstice d'hivers, et de 45°+23°5 = 68°5 au solstice d'été. Donc, l'angle formé par le soleil avec l'horizontale à une latitude de 45° (Nord ou Sud) oscillera entre 21°5 au plus bas en hivers et 68°5 au plus haut en été. 
+
+Le deuxième point à bien tenir compte est que la durée du jour sera minimal en hivers, et maximale en été.
+
+En fait, l'angle que nous allons donner au capteur va déterminer à quel moment de l'année nous voulons que le capteur soit le plus performant. Et cela va dépendre du type d'utilisation voulu.
+
+Pour le cas d'un chauffe eau, les besoins en eau chaude sont à peu constant tout au long de l'année. Par conséquent, on choisira une valeur moyenne, et on fera en sorte que les capteurs marchent au mieux au printemps et en automne. Donc on leur donnera une valeur de 45°.
+
+Pour le cas d'un chauffage solaire, théoriquement, le meilleur angle serait celui du solstice d'hivers (soleil à 21°5 donc capteur à 68°5). Mais comme d'une part il s'agit du moment ou la durée du jour est la plus petite, et d'autre part souvent la plus nuageuse, on choisira un angle un peu plus important, ce qui positionnera les dates optimum un peu plus tôt (par exemple novembre) et un peu plus tard (janvier). Un angle de capteur avec l'horizontale de 55° / 60° est correcte. De plus, on profite de deux passage par an du soleil au point de meilleur rendement plutôt qu'un seul.
+
+
+Un autre point très important est le masque solaire.
+Les masques solaire sont l'ensemble des bâtiments, arbres pouvant empêcher un ensoleillement correcte des capteur. C'est pour cela qu'on place généralement les capteurs le plus haut possible sur une maison ou un bâtiment. On peut faire une étude détaillée sur diagramme en reportant les masques pour estimer la quantité d'énergie récupérable. Dans la pratique, le bon sens suffit : On met le capteur à l'endroit le plus ensoleillé...
+
+
+Il faut donc si cela est possible placer les capteurs dans endroit ou il y a un minimum d'ombre, que ce soit sur un toit ou au sol.
+
+==Capteur parabolique==
+Le capteur parabolique utilise le principe de la parabole qui concentre les rayons solaires en un point où seraient situés les tuyaux calorifiques. C'est idéal comme système car il capte plus de rayonnement et permet de réchauffer plus vite et mieux. Ses principaux désavantages sont: coût excessif, besoin de beaucoup de place selon le système utilisé et il faut un système qui oriente le capteur vers le soleil. En effet, l'alignement est capital pour concentrer le rayonnement au foyer.
+
+==Distillateur solaire==
+Les distillateurs solaires sont des capteurs héliothermiques qui utilisent la chaleur solaire pour chauffer de l'eau saumâtre afin de la faire évaporer, de sorte qu'elle se condense sur une toile pourvue d'un système de récupération de l'eau douce. On peut ainsi compter récupérer entre 3 et 5 litres d'eau au m2.
+
+
+==Voir aussi==
+=== Liens internes ===
+{{Base|Category:Solar hot water panels}}
+* [[Énergie solaire]]
+* [http://fr.ekopedia.org/Puits_proven%C3%A7al#Hypoth.C3.A8ses 20m² et 2m³ pour sanitaire et chauffage]
+Les distillateurs solaires sont des capteurs héliothermiques qui utilisent la chaleur solaire pour chauffer de l'eau saumâtre afin de la faire évaporer, de sorte qu'elle se condense sur une toile pourvue d'un système de récupération de l'eau douce. On peut ainsi compter récupérer entre 3 et 5 litres d'eau au m2.
+* [[Cellules graetzel]]
+* [[Construire un panneau solaire thermique]]
+
+=== Liens externes ===
+* [http://www.outilssolaires.com/infos/prin-ensoleil.htm Ensoleillement en Europe]
+* [http://www.outilssolaires.com/premier/prin-sousvide.htm un capteur sous vide]
+* [http://www.canren.gc.ca/tech_appl/index_f.asp?CaID=5&PgID=435 site plus général]
+* [http://amet.pierre.free.fr/ Deux autoréalisations]
+* [http://www.sebasol.ch/radiateur2.asp Faire ses radiateurs]
+* [http://www.ciele.org/filieres/solairethermique.htm Un site pour les Français (aide, crédit d'impôt, etc.]
+* [http://www.rdp.fr/index.html?indexm.html&indexet.html&r_solaire.htm Énergie solaire, Géothermique]
+* [http://chrisidangel.free.fr/MoteurPalettes]  Document CEA : Faire du froid solaire (Colloques internationaux du CNRS N° 306 - SYSTEMES SOLAIRES THERMODYNAMIQUES STS 80-93) 1993.
+
+===Bibliographie===
+
+[[Catégorie:Énergie solaire]]
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
