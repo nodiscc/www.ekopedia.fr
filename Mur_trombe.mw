@@ -1,0 +1,131 @@
+{{Ébauche}}
+
+
+== Description ==
+Le mur trombe est un système de chauffage qui utilise l’énergie solaire. Il est constitué d’un mur sombre orienté plein sud auquel on vient coller un vitrage pour profiter de l’effet de serre. Le mur ne doit pas être isolé pour permettre une bonne conduction vers l'intérieur de l'habitation, il est préférentiellement en pierre ou en béton lourd pour profiter de l'inertie thermique de ces matériaux. 
+C’est un mur capteur qui comporte dans sa partie basse et dans sa partie haute des orifices de communication entre l’espace de vie et la lame d’air comprise entre vitrage et surface réceptrice.
+
+	Contrairement aux murs capteurs accumulateur de base, le transfert thermique vers l’intérieur peut s’effectuer de deux façons :
+
+* Pendant la période d’ensoleillement de la façade ; les orifices ménagés dans le mur rendent possible la distribution de la chaleur par thermo circulation : l’air intérieur entre par les orifices du bas du mur, se réchauffe au contact de la paroi (qui peut être portée à 65°C). Ce faisant, il s’élève, et retourne dans le volume habitable par les orifices supérieurs.
+
+[[Fichier:Mur trombe periode de chauffe.jpg |center|thumb|500px|]]
+
+
+*Lorsque les besoins de chauffage instantanés n’ont plus lieu d’être ou lorsque le soleil ne chauffe plus la paroi, les orifices bas et haut sont refermés. La chaleur accumulée par le mur se transmet alors plusieurs heures après par rayonnement dans l’espace habitable… Le mur trombe fonctionne alors comme un mur capteur de base.
+
+[[Fichier:Mur trombe nuit en periode de chauffe.jpg |center|thumb|500px|]]
+
+
+	Les études et les mesures effectuées sur les premières maisons expérimentales utilisant le mur trombe ont montré que l’énergie solaire utilisée fournissait de 70 % à 85 % des besoins de chauffage sans aucune assistance mécanique. Aujourd’hui, avec des vitrages deux à trois fois plus performants, de tels résultats sont possibles sur des projets moins typés, avec des surfaces  plus restreintes et plus variées. Pour une maison de 100m² au sol on peut espérer récupérer 175 kwh/(m².an) à Paris. 
+
+== Historique ==
+Le '''mur Trombe''' ou '''mur Trombe-Michel''', a été conçu par le Professeur [[Félix Trombe]](1906-1985) et l'architecte [[Jacques Michel]].
+Edward Morse breveta le concept en 1881 (US Patent 246626), mais il fut ignoré jusqu'en 1964.
+== Mise en pratique ==
+===Caractéristiques du vitrage et de la lame d’air===
+
+*Le choix du vitrage demande un compromis entre résistance thermique et transmission de l’énergie solaire.
+Un vitrage simple transmet mieux le rayonnement mais est plus déperditif pendant les périodes non ensoleillées.
+Les vitrages peu émissifs sont intéressants, grâce à un film mince réfléchissant ils créent une barrière au rayonnement infra rouge venant de l'intérieur. On a donc moins de pertes par rayonnement dans la paroi.
+
+[[Fichier:double_vitrage_peu_emissif.jpg |left|thumb|400px|]][[Fichier:Transmission des vitrages.jpg |right|thumb|600px|]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Pour limiter les déperditions l’épaisseur optimale de  la lame d’air entre la vitre et le mur devrait être de 25mm (l’air est un des meilleurs isolants quand il est immobile). Cependant pour assurer la fonction de thermo circulation décrite précédemment une épaisseur de 9cm est nécessaire pour un capteur de 3 mètres de haut.
+
+
+
+===Caractéristiques des ouvertures de ventilation basses et hautes===
+
+*Pour permettre une bonne circulation de l’air par la seule thermo circulation, les sections des ouvertures doivent être d’environ 3% de la surface vitrée.
+On peut augmenter la surface des ouvertures supérieures de 10% au maximum pour tenir compte de la dilatation de l’air lorsqu’il circule entre le mur et le vitrage.
+
+
+
+===Surchauffes estivales===
+
+*En été le soleil est haut dans le ciel. Une avancée de toit ou un balcon placés au dessus du capteur permettent l’ensoleillement direct en hiver  tout en le limitant en été. C’est ici encore un compromis, entre protection estivale et efficacité hivernale.
+
+[[Fichier:Ensoleillement ete hiver.jpg |center||thumb|400px|]]
+
+
+===Isolation extérieure amovible=== 
+
+*L’ajout d’un volet isolant est un surcoût qui peut être préconisé, car en hiver la durée d’ensoleillement journalière est faible. Pendant la période non ensoleillée  le mur trombe est bien moins performant qu’un mur classique. Les déperditions sont divisées environ par 2 si le vitrage est double, et par trois si le vitrage est simple.
+De plus si le volet est peint de couleur claire il permet de limiter les surchauffes d’été.
+Ces volets sont très contraignants car chaque matin les occupants doivent les ouvrir et  les fermer chaque soir. Toutefois, on peut prévoir un système automatisé avec détecteur de lumière.
+
+
+
+==Limites==
+
+Malgré de bons résultats, le mur Trombe originel présentait plusieurs inconvénients :
+
+*La thermo-circulation est aléatoire. Si l’on oublie de fermer les orifices en l’absence de soleil, le système de thermo circulation peut s’inverser pendant la nuit et au final l’habitat  perd plus de calories qu’il n’en gagne.
+
+*Les mur Trombe privilégient la convection, plus instantanée, mais moins confortable que le rayonnement.
+
+*Ce chauffage par convection crée de fait un brassage de poussières dont certaines iront dans la lame d’air entre le vitrage et le mur, endroit difficile à nettoyer. Cette poussière diminue le facteur de transmission des vitrage, ce qui fait fortement diminuer le rendement de l'installation. 
+
+*La recherche du rendement maximal grâce à des surfaces noires ou très sombres,  peut avoir une incidence esthétique parfois discutable.
+
+Certains de ces inconvénients disparaissent par la mise en place de filtres anti-poussière et de clapets anti-retour ou de ventilateurs qui, lorsqu’ils sont couplés à des capteurs thermiques, permettent une automatisation complète ou partielle du système.
+
+==Voir aussi==
+[[Chauffage]]
+=== Liens internes ===
+=== Liens externes ===
+* {{fr}} [http://fr.wikipedia.org/wiki/Mur_Trombe Mur Trombe]sur le site de Wikipédia
+* {{fr}} [http://www2.ademe.fr/servlet/KBaseShow?sort=-1&cid=96&m=3&catid=15040 Murs capteurs et mur trombe] sur le site de l'[[Agence de l'environnement et de la maîtrise de l'énergie|ADEME]]
+* {{fr}} [http://www.outilssolaires.com/Glossaire/pop-Trombe.htm Schéma de principe du Mur Trombe]
+* {{en}} [http://www.nrel.gov/buildings/highperformance/trombe_walls.html Dossier du laboratoire de recherche américain NREL sur le Mur Trombe]
+
+[[Catégorie:Énergie solaire]]
+[[Catégorie:Construction écologique]]
+
+=== Bibliographie ===
+[[Catégorie:Chauffage]]
