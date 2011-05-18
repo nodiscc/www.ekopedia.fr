@@ -1,0 +1,199 @@
+{{Ebauche}}
+{{Se loger}}
+
+:Le terme [[Matériaux à changement de phase|Matériau à Changement de Phase]] - ou [[Matériaux à changement de phase|MCP]] - désigne, de manière générale, tout matériau capable de changer d'état physique. Cependant, seuls certains [[Matériaux à changement de phase|MCP]] sont intéressants et utilisables dans les domaines d'application actuels (''isolation thermique, capteurs solaires thermiques sous vide,...'').
+
+:Par la suite, nous n'évoquerons que les [[Matériaux à changement de phase|MCP]] dont les domaines d'utilisation concernent les phases ''liquides/solides''.
+
+
+==Principe du changement de phase : ''Chaleur Sensible'' et ''Chaleur Latente''==
+:Tout matériau, solide ou liquide (ou gazeux) possède une capacité à stocker ou céder de l'énergie sous forme de chaleur. On distingue 2 types de transfert de chaleur (ou transfert thermique):
+
+:::*Le transfert thermique par l'utilisation de la '''Chaleur Sensible''' ('''CS''') : dans ce cas, le matériau en question peut céder ou stoker de l'énergie en voyant varier sa propre température, sans pour autant changer d'état. La grandeur utilisée pour quantifier la '''CS''' échangée par un matériau est la '''Chaleur Massique''' notée '''C<sub>p</sub>''' dans le cas d'un solide ou d'un liquide et exprimée en '''J/(kg.K)'''.
+ ''Exemple :'' '''C<sub>p<sub> eau</sub></sub>''' = 4186 '''J/(kg.K)''' signifie qu'il faut 4186 Joules pour élever 1 kg d'eau de 1°C (valable aux températures proches de 20°C)
+
+:::*Le transfert thermique par l'utilisation de la '''Chaleur Latente''' ('''CL''') : dans ce cas, le matériau peut stocker ou céder de l'énergie par simple changement d'état, tout en conservant une température et une pression constante, celle du changement d'état. La grandeur utilisée pour quantifier la '''CL''' échangée par un matériau est la '''Chaleur Latente de Changement de Phase''' notée '''L<sub>f</sub>''' (pour ''fusion'') pour un changement de phase Liquide/Solide, et '''L<sub>v</sub>''' (pour ''vaporisation'') pour un changement de phase Liquide/Vapeur. Celle-ci est exprimée en '''J/kg'''.
+ ''Exemple :'' '''L<sub>f<sub> eau liquide</sub></sub>''' = 330.10³ '''J/kg''' signifie que la fusion, c'est-à-dire la fonte, de 1 kg de glace 
+ 
+ à la température (constante) de 0°C nécessitera une énergie de 330000 Joules soit 330 kJ.
+
+==Intérêts des ''Matériaux à Changement de Phase''==
+===''Compacité'' ou ''Densité Énergétique''===
+Il est important de noter que les quantités d'énergie mises en jeu dans le processus de ''Changement de Phase'' sont bien plus importantes que celles
+qui interviennent lors de transferts sensibles (dans la mesure où l'on travaille sur des intervalles restreints de températures). C'est grâce à ces transferts latents qu'il est aujourd'hui possible de réduire considérablement le volume d'un élément de stockage d'énergie (''Compacité''), ou encore d'augmenter très fortement la quantité d'énergie contenue dans un même volume de stockage (''Densité Énergétique'').
+:On notera, d'autre part, qu'un [[Matériaux à changement de phase|MCP]] peut cumuler les 2 types de transferts thermiques décrits précédemment.
+
+
+{| border="1"
+! ''Exemple :''
+|'''Acétate trihydrate de sodium'''
+|-
+! '''T<sub>fusion</sub>'''
+| 55-58 '''°C'''
+|-
+! '''L<sub>f</sub>'''
+| 242,85.10³ '''J/kg'''
+|-
+! '''C<sub>p<sub>solide</sub></sub>'''
+| 3,31.10³ '''J/(kg.K)''' à 30°C
+|-
+! '''C<sub>p<sub>liquide</sub></sub>'''
+| 3,06.10³ '''J/(kg.K)''' à 70°C
+|-
+! '''&rho;<sub> liquide</sub>'''
+|1279 '''kg/m³''' à 30°C
+|-
+! '''&rho;<sub> solide</sub>'''
+|1392 '''kg/m³''' à 70°C
+|}
+
+:*''Compacité''
+
+:De la même manière, pour stocker 100kWh de 55°C à 58°C, il faut des volumes '''V<sub> eau</sub>''' et '''V<sub> MCP</sub>''' :
+ '''V<sub> eau</sub>''' = 100000*3600/('''C<sub>p<sub> eau</sub></sub>'''*(58-55)*'''&rho;<sub> eau</sub>''')
+ = 28,7 m³
+ 
+ '''V<sub> MCP</sub>''' = 100000*3600/('''L<sub>f<sub> MCP</sub></sub>'''*'''&rho;<sub> MCP</sub>''')
+ = 1,1 m³
+:Le volume du MCP utilisé pour stocker 100kWh entre 55°C et 58°C est donc plus de 26 fois plus petit que celui de l'eau. Il possède donc une plus grande ''Compacité''.
+
+
+:*''Densité Énergétique''
+
+:L'Énergie '''E<sub>30-70</sub>''' accumulée par 1 m³ de ce [[Matériaux à changement de phase|MCP]] entre 30°C et 70°C vaut :
+ E<sub>MCP<sub>30-70</sub></sub> = 1*1392*'''C<sub>p<sub> MCP solide</sub></sub>'''*(55-30) + 1*1392*'''L<sub>f</sub>''' + 1*1279*'''C<sub>p<sub> MCP liquide</sub></sub>'''*(70-58)
+ = 5,00.10<sup>8</sup> Joules = 139 kWh
+:Sur le même intervalle de température, le même volume d'eau (1 m³) accumulerait une quantité '''E<sub>eau<sub>30-70</sub></sub>''' :
+ E<sub>MCP<sub>30-70</sub></sub> = 1*1000*'''C<sub>p<sub> eau liquide</sub></sub>'''*(70-30)
+ = 1,67.10<sup>8</sup> Joules = 46,4 kWh
+:Le MCP considéré a donc permis de stocker plus de 3 fois plus d'énergie pour un même volume. Il possède donc une plus grande ''Densité Énergétique''.
+
+===''Régulation Thermique Passive'' ou ''Rôle Tampon''===
+:Le caractère isotherme ou quasi isotherme de la charge et de la décharge énergétique d'un [[Matériaux à changement de phase|MCP]] permet son utilisation en temps que régulateur de température : en effet, si l'on intègre ce dernier à la structure extérieure (murs extérieurs, plancher bas) d'un bâtiment, il devient alors possible de stocker de la chaleur lorsque celle-ci est surabondante(été) ou présente au mauvais moment(dans la journée l'hiver). 
+:*En été, la chaleur contenue dans la pièce est captée par les parois et diminue de ce fait la température ambiante de la pièce. Selon le [http://www.cstb.fr/actualites/webzine/thematiques/batimat/materiaux-a-changement-de-phase-vers-une-climatisation-douce.html CSTB], il est alors possible d'écrêter de 3°C à 5°C les pics de température d'un bâtiment, diminuant de ce fait les coûts liés aux dépenses énergétiques d'une climatisation artificielle.
+:*En hiver, on peut de la même manière stocker la chaleur apportée par le soleil dans les [[Matériaux à changement de phase|MCP]] incorporés aux parois ; ceux-ci restitueront la chaleur accumulée dans la journée à la fin de la journée et pendant la nuit.
+Par ailleurs, tout [[Matériaux à changement de phase|MCP]] peut servir de déphaseur thermique : tout apport ou perte énergétique (variation de température, rayonnement solaire,...) en provenance du milieu ambiant peut provoquer la fusion ou la cristallisation du matériau à température quasi constante. Dès lors, le milieu situé de l'autre côté du [[Matériaux à changement de phase|MCP]] ne ressent pas aussitôt l'effet de cet apport ou de cet perte, mais ne commencera à le ressentir qu'après la fusion ou la cristallisation totale du matériau.
+==='''Éventail de températures'''===
+:Un intérêt marquant à l'utilisation des [[Matériaux à changement de phase|MCP]] réside dans le fait que la température de fusion du matériau peut presque être choisie au degré près, étant donnée la grande variété des [[Matériaux à changement de phase|MCP]]. Cela permet, par exemple, de choisir des [[Matériaux à changement de phase|MCP]] dont les températures de fusion sont proches de 19°C et 27°C, respectivement températures limites de confort hivernal et estival. Le paragraphe suivant présente un tableau non exhaustif de différents matériaux à changement de phase, accompagnés de leurs températures de fusion et autres données techniques.
+==Exemples et Types de Matériaux à changement de phase==
+:Il existe de nombreux types de matériaux à changement de phase, de nature physico-chimique très différentes les unes des autres.
+Ce sont leurs caractéristiques de fusion-cristallisation qui les rendent intéressants pour le stockage de chaleur latente.
+Parmi ces matériaux, on distingue les 3 grandes familles suivantes:
+:*Les composés ''minéraux'' (ou ''inorganiques'')
+Parmi ces composés, seuls les sels hydratés présentent un intérêt pour leur utilisation en tant que [[Matériaux à changement de phase|MCP]]. Ils sont issus d'un [[alliage]] de sels organiques et d'eau.<br />Ils ont l'avantage de posséder des grandes chaleurs latentes et des prix bas.<br />En revanche, leur principal défaut concerne leur tendance à la surfusion.
+:*Les composés ''organiques''
+De propriétés thermiques (chaleur latente et conductivité thermique en particulier) moindre que les sels hydratés, ceux-ci présentent l'avantage de n'être pas ou très peu concernés par la surfusion. On utilise en particulier, pour le stockage de chaleur latente, les paraffines et les acides gras qui appartiennent à cette famille.
+:*Les composés ''eutectiques''
+Les ''Eutectiques'' sont un mélange de sels possédant une température de fusion constante s'ils pour une valeur particulière de concentration.<br />Ils peuvent être inorganiques et/ou organiques.
+
+{| border="1"
+! Nom !! T<sub>fusion</sub> (°C) !! L<sub>f</sub> (kJ/kg) !! C<sub>p<sub>solide</sub></sub> (kJ/(kg.K)) !! C<sub>p<sub>liquide</sub></sub> (kJ/(kg.K) !! &rho;<sub> solide</sub> (kg/m³) !! &rho;<sub> liquide</sub> (kg/m³)
+|-
+! colspan="7" bgcolor="#939393" | ''Composés Organiques''
+|-
+|'''Acide formique'''
+|8,3
+|247
+|?
+|0,099
+|?
+|1220
+|-
+|'''Acide acétique'''
+|16,7
+|194
+|?
+|?
+|1266
+|1049
+|-
+|'''Phénol'''
+|40,8
+|120
+|?
+|?
+|1070
+|?
+|-
+|'''Acide dodécanoïque'''
+|41-43
+|211,6
+|1,76
+|2,27
+|1007
+|862
+|-
+|'''Acétate trihydrate de sodium'''
+|55-58
+|242,85
+|3,31 à 30°C
+|3,06 à 70°C
+|1392 à 30°C
+|1279 à 70°C
+|-
+|'''Hydroxyde de Sodium'''
+|64,3
+|272,15
+|1,88 à 30°C
+|2,18 à 70°C
+|1720 à 30°C
+|1670 à 70°C
+|-
+! bgcolor="#939393" colspan="7" | ''Composés Inorganiques''
+|-
+|'''H<sub>2</sub>''' ('''Eau''')
+|0
+|330
+|2,06 à 0°C
+|4,186 à 20°C
+|998 à 20°C
+|917 à 0°C
+|-
+|'''H<sub>2</sub>SO<sub>4</sub>''' ('''Acide Sulfurique''')
+|10,4
+|100
+|?
+|?
+|?
+|1838
+|-
+|'''SO<sub>3</sub>''' ('''Trioxyde de Soufre''')
+|16,9
+|108
+|?
+|0,024
+|?
+|1920
+|-
+|'''H<sub>3</sub>PO<sub>4</sub>''' ('''Acide Phosphorique''')
+|26,0
+|147
+|?
+|?
+|1834
+|1685
+|-
+|'''Ga''' ('''Gallium''')
+|29,8
+|80
+|0,370
+|?
+|5904
+|?
+|-
+|}
+
+==Applications==
+=== ''Stockage solaire thermique'' ===
+:Le principal problème lié à l'utilisation de l'énergie solaire thermique concerne son stockage : la production d'Eau Chaude Sanitaire (ECS) via la circulation d'eau au-travers de panneaux solaires est directement dépendante de l'ensoleillement. Cet apport énergétique a lieu que l'on en aie besoin (bénéfique) ou non (perte énergétique par surabondance). L'utilisation de [[Matériaux à changement de phase|MCP]] pour le stockage de cette énergie par chaleur latente permettrait de résoudre en partie ce problème :
+::*d'une part, la quantité d'énergie stocké dans un ballon de même volume sera plus grande avec un [[Matériaux à changement de phase|MCP]] qu'avec de l'eau seule(cf. paragraphe [[#Compacité ou Densité Énergétique|Compacité ou Densité Énergétique]]) : il sera donc possible d'accumuler une plus grande quantité de chaleur que celle nécessaire à une seule journée d'occupation.
+::*par ailleurs, ne pouvant élever indéfiniment la température du volume de stockage (risque de vaporisation du fluide néfaste aux pompes de circulation), il est en revanche possible de stocker cette chaleur sous forme latente sans pour autant élever la température du matériau (en utilisant par exemple un [[Matériaux à changement de phase|MCP]] dont la température de fusion se situe aux environs de 60°C ou 70°C). Cette chaleur supplémentaire accumulée sera cédée par la suite  
+=== Amélioration de la stratification d'un ballon d'Eau Chaude Sanitaire(ECS) solaire ===
+:Le principal problème de stockage de l'énergie au sein d'un ballon d'ECS solaire est l'absence de stratification(l'intégralité du volume d'eau chaude contenue dans le ballon n'est que rarement prélevée en une seule fois) : le volume d'eau à l'intérieur du ballon a tendance à homogénéiser sa température lors de son retour et de son départ vers les panneaux. Une fois une température trop basse atteinte(par exemple 40°C), il n'est plus possible d'utiliser cette eau pour le circuit d'ECS. Pourtant, il suffit que cette chaleur soit "mieux répartie" pour que l'on puisse encore puiser de l'eau à une température convenable(un ballon de 100L à 40°C contient la même quantité d'énergie que 2 ballons de 50L aux températures respectives de 30 et 50°C).
+:L'utilisation de [[Matériaux à changement de phase|MCP]] permet alors la création de "couches de stratification" dont les températures se situeront aux environs des températures de fusion des différents matériaux utilisés.
+===Climatisation Passive===
+===Intégration aux textiles : ''Régulation thermique corporelle''===
+==Limites==
+=== Références ===
+
+{{Références|colonnes = 1}}
