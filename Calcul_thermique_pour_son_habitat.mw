@@ -1,0 +1,141 @@
+{{se loger}}
+
+Les '''calculs thermiques''' permettent de renseigner sur la consommation annuelle d'une maison. Celle-ci est de plus en plus prise en compte de nos jours. C'est pour cela que de plus en plus de [[maisons bioclimatiques]] apparaissent dans nos paysages. L'étude réalisée permet à n'importe quelle personne, qui connaît sa consommation annuelle en chauffage (en kWh/m²), de la comparer par rapport à celle d'une [[maison bioclimatique]]. Dans le but de savoir si celle-ci aurait besoin de quelques [[isolation]]s ou améliorations supplémentaires, ou s’il faudrait plutôt envisager d'investir dans une [[maison bioclimatique]] quand on est sur le point d'acheter.
+
+
+
+== Description ==
+=== Maison traditionnelle ===
+La maison dite traditionnelle correspond à n'importe quelle construction ne faisant pas appel à des techniques bioclimatiques. Dans cette étude vous trouverez deux types de maisons. La maison construite dans les années 50 et celle dans les années 80. Ce sont les matériaux qui les composent qui les différencient.
+
+=== Maison bioclimatique ===
+
+
+
+== Maison traditionnelle ==
+=== Présentation de la maison ===
+Une maison est en moyenne capable d’accueillir une famille de quatre personnes et a une surface de 90m² (données INSEE). Nous nous sommes appuyés sur ces données, afin qu'un maximum de personnes puisse profiter de ces conseils.
+<gallery>
+Image:Plan_maison_01.jpg|Plan de la maison étudiée
+Image:Plan_maison_02.jpg|Vue de l'extérieur sans le toit
+Image:Plan_maison_03.jpg|Vue de l'extérieur avec le toit avec les textures représentées
+</gallery>
+
+=== Présentation des paramètres de calcul ===
+La température à été réglée à 19°C la journée et à 15°C la nuit.
+Les localisations choisies ont été : (Afin de regrouper différents types de climat)
+[[Image:Carte_de_localisation_des_calculs.jpg|center]]
+Toute habitation située en région parisienne peut être comparée à celles situées à Nancy. Et ainsi de suite.
+
+=== Présentation des matériaux ===
+Les matériaux de base des deux maisons de l'étude sont les suivants:
+[[Image:Materiaux_de_base_50-80.jpg|center]]
+Dans ce tableau on retrouve l'épaisseur de la paroi (en cm), sa densité (en kg/m²) et la '''résistance thermique R''' (voir : [[Conductivité thermique]]).
+
+=== Premiers calculs ===
+
+[[Image:Resultats_de_base.jpg|center]]
+
+=== Présentation des améliorations ===
+Les résultats obtenus sont bien conformes à la réalité. Pour une maison ancienne, la consommation oscille autour de 230 KWh/m² et pour les maisons actuelles autour de 90 KWh/m².
+
+Les facteurs importants pour une économie d’énergie maximum sont :
+*'''L'isolation thermique''' (d’une épaisseur de 8 à 10 cm pour une maison traditionnelle, il faudrait qu’elle atteigne jusqu'à 30 cm d’épaisseur et qu’elle soit posée à l’extérieur (afin qu’elle recouvre l’intégralité de la maison) pour être vraiment efficace).
+*'''La ventilation''' (assure une absorption de la chaleur pour une réutilisation).
+*'''Les fenêtres''' sont les premières sources de perte de chaleur et d’énergie. Il faut préserver leur étanchéité, restreindre les grandes surfaces vitrées au nord pour les favoriser au sud. Avoir des volets isolant est aussi très important).
+*'''L'étanchéité à l'air''' (Diminue les pertes d’énergie et augmente le confort).
+*'''L’orientation''' (Les pièces de vie (chambres, séjour…) doivent se situer au sud, avec un maximum de fenêtres au sud. Les vitres est et ouest sont déficitaires en hiver mais apportent beaucoup de chaleur en été alors que l’on cherche à l’éviter).
+
+Les pertes d’énergies dans une maison se répartissent ainsi :
+[[Image:Deperdition_d'une_maison_traditionnelle.jpg|center]]
+
+Sur la base de ces données, les améliorations prioritaires apparaissent.
+
+=== Améliorations envisagées ===
+
+# L’[[isolation]] du toit avec une épaisseur de 5, 10, 15 et 20 cm. Le but étant de choisir l’épaisseur la plus économique.
+# L’[[isolation]] des murs extérieurs avec une épaisseur de 10, 15 et 20 cm. Dans le même but.
+# L’[[isolation]] des fenêtres avec du triple vitrage pour les fenêtres orientées au nord.
+# La disposition de plus grandes fenêtres au sud et moins à l'est et à l'ouest
+# La disposition de casquettes au dessus des fenêtres
+
+=== Résultats des différentes améliorations ===
+ '''1.Isolations de la toiture et des murs extérieurs'''
+* '''Type années 50'''
+<gallery>
+Image:Resultats_iso_murs_et_toit.jpg|Résultats obtenus (en kWh/m²) après différentes épaisseurs d'isolation sur les murs extérieurs et sur la toiture.
+Image:Graph_iso_toit_50.jpg|Courbes de comparaison des épaisseurs d'isolation pour la toiture
+Image:Graph_iso_murs_50.jpg|Courbes de comparaison des épaisseurs d'isolation pour les murs extérieurs
+Image:Grapd_temp_avantapres_iso10-10.jpg|Courbes de température avant et après l'isolation choisie
+</gallery>
+
+L'épaisseur la plus économique serait 10 cm d'isolation sur les murs extérieurs et la toiture. Au delà de 10 cm le rapport économie d'énergie et coût des travaux ne serai pas avantageux.
+
+* '''Type années 80'''
+<gallery>
+Image:Resultats_iso_murs_et_toit_80.jpg|Résultats obtenus (en kWh/m²) après différentes épaisseurs d'isolation sur les murs extérieurs et sur la toiture.
+Image:Graph_iso_toit_80.jpg|Courbes de comparaison des épaisseurs d'isolation pour la toiture
+Image:Graph_iso_murs_80.jpg |Courbes de comparaison des épaisseurs d'isolation pour les murs extérieurs
+</gallery>
+
+ '''2.Isolation avec du triple vitrage'''
+
+<gallery>
+Image:Resultats_TV.jpg|Résultats obtenus (en kWh/m²) après avoir isoler avec du triple vitrage
+Image:Grapd_temp_avecsans_TV_iso10-10.jpg|Courbes de température avec et sans triple vitrage
+</gallery>
+
+L'isolation avec du triple vitrage pour les fenêtres au nord ne change rien pour la consommation en énergie. En revanche elle change pour la conservation de la température.
+
+ '''3.Ajout de grandes fenêtres et de casquettes au-dessus'''
+Ces essais ont été réalisé avec l'isolation de 10 cm pour la maison type années 50 et l'isolation avec les matériaux de base pour la maison type années 80.
+<gallery>
+Image:Resultats_conso_baie-casquette.jpg|Résultats obtenus (en kWh/m²) après la mise en place de baies vitrées au sud et de casquettes au-dessus de celles-ci.
+Image:Maison_avec_casquettes_et_baies.jpg|Vue de la maison après diverses améliorations
+</gallery>
+Pour les localisations comme Nancy et La Rochelle, cette amélioration Apporte fait gagner de l'énergie en été mais en fait perdre en hiver. Pour celles comme Ajaccio, le gain en énergie n'est pas très importants, mais reste efficaces tout au long de l'année.
+
+=== Couplage des différentes améliorations ===
+[[Image:Couplages_des_resultats_type_50.jpg|center]]
+
+
+
+=== Comparaison avec une maison neuve ===
+[[Image:Ccomparaison_Iso50_et_2008.jpg|center]]
+Une simple isolation de la toiture et des murs extérieurs permet d'obtenir une consommation en chauffage équivalente à ce que l'on peut construire de nos jours.
+
+
+
+== Maison bioclimatique ==
+
+
+
+
+==Voir aussi==
+=== Liens internes ===
+* [[Isolation (thermique)]]
+* [[Conductivité thermique]]
+* [[Maison passive]]
+* [[Maison bioclimatique]]
+* [[Pont thermique]]
+* [[Rénover son habitat]]
+* [[Construire son habitat]]
+
+=== Liens externes ===
+* [http://www.semainedudeveloppementdurable.gouv.fr/ Semaine du développement durable]
+* [http://fr.wikipedia.org/wiki/Architecture_bioclimatique/ Qu'est qu'une architecture bioclimatique]
+* [http://maison.passive.free.fr/ Qu'est ce qu'une maison passive]
+* [http://www.materiauxnaturelsdefrance.com/ Qu'est ce qu'un matériaux naturel]
+* [http://www.lamaisonpassive.fr/ Qu'est ce qu'une maison passive]
+* [http://fr.wikipedia.org/wiki/Isolation_thermique/ comment réaliser une bonne isolation thermique]
+* [http://isolmieux.webou.net/ Outil de dimensionnement de l'isolation]
+* [http://www.ecologie-pratique.org/construire/ Construire écologique mode d'emploi]
+* [http://fr.wikipedia.org/wiki/R%C3%A9sistance_thermique/ Qu'est ce qu'une résistance thermique]
+* [http://www.android-software.fr/wflowhelper wFlowHelper] : Une application d'aide au dimensionnement des gaines.
+
+=== Bibliographie ===
+
+
+[[Catégorie:construction écologique]]
+
+{{Portail Se loger}}
