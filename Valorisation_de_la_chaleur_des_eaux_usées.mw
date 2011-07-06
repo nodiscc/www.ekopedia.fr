@@ -1,0 +1,78 @@
+{{wikifier}}
+C’est un système de [[chauffage]], de rafraîchissement et de production d'eau chaude sanitaire par récupération des calories des [[Eau| eaux]] usées. C’est une des rares sources d'[[Énergie renouvelable|énergie renouvelable]] et non polluantes à échelle urbaine.
+
+==Description détaillée==
+
+[[Image:Recuperation_chaleur_eau_domestique.jpg|thumb|Réseau de chaleur]]
+
+Ce système est constitué de:
+
+* un échangeur qui capte l'énergie dans les eaux usées.
+* une [[pompe à chaleur]] (PAC) qui chauffe ou refroidit, selon la saison, les bâtiments existants ou neufs. Dans ces derniers, l'intégration de la PAC en chaufferie est plus facile.
+* un réseau de distribution de la chaleur.
+
+Ce système peut être installé: 
+
+* soit dans les canalisations d'évacuation neuves ou existantes, de diamètre supérieur à 80 cm pour les existantes, les plus rectilignes possible (tronçon d’au moins 20 à 100m), ayant un débit supérieur à 15L/s équivalent à au moins 5000 habitants raccordés.
+* soit dans une station d'épuration desservant au moins 2000 logements. 
+
+L’eau chaude sanitaire rejetée dans les canalisations reste à 10-20°C selon les secteurs. Sa température varie peu selon les saisons. Cette température étant insuffisante pour le chauffage, on ne peut pas récupérer directement cette chaleur par un seul échangeur. C'est pour cela qu'on le couple avec une PAC pour obtenir à la fin une température de 50 à 70°C. Il est également possible de rajouter une chaudière pour augmenter la température et fournir, par couplage chaleur-force(ccf), l'électricité nécessaire au compresseur de la PAC. Cependant l'efficacité des PAC étant meilleure avec une température d'exploitation basse, cette technologie est mieux adaptée aux planchers chauffants.
+
+Ce système est réversible. En été, la température des canalisations est plus froide que l'air ambiant, donc on peut réaliser du rafraîchissement. En hiver, elle est plus chaude que l'air ambiant, on l'utilise donc comme chauffage. On peut également l'utiliser, quelle que soit la saison, pour chauffer l'eau chaude sanitaire.
+
+On récupère la chaleur des eaux usées grâce à un autre fluide caloporteur à travers l'échangeur. Cet échangeur permet d'éviter tout risque de mélange d'eaux usées et d'eaux de chauffage.
+Le fluide caloporteur circule alors jusqu'à la PAC qui fournit ces calories ou frigories au réseau de chaleur. [[Image:Canalisation_echangeur_eau_.jpg|thumb|échangeurs intégrés dans les canalisations]]
+
+Il existe deux types de réseaux entre l'échangeur et la PAC selon la provenance des eaux usées :
+
+* un seul tuyau est nécessaire à la sortie d'une station d'épuration. Les eaux étant épurées, elles peuvent être rejetées dans les cours d'eaux ou dans d'autres canalisations sans traitement.
+* dans le cas d'un échangeur intégré directement dans les canalisations, l'eau étant brute, le fluide caloporteur circule en circuit fermé. Il y a donc deux tuyaux.
+
+Cette technologie est en plein développement en Allemagne, Autriche, Etats-Unis et en Suisse, où il existe déjà une vingtaine d'installations, notamment pour les villes de Bâle, Winterthur, Schaffhouse, Zurich….
+En France, trois sociétés, "La Lyonnaise des Eaux", "Saunier & associés", "BSR-Technologies" ont plusieurs projets en cours, nommés « Degrés Bleus », notamment installés à Nanterre.<ref name="">[http://www.lemoniteur.fr/197-eau-energie/article/actualite/846453-nanterre-va-chauffer-des-logements-en-recuperant-ses-eaux-usees Le Moniteur,18/03/2011]</ref>
+
+==Avantages et Inconvénients==
+
+===Avantages=== 
+
+* Les eaux usées sont une des rares énergies renouvelables en milieu urbain. 
+* Le bilan écologique est de 2 à 5 fois meilleur que pour un réseau de chauffage au gaz. En effet, la qualité d'air est améliorée. Le [[Bilan Carbone Personnel|Bilan Carbone]] est réduit de 50 à 80%. Cela permet surtout d'économiser des ressources fossiles. 
+* Cette installation s'inscrit dans les objectifs de l'UE  de diminution de consommation d'énergie d'ici 2020 : environ – 40 % d'énergie primaire consommée par rapport à un brûleur à gaz. 
+* Ce dispositif n'a aucune influence sur le traitement des eaux. Elles conservent leur composition physico-chimique.
+
+===Inconvénients===
+
+* Favorable dans un milieu urbain dense ou dans de grands ensembles (hôpitaux, piscine,…)  situés à proximité de grandes canalisations ou d'une station d'épuration ( à moins de 300m). Cette technologie étant coûteuse, pour avoir un retour d'investissement rapide, il faut la placer dans une zone à forte consommation de chauffage : au moins 150 kW, équivalent à une cinquantaine de logements.
+
+== Dimensionnement==
+
+Il n'existe pas de méthode standard de prédimensionnement. Il nécessite une étude au cas par cas qui dépend essentiellement des différents paramètres suivants: température des eaux usées, du débit, de la pente,...
+
+==Coûts==
+
+* La pompe à chaleur coûte plus cher à l'investissement que le chauffage au gaz, mais occasionne des coûts d'exploitation plus faibles.
+* Les coûts d'investissements sont amortis par des subventions. L'ADEME subventionne l'étude de faisabilité à 50% des coûts hors taxes. Il existe aussi des aides régionales. De plus, la TVA, pour les abonnements et la consommation, n'est qu'à 5.5% pour les réseaux de chaleur produisant au moins 60% à partir d'énergies renouvelables comme les eaux usées.
+* La durée de vie d'une telle installation est estimée autour de 30 ans. Le temps de retour sur investissement est compris entre 2 et 10 ans selon l'installation, son fonctionnement et les aides reçues.
+* Un accès facile aux canalisations (regards, cape de vanne…) réduit les coûts d'installation et de maintenance
+
+==Réglementation==
+
+Le brevet sur cette technologie a été déposé par la société suisse Rabtherm, il y a une dizaine d'années.  
+
+Une autorisation de l'exploitant des eaux usées est indispensable pour vérifier que leur température d'exploitation ne subit qu'une faible variation.
+
+==Voir aussi==
+===Références===
+<references />
+===Liens internes===
+* [[Eau]]
+* [[Pompe à chaleur]]
+
+===Liens externes===
+* [http://www.crem.ch/ Centre de recherches énergétiques et municipales]
+* [http://www.bfe.admin.ch/php/modules/publikationen/stream.php?extlang=fr&name=fr_732351324.pdf Les eaux usées sources de chaleur et de fraîcheur, fichier format pdf]
+* [http://www.ecosources.info/dossiers/Recuperation_chaleur_eaux_usees_egout EcoSource.info, Récupération de la chaleur des eaux usées]
+* [http://www.bonartisan.com/article/296/eaux-usees-recuperation--degres-bleus:-un-systeme-de-pompe-a-chaleur-novateur/ Eaux usées, récupération - Degrés Bleus: un système de pompe à chaleur novateur]
+
+
+[[Catégorie:Se loger]]
