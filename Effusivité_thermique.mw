@@ -1,0 +1,44 @@
+{{Ebauche}} {{Se loger}}
+
+L'<b>effusivité thermique</b> indique la vitesse à laquelle la température de superficie d'un matériau varie.
+
+Elle exprime aussi la capacité d’un matériau à absorber (ou restituer) de la chaleur.
+
+
+== Description ==
+
+Elle est égale à la racine carrée du produit de la [[masse volumique]], de la [[conductivité thermique]] et de la [[chaleur spécifique]] du matériau. soit [[Image:effusivite.png]],( la masse volumique par la chaleur spécifique donne la [[capacité Thermique]]).
+
+L'effusivité est d'autant plus grande que la conductivité thermique du matériau est grande, mais l'effusivité thermique élevée peut concerner aussi un matériau peu conducteur de chaleur mais avec une chaleur spécifique élevée (c'est à dire nécessitant beaucoup de chaleur pour que sa température s'élève).
+Un mur ayant une forte effusivité aura tendance à rayonner froid et donc à être désagréable en hiver...  
+
+Quelques valeurs pour comparer   
+* Acier : 14000 (-15300)
+* Maçonnerie : 2000 (480-1300)
+* Bois: 350 (-650)
+* Plastique alvéolaire: 30
+* peau 400
+
+L'effusivité a un impact immédiatement observable. La sensation de "chaud" ou de "froid" provient non pas de la température de l'objet que l'on touche, mais du flux thermique entre la peau et cet objet. Or, un matériau de faible effusivité prend très rapidement la température de la peau quand on le touche.
+
+Ainsi, si l'on manipule un objet en bois et un objet en métal, tous deux à température ambiante, l'objet métallique provoquera une sensation de froid. Inversement, lorsque l'on sort les marrons du four, on se brûlera instantanément à la plaque métallique mais on pourra encore manipuler les marrons dans les mains.
+
+Le choix de l'effusivité de matériaux de construction a un impact direct sur le confort thermique hivernal et estival d'un bâtiment. Une salle de bain avec des parois de grande effusivité (carrelage...) provoquera une sensation de froid en hiver chauffée pa radiateur ou convecteur à 19°C si l'on s'y déshabille à température ambiante, contrairement à une salle de bain en bois, liège ou ou une salle de bain où le chauffage est assuré par un plancher chauffant. Les pièces de vie (cuisine, salon, salle àmanger, ...) avec plancher à grande effusivité améneront une fraicheur pour confort estival afin de pouvoir éviter de la climatisation ... 
+
+À l'inverse, une pièce possédant de grandes surfaces vitrées (conception [[maison_solaire|solaire]] passive) gagnera à avoir une classe d'inertie élevée et des parois internes fortement effusives.
+
+=== Applications pratiques === 
+* Sauna avec des parois en bois
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Conductivité thermique]]
+
+===Liens externes===
+* [http://fr.wikipedia.org/wiki/Effusivit%C3%A9_thermique La formule mathématique dans Wikipedia]
+* [http://www.planete-sciences.org/enviro/rnste6/ateliers/habitat/inertie-thermique.htm Article sur planete-sciences.org]
+
+===Bibliographie===
+
+{{Portail Se loger}}
