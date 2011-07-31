@@ -1,0 +1,84 @@
+{{Vivre ensemble}}
+
+Les progrès en termes de légèreté des [[Cellule photovoltaïque|panneaux photovoltaïques]] permettent à nos engins légers une concurrence à nos batteries.
+
+Ou plutôt d'utiliser les batteries juste en tampon pour lisser les efforts de basses et hautes charges très mauvaises pour elles.
+
+== Solutions ==
+
+Deux solutions : 
+[[Image:TrikeSolaire.jpg|thumb|260px|Trike Solaire]]
+# En toit
+Reste la solution la plus facile d'utilisation proche de la voiture.
+
+Avantage :
+- Protection climatique
+- Intégration des batteries au véhicule
+Inconvénient :
+- Vision limité
+- Diminue la stabilité
+
+# En remorque
+Avantage :
+- Vision
+- Peut-être utile pour le voyage.
+- Une remorque électrifié pourrait permettre de conserver les caractéristiques du vélo à propulsion humaine.
+Mais le roulement d'une carriole est une perte non négligeable.
+
+=== Surface du panneau photovoltaïque ===
+De 60 watts à 150 watts,<br />
+100 watts étant le bon compromis qui occupera une surface de 100 cm X 50 cm.
+
+=== Type de cellule ===
+A300 : Ces cellules ont la particularité de "démarrer " sous de très faibles luminosités , très intéressant pour nous qui montons les panneaux à plat. En effet, cette position n'est pas optimale par rapport à l'angle d'arrivée des rayons du [[soleil]].
+
+Rendement : 20 % des A300
+
+=== Poids du panneau ===
+2-3 kg à moins de 7 Kg<br />
+Le plus léger est le mieux.
+
+A 7 Kg on trouve ces panneaux à haut rendement dans le commerce en structure standard cadre [[aluminium]] et protection en [[verre]] environ 500 €.
+
+A 2-3 Kg on devra créer un montage de ces cellules sur support en nid d'abeille et une protection avec une en encapsulation de synthèse sans verre environ 1800 €.
+
+Il conviendra donc de calculer en watt heure par kilogramme. Soit obtenir un rendement de plus de 13 wh par kilogramme de panneau.
+
+A titre de repère, on peut constater que chaque kilogramme augmentera de 1 % votre consommation. Donc 7 kg de panneau solaire de 100 wh conduira à consommer 7 % de plus par son transport. Donc sur 500 watt consommés, 35 watt seront utilisés pour le transport de ce panneau. En effet, mais durant cette journée, ce même panneau vous en aura fabriqué 465 watts ! Ces calculs diffèrent selon le dénivelé parcouru.
+
+=== Quantité d'énergie espérée ===
+On peut espérer une puissance selon la valeur maximum en watts du panneau multiplié par 5 heures nous donnera x watts heures.
+
+Exemple : 100 watts X 5 heures = 500 watts heures.
+5 heures est la moyenne d'ensoleillement espérée en une journée.
+
+C'est donc environ :
+* 10 Wh/kg /jour en hiver, soit l'équivalent du rendement d'une batterie au [[plomb]].
+* 60 Wh/kg/jour en été, soit l'équivalent du rendement d'une batterie [[Accumulateur nickel-métal hydrure|NiMH]].
+Cependant, ces données deviennent favorable au [[Énergie solaire|solaire]] sur plusieurs jours en [[autonomie]].
+
+Vers 50Wc/kg, il serait plus rentable d'emporter 1 kg de PV qu'un kilo de batterie. Même avec les batteries au [[lithium]].
+
+Il faudra ensuite prévoir un régulateur MPPT (Maximum Power Point Tracker) de 12 V selon la tension de votre batterie ayant une perte de conversion de - de 5 % et selon la puissance de vos panneaux.<br />
+Exemple : 12 V panneau => 36 V batterie
+
+En conclusion une batterie Lipo de 36 volt de 16 Ah est donc capable de fournir 576 watt heures. ( 36 X 16 )
+Si l'on pondère de 80 % pour suivre les recommandations d'usage 476 watt heures.
+
+Mais il faut cependant pondérer la surconsommation, liée au poids de ce panneau.
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Vélos à assistance électrique]], [[Propulsion musculaire|véhicules à propulsion musculaire]]
+* [[Bicyclette|Vélo]] [[Vélo couché|couché]], [[Vélo pliable|pliable]], [[vélo volant|volant]], [[Vélomobile|Vélomobile]], [[Vélo coqué|Vélocoqué®]]
+* [[Trike]], [[Tricycle]] [[Tricycle couché|couché]], [[Monocycle]]
+
+=== Liens externes ===
+* [http://carre.jeanfrancois.free.fr/spip/spip.php?article51 Description de la remorque solaire]
+* [http://carre.jeanfrancois.free.fr/spip/spip.php?article55 Description un vélo solaire en toit]
+* [http://www.jurassictest.ch/trike-333/concept.html Conception d'un toit solaire pour Trike]
+* [http://velorizontal.bbfr.net/assistance-electrique-f22/j-veux-du-soleil-panneau-solaire-t5355.htm Vélorizontal, vélo couché et autres véhicules à propulsion humaine <small>(forum)</small>]
+* [http://velorizontal.bbfr.net/t12847-panneau-solaire-leger-ou-en-est-on Panneau solaire léger, où en est-on ?]
+
+{{Portail Énergie}}[[Catégorie:Énergie solaire]]
