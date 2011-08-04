@@ -1,0 +1,81 @@
+{{Ébauche}}
+{{Vivre ensemble}}
+
+L''''écobilan''' ou '''analyse de cycle de vie''' (ACV) est une méthode d'évaluation qui consiste à faire un bilan [[environnement]]al d'un organisme ou d'un produit. Toute activité peut faire l'objet d'un écobilan qui permettra de déterminer son impact sur l'environnement. On peut même faire l'écobilan d'un être humain, c'est ce qu'on appelle l'[[empreinte écologique]] d'une personne.
+
+L'analyse de cycle de vie est un outil qui permet d'analyser l'ensemble des impacts d'un produit pour toutes les étapes du cycle de vie, depuis l'extraction des matières premières, en passant par la fabrication, le [[transport]], la distribution, l'utilisation et jusqu'à l'élimination. Elle prend en compte tous les critères environnementaux (consommation des ressources naturelles, [[pollution]]...). 
+
+==Mise en œuvre==
+L'analyse de cycle de vie comprend quatre étapes principales :
+* Détermination des objectifs visés.
+* Définition du produit ou de l'activité à analyser et de son cycle de vie. En général, les principales étapes sont l'extraction des matières premières, la production, le transport, la distribution, l'utilisation et le traitement du produit usagé.
+* Inventaire des flux entrants, c'est à dire les ressources utilisées (consommations de matières premières, d'[[eau]] et d’[[énergie]]...) et des flux sortants c'est-à-dire les émissions (rejets dans l’[[eau]] et dans l’[[air]], production de [[déchet]]s, [[effet de serre]]...).
+* Analyse des informations recueillies et évaluation de l'impact environnemental global. 
+Les résultats obtenus permettent de proposer des modifications pour réduire l'impact environnemental.
+
+Pour réaliser une analyse de cycle de vie, un industriel peut utiliser les normes internationales ISO 14040 et 14044. L'écobilan est un outil dans une démarche de management environnemental d'une entreprise.
+
+==Indicateurs==
+
+Pour mesurer les différents impacts sur l'environnement, on utilise des indicateurs. Pour pouvoir effectuer des comparaisons et observer des améliorations, il faut que ces indicateurs soient des grandeurs mesurables. 
+
+===La consommation des ressources naturelles non renouvelables===
+Les ressources énergétiques non renouvelables sont le [[pétrole]], le [[gaz naturel]], le [[charbon]] et l'[[uranium]]. L'épuisement des ressources naturelles non renouvelables peut être calculé en kg/an.
+On considère la masse de matières premières non renouvelables entrant dans la composition du produit, en kg.
+
+===La consommation des ressources naturelles renouvelables===
+La consommation d'eau peut être calculée en litres ou en m<sup>3</sup>.
+On considère la masse de matières premières renouvelables entrant la composition du produit, en kg.
+
+===La consommation d'énergie===
+On peut déterminer l'énergie nécessaire à la fabrication d'un produit, la consommation d'énergie lors de son utilisation ou la consommation d'énergie totale d'un organisme. Le Joule (J) et le kilowattheure (kWh) sont des unités d'énergie.
+
+===L'effet de serre===
+L'[[effet de serre]] est le réchauffement de l'atmosphère dû à des substances appelées [[gaz à effet de serre]] ([[dioxyde de carbone]], [[méthane]], vapeur d'[[eau]], [[ozone]] etc.).
+Pour déterminer une contribution à l'[[effet de serre]], on détermine une valeur de potentiel de réchauffement global (PRG) en grammes équivalent {{CO2}}. L'équivalent {{CO2}} vaut 1 pour le dioxyde de carbone qui sert de référence. Le potentiel de réchauffement global d'un gaz est le facteur par lequel il faut multiplier sa masse pour obtenir une masse de {{CO2}} qui produirait un impact équivalent sur l'effet de serre. On prend en compte les émissions de [[dioxyde de carbone]] ({{CO2}}), de méthane (CH{{s|4}}), etc.
+
+===L'acidification atmosphérique===
+L'acidification atmosphérique est l'augmentation de la quantité de substances acides dans l'atmosphère. Les pluies acides, conséquences de l'acidification atmosphérique, ont des effets nocifs sur la faune et la flore. Elles sont à l'origine du dépérissement de certaines forêts. Les pluies acides sont causées par les combustions qui produisent du dioxyde de soufre (SO{{s|2}}) et des oxydes d'azote (NO{{s|x}}) et par l'ammoniac gazeux (NH{{s|3}}) d'origine agricole. On prend aussi en compte les émissions d'acide chlorhydrique (HCl). L'acidification atmosphérique est calculée en grammes équivalent acide, que l'on note g. éq. H<sup>+</sup>. On détermine les émissions de chaque substance et on lui applique un coefficient qui représente son potentiel d'acidification.
+
+===La formation d’oxydants photochimiques===
+Une succession de réactions entre les émissions atmosphériques et les photons solaires produit de l'ozone qui est très oxydant. Le potentiel de formation d’oxydants photochimiques se mesure en g. éq. éthylène.
+
+===La pollution des eaux===
+L'[[eutrophisation]] des rivières est due à des composés azotés et aux phosphates qui jouent le rôle d'engrais. Ils provoquent la prolifération d'algues qui asphyxient les cours d'eau. L'eutrophisation peut être évaluée en kg équivalent phosphate (PO{{s|4}}>).
+
+===La pollution des sols===
+Les sols peuvent être pollués par des métaux lourds.
+
+===Les transports===
+On évalue le nombre de kilomètres effectués par les véhicules d'une entreprise ou d'un organisme.
+
+===Les déchets===
+* On évalue en grammes la masse des déchets classés selon leur dangerosité.
+* On peut s'intéresser à la durabilité du produit comptée en mois ou en années. Un produit que l'on doit renouveler fréquemment cause plus de déchets qu'un produit à longue durée de vie.
+* Pour un produit donné, on évalue le pourcentage de matériaux recyclés, de matériaux [[recyclable]]s et de matériaux [[biodégradable]]s
+
+===Les nuisances non prises en compte===
+Certaines pollutions sont difficiles à mesurer, c'est le cas de la pollution sonore, de la pollution visuelle (l'impact sur le paysage) et des mauvaises odeurs. Il existe des indicateurs pour la pollution sonore (le bruit se mesure en décibels) mais souvent ils ne sont pas pris en compte.
+
+==Applications==
+
+Des exemples d'applications de l'écobilan :
+* comparaison de l'impact environnemental de différents sacs de caisse : un [[sac plastique]] réutilisable, un sac plastique [[jetable]] et un sac [[papier]].
+* comparaison entre une bouteille en [[plastique]] et une bouteille en [[verre]] pour savoir quel [[emballage]] choisir.
+
+==Limites==
+L'analyse de cycle de vie est un outil intéressant mais il faut savoir que le résultat dépend d'un grand nombre de paramètres. Et il suffit de modifier un paramètre pour changer les résultats. De plus, il n'est bien sur pas possible de réaliser une analyse de cycle d vie sur la terre entière. Les résultats d'une étude doivent donc être interprétés en regard de la question qui est posée qui se résume souvent à une comparaison de processus pour une grille de critères donnés. A titre d'exemple, l'énergie nucléaire se place au premier rang des énergies profitables pour la planète au regard de la production de gaz à effet de serre, mais bien loin si on prend en compte le paramètre de risque sur la santé humaine.
+Plus récemment, l'analyse du cycle de vie tente de s'étendre à l'approche sociale pour tenter d'évaluer les impacts sur la société. On  pourrait ainsi par exemple évaluer l'impact sur le bien être de l'augmentation de la production de banane dans une région du monde plutôt que dans une autre. Toutefois, des indicateurs tels que l'indice bonheur ou les indices de satisfaction sociaux restent encore à définir pour pouvoir utiliser pleinement cet aspect de l'ACV
+
+==Voir aussi==
+===Liens internes===
+* [[Écoconception]]
+* [[Management environnemental]]
+
+===Liens externes===
+
+===Bibliographie===
+
+[[Catégorie:Environnement]]
+[[Catégorie:Travailler]]
+{{Portail|Vivre ensemble|Entreprendre autrement}}
