@@ -1,0 +1,90 @@
+Une ''Migration'' est le terme consacré en informatique pour désigner le passage d'un logiciel à un autre. Ce passage se limite rarement à la simple suppression du logiciel existant et l'installation du nouveau, il s'accompagne de nombreux changements aussi bien dans la pratique quotidienne de l'outil par les utilisateurs non avertis que dans l'administration, adaptation et le développement de nouvelles applications par les spécialistes.
+
+En effet,  deux logiciels qui répondent au même usage  (gérer une base de données, écrire du texte, recevoir des courriels, etc.) ne sont pas pour autant interchangeables. Tout logiciel propose des fonctions qui lui sont propres et qui ne se retrouvent pas telles quelles dans les autres logiciels de la même famille. Les logiciels se différencient aussi par la façon dont ils stockent les données, par la complexité de leur interface, par le choix d'extension offerte.
+
+Le passage d'un logiciel à un autre ne se fait donc pas à la légère. Il est nécessaire d'évaluer les usages actuels de l'outil, les besoins de formation qui vont découler du changement et le bénéfice attendu. Dans certains  cas comme les logiciels de gestion de contenu de sites, le changement de logiciel va s'accompagner d'un développement lourd (allant parfois jusqu'à la réécriture complète de scripts) et de laborieux copier-coller pour remettre les données au bon format. L'investissement pour un tel changement est tel qu'il est rarement réversible : de là la pertinence du terme « migration » pour désigner un processus qui demande préparation et résolution.
+
+Enfin, il est à noter que la question de l'opportunité ou non d'une migration se pose souvent de manière sensible pour le passage d'une version à une autre d'un même logiciel. Une nouvelle version n'assure pas toujours la compatibilité complète avec la version précédente. Certains éditeurs  trainent d'ailleurs une mauvaise réputation de ce point de vue-là.
+
+
+La ''migration vers les logiciels libres'' introduit une dimension supplémentaire à la simple question de la ''migration''. En effet, s'ajoutent aux questions techniques des questions éthiques et stratégiques. La pertinence du basculement d'un logiciel propriétaire à un logiciel libre ne se juge pas seulement suivant un critère technique mais aussi à l'aune des valeurs qui portent le logiciel libre et le différencient du logiciel propriétaire : partage du savoir, contrôle de ce que fait la machine, maitrise du long terme. 
+
+== Le système GNU/Linux ==
+
+GNU/Linux est le système d'exploitation libre le plus populaire et le plus utilisable par le grand public. Par rapport à Microsoft Windows ou Mac OS X, il s'agit d'un système d'exploitation composé du noyau lui-même appelé Linux, et de logiciels libres complémentaires, souvent spécifiques à Linux. La dénomination officielle est GNU/Linux pour mettre en avant la licence GNU sous laquelle est distribué le système, cependant on emploie couramment le simple nom de Linux.
+
+Linux est un système fonctionnant sur de nombreuses architectures, dont les PC grand public sur lesquels il est le plus souvent installé. Il est possible de partager le disque dur d'un PC entre Windows et Linux, en choisissant au démarrage sur quel système démarrer. La plupart des périphériques et du matériel de base des PC grand public est supportée par Linux, cependant parfois il peut être nécessaire de faire des recherches (sur Internet) avant de trouver un pilote pour un périphérique spécifique. Il demeure que certains périphériques n'ont pas de pilotes disponibles, mais cela tent à se raréfier avec le temps.
+
+=== Logithèque de Linux ===
+
+Les logiciels libres qui sont développés tendent à fonctionner le plus souvent sous Linux et d'autres systèmes libres (par l'utilisation de bibliothèques logicielles standard) mais aussi parfois sous Windows ou Mac OS X. Il est rare qu'un logiciel libre ne fonctionne pas sous Linux.
+
+Il existe relativement peu de logiciels non libres fonctionnant sous Linux, comparé à Windows et Mac OS X, car le coût du portage d'un logiciel sous Linux et la préférence de ses utilisateurs pour le logiciel libre rend le portage peu intéressant pour beaucoup de sociétés éditrices de logiciels.
+
+=== Les distributions de Linux ===
+
+Un système Linux étant composé du noyau lui-même et de très nombreux logiciels annexes, il est nécessairement installé grâce à une "distribution" (terme anglais) qui fournit un système complet, généralement un installeur et les mises à jour associées au système via Internet.
+
+Certaines distributions sont gratuites, d'autres payantes et plutôt destinées aux informaticiens et aux serveurs (un peu comme Windows Server). Les distributions gratuites les plus répandues sont '''Ubuntu''' et '''Fedora''', dont les mises à jour sont également gratuites.
+
+=== Support et assistance ===
+
+En général, le support logiciel tend à être assuré par abonnement payant, mais pour une utilisation grand public, ce support ne s'avère pas nécessaire. En effet, de nombreux utilisateurs avancés fournissent leur expertise sur les forums sans qu'il soit nécessaire de débourser fortune. C'est ce que l'on appelle le support de la "communauté".
+
+=== Les freins à l'adoption de Linux ===
+
+Les questions à se poser lorsque l'on souhaite migrer vers Linux, sont les suivantes : ai-je un périphérique qui ne sera pas supporté par Linux? est-ce que j'utilise un logiciel dont je ne trouverai pas l'équivalent sous Linux?
+
+Ces questions se posent lors de toute migration vers un autre système d'exploitation, mais il y a un autre type de frein à l'adoption de Linux, ce sont les questions portant sur la simplicité d'utilisation, l'esthétique et l'ergonomie générales.
+
+==== La réponse aux freins ====
+
+* Tester un ''LiveCD'' de Linux (système démarré au moyen d'un CD, DVD ou d'une clé USB) pour vérifier l'ergonomie
+* Chercher sur Internet si le périphérique à utiliser dispose d'un pilote, simplement à l'aide d'un moteur de recherche
+* Tester les logiciels libres équivalents, sur Windows ou Mac OS X, avant une éventuelle migration
+
+== Equivalence logiciel libre/logiciel propriétaire ==
+
+Dans le logiciel libre, on privilégie les logiciels spécifiques à une tâche bien précise, plutôt que des logiciels très généraux qui sont en théorie capables de faire tout un ensemble de tâches très vaste.
+
+Nous avons ici repertorié les principales alternatives libres aux logiciels propriétaires les plus courants.
+Nous n'avons pas mentionné de logiciel ne fonctionnant pas sur Windows, de manière à permettre aux utilisateurs de ce système de faire la migration sans avoir à installer Linux.
+
+=== Bureautique ===
+
+* '''LibreOffice''' ou OpenOffice.org pour remplacer Office
+* '''Dia''' pour remplacer Visio (diagrammes)
+* '''Grisbi''' ou '''GnuCash''' pour remplacer Microsoft Money
+
+=== Graphisme ===
+
+* '''GIMP''' pour remplacer Photoshop (édition et retouche d'images)
+* '''Inkscape''' pour remplacer Illustrator (édition d'images vectorielles)
+
+=== Multimédia ===
+
+* '''VLC''' comme lecteur de médias
+* '''Audacity''' comme éditeur de fichier audio
+
+=== Internet ===
+
+* '''Mozilla Firefox''' pour remplacer Internet Explorer et Safari
+* Mozilla '''Thunderbird''' pour remplacer Outlook
+* '''BlueGriffon''' comme éditeur de pages web
+
+==Voir aussi== 
+
+===Liens internes===
+* [[Logiciel libre]]
+
+===Liens externes===
+
+* [http://www.libreassociation.info/motscles/thema/motcle-thema-3.html Migration vers les logiciels libres], mot-clé dans le site [http://www.libreassociation.info  Libre Association]
+
+* [http://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires Correspondance entre logiciels libres et logiciels propriétaires], sur Wikipédia
+
+==Bibliographie== 
+
+{{Coredem|Migration_vers_les_logiciels_libres}}
+
+[[Catégorie:Économie]]
