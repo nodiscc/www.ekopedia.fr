@@ -1,0 +1,109 @@
+{{ébauche}}
+
+{{Communiquer}}
+
+Les '''noms de domaines''' sont un élément essentiel de l'existence dans le monde virtuel. En effet, le nom de domaine est un peu comme une adresse. Par exemple, pour recevoir des courriers électroniques, il faut une adresse de courrier de type mon_nom@chez_moi.net.
+
+==Description==
+
+Deux éléments doivent-être pris en compte : 
+
+* Question n°1 : la vie privée. Selon le cas, il sera possible à un tiers de connaître votre identité sur base de votre adresse e-mail ou de votre nom de domaine. Par exemple, l'adresse prénom.nom@operateurx.com permet de vous identifier tandis que vivelesfleurs@operateurx.com ne le permet pas.
+
+* Question n°2 : le changement d'opérateur. Si vous prenez une adresse du type : quelquechose@operateurx.com, vous êtes lié à cet opérateur. En effet, si vous avez distribué cette adresse largement à vos amis, vous ne souhaiterez probablement pas la perdre et vous resterez donc sagement chez votre opérateur.
+
+Voici quelques pistes pour résoudre ces problèmes.
+
+== Avoir plusieurs adresses pour des usages différents ==
+
+* Une adresse totalement anonyme pour les achats sur Internet, pour se créer un compte sur un site web...
+* Une adresse semi-anonyme : par exemple si vous êtes actif dans le jardinage : superjardin55@quelquechose.org Vous choisissez dans un contexte précis à qui vous donnerez votre nom réel.
+* Une adresse personnelle pour vos amis, connaissances. Ceux-ci connaitront votre identité réelle.
+
+Pour l'adresse personnelle, il est vraiment conseillé d'éviter les adresses offertes par votre opérateur de télécommunications. Elles ont en général la forme suivante : quelquechose@monopérateur.com. Avec une telle adresse, si vous décidez de changer d'opérateur dans le futur (par exemple pour choisir un opérateur plus vert), vous risquez fort probablement de devoir changer d'adresse e-mail.
+
+== Choisir son propre nom de domaine ==
+
+Une option consiste à choisir son propre nom de domaine (@chez_moi.fr). Pour cela, il faudra payer un abonnement annuel auprès d'une société qui revend des noms de domaines. Celui-ci coûte environ 10 euros par an (il faudra ajouter à cela le coût facturé par votre opérateur de télécommunications pour héberger le nom de domaine ainsi que pour les éventuels services additionnels offerts).
+
+Pour ceux que ce coût n'effraie pas, c'est une solution idéale. Vous pourrez vous créer une multitude d'adresses e-mail personnalisées et créer votre propre site web... Et lorsque vous changez de fournisseur de télécommunications, vous gardez votre nom de domaine et par conséquent toutes vos adresses e-mail.
+
+Il est également possible d'obtenir des sous-domaines gratuitement.
+Pour les deux sites suivants le principe de fonctionnement est le même que pour un nom de domaine (tandis que de nombreux sites ne proposent que de simples redirections) :
+* sous-domaines en .eu.org : [http://eu.org/fr/ Eu.org]
+* sous-domaines en .asso.st, .fr.nf, .fr.cr, .biz.st, .ze.cx, .infos.st : [http://www.azote.org/ Azote]
+
+== Vivre sans nom de domaine ==
+
+Un nom de domaine est-il absolument nécessaire?
+Nombreux sont ceux qui ne veulent pas payer pour un nom de domaine. Dans ce cas, il faudra utiliser un nom de domaine qui ne vous appartient pas pour bénéficier des services du web. 
+
+===Les offres gratuites===
+Il existe de nombreuses offres gratuites du type @hotmail.com ou @yahoo.com mais... rien n'est vraiment gratuit. L'objectif de la plupart de ces sociétés est de vous vendre d'autres produits ou services ou alors de vous inonder de publicités. En plus, vous devenez vous-même un canal de publicité car chaque e-mail envoyé contient un nom de marque dans son adresse (quelquechose@unemarque.com). Vous participez donc à faire de la publicité pour ces marques. Parfois même avec des pubs à la fin de chaque mail que vous envoyez. De plus les conditions générales d'utilisation sont parfois très restrictives et discutables au niveau éthique.
+
+Ca vaut la peine de lire les textes de licence! Quelques exemples :
+
+'''Google''' : 
+Un document du parlement européen (22/01/2008) fait état du scannage des mails par Google : "Le Président de la Commission des Libertés civiles Jean-Marie CAVADA (ADLE, FR) a ensuite posé la question des analyses effectuées sur le contenu des courriels par les services de messagerie Internet. Une pratique démentie par le représentant de Microsoft mais admise par celui de Google, qui a cependant rappelé les fins "uniquement publicitaires" de cette opération. La question est cependant jugée "très sensible" par Marc Rotenberg (EPIC), qui imagina son équivalent téléphonique: "supposez que vous réserviez une table pour un excellent restaurant français, et que dans la seconde qui suit, un autre restaurateur vous appelle pour essayer de vous faire annuler la réservation !"
+[http://www.europarl.europa.eu/news/expert/infopress_page/019-19258-022-01-04-902-20080121IPR19236-22-01-2008-2008-false/default_fr.htm Source]
+
+* [http://www.marsnet.org/spip.php?article276 Résumé de la licence de hotmail]
+* [http://www.skipass.com/blog/index.php/2006/08/09/215-les-droles-de-pratiques-de-gmail A propos de la licence de gmail]
+
+===Les offres payantes===
+Les commentaires liés aux offres gratuites sont souvent applicables aux offres payantes. Il convient dès lors de bien choisir son/ses opérateur(s) de télécommunication. A nouveau, évitez les adresses du type quelquechose@monopérateur.com.
+
+== Éviter les noms commerciaux ==
+
+Si vous ne disposez pas de votre propre nom de domaine, votre adresse mail utilisera un nom de domaine appartenant à quelqu'un qui offre un service e-mail.
+
+Dans ce cas, il faut absolument éviter les noms commerciaux. Pourquoi?
+
+* Voulez-vous voir votre nom associé à une marque? Par exemple, avoir l'adresse '''monnom@monsanto''' ne vous plairait probablement pas. Avoir une adresse monnom@hotmail ou monnom@yahoo, c'est pourtant exactement la même chose.
+* Voulez-vous envoyer de la pub à vos amis à chaque courriel envoyé?
+* Etes-vous rassuré de savoir que tous vos courriels et votre carnet d'adresse se trouvent auprès d'une société dont le seul but est le profit?
+* Une fois que vous y êtes, serez-vous dépendant de votre fournisseur? Sera-il facile de le quitter par la suite?
+* Avez-vous entendu parler de certains mésaventures comme par exemple se faire bloquer le compte quand on ne l'utilise pas régulièrement?
+* Avez-vous lu les conditions générales? Savez-vous que ces services se réservent souvent le droit de supprimer le service, le rendre payant ou y rajouter encore plus de publicité et cela sans préavis?
+* Pensez-vous que votre vie privée est prise en compte?
+
+== Services mails alternatifs ==
+
+Il y a tout de même des solutions pour avoir une adresse e-mail gratuite sans faire de la publicité. Il faut chercher des offres provenant d'opérateurs issus de l'économie sociale, liés à une charte éthique.
+
+=== No-log (inscriptions fermés) ===
+
+http://www.no-log.org/
+
+Une adresse e-mail anonyme, gratuite, sans pub.
+
+* gratuit
+* aucune donnée personnelle n'est demandée à l'utilisateur pour l'ouverture de son compte
+* le courrier reçu est consultable en POP via un logiciel client de mail ou par interface web sur le site http://www.no-log.org.
+* les boîtes aux lettres sont limitées à une taille de 20 Mo.
+
+Pour ceux que la limité de 20 Mo dérange, il est par exemple possible de se créer une adresse de type "gmail" et de lier les deux. Vos destinataires ne voient que votre adresse @no-log.org. Il faut alors configurer vos mails entrants sur @no-log.org de manière à ce qu'ils soient automatiquement transférés à votre adresse gmail.
+
+=== Altern.org (inscriptions fermés) ===
+http://www.altern.org/
+
+=== Cooperation.net ===
+http://www.cooperation.net/
+
+=== Marsnet.org ===
+http://www.marsnet.org/
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Choisir ses moyens de communication électronique de manière responsable]]
+
+=== Liens externes ===
+* [http://fr.wikipedia.org/wiki/Nom_de_domaine Définition du '''nom de domaine''' sur Wikipedia]
+* [http://www.ynternet.org/ynternet.org/info/24845.html Pourquoi et comment quitter yahoo et hotmail]
+* [http://wiki.marsnet.org/wakka.php?wiki=MailsEthiques/ Mails & Ethiques]
+
+=== Bibliographie ===
+
+{{Portail Communiquer}}
+[[Catégorie:Communiquer]]
