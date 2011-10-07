@@ -1,0 +1,87 @@
+{{Ébauche}}
+
+== Définition générale ==
+
+[[Fichier:Installation mur chauffant.jpg‎ |right|thumb|500px|]]
+
+
+
+
+*Le mur chauffant est un mur (généralement non porteur) dans lequel on a introduit un serpentin horizontal qui va permettre à un fluide chaud de circuler en circuit fermé. 
+*Le fluide chaud va donc céder sa chaleur aux composants du mur (par conduction et par convection) qui vont ensuite la transmettre aux occupants de la pièce à chauffer par rayonnement (et non par convection comme les chauffages traditionnels).
+*Arrivé en fin de boucle, le fluide refroidi reçoit de la chaleur fournie par un système de chauffage asservi et relié à un thermostat d’ambiance.
+
+== Descriptif du fonctionnement ==
+
+[[Fichier:Schéma de régulation.jpg‎ |center|thumb|500px|]]
+
+*Un distributeur va alimenter le serpentin en eau. La température de l’eau sera définie et régulée par le thermostat d’ambiance où dans un premier temps l’usager indiquera la température souhaitée. Ensuite, les capteurs du thermostat mesureront les variations de température du local et y remédieront par l’intermédiaire des moteurs électrothermiques qui actionnent l’ouverture et la fermeture des circuits de chauffage.
+*L’eau chaude va chauffer les différents éléments du mur par conduction. Ensuite les murs vont chauffer les occupants avec l’émission d’ondes infrarouges qui vont se propager dans toutes les directions (d’où l’homogénéité du réchauffement). 
+*La chaleur échangée par rayonnement étant fonction des surfaces des corps (émetteur et récepteur) il est intéressant de fabriquer le mur avec des matériaux rugueux afin d’optimiser sa surface d’échange.
+*Il sera intéressant de préciser qu’un bon coefficient de radiation permet d’utiliser moins de surface chauffante. Pour une pièce donnée, un tel coefficient pourra s’obtenir en adaptant la surface de mur chauffant à la surface au sol (par exemple, une pièce de 40 m² au sol nécessitera 20 m² de mur chauffant).
+
+
+
+== Règlementation ==
+
+
+
+*Contrairement aux planchers chauffants, qui pour des raisons physiologiques liées à des troubles de la circulation sanguine au niveau des membres inférieurs des occupants, ont une température de parois limitée à 28°C, les murs chauffants ne sont soumis à aucune restriction de ce type. A l’heure actuelle, il n’existe pas de document technique unifié (DTU) en rapport avec la mis en place de murs chauffants. Seul l’article 29 de l’arrêté du 3 mai 2007 est à prendre en compte : 
+Art. 29. − Les émetteurs de chauffage à effet Joule intégrés aux parois, installés ou remplacés, doivent être pourvus, sauf dans le cas où l’installation en est déjà munie :
+*d’un thermostat ou d’un régulateur par pièce, avec un CA inférieur à 2K et permettant la réception d’ordres de commande pour assurer le fonctionnement en confort, réduit, hors gel et arrêt ;
+*ou bien d’un dispositif de régulation raccordé à une sonde de température extérieure.
+
+Lorsque le chauffage est assuré par un plancher chauffant à eau chaude fonctionnant à basse température, le dispositif de régulation peut être commun à des locaux d’une surface totale maximum de 150 mètres carrés.
+
+
+
+== Coût ==
+
+
+
+A ce jour, il faut compter environ 100 euros par mètre carré de mur posé. A cela, il faut ajouter le prix d’un système de moteur électrothermique couplé à un thermostat d’ambiance ainsi qu’à un distributeur soit environs 250 euros.
+
+
+
+== Avantages et inconvénients ==
+
+
+
+'''Avantages'''
+
+
+
+*Économie d’énergie 
+La spécificité d’une paroi chauffante (mur ou plancher) est de transmettre la chaleur par rayonnement, ce qui va permettre à l’usager d’économiser une quantité non-négligeable d’énergie :
+D’une part, une même sensation de confort sera ressentie pour une température d’air inférieur de 3°C par rapport à un chauffage par convection. Or, une diminution de 3°C correspond à une économie d’énergie de l’ordre de 20%.
+D’autre part, la transmission de la chaleur par rayonnement n’occasionne que très peu de pertes contrairement à la transmission de chaleur par convection.
+
+
+                                        
+*Confort[[Fichier:Transmission homogène de la chaleur par rayonnement.jpg‎ |right|thumb|500px|]]
+La chaleur transmise par rayonnement se répartit de façon homogène ainsi, les occupants ne ressentent pas les désagréments dus aux différences de température au sein d’un même local.
+Si les chauffages par convection transmettent la chaleur aux occupants en provoquant un déplacement d’air dû aux différences de températures, ce déplacement va être aussi celui de la poussière, des acariens ainsi que de nombreux autres éléments qui vont diminuer la qualité de l’air intérieur et salir les murs. Ainsi l’usage de murs chauffants contribue à améliorer l’environnement intérieur d’un logement.
+On notera que les murs chauffants augmentent le confort acoustique de l’habitat : l’ajout d’une cloison pour recouvrir les serpentins où circule le fluide chaud va augmenter l’inertie des murs (de l’ordre de 100 kg/m²) et va ainsi augmenter l’isolation acoustique de la pièce.
+
+
+
+
+'''Inconvénients'''
+
+*Pour une température souhaitée, le temps de réponse d’un système de murs chauffants est plus long que celui d’un chauffage traditionnel.
+*La mise en place de murs chauffants est coûteuse (ajout de cloisons, système de régulation,…) et relativement longue.
+*L’augmentation de l’épaisseur des murs diminue automatiquement la surface habitable du logement. 
+
+
+
+== Sources ==
+
+
+*http://maisonpaille.over-blog.net/article-murs-chauffants-76137660.html un exemple d autoconstruction de murs chauffants a basse température a faible cout. Pose des tuyaux sur une enduit terre recouvert d'un enduit epais de terre chaux. Chantier participatif d'initiation possible en 2011 et 2012, voir en page d'acceuil du site
+
+*http://www.radiateur-electrique.org/radiateur-mur.php
+*http://www.taconova.com/tacoprod/tacfprd3.htm
+*Revue « Sortir du nucléaire » n°33 Décembre 2006 par Gwénola Doaré
+*http://www.akterre.com/akterre_documentation/construction/WEM_Folder_franz.pdf
+
+[[Catégorie:Chauffage]]
