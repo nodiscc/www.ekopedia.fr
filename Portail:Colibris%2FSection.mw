@@ -1,0 +1,19 @@
+<div style="display:block; border:1px solid #3c1903; vertical-align:top; width:100%; background-color:#f9f9f9; margin-bottom:10px; padding:0px 0px 5px 0px;">
+<div style="float:right;">
+<font size="1"><nowiki>[</nowiki>[[{{{partie}}}|modifier]]<nowiki>]</nowiki>&nbsp;</font>
+</div>
+<h2 style="background-color:#fff2c4; color:#3c1903; text-align:center; font-weight:bold; margin:0px 0px 5px 0px; padding:5px 3px 5px 3px; font-size:{{{tailleTitre|100%}}}; border-bottom:1px solid #3c1903;">
+{{{titre}}}
+</h2>
+<div style="padding-left:4px; padding-right:4px; vertical-align:top;">
+{{{{{partie}}}}}
+</div>
+</div>
+
+
+<noinclude>
+<!------- NE PAS MODIFIER les lignes SUIVANTES qui catégorisent cette page.  Merci ! --------------------------------------->
+<!------- ------------------------------------------------------------------------------------------------------------------>
+[[Catégorie:Portail:Colibris]]
+<!-------------------------------------------------------------------------------------------------------------------------->
+</noinclude>
