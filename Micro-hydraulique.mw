@@ -1,0 +1,184 @@
+{{Vivre ensemble}}
+
+Une '''centrale micro-hydraulique''' est une installation qui transforme l'énergie potentielle de l'eau en travail mécanique, puis la transforme en électricité. Leurs ancêtres sont les moulins, scieries etc. qui utilisaient la force de l'eau. Ainsi, il y avait 70 000 moulins en France en 1890. On a progressivement abandonné les sites les moins producteurs, amélioré les techniques, et substitué la production d'électricité à l'utilisation directe de la force mécanique. Les centrales micro-hydrauliques ont joué un rôle essentiel dans l'électrification de la France, et de nombreux villages et villes français ont dû leur première électrification et l'arrivée de l'"éclairage public" à l'installation d'une de ces centrales. 
+
+Le terme "centrale hydraulique" recouvre une très large gamme de types et tailles d'installations. Depuis les très petites turbines installées sur l'arrivée d'eau potable des chalets de montagne, permettant l'autonomie électrique, jusqu'aux très grands barrages qui ont nécessité de noyer des vallées entières.
+
+Les centrales hydrauliques sont classées en deux familles : celle de la grande hydraulique et celle de la petite hydraulique. La petite hydraulique est elle-même divisée en plusieurs types de centrales, la pico et la micro-hydraulique. Ce classement est réalisé en fonction de la puissance fournie par les centrales. Toutefois ce classement n'est pas normalisé. En effet des centrales micro-hydrauliques peuvent atteindre quelque MW.
+
+<table border=1>
+<th></th>
+  <th>pico-hydraulique</th>
+  <th>micro-hydraulique</th>
+  <th>grande-hydraulique</th>
+  <tr>
+<td> puissance en kW </td>
+  <td><10</td>
+  <td>10 à 500</td>
+  <td>>500</td>
+  <tr>
+</table>
+
+
+== Principe de fonctionnement ==
+
+[[Image:Photo20bien.jpg|center|]]
+
+Le principe de fonctionnement d’une micro-centrale est de transformer l'énergie potentielle de l'eau en travail mécanique, qui est à son tour transformée en électricité. On utilise généralement l'eau d'une source, d'un cours d'eau, ou encore d'un lac. L'appareil qui transforme l'énergie potentielle de l'eau en travail mécanique peut être une roue, une turbine (il en existe de nombreuses sortes), une vis sans fin, ou encore une pompe utilisée comme moteur. L'eau peut être amenée à ce dispositif de plusieurs façons : une roue peut simplement tremper dans le cours d'eau, au fil de l'eau. Ce type d'installation, sans doute le plus ancien historiquement, ne fournit qu'une très faible puissance et n'est utilisé que pour des réalisations plaisantes (jeu, décoration...). Une prise d'eau dérive une partie de l'eau de la source, du cours d'eau ou du lac dans un tuyau, appelé conduite forcée. Le tuyau amène l'eau sous pression à la turbine. 
+
+Entre ces deux extrêmes, on a recours à un barrage pour augmenter la hauteur de chute. Dans ce cas, l'eau peut être utilisée sur le barrage même ou juste à côté, sans qu'il y ait de dérivation de l'eau, à proprement parler. Plus couramment, un canal de dérivation (bief) amène l'eau à l'endroit où elle est utilisée, mais sans la mettre sous pression (c'est la différence essentielle entre une conduite forcée et un canal). 
+
+Après l'utilisation de l'énergie mécanique de l'eau, elle est rendue au lit naturel du cours d'eau, soit directement, soit par le biais d'un canal de restitution. 
+
+Lorsqu'il y a effectivement dérivation de l'eau, la longueur du cours d'eau naturel entre la prise d'eau et sa restitution est appelée "tronçon court-circuité". 
+Signalons qu'il est également possible de turbiner l'eau de conduites existantes : notamment les adductions d'eau potable, et les évacuations d'eau usée. C'est particulièrement intéressant en montagne, où ces conduites peuvent présenter des dénivelés de plusieurs centaines de mètres, ce qui permet de produire des quantités considérables d'électricité sans modifier en rien la fonctionnalité première de ces conduites. 
+
+[[Image:Photo21bien.jpg|center|]]
+
+Enfin, on peut également utiliser l'énergie de la mer, sous plusieurs formes : centrales marémotrices côtières ou sous-marines, centrales à houles côtières ou au large, ou encore centrales à courants marins (les fameuses "éoliennes sous-marines").
+
+==Mener à bien un projet de micro-hydraulique==
+
+===Étude de faisabilité===
+
+Il est tout d'abord nécessaire de monter un dossier technique permettant de démontrer la viabilité du projet. Un bureau d'étude environnement peut être consulté pour mener une étude hydrologique.
+
+Le rôle de cette étude est de déterminer les débits classés, c'est à dire tracer les débits atteints par le cours d'eau en fonction du pourcentage de temps auxquels ils apparaissent. On pourra ensuite faire apparaître les différents débits usuels : débit réservé, débit d'amorçage et débit de crue. Les débits classés nous permettent alors de déterminer le temps de fonctionnement de notre installation en fonction de la puissance récupérée par la micro-centrale hydraulique. Il est possible d'augmenter un peu la puissance récupérée mais ceci se fera au détriment du temps de fonctionnement.
+
+                    ''Puissance Maximale Brute (kW)'' 	PMB = Q * g * z
+                    ''Puissance Maximale Nette (kW)''	PMN = PMB * &eta; tot
+
+Q est le débit en m3/seconde, 
+g vaut par convention 9,81m/s², 
+z est la hauteur de chute en mètres.
+
+Le &eta; tot prend en compte le rendement de la turbine ainsi que les pertes de charges depuis la zone de captage jusqu'à la micro-centrale. Le &eta; tot peut donc varier suivant le type de turbine mais aussi et surtout suivant le diamètre des conduites d'arrivée d'eau. Il est important de dimensionner ces conduites pour minimiser les pertes de charges ainsi que le coût d'investissement.
+
+L'énergie produite par notre micro-centrale peut être maintenant déterminée :
+
+                    ''Énergie produite par an (kWh)''     Ean = PMN * % de temps où l'on peut turbiner * 8760
+
+Cette énergie peut être revendue sur le réseau (voir section coût) et à ce stade nous pouvons déterminer le retour sur investissement de la centrale micro-électrique et donc conclure quant à la viabilité économique de l'installation.
+
+=== Dimensionnement à l'aide du logiciel RETScreen ===
+
+Une fois l'étude hydrologique menée, il est possible d'utiliser le logiciel gratuit RETScreen<ref>http://www.retscreen.net/fr/home.php</ref> qui analyse et aide au choix du type de centrale à implanter sur le site.
+
+
+===Règlementation===
+
+Un projet micro-hydraulique doit se conformer aux articles R214-71 et R214-85 du code de l'environnement<ref>http://www.legifrance.gouv.fr</ref>.
+En effet il faut acquérir autorisations et/ou déclarations au titre du droit sur l'eau de 1919 en préfecture. Il faut entre autre constituer un dossier de 20 pièces tels :
+
+* présentation du pétitionnaire
+* localisation et caractéristiques techniques du projet
+* évaluation de l'incidence du projet sur le milieu. Si PMB>500kW une étude d'impact sera nécessaire, si PMB<500kW une notice d'impact suffira.
+* Consignes de surveillance, mesures de sécurité,...
+
+L'aspect réglementaire étant lourd, il ne faut pas sous estimer le délai d'acquisition des différentes déclarations et/ou autorisations.
+
+== Les conséquences sur l'environnement ==
+
+===Avantages===
+
+* '''Aspect renouvelable ''' : L’eau est une source d'énergie indéfiniment renouvelable, l’énergie hydraulique a également l’avantage d’être une énergie relativement constante et assure une production d’électricité toute la journée tout au long de l’année. 
+* '''Aspect écologique ''' : L'utilisation de l'eau ne contribue pas à l'effet de serre, et ne rejette aucun produit polluant. De plus, une centrale hydraulique ne consomme pas d’eau : l’eau traverse simplement la turbine et est intégralement restituée au cours d’eau.
+*'''Aspect local''' : possibilité de produire l’électricité localement pour des sites non raccordés au réseau.
+*'''Aspect durable''' : une réalisation de génie civile bien faite peut durer jusqu’à 100 ans.
+
+===Inconvénients===
+
+*'''Impact écologique''': la retenue d'eau engendre une diminution du débit d'eau.
+*'''Impact halieutique''': retenue de poisson induite par le barrage mais quelquefois corrigée par des passes montées et des passes descentes.
+*'''Procédure longue''' : Il faut prévoir au minimum une à deux années entre le début du projet et la réalisation finale de la centrale (demande de droit d’eau, étude de faisabilité…).
+*'''Coût important''' : L’investissement de départ pour l’installation d’une centrale est en général assez important. Bien entendu ce coût diminue si l'on décide de faire les travaux d'installation soi-même.
+
+
+== Choix d'une turbine ==
+
+On distingue plusieurs types de turbines. Elles se différencient par leur types de fonctionnement (action ou réaction). Le choix d'une turbine est lié au débit disponible ainsi qu'à la chute d'eau exploitée.
+
+=== turbine à actions ===
+[[définition]] : L’eau arrive à la vitesse maximale dans l’injecteur. L’énergie du jet entraîne la rotation de la roue et l’eau ressort en pluie.
+Il existe deux familles principales de turbines à action, les turbines Banki et les turbines Pelton.
+
+'''turbine Banki'''
+*hauteur de chute : moyenne(10 à 150 mètres)
+*débit : 20 à 7000 L/s
+*vitesse de rotation : faible
+
+'''turbine Pelton'''
+*hauteur de chute : haute (50 à 1000 mètres)
+*débit:20 à 1000 L/s
+*vitesse de rotation : 500 à 1500 tr/min
+
+=== turbine à réaction === 
+[[définition]] : L’eau est guidée par le distributeur pour rentrer sans choc dans la roue. L’eau est à la vitesse maximale à la sortie de la roue.
+Les turbines à réaction les plus courantes sont les turbines Francis et les turbines Kaplan.
+
+'''turbine Kaplan'''  
+*hauteur de chute : faible (jusqu'à 10 mètres)
+*débit : 300à 10 000 L/s
+*vitesse de rotation : faible
+
+'''turbine Francis'''
+*hauteur de chute: faible (5 à 100 mètres)
+*débit : 100 à 600 L/s
+*vitesse de rotation : jusqu'à 1000 tr/min
+
+
+== Coût ==
+
+Le coût d'une installation micro hydraulique dépend de nombreux paramètres tels que la puissance installée, le type de matériel retenu ou de la ressource environnementale, il est donc très difficile de chiffrer le prix d'un projet. On peut cependant considérer que plus la puissance installée est importante, plus le prix de l'installation au kW sera faible (entre 400€ et 2100€/kW pour des installations de puissances supérieures à 100kW et jusqu'à 6100€/kW pour des installations de puissance inférieure à 30 kW).
+
+===Étude et construction===
+
+Le coût dépendra des caractéristiques, de la configuration du terrain, de la puissance et de la tension désirées. Le prix d'une installation est ainsi lié à certains paramètres: 
+*'''L'étude préalable''' : les études de faisabilité et les démarches pour obtenir un droit d'eau peuvent être réalisées par un bureau d'étude spécialisé. (Ces démarches peuvent bénéficier d'aides financières de la part de collectivités ou d'organismes publics).
+*'''La turbine''' : Le prix d'une turbine dépend entre autres du débit exploité (plus le débit est important, plus le prix augmente) ainsi que du type de turbine utilisée. 
+*'''L'installation électrique''' : la turbine est reliée à différents éléments nécessaires à l'utilisation de l'électricité (régulateurs électroniques, disjoncteurs, onduleur..).
+*'''Les travaux de génie civil''' : ceux-ci comprennent la construction de la centrale (ou de l'abri pour la turbine dans le cas d'une installation de petite taille) et l'installation du canal de dérivation.
+*'''Le stockage''' : dans le cas des sites isolés (non raccordés au réseau électrique) il peut être nécessaire de prévoir des batteries pour assurer l'indépendance énergétique du site. 
+
+===Retour sur investissement===
+
+Le possesseur d'une micro-centrale peut décider de revendre en partie ou en totalité la production d'électricité de son site ou bien de se servir de cette production pour son usage personnel (c'est le cas pour des sites isolés non raccordés au réseau).
+
+Le prix de rachat de l'énergie hydraulique a été déterminé par l'arrêté du 1er mars 2007. Il est fixé à 6,07c€/kWh pour les nouvelles installations<ref>http://www.industrie.gouv.fr/energie/renou/se_ren_a4.htm</ref> (des primes peuvent être ajoutées suivant certaines conditions).
+
+Le retour sur investissement est estimé entre 5 et 20 ans.
+
+== Maintenance ==
+
+Bien que les micro-centrales ne requièrent que peu de maintenance, celle-ci ne doit surtout pas être négligée. Elle doit être effectuée par des techniciens compétents, ayant reçu une formation conséquente lors de la mise en œuvre du projet.
+
+*Le nettoyage du canal d'amenée d'eau, ainsi que du bassin de mise en charge. Toutes les grilles présentes sur le parcours de l'eau doivent être vérifiées afin d'éviter leurs obstruction, notamment au niveau de la crépine de la conduite forcée.<br />
+
+*Le nettoyage du dessableur ou des bassins de décantation qui permettent d’éliminer les déchets susceptibles d’endommager la turbine.<br />
+
+*Un stock de pièces de rechange doit être constitué afin de pallier de manière rapide et efficace à une rupture du matériel. Un ensemble de joints, de vannes, de roulements étanches et d’aubes de remplacement est le strict minimum pour assurer une maintenance correcte.<br />
+
+== Exemple ==
+
+A proximité de Saint-Egreve (38) il existe une petite centrale hydraulique privée.<br />
+
+[[Image:Centrale190.jpg]]
+
+*La conduite forcée peut alimenter trois turbines dont une est d'origine, les deux autres datant des années 50<br />
+*La puissance maximale est de 700 kW<br /> 
+*La production annuelle d'électricité varie entre 2 et 3 millions de kWh revendus à EDF<br />
+
+== Références ==
+<references/>
+== Voir aussi ==
+=== Liens internes ===
+* [[Énergie hydraulique]]
+
+=== Liens externes ===
+* [http://www.pienergies.com/energies/eau/g1_description_mch.shtml Pienergies] : guide pour mener un projet de micro-centrale hydro-électrique 
+* [http://www.erinnov.com/hydroelectricite.htm Énergies renouvelables et innovations] 
+* [http://www.riaed.net/IMG/pdf/MicroCentrale-Hydraulique.pdf Micro Centrale hydraulique]
+* [http://www.bretagne-energie.fr/images/media/pdf/fiches-pratiques/16_Micro-hydraulique_V2.pdf Bretagne-énergie] : conseil pour l'installation d'une micro-centrale hydraulique
+
+{{Portail Énergie]]
+[[Catégorie:Énergies renouvelables]]
