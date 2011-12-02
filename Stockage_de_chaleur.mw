@@ -1,0 +1,152 @@
+=Introduction=
+Le stockage de la chaleur a toujours été un problème important. Nous sommes en présence d'un décalage entre les apports de chaleur et les besoins (jour/nuit, été/hiver).
+
+A l'heure actuelle on dénombre trois grandes familles de système de stockage de chaleur :
+
+* Stockage par chaleur latente
+* Stockage par chaleur sensible (solide ou liquide)
+* Stockage thermochimique
+
+=Stockage par chaleur sensible=
+
+Il correspond à la chaleur absorbée suite à une élévation de la température environnante sans entraîner de changement de phase du matériau de stockage.
+
+Q = m Cp (Tenv - Tmat)
+
+Q = Chaleur absorbée (kJ)<br />
+m = Masse du matériau de stockage (kg)<br />
+Cp = Capacité calorifique du matériau (kJ/(kg.K))"<br />
+Tenv = Température environnante (K)<br />
+Tmat = Température du matériau (K)<br />
+
+La chaleur est dépendante de la chaleur spécifique et de la masse du matériau de stockage mis en œuvre.
+
+On distingue plusieurs types d’installations :
+Les déphasages pour ce stockage sont soit de courte durée, soit inter saisonnier.
+
+==A courte durée (stockage le jour pour une utilisation la nuit)==
+
+===Chauffe eau ===
+Les équipements de chauffage de l'eau sanitaire utilisent généralement un ballon de stockage pour bénéficier des tarifs avantageux (heures creuses électriques) ou éviter le fonctionnement permanent à faible rendement des chaudières (fuel, gaz,...).
+===Chauffe eau solaire===
+Les capteurs solaires thermiques ne produisent de la chaleur que pendant les périodes ensoleillées et exigent donc un stockage diurne (pour les périodes sans soleil un chauffage auxiliaire est nécessaire).
+
+Les capteurs solaires (plans ou à tubes à vide) forment un circuit fermé avec le ballon de stockage. 
+Les plus courants dans les pays développés utilisent un circulateur électrique associé à des sondes de températures (sortie capteurs et point le plus chaud du stock) pour extraire la chaleur utile des capteurs aux moments favorables.
+
+Les systèmes à thermosiphon exigent un stockage placé plus haut que les capteurs (le fluide chaud monte). La circulation est passive et directement assujettie à l'ensoleillement des capteurs (sans soleil la circulation s'arrête, avec soleil la circulation ne démarre que lorsque la différence de température capteur-ballon est suffisante). Ces systèmes à thermosiphon sont plus répandus dans les pays chauds.
+
+Critère de dimensionnement : 
+* Surface de capteur et volume de stockage dépendant du climat
+* Fluide caloporteur : antigel dans les lieux où la température nocturne ou hivernale conduirait à un risque de gel.
+
+===Lit de galets souterrains===
+Dans le cas de capteurs solaire à air le stockage de la chaleur peut se faire dans les parois massives (mur Trombe par exemple) ou dans un stockage de type galets généralement placés en sous-sol.
+
+La circulation de l'air doit être soigneusement étudiée :
+* répartition équilibrée des flux d'air
+* minimisation des pertes de charges dans le stockage et les conduits de distribution (distance capteurs/stockage)
+* facilité de nettoyage des équipements (poussières) 
+
+Critère de dimensionnement et précautions : 
+* Proportion volume de stockage par rapport à la surface des capteurs solaires entre 0,3 à 0,4 kWh/m3. °C pour une belle journée en mi-saison.
+* Majoration de la longueur de stockage de 20 à 30 % pour améliorer le rendement des capteurs
+* Evaluation très précise de la perte de charge dans le stockage pour dimensionner le  ventilateur
+* Rechercher le débit optimal qui dépend de la granulométrie des cailloux et de la longueur du stockage
+
+==Inter saisonnier (stockage l’été pour une utilisation l’hiver)==
+Il existe plusieurs technologies pour le chauffage des bâtiments (et potentiellement l'eau sanitaire) encore peu développées :
+* réservoirs d'eau semi-enterrés ou enterrés (exemples en Allemagne, des bétons spéciaux ont été mis au point pour réduire les pertes par diffusion ou nécessité de paroi en acier inoxydable),
+* doublets géothermiques sur nappe phréatique avec pompe à chaleur (puits d'injection estivale en amont et puits de récupération hivernal en aval), la distance entre puits doit être bien adaptée à la vitesse de l'eau dans le sol,
+* forages géothermiques de l'ordre de 100m de profondeur (puits avec tube en U) dans un sol sans circulation d'eau (vitesse < quelques m/an), avec 2 techniques : faible écart de température et pompe à chaleur pour relever le niveau de température, ou écart de température important avec usage direct en chauffage à basse température.
+
+Le cycle périodique comporte :
+* une phase de charge estivale à partir de capteurs solaires thermiques 
+* une phase de décharge hivernale pour le chauffage.
+
+Dans le cas de forages géothermiques les sondes sont régulièrement espacées (quelques m) dans un cylindre de profondeur voisine du diamètre (30*30 m par exemple) afin d'offrir la surface d'échange avec le sol alentour la plus réduite. Le sol autour des sondes stocke la chaleur et celui qui est en périphérie du cylindre sert d'isolant (5 m environ).
+Le centre du cylindre est le plus chaud (on atteint des températures de l'ordre de 80°C sans pompe à chaleur et 30°C avec pompe à chaleur) : c'est là que le fluide est injecté dans les tubes des forages pendant la charge et repris lors de la décharge.
+
+Pour être efficace une telle installation doit stocker au moins quelques centaines de MWh.
+
+Encore peu développé le système sans pompe à chaleur est très prometteur par son très faible besoin énergétique (uniquement des pompes pour déplacer les fluides caloporteurs), sa très faible maintenance et son très faible impact environnemental (contrairement aux forages géothermiques simples qui s'épuisent en 30 à 50 ans, sa durée de vie n'est limitée que par l'usure des tubes).
+
+Il demande des investissements relativement élevés et un équipement auxiliaire de chauffage les 1ères années car le régime transitoire est d'au moins 5 ans.
+
+Un exemple de cylindre de 35m de diamètre et de profondeur (33700 m3) existe au Canada en Alberta avec 2400 m2 de capteurs solaires plans. Démarré en 2007, il a assuré 90% des besoins de chauffage d'un lotissement de 52 maisons individuelles en 2010 et devrait atteindre 95% en régime de croisière d'ici 2 ans.
+[[Image:Stockageintersaisonnier.jpg|thumb|260px|Stockage de chaleur intersaisonnier]]
+
+=Stockage par chaleur latente=
+Il est utilisé actuellement pour le stockage de courte durée, lorsque l’on recherche une grande capacité de stockage d’énergie pour une différence de température relativement faible.
+
+==Fonctionnement==
+Sous l’effet d’un apport de chaleur, tous les matériaux changent d’état. L’énergie stockée (Q) est de la forme suivante :
+
+Q = m. Lmat
+
+Lmat = chaleur latente à une température donnée<br />
+m = masse totale du corps<br />
+
+Le choix du corps à utiliser dépend de la gamme de température d’utilisation, de la quantité de chaleur à stocker et de la place disponible pour le volume de stockage.
+Pour permettre au corps de garder son nouvel état les parois de ce volume de stockage doivent être isolées.
+Le tableau ci-dessous indique les valeurs de température de changement de phase et la quantité d’énergie stockable pour quelques matériaux donnés.
+
+{| class="ekotable" width="300" align="center"
+|colspan="4" align="center"|Caractéristiques des matériaux
+|-
+!Matériaux!! Changement d’état !! Température de changement de phase (°C) !! Chaleur latente de changement de phase (kJ/kg)  
+|-
+|Eau || Solide-liquide || 0 || 335
+|-
+|Paraffine (Eicosan) || Solide-liquide || 36,6 || 243
+|-
+|Hydrates de sels (Na2SO410H2O) || Solide-liquide || 32 || 241
+|-
+|Mélanges de sels (48NaCl/52MgCl2) || Solide-liquide || 450 || 432
+|}
+
+==Application==
+L’utilisation de matériaux à changement de phases (MCP) dans le bâtiment permet une augmentation de l’inertie et ainsi améliore le confort d’été.
+La journée, la chaleur ambiante du bâtiment fournit la chaleur nécessaire pour modifier l’état des cellules contenues dans les MCP. Celles-ci récupèrent donc les calories de l’air ambiant et permettent de limiter les températures maxima (de l’ordre de 3 à 5°C)
+Associés à une ventilation nocturne accrue, les cellules peuvent retrouver leur état initial en restituant la chaleur à l’air ambiant.
+Les problèmes principaux des MCP sont notamment le prix d’un panneau (50€/m2) et son comportement face au feu.
+
+La centrale solaire électrique ANDASOL (plateau de Guadix, province de grenade, Espagne) utilise des panneaux solaires thermiques pour évaporer un fluide et générer de l’électricité via des turbines.
+Dans un second temps, la chaleur excédentaire est stockée par chaleur latente dans une citerne isolée, afin de l’utiliser la nuit ou encore en période de faible ensoleillement. Cette méthode permet de limiter les fluctuations de chaleur communes à l’utilisation du solaire.
+
+=Stockage thermochimique=
+Cette technologie est à l’heure actuelle encore en développement, toutefois il est intéressant de connaître ses principales caractéristiques. L’utilisation principale de ce système reste le stockage de l’énergie solaire.
+
+==Fonctionnement==
+* Création du stock (été)
+** Sous l’effet de la chaleur, on sépare deux composés chimiques par un phénomène de désorption : un sous forme vapeur et un sous forme liquide solide sont ainsi obtenus.
+** La vapeur est condensée par un échangeur.
+** Les deux composés sont ainsi stockés séparément.
+
+* Utilisation du stock (hiver sans source de chaleur)
+**  Dans un premier temps il faut évaporer le liquide stocké (évaporation à faible température)
+** Le mélange des deux produits par absorption conduit à une réaction exothermique, Cette chaleur peut ensuite être utilisée pour une application quelconque.
+** Il faut ensuite réintroduire le mélange dans le désorbeur en attente d’une réutilisation.
+
+==Avantages/Inconvénients==
+[[Image:Thermochimique.jpg|thumb|260px|Procédé de stockage thermochimique]]
+* Le volume occupé par ce type de stockage est nettement moins important que pour des technologies « classiques » (30 % de moins qu’un réservoir à eau).
+* L’énergie stockée n’est pas influencé par la température et donc le réservoir ne nécessite pas d’isolation thermique. Ce qui n’engendre aussi aucune perte thermique durant le changement de saison.
+
+Toutefois certains problèmes restent à supprimer :
+* Les produits utilisés actuellement pour le stockage sont toxiques
+* Toujours au stade de la recherche, ce procédé doit encore être amélioré pour une utilisation courante
+
+
+=Voir aussi=
+=== Liens internes ===
+* [[Gestion de l'énergie]]
+
+===Liens externes===
+[http://www.cstb.fr Centre Scientifique et Technique du Bâtiment]
+
+[http://www.flagsol.com/andasol_projects.htm Projet ANDASOL] 
+
+{{Multi bandeau|Portail Énergie|Portail Se loger}}
+
+[[Catégorie:Énergie]][[Catégorie:Construction]][[Catégorie:Chauffage]]
