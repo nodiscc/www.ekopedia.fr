@@ -1,0 +1,146 @@
+{{Se déplacer}}
+
+== Objectif du document ==
+
+Une fois finalisé, ce document devrait vous donner tous les moyens pour vous permettre de construire votre propre moteur. Ceci avec le minimum de moyens et d'efforts.
+
+== Un peu d'histoire ==
+
+'''Robert Stirling''' (1790-1878, pasteur écossais) a breveté le moteur Stirling en 1816: ce brevet comprenait de telles innovations que l'année 1816 est considérée comme la date de naissance de ce type de moteurs.
+
+== Principes ==
+[[Image:Stirling-brevet.png|Image issue du brevet|right]]
+
+Le principe est relativement simple: le fluide principal qui produit le travail est un gaz (air, hydrogène ou hélium).
+Il est soumis à des pressions moyennes de l'ordre de 150 bars pour les moteurs performants actuels puis à un cycle de Carnot à 4 temps : chauffage, détente, déplacement vers la source froide et refroidissement, compression et retour vers la source chaude.
+
+Ce convertisseur thermodynamique n'est pas dépendant de sa nature de source d'énergie thermique, il est polycarburant.
+Le moteur peut être alimenté par une '''source quelconque de chaleur''': combustion externe de dérivés du pétrole, le gaz naturel, le charbon, l'énergie nucléaire, etc., mais aussi énergies renouvelables comme l'énergie solaire ou l'énergie géothermique.
+
+Le moteur Stirling est un moteur qui, suivant les configurations, s'adapte à des régimes de rotations variés qui peuvent aller de moins de 1 cycle par seconde à plus de 3000 tours par minutes. Il est utilisé sur des bateaux, sous-marins, pompes, générateurs électriques à énergie solaire ...
+
+C'est un moteur à forte densité énergétique pour le volume de gaz déplacé. Pour donner une comparaison automobile, il fournit des puissances de plus de 80 chevaux par litre de cylindrée.
+
+== Avantages ==
+
+=== Moins polluant ===
+C'est un moteur à combustion externe, elle est plus facile à contrôler que dans un moteur à combustion interne. Le fluide de lubrification (huile) n'est pas pollué par les résidus de combustion. 
+
+=== Moins bruyant ===
+Le fluide actif du moteur Stirling, l'air, l'hélium ou l'hydrogène travaille en cycle fermé et ne s'échappe pas à l'atmosphère, contrairement au moteur à combustion interne, dont le bruit d'échappement est très important.
+En cas d'utilisation d'un carburant pour le chauffage, la combustion est continue, il n'y a aucune explosion génératrice de bruits.
+
+=== Multi-Energie ===
+Le moteur Stirling ne demande qu'une source de chaleur, (et une source de froid.) quelle qu'en soit la source: il peut être alimenté par du pétrole, du bois, du charbon, de la paille, de l'électricité, du plutonium (possible, mais très dangereux), etc., et bien entendu le soleil.
+
+=== Valorisation de l'énergie ===
+Le moteur Stirling peut fonctionner à partir d'écarts de températures très faibles les rendements seront médiocres, mais cette particularité est très intéressante, car elle permet de valoriser des énergies dites de "rebut" provenant d'un système de puissance principal (Moteur, Pile à combustible, ou autres) augmentent ainsi le rendement global du système. Ces énergies de rebut sont normalement rejetées à l'environnement: gaz chauds, chaleur issue des systèmes de refroidissement, ...
+
+=== Entretien ===
+L'entretien du moteur Stirling est également facilité par son absence d'échange de matière avec son environnement et par le très faible nombre de pièces mobiles. Il n'y a pas d'arbre à cames, de chaine de distribution, de basculeurs ou poussoirs, de soupapes, de pompe à injection haute pression, etc...
+
+=== Rendement ===
+Son rendement peut avoisiner les 40%, contre environ de 35% pour les moteurs à explosion : si la différence de 5% parait faible, elle signifie quand même près de 15% (5/35) d'économie d'énergie.
+L'absence d'explosion au cours du cycle moteur le rend particulièrement résistant.
+
+=== Réversible ===
+Peut fonctionner en "pompe à chaleur"&nbsp;: En entrainant son axe de rotation, on produit une différence de température entre les deux zones d'échange thermique. Le fluide est donc capable de transporter des calories du point froid au point chaud.
+
+== Inconvénients ==
+
+=== Étanchéité ===
+Les problèmes d'étanchéité sont difficiles à résoudre, c'est le principal problème de ce moteur.
+
+=== Températures ===
+Les températures de source chaude sont de l'ordre de 720°C pour obtenir des rendements de plus de 40% avec de l'hydrogène comme fluide de travail.
+
+La température de source froide a aussi son importance, en raison du principe de Carnot. Rendement = 1 - Tf/Tc, avec Tf température froide et Tc température chaude. Ainsi, il vaut mieux diminuer la température de source froide par exemple de 10°C que d'augmenter celle de la source chaude de 10°C.
+
+=== Temps de réponse ===
+Ce moteur n'a pas pour le moment remplacé ses concurrents historiques comme le Otto ou Diesel dans le domaine de l'application automobile en raison d'un temps de réponse trop long lié à l'inertie thermique de ses sources chaude et froide. Il a par contre un avenir automobile dans les motorisations hybrides.
+
+== Principes de fonctionnement ==
+
+=== Le moteur Stirling Type alpha ===
+Le moteur alpha dissocie de façon nette la source chaude de la source froide. En effet, un cylindre réchauffe le gaz, un autre le refroidit. La cinématique est telle qu'on fait passer le gaz d'un cylindre à l'autre. Voir ci-dessous l'étude succincte de ce type de moteur.
+
+=== Le moteur Stirling Type beta ===
+Un Stirling bêta a un simple piston de puissance, placé coaxialement avec un piston de « déplacement ». Le piston de déplacement sert uniquement à propulser le gaz de l'échangeur de température chaud, vers l'échangeur de température froid. Sur un cycle complet, ce piston ne consomme pas d'énergie. Ce moteur ne requiert pas de « joint » mobile dans la partie chaude du moteur, et peut atteindre des rendements élevés de compression, grâce aux pistons qui sont capables de se chevaucher pendant leur déplacement.
+
+=== Le moteur Stirling Type gamma ===
+Le moteur gamma est un peu le compromis entre le moteur type alpha et le moteur type bêta. Dans un cylindre, le déplaceur joue son rôle, dans l'autre le piston moteur fait varier le volume global et récupère l'énergie. Ce type de moteur est fréquent pour mettre à profit de faibles écarts de température, entre source froide et source chaude.
+
+=== Le moteur à piston libre dit Martini ===
+{{...}}
+
+=== Le moteur à déplaceur libre ou Ringbom ===
+En 1907, un inventeur russe, Osian Ringbom, imagine de supprimer la liaison entre le déplaceur et le piston. Et cela fonctionne encore ! A condition que le déplaceur soit tenu par un guide offrant une assez large surface de contact avec l'air extérieur ! Il se déplacera tout seul en fonction de la différence de pression entre l'air extérieur et l'air intérieur au niveau de ce guide. Rappelons que l'air intérieur est successivement chauffé et refroidi au contact des sources et que sa pression sera tantôt plus élevée et tantôt plus petite que celle de l'air extérieur.
+{{...}}
+
+=== Le moteur à piston et déplaceur libres ===
+{{...}}
+
+=== Le moteur à double effet ===
+{{...}}
+
+=== Le moteur Stirling Type Quasiturbine à 4 pôles ===
+La Quasiturbine (Qurbine) est un moteur rotatif sans vilebrequin ayant un rotor articulé à 4 faces dont le centre est libre et accessible, tournant sans vibration ni temps mort, et produisant un fort couple moteur à faible RPM sous une variété de modes et de carburants. 
+
+* http://quasiturbine.promci.qc.ca/
+* http://quasiturbine.promci.qc.ca/QTVideos/Qtv2-SCAnim2.gif
+* [[Quasiturbine]]
+
+=== Le générateur thermodynamique ===
+{{...}}
+
+=== Le fluydine ===
+* http://stirling.sites.solnet.ch/fluidyne.html
+* http://www.maxpie.de/Fluidyne.htm
+* http://www.stirlingsouth.com/Roy/others/hubert/hubert.htm
+* http://www.bekkoame.ne.jp/~khirata/seesaw/indexe.htm
+
+== Réalisations pratiques ==
+* [http://cust.univ-bpclermont.fr/partenariat-industriel/travaux/gp/sthelio/sthelio.html Projet Génie Physique STHELIO : Moteur solaire type "Stirling"]
+* [http://www.moteurstirling.com/diversrealisations.html Belles réalisations de moteurs Stirling par des amateurs, en photos et vidéos]
+* [http://thecarnotengine.blogspot.com/ réalisation pratique d'un moteur de Carnot]
+
+== Utilisations ==
+
+La micro-cogénération par moteur stirling ;  fiabilitée et sans maintenance :
+http://cogeneration.discutforum.com/votre-1er-forum-f1/micro-cogeneration-a-moteur-stirling-alpha-t2.htm#5
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Agrocarburant]]
+* [[Énergies renouvelables]]
+* [[Moteurs alternatifs]]
+* [[Moteur Pantone]]
+* [[Modes de déplacement alternatifs]]
+* [[Quasiturbine]]
+* [[Véhicules à carburants alternatifs]]
+* [[Moteur Stirling/Bibliographie|Bibliographie détaillée]]
+
+=== Liens externes ===
+
+==== En français ====
+* http://www.moteurstirling.com/ Histoire, théorie, applications, réalisations...
+* http://www.moteur-stirling.com/ 
+* http://www.moteurstirling.info Regroupe les informations de nombreux sites
+* http://www.unine.ch/phys/enseignement/TP/TPD/exp_tpd/Exp17_Moteur%20Stirlling.pdf
+* http://quasiturbine.promci.qc.ca/FQTStirling.html
+* http://leakystirling.free.fr
+* http://www.projetstirling.fr
+
+==== En anglais ====
+* http://geocities.com/CapeCanaveral/Launchpad/5465/
+* http://www.steamengine.com.au/stirling/models/buildme/index.html
+* http://www.stirlingengine.com/
+* [http://www.sunmachine.de/english/main.html Un moteur Stirling avec comme source l'énergie solaire]
+
+=== Bibliographie ===
+* ''Le manuel des moteurs Stirling'', par Mr Daniel Lyonnet.  http://www.moteur-stirling.com/brochure.htm
+
+{{Portail Se déplacer}}
+
+[[Catégorie:Moteurs alternatifs]]
