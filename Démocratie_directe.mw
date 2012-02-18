@@ -1,0 +1,100 @@
+{{Vivre ensemble}}
+
+La '''démocratie directe''' est un système direct de [[gouvernement]], sans représentant.  
+
+Ce qui suit sont des méthodologies d'application de la démocratie directe. 
+
+
+== Première méthode d'application de la Démocratie Directe == 
+
+Cette méthodologie repose sur le principe que la rue est l'unité politique de base : c'est dans chaque rue, par les personnes y habitant, que les votations sont organisées et réalisées manuellement. Le vote électronique n'est pas utilisé sauf votation spécifique. Internet est utilisé pour le travail coopératif de conception des votations, ainsi que pour la publication et le regroupement de leurs résultats, cependant des registres tenus publiques doivent être manuscrits. 
+
+[ Définir le terme "rue", ses inclusions, ses exclusions ]
+
+Cette méthodologie contient les outils et logiciels libres nécessaires à son application. <ref>[http://www.gnu.org/philosophy/free-sw.fr.html Les logiciels libres]</ref> Elle peut être appliquée au niveau du régime politique d'un pays (Expliquer ce point ou définir un champ d'action restreint à cette méthode) comme au niveau d'associations locales (exemple des coopératives) : il suffit de remplacer le mot "rue" par "association", et "voisins" par "membres" ...
+
+===Votations d'une rue===
+* N'importe quelle personne identifiée (voir point 3) d'une rue peut concevoir, organiser et participer à une votation de sa rue.
+* L'approbation des résidents et résidentes aux propositions peut se faire à l'aide d'une votation à la majorité. Si l'écart est maigre, un second vote est proposé par l'organisateur pour que les personnes intègrent dans leurs choix la tendance du groupe (NB : ce point, à améliorer, est nécessaire si les personnes souhaitent que des votations puissent engager l'ensemble des personnes de la rue).
+* La participation aux votations est facultative.
+* Les votations sont réalisées manuellement (votes et comptage), dans le lieu défini lors de la "votation générale pour le fonctionnement" annuelle ou bi-annuelle.
+* Si des personnes de la rue souhaitent voter en réseau --> au moins ces cinq conditions de sécurité devraient être respectées :''
+** utiliser un réseau libre<ref>Un réseau libre : [http://www.reseaucitoyen.be/wiki http://www.reseaucitoyen.be]</ref> plutôt qu'un réseau contrôlé par un opérateur (France Télécom, Belgacom, KPN, etc);''
+** préférer, autant que possible, les technologies réseau de type "pair à pair" <ref>[http://www.framasoft.net/rubrique175.html framasoft.net] - technologies réseaux.</ref> à celles de type "client-serveur";''
+** utiliser un système d'exploitation libre<ref>[http://www.framasoft.net/rubrique231.html Un système d'exploitation libre]</ref>;''
+** utiliser un logiciel libre de votation en réseau <ref>[http://www.gnu.org/search/fsd-search.py?q=voting Logiciel libre de votation en réseau]</ref>;''
+** utiliser un logiciel libre de signature électronique <ref>[http://winpt.sourceforge.net/fr/ Logiciel libre de signature électronique]</ref> (identification pour comptage) et d'encryption (si vote secret). <ref>Voir aussi : http://www.gnu.org/, [http://www.gnu.org/search/fsd-search.py?q=signature I], [http://www.gnu.org/search/fsd-search.py?q=encryption II] et [http://www.framasoft.net/rubrique173.html III].</ref>''
+* Les propositions doivent être exposées aux personnes de la rue sur un support d'affichage prévu à cet effet et/ou déposées avant la nouvelle votation pour que soit fixé le lieu et la date à laquelle l'exposant organisera une scéance d'information. Elle sera ratifiée lors de la votation suivante. La votation peut être différée aux besoins(une votation par proposition).
+* Après chaque votation, le texte, les résultats et l'identité des ayants votés de la votation sont publiés dans un registre (sans limite de temps) et éventuellement sur une page du site web de la rue, page qui pourra donc être imprimée pour conservation, à partir de n'importe quel terminal relié à une imprimante. NB : l'identité des ayants voté est publiée (mais pas leurs votes individuels si ceux-ci sont secrets) de manière à ce qu'ils puissent effectuer entre eux des recomptages de leurs votes (ce qui permet de vérifier que le résultat publié est exact).
+
+===Votations de groupes de rues===
+* ''Conception''. Un nombre non limité de rues peuvent concevoir ensemble des votations identiques. Pour faciliter ce travail, il est recommandé d'utiliser des logiciels libres de travail coopératif en réseau. La méthodologie de travail pourrait être basée sur le modèle des RFC. <ref>Les RFC: http://lipe.sourceforge.net/RFC/lipe-rfc-0-0.htm</ref>
+* ''Comptage''. Comme chaque rue publie sur son site web le résultat de sa votation, il suffit pour regrouper les résultats que chaque page de résultat affiche la liste des adresses web de toutes les autres pages de résultat. Un peu comme un site du réseau indymedia <ref>http://www.indymedia.org/</ref>, dont la colonne de gauche présente la liste des liens vers tous les autres centres Indymedia. Ainsi, on atomise (partage au maximum) les fonctions de publication et de vérification des données.
+ 
+===Identification===
+* L'identification des votants et votantes de la rue a deux fonctions : (i) éviter les votes multiples (NB : ce processus n'empêche pas les votes individuels d'être secrets), et (ii) permettre aux votantEs de procéder entre elles/eux à des recomptages de leurs votes.<br />
+''QUESTION : Ne serait-il pas possible de trouver un système qui permettent de répondre aux deux besoins ci-dessus, sans devoir identifier les Nom, Prénom, adresse des votants et votantes ?''
+- Les personnes se connaissent dans ce système, l'identification est facile et la publication du simple numéro de l'habitation peut suffir (exemple : N°9 .............. 3 votes)
+- Un ou plusieurs votes par foyer ? (Bien définir la notion d'habitation et d'occupant)
+* Personne n'est obligé de se faire identifier, mais dans ce cas la participation aux votes n'est pas autorisée.
+* Pour qu'une identification soit validée, il suffit que l'organisateur et les participants  confirment que la personne habite effectivement dans la rue.
+
+* Le processus d'identification est permanent : à tout instant une personne de la rue peut s'identifier ou signifier son départ à ses voisins.
+
+===Maintenance du site web de chaque rue===
+* La maintenance du site de chaque rue est assurée par un-e webmaster (de la rue) uniquement pour les fonctionnalités dont il n'est pas possible de partager la maintenance par logiciel libre de maintenance coopérative en réseau; la/le webmaster est élu-e et révoqué-e par votation.
+* Le développement du site (exemple : un système d'auto-identification des votant-e-s via le réseau) de chaque rue est réalisé par n'importe quel-le-s voisin-e-s qui souhaitent le faire; elles/ils le font en soumettant à votation leurs propositions de développement.
+
+===Divers===
+* ''Transition du régime représentatif à la démocratie directe'' : les réglementations et lois impliquant l'intervention de représentants politiques sont abrogées. Les autres réglementations et lois demeurent en vigueur tant qu'elles n'ont pas été abrogées/modifiées selon la présente méthodologie.
+* Les points composant la présente méthodologie peuvent être modifiés. De nouveaux points peuvent aussi y être ajoutés.
+
+== Deuxième méthode d'application de la Démocratie Directe == 
+
+'''Règles de fonctionnement d'un parti politique sur base des principes de la démocratie directe'''
+# les participants sont invités à ... participer spontanément à tous types d'élections dans leur pays sous la bannière "universalist-party.net" ; ces initiatives doivent être référencées dans la page "Elections" de leur site universalist-party.net ; il y a un site universalist-party.net par langue ;
+# les élus du pU ne participent à des gouvernements (national, régional, communal, etc), qu'à la condition qu'aucune forme de compromis ne doit être faite concernant le programme du pU ; sinon, les élus du pU vont dans l'opposition ;
+# toute personne élue sous la couleur du parti Universaliste ne pourra participer à une autre élection si elle a déjà exercé un mandat sous la couleur du parti Universaliste ;
+# le parti Universaliste n'a pas de chefs, il n'a que des participants qui s'affilient par simple participation spontanée au programme et aux règles du pU, ainsi qu'à l'amélioration de ces dernières ;
+# chaque décision est soumise à votation ; pour être validée une décision doit recueillir au moins 66% de votes favorables ; n'importe qui peut proposer, organiser et participer à une votation, et ce quelque soit sa langue ; pour organiser une votation, un participant doit obtenir l'accord signé électroniquement sur le site Web par 100 autres participants; lorsque le nombre de signatures atteint 100, la liste des signatures est publiée et la votation activée; une votation dure 30 jours ; les votations sont électroniques et opérées sur au moins un site linguistique de www.universalist-party.net (un site par langue), chacun de ces sites publiant systématiquement sur sa page "Votations" toutes les votations organisées dans sa langue.
+# tout participant au parti Universaliste respecte de façon inconditionnelle le principe de publication en ligne de toutes formes d'information publique (OpenContent) ;
+# la maintenance de chaque site linguistique est assurée par un Webmaster uniquement dans les cas où il n'existe pas de solution technique permettant de transférer cette charge à l'ensemble des participants via des interfaces Web de gestion ; la/le Webmaster doit habiter dans un pays dont la langue officielle est la langue du site dont elle/il est la/le Webmaster, laquelle doit être sa langue maternelle ; la/le Webmaster est élu et révoqué par votation; le développement des sites www.universalist-party.net est réalisé par n'importe quels participants qui souhaitent le faire <ref>..en utilisant de préférence des technologies libres telles que ''Linux'' et ''PHP''.</ref>, ils le font en soumettant à votation leurs propositions de développement ;
+# le non respect du programme ou de la méthode du parti, par un de ses candidats entraîne la suppression de son référencement de la ou des pages "Élections" où elle/il est référencé; la suppression est soumise à votation ;
+# le programme et les présentes règles de fonctionnement du parti Universaliste peuvent être modifiés par votation ;
+# ce dernier point a pour seule fonction de rappeler que cette liste de règles n'est sans doute pas complète ... 
+
+== Comparaison des deux méthodes == 
+
+La seconde méthode vise à remplacer le régime représentatif en participant à ce dernier, et en particulier aux élections. Elle ne séduira donc pas celles et ceux qui pensent que les élections sont truquées et que donc cette démarche est vouée à l'échec. 
+
+la première méthode par contre est applicable sans transition, elle repose sur l'hypothèse d'abandon direct du système représentatif et de son remplacement immédiat par la démocratie directe.
+
+== Remarques pratiques ==
+
+Ces méthodologies demandent des ordinateurs <ref>(?)</ref>, une mise en réseau, que les votant(e)s y aient accès facilement.  
+
+Il est utile de prévoir le problème de l'accessibilité physique :  par exemple pour les handicapéEs moteur, mal voyants, ....
+La fracture numérique ne doit pas s'ajouter à des fractures sociales existantes.
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Politique]]
+* [[Sociocratie]]
+* [[Consensus]]
+* Les [[Indignés]]
+
+===Liens externes===
+* [http://democratiedirecte.be democratiedirecte.be] est un travail en cours permanent qui propose des objectifs, une méthodologie, une base de spécification et un série de réflexions pour implémenter efficacement la démocratie directe.
+* [http://fra.anarchopedia.org/index.php/D%C3%A9mocratie_directe Démocratie directe dans l'encyclopedie anarchopedia.org]
+* [http://raforum.apinc.org/article.php3?id_article=1613 Au-delà de la démocratie, l’anarchie]
+* [http://www.revoltes.net/spip.php?article1464 Démocratie, direct !] (Une critique des "partis de gauche" et de leurs fonctionnements éloignés de la démocratie directe)
+
+===Références===
+<References />
+
+=== Bibliographie ===
+
+{{Portail Vivre ensemble}}
+
+[[Catégorie:Politique]]
