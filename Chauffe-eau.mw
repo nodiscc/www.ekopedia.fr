@@ -1,0 +1,66 @@
+{{Se loger}}
+
+Appareil destiné à chauffer l'[[eau]] pour l'utilisation sanitaire (boisson, hygiène, cuisine...). Il existe plusieurs type de '''chauffe-eau'''.
+
+
+== Fonctionnement ==
+
+Le chauffe-eau électrique fonctionne à l'aide d'une résistance électrique qui peut-être au contact direct de l'eau à chauffer ou isolée.
+Le chauffe-eau au gaz fonctionne sur le même principe qu'une chaudière. Un bruleur à gaz chauffe directement l'eau.
+
+Il existe également des chauffe-eau possédant un ou plusieurs serpentins intérieurs. Un fluide caloriporteur (souvent de l'eau) circule alors à l'intérieur de ce serpentin pour transmettre la chaleur à l'eau du chauffe-eau. Ce type de chauffe-eau peut être raccordé à n'importe qu'elle chaudière. Il peut également servir à la récupération de l'énergie solaire à l'aide de capteurs solaires.
+
+== Différents types de chauffe-eau ==
+[[File:Solar heater b.jpg|Thumb|right|200px|Chauffe-eau solaire]]
+====Chauffe-eau solaire====
+
+Un chauffe-eau solaire individuel (CESI) est un dispositif permettant d'obtenir de l'eau chaude à partir de l'énergie solaire. 
+
+Le système comporte :
+
+* un capteur solaire de quelques mètres carré, la plupart du temps sur un pan de toit orienté vers le sud, au sol, ou en marquise ;
+* un ballon de stockage destiné à recevoir l'énergie calorifique solaire produite par les capteurs ;
+* un appoint pour compenser les périodes sans soleil. Cet appoint peut être de n'importe quelle nature : électrique, gaz, fuel, bois, pac...
+
+Le chauffe-eau solaire présente de nombreux avantages :
+
+* la source d'énergie utilisée pour chauffer l'eau (le rayonnement solaire) est inépuisable ;
+* le chauffage de l'eau ne se fait pas par des procédés polluants, comme c'est le cas pour le chauffe-eau à gaz ou au fuel (rejet de gaz à effet de serre) ou pour le chauffe-eau électrique (production de déchets nucléaires) ;
+* le chauffe-eau solaire peut être installé en zone isolée ;
+* le chauffe-eau solaire permet de diminuer sa consommation d'électricité ou d'énergie fossile.
+
+====Chauffe-eau à gaz====
+* Vérifier la bonne combustion des chauffe-eau à gaz, car il existe un risque. Un chauffe-eau mal réglé peut produire du monoxyde de carbone, gaz mortel, appelé aussi le tueur silencieux, inodore, incolore et insipide. Ne bouchez pas les aérations dans les salles de bain et les cuisines ! Elles sont là pour renouveler l'air et éviter ce type d'accident. Par sécurité vous pouvez tout simplement installer un détecteur de CO dans la pièce où se trouve le chauffe-eau.
+*Les chauffe-eau à gaz n'ont pas besoin de [[détartrage]]. On remplacera la valve tous les 10 ans environ.
+*Le chauffe eau à gaz doit être installé dans un local où il n'y a pas trop de poussière. Une cause fréquente de mauvaise combustion est l'encrassement du serpentin. La présence d'un sèche-linge à proximité est souvent responsable de ce genre d'encrassement prématuré.
+
+Si vous avez le choix entre chauffe-eau à gaz et chauffe-eau électrique, le chauffe-eau au gaz est celui qui offre le meilleur rendement énergétique et donc le coût thermique le plus bas. Son avantage est qu'il ne produit strictement que l'eau chaude dont on a besoin, il est toutefois polluant puisqu'il rejette que du gaz carbonique qui est un gaz à effet de serre.
+
+====Chauffe-eau électrique====
+* L'utilisation d'un chauffe-eau électrique ne pose évidemment pas de problème de combustion, mais constitue malheureusement une absurdité anti-écologique (énergie nucléaire et pétrole utilisé par les centrales électriques). Son rendement est mauvais et son utilisation malaisée (car il met énormément de temps à reconstituer la réserve d'eau chaude une fois que celle-ci a été puisée). Si vous utilisez un chauffe-eau électrique, pensez à ne le faire chauffer qu'en heures creuses (la nuit), et non tout le long de la journée.
+*:''Précision : En général, si l'installation électrique est aux normes, le chauffe-eau fonctionnera de manière automatique pendant les heures creuses, c'est-à-dire la nuit (en France c'est généralement de 22 h 30 à 7 heures).''
+*Pensez à détartrer votre chauffe-eau électrique au moins une fois tous les deux ans (voire plus si vous avez une eau très calcaire). Afin d'éviter le dépôt du calcaire sur la résistance, ce qui diminue son pouvoir chauffant et augmente donc la consommation d'énergie.
+* [[isolation_thermique|Isolez]]-le correctement, un chauffe-eau électrique mal isolé consomme plus de temps et d'énergie à chauffer. Si le chauffe-eau est bien isolé (très souvent le cas d'un chauffe-eau récent) l'eau peut rester chaude de nombreuses heures sans apport d'énergie.
+
+====Chauffe-eau thermodynamique====
+Il comprend une [[pompe à chaleur]] et la cuve d'eau. Le coût de consommation électrique est moindre (jusqu'à 75 % de réduction en théorie), le coût d'achat est plus élevé (3 fois plus cher). Le condenseur extrait la chaleur de l'air, même dans une cave ou un garage. Attention : lorsqu'un chauffe-eau thermodynamique est placé dans le volume chauffé, celui-ci extrait les calories de l'air ambiant qui ont été fournies par le système de chauffage ; on peut croire alors que le chauffe-eau thermodynamique utilise une énergie gratuite alors que c'est le système de chauffage qui est mis à contribution. La meilleure solution consiste à placer le condenseur à la sortie d'air extrait (chaud mais vicié donc évacué) de la VMC. Ce principe fonctionne mieux sur une VMC simple-flux qui extrait de l'air à 18-20 °C que sur une double-flux puisque les calories restantes auront été prélevées par l'échangeur (c'est l'intérêt d'une VMC ). Enfin, pensez aux nuisances acoustiques et au coût d'entretien de la pompe à chaleur(cela revient plus cher).
+
+====Chauffe-eau à bois====
+{{...}}
+
+==Voir aussi== 
+
+===Liens internes===
+* [[Entretien du chauffe-eau]]
+* [[Capteur héliothermique]]
+
+===Lien externes===
+* [http://perso.orange.fr/michel.flegon/bri/solair01.htm Construire son chauffe-eau solaire par Thermosiphon]
+* [http://www.ademe.fr/particuliers/Fiches/cesi/rub2.htm Chauffe-eau solaire]
+* [http://www.3ehabitat.fr/energies-renouvelables/chauffe-eau-solaire-meilleur-moyen/ Chauffe-eau solaire, Le meilleur moyen]
+* http://jacuzzi-feu-de-bois.blogspot.com
+
+===Bibliographie===
+
+{{Portail Se loger}}
+[[Catégorie:Énergie]][[Catégorie:Chauffage]]
