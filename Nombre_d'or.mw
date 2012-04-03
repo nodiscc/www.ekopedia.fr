@@ -1,0 +1,176 @@
+{{Article de qualité|date=18 octobre 2007|oldid=30349}}
+
+{{Se loger}}
+
+De tout temps les artistes ont été en quête d'harmonie, de beauté au sein de leurs œuvres. Depuis l'Antiquité, les géomètres et les philosophes ont cru à l'existence d'une proportion privilégiée permettant d'obtenir harmonie et beauté ; les artistes de la Renaissance l'appelèrent ''proportion divine'', ou ''section dorée''. L'appellation commune est désormais '''Nombre d'or'''.
+
+Le nombre d'or fascine les esprits depuis des millénaires. On le désigne par la lettre grecque '''&phi;''' (''Phi'') en référence au sculpteur grec Phidias (500 av JC) qui l'utilisa pour travailler sur la statue d'Athéna décorant le Parthénon à Athènes.
+
+Il est présent dans la nature ; les peintres, les sculpteurs et les architectes l'ont souvent employé pour trouver des proportions harmonieuses, de grands mathématiciens et physiciens l'ont étudié et appliqué (Roger Penrose...), il est aussi utilisé en aéronautique dans la conception de la voilure (Concorde, Mirage F5,... Voir lien).
+
+== Histoire ==
+
+=== ''Le nombre d'or'' à travers le temps ===
+* Les Égyptiens utilisèrent à la fois Pi et Phi pour la construction des grandes pyramides.
+* V<sup>e</sup> siècle av. J.-C. : Le sculpteur grec Phidias utilise le nombre d'or pour décorer le Parthénon à Athènes, en particulier pour sculpter la statue d'Athéna Parthénos. Il utilise également la racine carrée de ''5'' comme rapport.
+* III<sup>e</sup> siècle av. J.-C. : Euclide évoque le partage d'un segment en "extrême et moyenne raison" dans le livre VI des Éléments.
+* X<sup>e</sup> siècle: Utilisation du nombre d'or pour la construction de la cathédrale Notre-Dame de Paris.
+* 1498 : Fra Luca Pacioli, un moine professeur de mathématiques, avec l'aide de Léonard de Vinci, écrit "De divina proportione" (la divine proportion); ouvrage entièrement consacré au nombre d'or.
+* Au cours du XX<sup>e</sup> siècle : des peintres tels Dali et Picasso, ainsi que des architectes comme Le Corbusier, eurent recours au nombre d'or.
+
+=== Le nombre de tout temps ===
+De tout temps, si on demande à des personnes de dessiner un rectangle quelconque, le format des rectangles sera (dans 75% des cas selon le physiologiste et philosophe allemand Gustav Fechner, en 1876) proche du nombre d'or. 
+
+Phi est également appelé "nombre divin". Comme l'ont démontré Léonard de Vinci et bien d'autres après lui, il régit les proportions de la nature. Par exemple, une coquille d'escargot possède une forme en spirale, et le rapport de la largeur de deux spires consécutives vaut Phi. Le corps humain est également régi par cette proportion. De nombreuses études montrent aussi que le rapport entre mâles et femelles dans une ruche vaut "phi".
+En botanique, l'''angle d'or'' possède une curieuse propriété : « ''Si les feuilles (et par conséquent les rameaux) d'une plante étaient espacées sur la tige par des intervalles d'exactement 137°30'28, aucune feuille ne se situerait exactement au-dessus d'une autre, ce qui diminuerait l'ombre portée par cette feuille sur les autres situés plus bas.'' » Par contre, le nombre ''5'', sur lequel est basé le nombre d'or, y est souvent présent (nombre de pétales par exemple).
+
+== Principes ==
+
+Le nombre d'or n'est pas "réellement" un nombre, mais plutôt le rapport entre deux nombres (d'ailleurs, il se nomme aussi proportion divine).
+
+Phi (&phi;) est un nombre irrationnel dont la valeur exacte est :
+[[Image:Phi.png]]
+
+Le nombre d'or, vous le verrez, a des particularités mathématiques assez étonnantes.
+
+=== Propriétés algébriques du nombre d'or ===
+Deux nombres sont dits ''dans le rapport du nombre d'or'' ou ''dans la divine proportion'', si le tout par rapport au plus grand est comme le plus grand par rapport au plus petit:
+'''(a + b) / a = a / b''' ou encore '''b / (a - b) = a / b'''
+
+Après quelques manipulations algébriques (multiplier la première équation avec a/b ou la seconde avec (a - b) / b), chacune des équations est alors équivalente à : '''(a / b)<sup>2</sup> = a / b + 1'''
+
+et donc : '''a / b = &phi;'''
+
+'''Finalement, afin d'utiliser la divine proportion, il vous suffira de calculer : a = &phi; * b'''
+
+==== Carré du nombre d'or ====
+Pour calculer le carré du nombre d'or, il suffit de lui ajouter 1 : '''&phi;² = &phi; + 1'''
+
+==== Inverse du nombre d'or ====
+Pour calculer l'inverse du nombre d'or, il suffit de lui retrancher 1 : '''1/&phi; = &phi; - 1'''
+
+==== Puissances du nombre d'or ====
+: '''&phi;² = &phi; + 1'''
+: '''&phi;<sup>3</sup> = &phi;² + &phi; = 2 &phi; + 1'''
+: '''&phi;<sup>4</sup> = 2 &phi;² + &phi; = 2 &phi; + 2 +  &phi; = 3 &phi; + 2'''
+: '''&phi;<sup>5</sup> = 3 &phi;² + 2 &phi; = 3 &phi; + 3 + 2 &phi; = 5 &phi; + 3'''
+: '''&phi;<sup>6</sup> = 8 &phi; + 5'''
+: '''&phi;<sup>7</sup> = 13 &phi; + 8'''
+
+Les puissances du nombre d'or s'expriment en fonction de &phi; et de 1, et les coefficients ne sont autres que les nombres de Fibonacci. Pour obtenir une puissance du nombre d'or, il suffit de connaître les deux puissances précédentes et de les additionner, ce qui est exactement le procédé de construction de la suite de Fibonacci !
+
+==== Écriture universelle du nombre d'or ====
+Le nombre d'or peut s'écrire sous cette formule :[[Image:8.jpg]] où ''x'' est égal à tout nombre réel positif.
+
+== Applications ==
+Nous allons voir ici comment utiliser le nombre d'or. Il est vrai que dans la vie de tous les jours, il est peu probable d'avoir à l'utiliser. Toutefois, pour la création d'une œuvre artistique, ce dernier peut-être très utile. Attention, une construction architecturale est aussi considérée comme œuvre artistique ; ainsi, le nombre d'or peut-être utilisé afin de définir les proportions d'un bâtiment.
+
+Nous l'avons vu plus haut : a = &phi; x b (Phi multiplié par b). Il devient simple alors de trouver les longueurs nécessaires pour obtenir le nombre d'or.
+
+=== Le segment d'or ===
+Une ligne est divisée en deux segments ''a'' et ''b''. La ligne entière est au segment ''a'' ce que le segment ''a'' est au segment ''b''. Un nombre est dans le rapport du nombre d'or si a/b =(a/b) + 1 et donc a/b = &phi;
+
+[[Image:Segment-or.png|a + b est à a ce que a est à b]]
+
+=== Trouver un point ===
+À partir de la technique décrite pour le segment d'or, il est possible de trouver un point (ou zone) idéal dans une figure géométrique. Par exemple, appliqué à un rectangle de 5 cm sur 3 cm, nous avons: 5 cm divisés par 1,618 = 3,09 cm et 3 cm divisés par 1,618 = 1,85 cm.
+Il est ainsi possible de porter ces résultats sur le rectangle de quatre manières différentes :<br />
+[[Image:Rect-point1.png]] [[Image:Rect-point2.png]] [[Image:Rect-point3.png]] [[Image:Rect-point4.png]]
+
+En pratique, ce type de point peut être utile en architecture ou encore en dessin afin de placer un point de fuite ou encore un objet important, sur lequel l'attention doit porter.
+
+=== Le rectangle d'or ===
+Un rectangle est appelé rectangle d'or si le rapport entre sa longueur et sa largeur est égal au nombre d'or.
+
+[[Image:Rectangle_or.png]]
+
+=== Construction ===
+Le tracé d'un rectangle d'or se fait très simplement à l'aide d'un compas, il suffit de pointer le milieu d'un côté d'un carré, pointer l'un des deux angles opposés, puis de rabattre l'arc de cercle sur la droite passant par le côté du carré pointé. Ceci est un des "secrets" de compagnonnage.
+
+* ABCD est un carré de côté 1.
+* K est le milieu du segment [AD].
+* On trace un arc de cercle de centre K et de rayon [KC]; il coupe la droite (AD) en E.
+* On construit alors F tel que ABFE soit un rectangle.
+* ABFE est un rectangle d'or.
+
+Avec cette technique, il vous est possible de définir les proportions d'un mur, d'un cadre, de toute sorte d'objets rectangulaires. Par exemple, vous souhaitez créer un cadre (pour une peinture) selon la proportion divine. Il vous faudra tout simplement décider d'une des longueurs de celui-ci, puis d'utiliser la technique précédente (avec la longueur, formez un carré, prenez le milieu d'un segment...) afin d'avoir un rectangle d'or.
+Pour calculer la longueur de L, il faut juste multiplier un côté du carré par le côté du rectangle et diviser par 2.
+
+=== La spirale d'or ===
+Prenez un rectangle d'or (L/l = &phi;). Enlevez-lui un carré formé à partir du plus petit côté. Le rectangle restant est un rectangle d'or. On peut ainsi continuer l'opération à l'infini. Et si maintenant on souhaite relier les côtés opposés des carrés, on obtient une spirale logarithmique, dite spirale d'or.
+
+[[Image:Rectangle_or2.png]]
+
+=== L'angle d'or ===
+Un angle d'or est un angle d'environ 137,5°. On le retrouve dans la nature, par exemple dans la pomme de pin, la fleur de tournesol... Il est obtenu par: 360°/(&phi;+1)
+
+=== Le triangle d'or ===
+En géométrie, un angle d'or est un angle créé par la division de la circonférence (''c'') d'un cercle
+en une section ''a'' et en une plus petite section ''b'', de sorte que: c = a + b
+
+et c/a = a/b
+
+Un triangle d'or est un triangle isocèle dont les longueurs des côtés sont dans le rapport du nombre d'or. Leurs angles doivent en conséquence mesurer 36° et 72°. Il y a un premier triangle d'or appelé triangle d'argent dont le côté/base=phi
+
+[[image:Triangle-or.png]]
+
+AB / BC = &phi;, le triangle ABC est appelé Triangle d'or.
+
+Le triangle d'or a aussi la particularité (comme toutes les proportions divines) de pouvoir se répliquer à l'infini:<br />
+[[Image:Triangle-or1.png]] [[Image:Triangle-or2.png]] [[Image:Triangle-or3.png]] [[Image:Triangle-or4.png]]
+
+=== Les angles privilégiés ===
+Ces angles multiples de 9° (= 10 grades) : 9°, 18°, 27°, 36°, 45°, 54°, etc.), fréquemment rencontrés dans les constructions où est présent le nombre d'or, sont nommés ''angles privilégiés'' (Professeur Michel Le Ray, Université de Valenciennes, France) (« critères de performance et d’esthétique »).»).En fait la série exact des angles privilégiés est :  … 18°,4 ; 19°,4 ; 20°,7 ; 22°,2 ; 24°,1 ; 26°,6 ; 30° ; 35°,3 ; 45° ; 54°,7 ; 63°,4 ; 68°,6 ; 72° ; 74°,5 ; 76°,4 ; 77°,8 ; 79° ; 80°...
+
+==Polémique==
+Certains auteurs pensent que le nombre d'or n'est pas si répandu que cela et qu'il y a de la propagande ou de l'ignorance. Voir par exemple http://www.marc-labouret.fr/nombre-d-or.html ou bien dans un moteur de recherche saisissez les mots "nombre d'or nazie" et lisez la suite...Et faites d'abord l'expérience du dessin "spontané" des triangles basés sur le nombre d'or.
+ 
+== Conclusions ==
+Le nombre d'or est un thème très controversé. Certains pensent qu'il est possible de trouver n'importe quel nombre n'importe où, qu'il suffit de chercher. Certains aussi pensent que le nombre d'or n'a jamais été utilisé dans l'art ; qu'il y a confusion avec le rapport 5/8 = 0.625 souvent utilisé par les artistes. Mais ce même rapport ne pourrait-il pas être une sorte d'approximation de Phi ?
+
+''« Les nombres gouvernent le monde »'' (Pythagore).
+
+<i>« La géométrie a deux grands trésors, le premier est le théorème de 
+Pythagore, le deuxième la division d'une ligne selon le partage en 
+moyenne et extrême raison ; nous pouvons comparer le premier à une
+mesure d'or et contempler le deuxième tel un bijou précieux. »</i> (Kepler).
+
+Maintenant, il ne vous reste plus qu'à vous faire votre propre opinion sur ce nombre, magique ou non...
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Construire son habitat]]
+
+===Liens externes===
+
+==== en Français ====
+* [http://fr.wikipedia.org/wiki/Nombre_d'or Nombre d'or sur Wikipedia]
+* [http://www.ifrance.com/expo/lenombre/ Très bon article sur le nombre d'or par les élèves de seconde du lycée Jean Monnet d'Aurillac]
+* [http://hypo.ge-dip.etat-ge.ch/www/math/html/node33.html à propos de l'angle d'or dans la nature]
+* [http://www.tintin.be/fr/doss_fr/regl1_fr.html Utilisation de la règle d'or dans Tintin]
+* [http://pagesperso-orange.fr/jean-yves.boulay/pi/index.htm Pi et le Nombre d'Or : apparitions des décimales non aléatoires]
+* [http://pagesperso-orange.fr/jean-yves.boulay/fi/index.htm Suites universelles de Fibonacci : Phi n’est qu’une des infinies variantes de la constante P]
+* [http://mathematiques.ac-bordeaux.fr/pedalyc/seqdocped/geoplane/penrose/penrose.pdf mathématiques.ac-bordeaux, tracé d'un pavage de Penrose, page 3]
+* [http://www.flshs.rnu.tn/ver_fr/unitrech/ercilis/cercilis.htm Unité de recherche : CIVILISATION ET LITTERATURE, un passage sur ''dunes de sable et angles privilégiés'']
+* [http://anglesprivi.voila.net/page6/index.html angles privilégiés.voila, formes d'avion]
+
+Contradiction:
+* [http://www.pseudo-sciences.org/spip.php?article796 Lien disséquant le mythe de l'utilisation du nombre d'or à travers les âges]
+
+==== en Anglais ====
+* [http://math.smith.edu/~phyllo/ Phyllotaxis Home]: un site sur la phyllotaxie, c'est-à-dire l'agencement des feuilles et des pétales sur les plantes et les fleurs, qui est souvent en rapport avec les nombres de Fibonacci et le nombre d'or.
+* [http://math.njit.edu/dalc/upwardbound/michael/architecture_michael.htm Golden Mean in architecture]
+
+=== Bibliographie ===
+* {{fr}} ''L'enfant et le nombre d'Or'' de Mireille Hartmann (édité par l'[http://perso.orange.fr/abbaye.boscodon/visites.html Association des amis de l'abbaye de Boscodon] - 05200 Crots) - Le récit d'une institutrice qui fit découvrir le Nombre d'Or à ses jeunes élèves 
+* {{fr}} ''Le nombre d'or'', de Marius Cleyet-Michaud. Éd. Presses Universitaires de France, ''Que sais-je ?'' (assez technique). <small>ISBN 9782130576143</small>
+* {{en}} ''The Golden Ratio : the Story of PHI, the World's Most Astonishing Number'' by Mario Livio. <small>ISBN 0767908163</small>
+
+
+{{Multi bandeau|Portail Apprendre|Portail Se loger}}
+
+[[Catégorie:Penser]]
+[[Catégorie:Géobiologie]]
+[[Catégorie:Les 5 éléments]]
+[[Catégorie:Spiritualités]]
