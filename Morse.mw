@@ -1,0 +1,122 @@
+{{Ebauche}}
+
+{{Communiquer}}
+
+Le code '''Morse''' est un moyen simple d'épeler les lettres. Il y a deux "signaux" dans le morse. Le point ou court et la barre ou longue. Ces deux signaux peuvent être émis visuellement ou sonorement avec de nombreux instruments, outils. Citons par exemple; une lampe ou un sifflet. Un sifflement de 1 sec sera un point, de 3 sec ce sera une barre, entre deux lettres on laissera un espace de 3 sec et 5 sec entre 2 mots. Si le message doit être silencieux on utilisera un émetteur visuel (lampe); allumée 1sec, 3sec, bref le même principe.
+
+Sur base de ces deux signaux et par combinaison toutes les lettres de l'alphabet et les chiffres sont épellables.
+
+Voici les combinaisons décidées:
+
+Dans les mouvement de jeunesse un mot mnémotechnique est associé à la lettre pour aider à retenir la combinaison la règle étant barre pour les syllabes avec un "o". Prononcer du morse, les points se disent "tit" et les barres "tat".
+
+{| class="ekotable" style="text-align:center"
+! Chiffre !! Code
+|-----
+| 0 || <big>'''- - - - -'''</big>
+|-----
+| 1 || <big>'''{{-}}- - - -'''</big>
+|-----
+| 2 || <big>'''{{-}}{{-}}- - -'''</big>
+|-----
+| 3 || <big>'''{{-}} {{-}} {{-}} - -'''</big>
+|-----
+| 4 || <big>'''{{-}} {{-}} {{-}} {{-}} -'''</big>
+|-----
+| 5 || <big>'''{{-}} {{-}} {{-}} {{-}} {{-}} '''</big>
+|-----
+| 6 || <big>'''- {{-}} {{-}} {{-}} {{-}} '''</big>
+|-----
+| 7 || <big>'''- - {{-}} {{-}} {{-}} '''</big>
+|-----
+| 8 || <big>'''- - - {{-}} {{-}} '''</big>
+|-----
+| 9 || <big>'''- - - - {{-}} '''</big>
+|}
+{| class="ekotable" style="text-align:center"
+! Lettre !! Code !! Mot !! Alternative possible
+|-----
+| A || <big>'''{{-}} -'''</big> || Allo  || 
+|-----
+| B || <big>'''- {{-}} {{-}} {{-}} '''</big> || Bonaparte ||  
+|-----
+| C || <big>'''- {{-}} - {{-}} '''</big> || Coca-cola ||  
+|-----
+| D || <big>'''- {{-}} {{-}} '''</big> || Docile || Dorémi, Donald Duck 
+|-----
+| E || <big>'''{{-}} '''</big> || Eh || Et 
+|-----
+| F || <big>'''{{-}} {{-}}  - {{-}} '''</big> || Farandole ||  
+|-----
+| G || <big>'''- - {{-}} '''</big> || Gondole ||  
+|-----
+| H || <big>'''{{-}} {{-}} {{-}} {{-}} '''</big> || Hilarité || Hystérique  
+|-----
+| I || <big>'''{{-}} {{-}} '''</big> || Ici ||  
+|-----
+| J || <big>'''{{-}} - - -'''</big> || Jablonovo || Jiromoto 
+|-----
+| K || <big>'''- {{-}} -'''</big> ||  Kohinor || Koalo, Korridor  
+|-----
+| L || <big>'''{{-}} - {{-}} {{-}} '''</big> || Limonade ||  
+|-----
+| M || <big>'''- -'''</big> ||  Moto ||  
+|-----
+| N || <big>'''- {{-}} '''</big> ||  Noël || Nora, Noé 
+|-----
+| O || <big>'''- - -'''</big> || Ostropo || Ododo, Oporto, Ostrogoth  
+|-----
+| P || <big>'''{{-}} - - {{-}} '''</big> || Philosophe  || Psychologie 
+|-----
+| Q || <big>'''- - {{-}} -'''</big> || Quoquorico ||  
+|-----
+| R || <big>'''{{-}} - {{-}} '''</big> || Ramoneur ||  
+|-----
+| S || <big>'''{{-}} {{-}} {{-}} '''</big> || Sardine || Salade  
+|-----
+| T || <big>'''-'''</big> || Thon || Tôt  
+|-----
+| U || <big>'''{{-}} {{-}} -'''</big> || Union || Ultrason  
+|-----
+| V || <big>'''{{-}} {{-}} {{-}} -'''</big> || Valparaiso || Végétation 
+|-----
+| W || <big>'''{{-}} - -'''</big> || Wagon-post ||  
+|-----
+| X || <big>'''- {{-}} {{-}} -'''</big> || Xrocadéro || Xodérido, oXydation 
+|-----
+| Y || <big>'''- {{-}} - -'''</big> || Yoshimoto || Yokimono, Yolimoto 
+|-----
+| Z || <big>'''- - {{-}} {{-}} '''</big> || Zoroastre || Zorro le grand  
+|-----
+|Fullstop || <big>'''{{-}} - {{-}} - {{-}} -'''</big> ||
+|-----
+|Comma || <big>'''- - {{-}} {{-}} - -'''</big> ||
+|-----
+|Query || <big>'''{{-}} {{-}} - - {{-}} {{-}} '''</big> ||
+|-----
+|Erreur || <big>'''{{-}} {{-}} {{-}} {{-}} {{-}} {{-}} {{-}} {{-}} '''</big> ||
+|-----
+|Attendre || <big>'''{{-}} - {{-}} {{-}} {{-}} '''</big> ||
+|-----
+|Début de transmission || <big>'''- {{-}} - {{-}} -'''</big> ||
+|-----
+|Fin de transmission || <big>'''{{-}} {{-}} {{-}} - {{-}} -'''</big> ||
+|-----
+|A vous || <big>'''- {{-}} -'''</big> ||
+|}
+
+==Voir aussi== 
+
+===Liens internes===
+
+===Liens externes===
+
+S'entrainer au Morse : http://morse.laboussole.org/
+
+===Bibliographie===
+
+{{Portail Communiquer}}
+
+[[Catégorie:Communiquer]]
+
+[[eo:Morsa kodo]]
