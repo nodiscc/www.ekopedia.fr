@@ -1,0 +1,215 @@
+{{Se loger}}
+
+== Contexte et définition ==
+[[Image:Image intro.JPG|right|]]
+Une façade double peau peut être définie comme une façade simple traditionnelle doublée à l'extérieur par une façade essentiellement vitrée. L'objectif d'une telle façade est multiple: diminuer les déperditions thermiques, créer une isolation phonique. Mais la principale utilisation est en général l'utilisation de l'effet de serre générée par la façade vitrée pour réchauffer les pièces et créer une ventilation naturelle du bâtiment.
+
+Une façade double peau  est assimilable aux espaces tampons  habituellement utilisés dans la conception bioclimatique. Ces espaces, comme leur nom l’indique, ont pour objet de venir « absorber » les variations du climat pour réguler la température intérieure des espaces. Ils permettent ainsi au bâtiment d’économiser de l’énergie, soit parce qu’ils protègent du froid et du vent, soit parce qu’ils stockent de la chaleur comme les serres solaires  passives.
+
+De la même manière, la façade double peau a pour fonction la régulation thermique du bâtiment. Elle  le protège des contraintes météorologiques. Par rapport  aux rayonnements directs du soleil, elle évite les surchauffes d’été et limite le recours à la climatisation. En évitant l’action directe du vent, elle supprime l’effet de paroi froide en hiver, qui produit un inconfort intérieur. Elle permet aussi d’apporter une température et une humidité de l’air agréable.
+
+Cette double façade peut être assimilée à un écran protecteur, une enveloppe autour du  bâtiment.<br />Concevoir des bâtiments avec ce type de façade garantit des économies d’énergie et contribue à la limitation des émissions des gaz à effet de serre.
+
+Conception générale :
+
+:* Un écran en contact avec l’extérieur : mur végétalisé, paroi vitrée, assemble métallique, lamelle de bois.
+
+:* Un espace tampon, formant un canal d’air.
+
+:* La façade du bâtiment.
+
+== Les principaux types de FDP ==
+
+=== Les façades ventilées ===
+
+Les façades double peau, aussi  appelées « Double  Façade Ventilées »,  sont  composés de deux façades parallèles généralement vitrées et séparées par une cavité de quelques centimètres à plusieurs mètres dans certains cas.
+
+====Objectif des doubles façades ventilées====
+
+Les principales finalités de ces types de façades  sont :
+*la création d’une ventilation naturelle : la FDP joue le rôle d’une ventilation mécanique en  utilisant l’effet du tirage thermique
+*le préchauffage de l’air introduit dans le bâtiment : diminue les pertes thermiques liées au renouvellement d’air
+*l’isolation acoustique 
+*l’optimisation du facteur de lumière du jour : permet de diminuer les consommations liées à l’éclairage.
+*l’esthétique : créée un aspect « high-tech » apprécié dans les bâtiments tertiaires
+*l’amélioration du confort d’été : la FDP joue un rôle de protection solaire 
+*L’isolation thermique : en rénovation l’application d’une façade vitrée en complément de la paroi opaque traditionnelle peut être une solution pour diminuer les ponts thermiques.
+
+====Classification des doubles façades ventilées====
+Les doubles façades ventilées  peuvent être classées selon trois  principaux critères : le  type de ventilation, le compartimentage de la cavité et le  mode de ventilation. 
+
+=====Les trois types de ventilation===== 
+:*La ventilation naturelle: la circulation de l'air au sein de la parois est réalisée grâce au phénomène de tirage thermique. L'effet de serre au sein de la façade créée une  différence de température entre l'extérieur et la cavité ou bien entre l'intérieur du bâtiment et la cavité. 
+:*La ventilation mécanique: la circulation d'air est crée artificiellement par des extracteurs d'air.
+:*La ventilation hybride: Il s'agit de l'association des deux premier type de ventilation. C'est la solution la plus utilisée en pratique, la ventilation mécanique venant en appoint de la ventilation naturelle lorsque celle-ci ne permet pas une circulation d'air suffisante.
+Dans la suite de cet article nous approcheront principalement le premier type de ventilation. En effet un des intérêts qui réside dans cette éco-technique est l’utilisation du rayonnement solaire pour créer une ventilation naturelle et par la même diminuer les besoins énergétiques liés au renouvellement d’air.
+
+=====Les différents types de compartimentage=====
+:*les façades compartimentées par étage de types corridors : la circulation d’air n’a lieu que sur la hauteur d’un étage,la largeur de la cavité permet généralement le passage d’une personne
+:*les façades de type « Shaft-box » : des conduits verticaux sont  reliés au modules de chaque étage, permettant ainsi l’augmentation du tirage thermique.
+:*les façades multi-étage de types corridors : Le compartimentage est quasiment nul, la circulation d'air se fait sur toute la façade, l'effet de tirage thermique est maximum.
+
+=====Les différents modes de ventilation=====
+Selon la finalité d’une façade double peau  le mode de ventilation va être totalement différent. Il s’agit d’un élément très important à prendre en compte lors de la conception d’une FDP. 
+En effet, la circulation de l’air au sein de la cavité intérieur va conditionner en partie le comportement thermique et aéraulique de la FDP et donc son influence sur le bâtiment. Les principaux couplages aérauliques sont visibles sur le schéma ci-dessous.
+
+[[Image:SchemaVentil.JPG|thumb|Les différents modes de ventilation d'une FDP.]]
+
+Le mode de couplage aéraulique varie suivant la finalité de la FDP.<br />
+Les rideaux d’air intérieur et extérieur permettent respectivement de réchauffer l’air intérieur l’hiver et de réguler la température dans la cavité l’été pour éviter la surchauffe. Les modes d’évacuation de l’air vicié et d’alimentation en air neuf assurent le renouvellement d’air au sein du bâtiment.<br />
+Il existe un cinquième  mode de ventilation  qui consiste simplement à supprimer  la circulation d’air dans la cavité intérieur. Ce mode de ventilation n’a plus d’intérêt vis-à-vis de la circulation d’air, l’objectif visé est alors généralement  l’isolation acoustique ou la diminution des déperditions thermiques de la  paroi.
+
+====Éléments de conception====
+La conception d’une paroi double peau doit prendre en compte de nombreux paramètres suivant la finalité de la façade.<br />
+
+*Cas de la ventilation naturelle
+Le dimensionnement d’une  façade ventilée afin de créer une ventilation naturelle au sein d’un bâtiment reste très compliquée.  Il est nécessaire de réaliser des études statiques  et dynamiques afin de modéliser la circulation d’air au sein du bâtiment et de déterminer la capacité de débit d’air de l’installation.<br />
+Il faut noter que ce type de paroi du fait de la circulation d’air peut avoir tendance a augmenter les déperditions thermiques par rapport à une paroi bénéficiant du même coefficient de déperdition thermique Uparoi. Il est donc important de faire le bilan entre les gains réalisés sur le renouvellement d’air  et l’augmentation des déperditions à travers la paroi afin de  vérifier la pertinence  d’une telle façade.<br />
+La régulation de la ventilation  travers et dans la paroi doit être conçut de manière à s’adapter aux conditions climatiques extérieur. La liberté d’ouverture et de fermeture des organes de ventilation conditionne le mode de ventilation à travers la façade. Pour fonctionner correctement ceux-ci doivent être piloté par une gestion technique centralisée qui prendra en compte les différents paramètres de températures et débit d’air.
+
+*Les autres cas
+
+Dans l’objectif de créer un espace tampon  afin de diminuer les déperditions d’une paroi il est important  de réaliser une étude thermique dynamique pour évaluer le comportement de cette façade face à la sollicitation climatique extérieur.
+
+De même, si l’objectif de la FDP est l’isolation acoustique, l’optimisation du facteur de lumière du jour ou bien encore un intérêt purement esthétique il est primordiale d’étudier son comportement thermique . D’une part la FDP doit respecter les réglementation thermique en vigueur et d’autre part il est important de connaître son influence sur le confort d’été et sur les besoins de chauffage du bâtiment.
+
+D’une manière générale les paramètres à prendre en compte lors de la conception d’une FDP sont
+*  le facteur de transmission solaire global de la paroi g (dans le cas de deux façades vitrées)
+*  le coefficient de déperdition thermique Uparoi (intrinsèque à la constitution de la paroi)
+*  l’orientation de la façade
+*  Les données météorologiques du site tel que les DJU, les rayonnements solaire direct et diffus ou bien encore la température extérieur de base.
+
+=== Les façades actives ===
+
+==== ''Le Mur Capteur'' ====
+
+[[Image:Schema mur capteur.JPG|thumb|Schéma d'un [[mur capteur]].]]
+
+Le rayonnement solaire, de petite longueur d’onde, traverse le double vitrage à faible émissivité, et transmet de la chaleur à la lame d’air sous forme de rayonnement thermique de grande longueur d’onde. C’est cet effet de serre qui est le moteur et le point clé de cette technique. 
+La chaleur est ensuite transmise, par conduction, à un mur composé d’un matériau à grande inertie. Cette chaleur emmagasinée dans le mur va être redistribué avec un certain déphasage, fonction de la composition du mur. Par exemple, pour une épaisseur de 40cm de béton, le déphasage sera de 11 heures.
+
+La convection naturelle, qui limite la transmission de chaleur, est présente dans la lame d’air, mais peut-être réduite en diminuant l’espacement entre le vitrage et le mur capteur. L’étanchéité est totale entre le vitrage et le mur, il n’y a pas de circulation aéraulique entre l’intérieur et l’extérieur.
+Cette technique permet de profiter d’un apport de chaleur passif et différé dans le temps. 
+Afin d’optimiser l’ensemble, il est possible d’isoler le double vitrage la nuit via un système de stores, de manière à minimiser les pertes thermiques. Il est également possible de recouvrir la face extérieure du mur capteur d’une peinture sombre, afin d’augmenter la transmission de la chaleur.
+
+==== ''Le mur Trombe-Michel'' ====
+Le mur Trombe-Michel, ou mur Trombe, est basé sur le même phénomène physique que le mur capteur. Le rayonnement solaire vient chauffer une lame d’air présente entre un vitrage à faible émissivité et un mur à forte inertie thermique. Via un système de clapets situés en partie supérieure et inférieure du mur, une circulation d’air est possible entre l’intérieur de la pièce et la lame d’air chauffée. Il existe deux modes de fonctionnement :
+
+[[Image:Mur trombe.JPG|thumb|Schéma d'un [[mur trombe]].]]
+
+:* Lorsque l’ensoleillement active la paroi, c'est-à-dire, lorsque le rayonnement est présent dans la journée, il est possible d’ouvrir les clapets afin de permettre une convection naturelle. L’air de la pièce, relativement plus froid, viens se réchauffer au contact du mur capteur, et ainsi créer un mouvement convectif qui va permettre le réchauffement de la pièce en contact avec le mur. Il y a donc circulation aéraulique entre la lame d’air et le volume adjacent.
+
+:* En l’absence d’ensoleillement, on ferme les clapets, et la chaleur emmagasinée par le mur capteur est restituée par rayonnement à la pièce, créant ainsi une convection naturelle, mais cette fois-ci sans mouvement d’air. 
+Cette technique permet également d’éviter les surchauffes en été, grâce à la présence d’un évent, situé en partie supérieure du vitrage. En position ouverte, ce clapet permet d’évacuer l’air chauffé produit dans la lame d’air. Ceci n’est possible que si les clapets du mur capteur, sont eux fermés.
+
+==== ''Le principe de la Véranda'' ====
+
+Le principe de la véranda, ou serre bioclimatique, est identique à celui du mur Trombe-Michel, si ce n’est que la lame d’air se transforme en espace à vivre.
+
+===== Une véranda, pourquoi? =====
+
+[[Image:Veranda hiver.JPG|thumb|Illustration du fonctionnement d'une [[véranda]] en hiver]]
+
+L'utilisation et les objectifs d'une serre bioclimatique sont variables en fonction de la saison :
+
+:* En hiver, emmagasiner un maximum de chaleur solaire : les rayons solaires entrent dans la véranda et pénètrent également dans la maison. La température de la véranda devient supérieure à celle de la maison. Si les fenêtres qui relient l’intérieur de la maison à la véranda sont ouvertes, l’air chaud de la véranda va pouvoir pénétrer dans la maison. 
+
+[[Image:Veranda ete.JPG|thumb|Illustration du fonctionnement d'une [[véranda]] en été.]]
+
+Le soir, quand la température extérieure diminue, il convient de fermer les baies de la paroi mitoyenne pour éviter de refroidir la maison. En outre, le mur situé entre l'habitation et la véranda a accumulé de la chaleur des rayons solaires qu’il va restituer dans la maison avec quelques heures de retard. Ainsi, les soirs d’hiver, le soleil contribue encore au chauffage de la maison.
+
+:* En été, éviter les surchauffes : fermer les portes et fenêtres de la maison et, si nécessaire, ouvrir en grand les ouvertures de la véranda. De plus, avec un dispositif de protection solaire (store, casquette, végétation...), la serre restera agréable. Durant les nuits, les ouvertures au sommet de la serre devront être ouvertes, de même que les ouvertures mitoyennes à la maison de manière à rafraîchir le bâtiment.
+
+===== Différents types de véranda =====
+
+[[Image:Veranda chaud froid.JPG|thumb|Illustration des deux types de [[véranda]].]]
+
+Généralement orientées vers le sud, il existe cependant  deux types de véranda, en fonction des besoins que l’on a:
+
+:* Véranda froide : l'isolation thermique (double vitrage) se trouve sur la paroi entre la véranda et le logement, dans cette configuration,  la véranda constitue un volume tampon entre l’intérieur et l’extérieur. 
+
+:*Véranda chaude : l’isolation thermique se trouve sur la paroi extérieure de la véranda, le volume représente alors une pièce de vie à part entière.
+
+===== La ventilation =====
+
+La ventilation de la serre est nécessaire pour qu'elle joue son rôle d'échangeur thermique. Elle est normalement prévue en association avec celle de l'espace habitable, la serre étant tantôt le lieu de préchauffage de l'air entrant tantôt le lieu d'évacuation de l'air vicié. Mais la température de la serre n'est pas toujours compatible avec le confort intérieur de l'espace habité. Il est alors nécessaire, durant certaines périodes, de fermer toutes les communications entre ces deux espaces et de gérer la ventilation de chacun de manière indépendante.
+
+===== Le dimensionnement =====
+
+Il n'y a pas de règle précise pour le dimensionnement d'une véranda, il dépend en premier lieu de l'usage que l'on veut en faire. Néanmoins, quelques principes doivent être pris en compte :
+
+:* La surface vitrée doit être la plus grande possible et orientée au sud.
+:* Si le bâtiment comporte plusieurs niveaux, il est préférable que l'ensemble des niveaux disposent d'un accès à la véranda pour en tirer profit.
+
+
+== Illustrations des différentes techniques ==
+
+=== Les façades vitrées ===
+
+Ce sont les plus répandues. Le vitrage situé avant la façade du bâtiment, permet de filtrer le rayonnement solaire. Elles permettent également une ventilation naturelle, une isolation thermique et phonique. 
+
+<gallery>
+Image:Vitre.JPG|Façade vitrée
+</gallery>
+
+=== Les façades métalliques ===
+
+Elles se présentent généralement sous forme de lame brise-soleil ou de maille, en aluminium ou acier. La vocation première de cette façade est de diminuer l’apport solaire direct, de manière à éviter les surchauffes estivales. C’est donc une enveloppe métallique qui vient entourer, totalement ou partiellement, le bâtiment déjà existant. Cette technique est souvent appliquée dans les bâtiments tertiaires, afin de réconcilier esthétisme et confort thermique. Là encore, la lame d’air présente entre l’écran et le bâtiment joue le rôle d’espace tampon, et permet une ventilation naturelle.
+
+<gallery>
+Image:Metal.JPG|Façade métallique
+</gallery>
+
+=== Les façades végétalisées ===
+
+La surface de cette double peau est composée de murs végétalisés, dont les parois sont couvertes de plantes sur les deux faces. Ce système de murs végétalisés apporte un rafraichissement de l’air en été. Grâce au principe de l’évapotranspiration, un environnement végétal augmente le taux d’humidité dans l’air, ce qui créé une atmosphère plus fraîche.  Grâce à une circulation aéraulique appropriée il est ainsi possible de rafraîchir l’air ambiant du bâtiment sans avoir recours à un système de climatisation. 
+
+:* En été, les plantes sont verdoyantes et favorisent deux phénomènes : d’une part, le rayonnement solaire est filtré par le rideau végétal ce qui permet de garantir un confort thermique à l’intérieur, et d’une autre part, la circulation d’air frais, d’abord dans l’espace intermédiaire, puis au sein du bâtiment, permet de palier à l’utilisation d’une climatisation.
+
+:* En hiver, les feuilles caduques permettent au rayonnement solaire de pénétrer dans le bâtiment et ainsi d’apporter de la chaleur.
+
+<gallery>
+Image:Facade vegetalisee.JPG|Coupe verticale de la façade 
+image:Facade vegetalisee 2.JPG|Illustrations
+</gallery>
+
+=== Les façades à lamelles ===
+
+Présentes devant des vitrages, les lames de bois ont la même vocation que leurs cousines métalliques.
+
+<gallery>
+Image:Bois.JPG|Façade à lamelles de bois
+</gallery>
+
+
+==Voir aussi==
+
+=== Liens internes ===
+[[Mur trombe]]
+
+[[Ventilation]]
+
+[[Maison bioclimatique]]
+
+[[Maison passive]]
+
+=== Liens externes ===
+
+
+
+=== Bibliographie ===
+"Les doubles façades ventilées, Classification et illustrations des concepts de façades"
+Centre Scientifique et Technique de la Construction
+
+"Façade active, le principe de la façade double peau"
+Sophie Laugier
+
+"Serres ou vérandas bioclimatiques"
+AGEDEN
+
+"La conception bioclimatique"
+Jean-Pierre Oliva
+
+{{Portail Se loger}}
+
+[[Catégorie:Construction]]
