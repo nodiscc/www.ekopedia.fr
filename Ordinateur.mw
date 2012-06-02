@@ -1,0 +1,97 @@
+{{Vivre ensemble}}
+
+Un '''ordinateur''' est une machine électronique qui traite rapidement des informations afin de permettre à un utilisateur d'exécuter des programmes variés (bureautique, calcul, jeux...). C'est une innovation considérable qui fait aujourd'hui partie de notre quotidien, cependant il consomme de l'[[électricité|énergie électrique]] et génère des [[déchet]]s dangereux pour notre environnement.
+
+==Fonctionnement==
+
+L'ordinateur est constitué d'un système électronique central qui interagit avec différents périphériques (clavier, écran, imprimante...). Pour faire communiquer les éléments du système entre eux on utilise un programme principal nommé "système d'exploitation". Celui-ci permet également d'installer les applications nécessaires à l'utilisateur : les logiciels.
+Le système d'exploitation et les logiciels peuvent être des produits commerciaux avec une licence propriétaire, ou des [[Logiciel libre|logiciels libres]].
+
+==Économies d'énergie==
+
+* Éteindre l'ordinateur ou au moins l'écran lorsqu'on ne l'utilise pas. 
+* Ne pas utiliser d'écran de veille animé mais un écran noir lorsque l'ordinateur est inactif quelques minutes (et ce, même si l'écran est éteint : en effet, la carte graphique est sollicitée pour l'affichage et consomme donc de l'électricité).
+* Ne pas laisser l'imprimante, le scanneur ou les haut-parleurs branchés en permanence.
+* Ne pas allumer les haut-parleurs si le son n'est pas utilisé (par exemple, pour faire de la bureautique)
+* Lors de l'achat de l'ordinateur, choisir du matériel en rapport avec l'utilisation prévue. En particulier, ne pas choisir une carte graphique prévue pour les jeux vidéos si l'ordinateur sert à faire de la bureautique : ce type de carte consomme énormément d'électricité. De même, à moins de faire de la compétition à haut niveau, éviter les souris spécialisées pour le jeu vidéo : en effet, ces dernières restent allumées en permanence pour améliorer la réactivité et sont donc beaucoup plus gourmandes en énergie. En règle générale, privilégier les processeurs multi-cœurs moins rapides aux processeurs mono-cœur plus rapides.
+* Une multiprise est souvent requise, choisissez en une avec un interrupteur centralisant l'arrêt de tous les appareils. En effet, une unité centrale et son écran consomment toujours entre 40 et 60 W tant qu'ils sont branchés, même s'ils sont éteints.
+* Attention, avec l'arrivée de l'ADSL, beaucoup de personnes sont tentées de laisser leur ordinateur allumé en permanence. Ceci coûte très cher en électricité. Par exemple, la consommation moyenne d'une unité centrale (écran éteint) est de 100W, ce qui revient à 100 € sur toute une année.
+* Sur les ordinateurs modernes, il existe une multitude d'options pour mettre en veille les disques et autres périphériques. Elles ne sont pas toujours activées par défaut. Il peut être très rentable de prendre le temps de les activer. Cela peut faire de grosses économies d'énergie et durablement prolonger la vie de l'ordinateur.
+* Selon une étude<ref>[http://enduse.lbl.gov/Info/LBNL-48581.pdf Étude du groupe Energy Enduse Forecasting and Market Assessment sur la consommation des écrans]</ref>, un écran en noir consomme moins qu'un écran en blanc. Si la page de Google était peinte en noir, avec 200 millions de vues par jour, on économiserait environ 3000 mégawatts par an<ref>Article [http://www.informanews.net/scripts/actu-3932-google-noir.html Et si Google était noir ?]</ref>. D'où l'idée de certains d'utiliser Google en noir pour économiser l'énergie, par exemple [http://www.blackle.com/ Blackle.com] ou [http://www.bpled.com/ BpLed.com].Cependant, cela n'est valable que pour les écrans cathodiques et plasma. (les écrans LCD produisent de la lumière de toute façon)
+
+==Calcul partagé ==
+
+Boinc (Berkeley Open Infrastructure for Network Computing) est une plate-forme de calcul informatique partagé. De nombreux projets existent, de la recherche de médicaments contre le SIDA et le cancer à la découverte de nouveaux nombres premiers. Les calculs sont réalisés pendant que l'ordinateur fonctionne, mais les processus de calculs sont en priorité minimale, ce qui ne gène pas l'utilisation de l'ordinateur. Certes, votre ordinateur consommera légèrement plus. Mais la différence entre ce qu'il consomme "à vide" et ce qu'il consomme "en charge", est faible et au final, on économise de l'énergie. En effet, la somme de la consommation du supercalculateur équivalent et de la consommation à vide de tous les ordinateurs est inférieure à la consommation de tous les ordinateurs "en charge" seulement (sans le supercalculateur).
+
+* [http://boinc.berkeley.edu/ site web de Boinc]
+* [http://fr.wikipedia.org/wiki/BOINC Boinc sur Wikipédia]
+
+==Nettoyage de l'ordinateur==
+
+Entretenir régulièrement son ordinateur peut prolonger sa durée de vie.
+
+La principale ennemie de l'ordinateur, c'est la poussière qui rentre dans l'ordinateur par les ventilateurs. Aujourd'hui, on trouve de plus en plus d'ordinateurs sans ventilateur. Pensez-y, vous y gagnerez en nettoyage et en durée de vie.
+
+Article détaillé : [[Nettoyage de l'ordinateur]]
+
+==Durée de vie d'un ordinateur==
+
+Il y a deux approches pour déterminer la durée de vie d'un ordinateur : la durée pendant laquelle il peut être mis sous tension et la durée pendant laquelle il peut rendre service. La première approche considère que tant qu'un ordinateur démarre, il marche. La deuxième approche considère qu'il faut absolument un ordinateur suffisamment puissant pour faire tourner les logiciels du moment.
+
+Le progrès très rapide des ordinateurs dans les années 90 a laissé cette fâcheuse habitude de considérer qu'un ordinateur n'est utile que quelques années. (voir l'article [[Obsolescence programmée]])
+
+Même si beaucoup de personnes ont gardé leurs habitudes de cette période (surtout les marchands d'ordinateurs à qui c'était très profitable), un ordinateur peut rendre service de plus en plus longtemps.
+
+Une bonne électronique peut vivre plusieurs décennies. En général dans un PC actuel, c'est en premier l'alimentation qui lâche puis les disques durs. Si on met une bonne alimentation électrique et que l'on choisit un bon disque dur, un ordinateur peut vivre fort longtemps.
+
+Pour ce qui est du service rendu, il faut se poser la question de l'usage d'un ordinateur. Aujourd'hui pour beaucoup, il s'agit d'utilisation bureautique, c'est-à-dire traitement texte, courriel et navigation sur internet. Ceci est parfaitement réalisable sur un PC vieux de 10 ans, à condition que l'on ne cherche pas à le faire tourner avec les logiciels les plus récents et les plus lourds en terme de consommation de ressources.
+
+Un projet canadien prévoyait systématiser la réutilisation des ordinateurs en fonction de leur vieillissement. Des PC neufs seraient achetés systématiquement pour l'enseignement supérieur, puis une fois trop vieux pour le supérieur, ils seraient recyclés pour les lycées.
+
+Ce principe de réutilisation peut s'appliquer dans le monde de l'entreprise. Les ordinateurs les plus puissants sont achetés pour les postes qui nécessitent le plus de puissance (par exemple les bureaux d'études), puis ces mêmes ordinateurs sont ensuite réutilisés pour les postes de bureautique moins gourmands en ressources.
+
+Le choix des logiciels utilisés compte pour beaucoup dans l'obsolescence d'un ordinateur. Dans bien des cas, il n'est nullement utile de vouloir les derniers logiciels à la mode pour utiliser un ordinateur, mais on peut largement se contenter d'un logiciel plus ancien rendant le même service. Dans la majorité des cas un utilisateur n'exploite que 5% des possibilités d'un logiciel : il peut alors être préférable d'adapter ses logiciels à son ordinateur plutôt que le contraire.
+
+Il est aussi possible d'utiliser des systèmes d'exploitation ''légers'' avec des interfaces utilisateur simples et donc bien adaptées à des machines que l'on dit vieillissantes. (GNU/[[Linux]] + XFCE ou IceWM par exemple)
+
+D'autre part, du fait de la politique d'obsolescence programmée de nombreux constructeurs, les ordinateurs sont programmés parfois pour durer 15 à 24 mois. Il est donc très important de choisir l'ordinateur que l'on va acheter en fonction de sa durée de vie potentielle. Pour cela il faut vérifier que la batterie et les composants importants peuvent être changés, de préférence par l'utilisateur lui-même (car sur certains ordinateurs portables, il faut faire appel au SAV pour changer la batterie).
+
+Acheter un ordinateur 'fixe' plutôt qu'un portable permet d'éviter le coût environnemental de la fabrication et du recyclage de la batterie, d'économiser les ressources en lithium qui sont source de conflits dans le monde. De plus une batterie doit être changée tous les 72 mois environ, ce qui représente un coût important.
+
+==Les déchets informatiques==
+
+Les [[déchet]]s informatiques contiennent des composés dangereux tels que des [[métaux lourds]] (arsenic, cadmium, mercure, plomb).
+
+Un équipement encore en état de marche peut être revendu, donné à un proche ou à une association.
+
+Un équipement inutilisable ne doit pas être jeté avec les ordures ménagères. C'est un déchet dangereux qui doit être rapporté à la [[déchèterie]].
+
+Le [[recyclage]] est coûteux pour des appareils électroniques comme les ordinateurs, car il faut séparer les nombreux composants qui sont recyclés dans des filières différentes.
+
+Malheureusement, les filières de traitement des déchets informatiques ne sont pas encore efficaces. Un grand nombre de déchets sont exportés dans des pays du sud où ils ne sont traités dans de mauvaises conditions sanitaires et environnementales.
+
+Le [[papier]] et les cartouches d'imprimante sont [[recyclable]]s. Certains magasins informatiques reprennent les cartouches d'imprimante usagées. On peut essayer de vendre ses cartouches d'encre usagées ce qui permet de récupérer de l'argent et de permettre à ces cartouches d'être recyclées. Des entreprises proposent d'installer des collecteurs de cartouches d'imprimante dans les entreprises.
+
+En France, si vous avez un vieux Minitel que vous n'utilisez plus, vous pouvez le rapporter dans votre agence France Telecom pour qu'il soit réutilisé ou retraité.
+
+==Voir aussi==
+
+=== Liens internes ===
+* [[Recyclage]]
+* [[Gestion des déchets]]
+* [[Nettoyage de l'ordinateur]]
+* [[Logiciel libre]]
+* [[Wiki]]
+
+=== Liens externes ===
+* [http://www.linternaute.com/0redac_actu/0501-janvier/recyclage.shtml Recycler son vieux PC]
+* [http://www.dailymotion.com/video/x3bc40_commentreglerunpcpourconsommermoins Régler un PC pour consommer moins]
+* [http://www.lowtechmagazine.com/2009/06/embodied-energy-of-digital-technology.html L'impact écologique de la fabrication des produits électroniques]
+
+=== Références ===
+{{Références}}
+
+===Bibliographie===
+
+[[Catégorie:Travailler]]
+{{Portail Vivre ensemble}}
