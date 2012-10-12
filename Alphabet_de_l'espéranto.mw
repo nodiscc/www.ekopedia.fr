@@ -1,0 +1,157 @@
+L'[[espéranto]] s'écrit à l'aide de 28 lettres, dont 22 proviennent directement de l'alphabet latin de base, et dont les 6 autres, également issues de cette base, sont agrémentées d'un accent. Chacune de ces 28 lettres, accentuée ou non, est une lettre à part entière, ayant sa place dans l'ordre alphabétique et son entrée dans les dictionnaires.
+
+L'existence de ces lettres accentuées est justifiée par le fait que, dans les langues européennes, la prononciation d'une même lettre n'est pas identique dans toutes les langues. Par exemple, le mot allemand {{guil|Ingenieur}} se prononce avec un '''g''' dur (transcrite par [g] dans l'Alphabet phonétique international), alors que la même lettre du mot français {{guil|ingénieur}} se prononce [ʒ] et qu'en anglais, dans {{guil|engineer}}, elle se prononce [ʤ]. Si l'on veut que la prononciation de la lettre '''g''' soit toujours la même en espéranto (ce qui est très important pour la facilité de mémorisation des mots), il faut nécessairement choisir l'une ou l'autre des prononciations existantes dans les langues vernaculaires (ou naturelles). La solution choisie en espéranto a été de créer plusieurs versions d'une même lettre en les distinguant par un symbole particulier : La langue dispose donc de la lettre '''g''' qui se prononce [g] et de la lettre '''ĝ''' qui se prononce [ʤ]. Cela permet une plus grande richesse de sons dans la langue, tout en laissant une écriture relativement proche de celles des langues vernaculaires. Ainsi, le mot « ingénieur » s'écrit « inĝeniero » et se prononce [inʤeniero].
+
+En dépit de leur justification, ces lettres supplémentaires n'existent dans aucune autre langue, et cela posait des problèmes de typographie et d'informatique. C'est notamment pour cette raison que les langues construites créées à partir de l'espéranto ([[ido]]) ou sur d'autres bases ([[interlingua]]) ont posé dans leur cahier des charges de s'en tenir à l'alphabet latin de base, quitte à renoncer de ce fait à une écriture totalement phonétique. Mais ce problème de typographie que rencontraient aussi certaines langues vernaculaires peu répandues, est en passe d'être totalement résolu par l'emploi d'Unicode.
+
+==Alphabet==
+Les lettres de l'espéranto sont identiques à celles de l'Alphabet phonétique international, à l'exception des lettres ''c'' [ʦ], ''ĉ'' [ʧ], ''ĝ'' [ʤ], ''ĥ'' [x], ''ĵ'' [ʒ], ŝ [ʃ] et ''ŭ'' [w].
+
+==Prononciation==
+La prononciation de l'espéranto, est moins capricieuse que celle de la plupart des langues nationale. De plus, l'orthographe ne pose guère de problème, chaque lettre ne correspondant qu'à un seul phonème et inversement.
+
+En pratique, la prononciation des voyelles peut varier un peu selon l'origine de l'usager ou la position de la voyelle dans le mot, mais cela n'a aucune incidence sur la compréhension car cette différence de timbre ne sert pas à distinguer des mots. 
+
+<div align="center">
+{| style="border:1px solid #AAAACC;margin-left:0.5em;margin-bottom:0.5em;text-align:center;" rules="all" cellpadding="3" cellspacing="0"
+! bgcolor="#EEEEF7" | '''Minuscule'''
+! bgcolor="#EEEEF7" | '''Majuscule'''
+! bgcolor="#EEEEF7" | '''Prononciation API'''
+! bgcolor="#EEEEF7" | '''Équivalent français'''
+! bgcolor="#EEEEF7" | '''Exemples (en français)'''
+|-
+| a || A || /a/ || a || '''a'''rbre  
+|- bgcolor="#EEEEF7"
+| b || B || /b/ || b || '''b'''allon 
+|-
+| c || C || /ʦ/ || ts || '''ts'''unami 
+|- bgcolor="#EEEEF7"
+| ĉ || Ĉ || /ʧ/ || tch || '''tch'''èque 
+|-
+| d || D || /d/ || d || '''d'''ire 
+|- bgcolor="#EEEEF7"
+| e || E || /e/ || é || '''é'''léphant 
+|-
+| f || F || /f/ || f || '''f'''amille
+|- bgcolor="#EEEEF7"
+| g || G || /g/ || g || '''g'''are 
+|-
+| ĝ || Ĝ || /ʤ/ || dj || a'''dj'''udant
+|- bgcolor="#EEEEF7"
+| h || H || /h/ ||  h  || '''h'''ibou
+|-
+| ĥ || Ĥ || /x/ || rh (plus proche de la ''jota'' espagnole) || '''rh'''um
+|- bgcolor="#EEEEF7"
+| i || I || /i/ || i || '''i'''dée 
+|-
+| j || J || /j/ || y || '''y'''oga 
+|- bgcolor="#EEEEF7"
+| ĵ || Ĵ || /ʒ/ || j || '''j'''eudi 
+|-
+| k || K || /k/ || k || '''k'''oala 
+|- bgcolor="#EEEEF7"
+| l || L || /l/ || l || '''l'''ion 
+|-
+| m || M || /m/ || m || '''m'''erci 
+|- bgcolor="#EEEEF7"
+| n || N || /n/ || n || '''n'''ana 
+|-
+| o || O || /o/ || o || '''o'''ser
+|- bgcolor="#EEEEF7"
+| p || P || /p/ || p || '''p'''apa 
+|-
+| r || R || /ɾ/ || r || '''r'''ouge
+|- bgcolor="#EEEEF7"
+| s || S || /s/ || s || '''s'''inge 
+|-
+| ŝ || Ŝ || /ʃ/ || ch || '''ch'''anter 
+|- bgcolor="#EEEEF7"
+| t || T || /t/ || t || '''t'''ête 
+|-
+| u || U || /u/ || ou || '''ou'''rs 
+|- bgcolor="#EEEEF7"
+| ŭ || Ŭ || /w/ || w || '''w'''att 
+|-
+| v || V || /v/ || v || '''v'''ille 
+|- bgcolor="#EEEEF7"
+| z || Z || /z/ || z || '''z'''one 
+|}
+</div>
+
+Le nom de chaque voyelle est simplement constitué de la voyelle elle-même : ''a'', ''e'', etc. Le nom de la consonne s'obtient simplement en ajoutant un "o" à cette consonne : ''bo'', ''co'', ... ''ŭo'', ''zo''.
+
+Le ''ŭ'' est une consonne surtout employée dans les groupes ''aŭ'' (comme ''s'''aou'''dite'') et ''eŭ'' (comme ''al'''éou'''tien''). 
+
+Les lettres ''q'', ''w'', ''x'' et ''y'' ne sont pas utilisées en espéranto, sauf dans les expressions mathématiques. Dans ce cas, leurs noms se prononcent :
+*Q - ''kuo'' ;
+*W - ''duobla vo'' ;
+*X - ''ikso'' ;
+*Y - ''ipsilono'' ou ''i greka''.
+
+Les sons nasonnés français ''am-em-im-om-um'' et ''an-en-in-on-un'' n'existent pas en espéranto et se prononcent comme ''ame-éme-ime-ome-oume'' et ''ane-éne-ine-one-oune''.
+
+En espéranto, le groupe de lettres '''sc''' se prononce '''és-ts'''.
+
+==Substitutions==
+En typographie, si l'on ne dispose pas des lettres accentuées de l'espéranto, il faut utiliser des substitutions. Il n'est pas acceptable d'omettre complètement les accents sans distinguer des lettres normalement différentes. Pour cela on dispose de différents moyens :  
+* Le système ''h'' (nommé en esperanto ''H-sistemo'' qui représente 9 % des pages publiées sur Internet en mars 2007. 
+* Le système ''x'' (nommé en esperanto ''X-sistemo'' qui représente 14 % des pages publiées sur Internet en mars 2007. 
+* Les 77 % restants représentent les pages publiées utilisant les lettres accentuées (ces dernières étant nommées ''supersignaj literoj'' ou  ''ĉapelitaj literoj'' en espéranto).
+
+===Le ''système H''===
+La méthode de substitution suggérée par Ludwik Lejzer Zamenhof, l'initiateur de la langue, est de remplacer les lettres avec accent par les lettres correspondantes sans accent suivies de la lettre ''h'', sauf pour le ''ŭ'', qui est remplacé par un ''u'' simple :
+*ser'''ĉ'''i (chercher) → ser'''ch'''i
+*man'''ĝ'''i (manger) → man'''gh'''i
+*'''ĥ'''irurgio (chirurgie) → '''hh'''irurgio
+*'''ĵ'''urnalo (journal) → '''jh'''urnalo
+*'''ŝ'''uo (chaussure) → '''sh'''uo
+*malgra'''ŭ''' (malgré) → malgra'''u'''
+
+===Le ''système X''===
+À l'époque du code ASCII ont été créées diverses autres méthodes, dont la plus populaire est la ''méthode-X''. La lettre ''x'', n'est pas utilisée dans les mots en espéranto, prend ainsi la place du ''h'' et on l'utilise également après le ''ŭ''. Par cette méthode il est possible d'utiliser des convertisseurs automatiques efficaces à plus de 99 %, alors que le système ''h'' butte sur des mots comme ''flughaveno'', ''longhara'', ''dishaki'', ''chashundo'', etc, ou le ''h'' est une lettre à part entière et non le substitut d'accent de la lettre qui le précède.
+
+*ser'''ĉ'''i → ser'''cx'''i
+*man'''ĝ'''i → man'''gx'''i
+*'''ĥ'''irurgio → '''hx'''irurgio
+*'''ĵ'''urnalo → '''jx'''urnalo
+*'''ŝ'''uo → '''sx'''uo
+*malgra'''ŭ''' → malgra'''ux'''
+
+''"Sxangxigxi"'' ('se changer') est un exemple où le nombre d’''x'' sert d'argument aux opposants du système. (Le nombre de ''x'' est le même que le nombre d'accents dans l'écriture ''orthodoxe'' ''ŝanĝiĝi''.) Rappelons que ce système est avant tout utile pour les machines à écrire.
+
+===Unicode===
+Avec la généralisation désormais de l'Unicode on peut écrire de plus en plus facilement, directement par ordinateur, les lettres accentuées de l'espéranto. L'usage des substitutions commence ainsi à disparaître.
+
+{| border="1" cellpadding="5" cellspacing="0" float:right
+|-
+! colspan="4"  bgcolor=#E0E0E0| Codes Unicode (en décimal) des lettres accentuées 
+|-
+| Ĉ || 264 || ĉ || 265
+|-
+| Ĝ || 284 || ĝ || 285
+|-
+| Ĥ || 292 || ĥ || 293
+|-
+| Ĵ || 308 || ĵ || 309
+|-
+| Ŝ || 348 || ŝ || 349
+|-
+| Ŭ || 364 || ŭ || 365
+|}
+
+En HTML, ces codes précédés de '''&amp;#''' et suivis d'un point-virgule génèrent les lettres accentuées de l'espéranto ; en Visual Basic (utilisé pour les macros de Microsoft Word), ces codes s'utilisent comme argument de chrW( ), en OpenOffice.org Basic, ces codes s'utilisent comme argument de Chr$( ), etc.
+Exemple:  Ŝ s'obtient par &amp;#348; en HTML, par chrW(348) en V.B., Chr$(348) en OpenOffice.org Basic, ...
+
+===Convertisseurs===
+Il existe des convertisseurs permettant de basculer simplement d'un système à l'autre. Ainsi sur le site de la Fédération Espérantiste du Travail, on peut trouver un convertisseur du système X à l'Unicode : http://www.fetesperanto.org/sistemox.php3 .
+
+==Voir aussi==
+*[[Espéranto]]
+
+==Liens externes==
+*[http://fr.lernu.net/enkonduko/lingvoprezento/alfabeto.php Écoutez] l'alphabet en espéranto.
+
+{{Portail|Communiquer|Vivre ensemble|Penser}}
+
+[[Catégorie:Communiquer]]
+[[Catégorie:Linguistique]]
