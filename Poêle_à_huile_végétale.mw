@@ -1,0 +1,90 @@
+{{Se loger}}
+
+Un poêle à fioul, moyennant quelques petits bricolages, peut être transformé en '''poêle à [[huile végétale brute]]''' ([[HVB]]). 
+
+
+== Principe du poële à fioul ==
+
+Le poele à fioul déverse du [[fioul]] au fond d'une cuve qui s'enflamme autour d'un concentrateur métallique (catalyseur ?), prenant la forme d'une flamme qui chauffe les parois en [[fonte]] du poele. Plus le fond est rempli de fioul et plus la flamme est importante. 
+
+===Informations du constructeur ===
+[[Image:Const01.jpg]]
+[[Image:Const02.jpg]]
+[[Image:Const03.jpg]]
+
+
+On voit l'intérieur du foyer: le catalyseur posé à coté et la rondelle de gaséification par terre.
+: [[Image:PoeleH02.jpg]]
+
+
+L'utilisation normale est par la citerne, vanne on/off avant l'entrée du combustible dans la "cuve à niveau constant" (CNC), puis déversée dans la cuve. La CNC permet que la hauteur de combustible au fond de la cuve soit toujours au même niveau selon la vitesse choisie: c'est contrôlé.
+
+Le poele à fioul converti en poele à huile: le tout est de diffuser l'huile juste avant la tête qui la fait couler au fond de la cuve. Quand l'[[huile]] mélangée au fioul passe par la CNC (essai à 25%), la flamme devient faible: la CNC régule mal! Il faut donc s'en affranchir en passant par un réservoir (en métal de préférence) posé contre le poele (pour chauffer l'huile), via un tuyau [[cuivre]] aussi de préférence (fait circuler la chaleur).
+
+
+Il y a un réservoir d'origine sur mon poele, dont je relie la sortie (durite transparente + collier) à un "T" posé sur la ligne d'origine
+: [[Image:PoeleH02.jpg]]
+
+
+En haut à gauche: le réservoir d'origine avec robinet d'ouverture en haut à droite: le curseur (1,2,..6) de la CNC en bas à droite: la CNC (reliée au curseur) en bas au milieu: la cuve avec le passage des 2 combustibles. la dérivation "T" posée (tuyau sorti moi-même et soudure réalisée par un plombier ...):
+: [[Image:PoeleH01.jpg]]
+
+
+La ligne d'origine vient de la CNC à droite jusqu'à la cuve: toujours bien horizontal, pour respecter le niveau constant. Il faut poser un T et souder dessus un bras cuivre pour y brancher une durite souple, éloignée qand même de la chaleur de la cuve.
+
+Dépots constatés (huile usagée filtrée 1µm mais puissance de flamme non contrôlée lors des essais, sans doute cuve trop remplie donc huile du fond non brulée mais carbonisée ...) :
+: [[Image:PoeleH03.jpg]]
+: avec un bon contrôle du débit, ces dépots n'apparaissent pas autant.
+
+
+Principe d'enflammation d'un poele :
+: [[Image:PoeleH04.jpg]]
+
+
+La flaque commence à se déverser au fond de la cuve, normal. suffisant, je dispose 1 ou 2 allumettes ou fond :
+: [[Image:PoeleH05.jpg]]
+
+
+'''Constat''': il faut plus de temps et d'[[allumette]]s pour l'[[huile]], idem pour une [[lampe à huile]]... la flamme commence à se former:
+: [[Image:PoeleH06.jpg]]
+
+
+'''Constat''': c'est long. ça y est, le poele rentre en foncitonnement normal:
+: [[Image:PoeleH07.jpg]]
+
+
+Un [[poële]] c'est fantastique dans le principe: le catalyseur récupère les "vapeurs" ? enfin par les trous sur les côtés du haut de la cuve, qui sont attirés sur le catalyseur, qui chauffe au rouge. les flammes bleues au milieu se déplacent ... la flamme commence à se former:
+: [[Image:PoeleH08.jpg]]
+
+En restant avec le robinet sur les réglages constatés avec 50%, c'est LENT! mais bon ça marche et le régime est suffisant.
+
+
+Économie réalisée et coté écologique: [[énergie renouvelable|combustible renouvelable]]! à 80% d'[[huile]] la flamme parait plus jaune, les émanations ne sont pas exactement comme 100% fioul:
+: [[Image:PoeleH09.jpg]]
+
+Une fois bien chauffée, l'huile s'enflamme:
+: [[Image:PoeleH10.jpg]]  [[Image:PoeleH11.jpg]]
+: [[Image:PoeleH12.jpg]]
+
+
+En passant par un réservoir annexe, l'utilisation d'origine du [[fioul]] n'est pas supprimée: on peut ainsi démarrer au [[fioul]] pur, via la citerne, pour un démarrage facile. 
+
+On peut aussi prévoir une filtration "en continu": pendant qu'on chauffe, on filtre etc...
+
+'''Attention''': le fait de passer outre la CNC impose qu'on peut metter autant d'huile que l'on veut dans la cuve, qui finit par déborder par les trous prévus pour l'air! il faut donc impérativement se fixer des repères sur le robinet d'alimentation à ne pas dépasser: il faut les trouver par tatonnement au début.
+
+'''À suivre''': modification de la CNC pour s'abstenir d'un T soudé. Il s'agira de prendre la chaleur du foyer pour la répartir à la CNC via une patte en cuivre. Des % seront étudiés de la même façon. Attention on ne peut pas stocker de l'[[huile]] usagée filtrée dans une cuve à l'extérieur: il faut lui mélanger un antifigeant (chercher à antifigeant fuel) ou la stocker avec un % de fuel: 20% mini.
+
+== Voir aussi ==
+
+{{Témoignage}}
+
+===Liens internes===
+
+===Liens externes===
+* [http://www.realiste.info/ Realiste.info] : ''Source initiale de ce document''
+
+=== Bibliographie ===
+
+{{Portail Se loger}}
+[[Catégorie:Chauffage]]
