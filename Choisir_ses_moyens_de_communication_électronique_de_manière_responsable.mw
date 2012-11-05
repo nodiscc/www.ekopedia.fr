@@ -1,0 +1,38 @@
+{{ébauche}}
+
+{{Communiquer}}
+* [[hébergement Internet|Le choix d'un hébergeur]]
+* [[Choisir ses adresses e-mail et son nom de domaine]]. Comment gérer ses adresses e-mail de manière intelligente?
+
+Dans cette page, nous allons aborder : 
+* Choix d'un opérateur de télécommunications : quels critères pour un choix éthique, durable, social...
+: http://www.overstappen.be/ (initiative intéressante mais malheureusement en néerlandais)
+* Moyens de télécommunications : que choisir? (par exemple, le problème des ondes électro-magnétiques pour la santé, téléphonie sur IP...)
+
+Il est important pour le téléphone portable, de faire attention au DAS qui représente la puissance électromagnétique des ondes émises par le téléphone. Plus il est bas, moins la puissance des ondes risque d'endommager le cerveau. 
+
+Par ailleurs, il est bon de respecter les recommandations de sécurité avec les téléphones portables: limiter la durée de communication, utiliser une oreillette...
+
+* Comment éviter la pub?
+* Comment éviter le spam?
+
+Une bonne habitude à prendre est de toujours mettre les destinataires d'un message groupé en CCI (copie carbone invisible).
+Ainsi les ordinateurs infectés par un spambot ne pourront pas collecter les adresses du groupe.
+
+On peut également utiliser un logiciel de messagerie disposant d'un filtre anti-spam, ou une adresse de messagerie comme Yahoo ou Gmail qui en dispose d'office. Cela ne réduit pas le spam, mais uniquement la nuisance.
+
+* Comment protéger sa vie privée? 
+
+On peut utiliser '''un système de chiffrement''' des messages, pour l'email, comme Enigmail pour Thunderbird (logiciel libre et gratuit). Cependant les destinataires des messages chiffrés doivent installer un logiciel similaire pour pouvoir les lire.
+
+Il faudrait éviter d'utiliser les réseaux sociaux comme Facebook, Twitter, etc... qui collectent les informations privées et les utilisent pour envoyer des messages publicitaires. Certains considèrent l'avènement des réseaux sociaux comme une tentative de surveillance généralisée de la vie privée et des opinions politiques. (cf les révolutions arabes)
+
+Il est possible d'utiliser pour la messagerie instantanée, un réseau de messagerie décentralisé comme Jabber qui permet de '''chiffrer''' les communications, et de disposer de chat audio et vidéo. (cf la page Jabber sur Wikipédia)
+
+Il est déconseillé de stocker sur un service en ligne, des fichiers contenant des informations privées, tant que l'on ne sait pas qui contrôle le service de stockage.
+
+Par ailleurs, les moteurs de recherche conservent souvent l'historique des recherche pour proposer des publicités personnalisées. Certains moteurs de recherche sont plus stricts sur la confidentialité des données.
+
+{{Portail Communiquer}}
+[[Catégorie:Consumérisme]]
+[[Catégorie:Culture alternative]]
