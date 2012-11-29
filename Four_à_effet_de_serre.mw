@@ -1,0 +1,110 @@
+{{Vivre ensemble}}
+
+Un '''four à effet de serre''' est un type de [[four solaire]] utilisant le principe du piège à "chaleur" que constitue l'effet de serre. 
+
+Il est possible d'utiliser le principe du four à effet de serre pour la cuisson des aliments, pour la production d'eau chaude ou encore pour le chauffage. Il est facile de construire des petits cuiseurs pour l'alimentation qui ne sont que des fours à effet de serre simplifiés.
+
+
+== Principe technique ==
+[[File:Cuiseur-mamat-1.jpg|thumb|right|250px|Cuiseur solaire]]
+
+Le principe de l'[[effet de serre]] est d'emprisonner l'énergie d'un rayonnement. Il est donc important d'avoir un four bien "isolé". Deux effets conjugués réalisent l'effet de serre: la sélectivité des matériaux et la transparence des matériaux.
+
+=== La sélectivité ===
+La sélectivité est le phénomène qui va permettre aux matériaux du four solaire de transformer la longueur d'onde du rayonnement dont on cherche à capter l'énergie.
+
+La '''sélectivité''' est le rapport entre le facteur d'absorption d'une longueur d'onde, ou d'une plage de longueur d'onde, et le facteur d'émission d'une autre longueur d'onde, ou d'une plage de longueur d'onde, d'un matériau.
+
+Typiquement, dans les fours solaires, les longueurs d'onde concernées sont les rayonnements de courte longueur d'onde < 3µm (rayonnement visible par l'oeil humain et en dessous) pour le facteur d'absorption et les rayonnements > 3µm (infrarouge et au-dessus) pour le facteur d'émission. Ces deux plages de longueur d'onde se côtoient dans le spectre lumineux et la longueur d'onde de coupure, entre les deux plages, est à peu près égale à 3µm.
+
+=== La transparence ===
+La '''transparence''' d'un matériau est la capacité d'un matériau à arrêter ou à laisser passer les rayonnements suivant leur longueur d'onde. Typiquement dans le four solaire on cherchera un matériau transparent aux rayonnements < 3µm et opaque aux rayonnements > 3µm. Le [[verre]] et le [[plexiglas]] par exemple sont de tels matériaux.
+
+=== L'effet de serre ===
+L'effet de serre intervient lorsque la sélectivité et la transparence de deux matériaux se complètent.
+
+Dans un premier temps, le rayonnement source traverse le matériau transparent à la longueur d'onde du rayonnement source. Le rayonnement source voit ensuite sa longueur d'onde transformée par la sélectivité d'un second matériau en une longueur d'onde à laquelle le premier matériau est opaque. De ce fait, le rayonnement est emprisonné entre deux matériaux qui lui sont opaques et l'on obtient l'effet de serre.
+
+Dans les fours solaires classiques, on a des rayonnements de faibles longueurs d'onde qui traversent par exemple une plaque de verre. Ce rayonnement est transformé en rayonnement de longue longueur d'onde par une plaque d'[[acier]] peint en noir par exemple. Le verre étant opaque au rayonnement de longue longueur d'onde, celui-ci est emprisonné dans le four à effet de serre.
+
+=== Four à effet de serre ===
+Le but du four à effet de serre solaire est de garder la chaleur du rayonnement solaire grâce au principe de l'effet de serre. L'énergie ainsi concentrée est ensuite utilisée directement ou transportée grâce à un fluide caloriporteur (eau ou air) afin de fournir du [[chauffage]], de l'eau chaude sanitaire, de l'air chaud pour un séchoir, etc.
+
+
+== Réalisation ==
+La réalisation d'un four à effet de serre nécessite une bonne compréhension du phénomène en lui-même et des grandeurs physiques mises en jeu (quantité d'énergie, perte, caractéristiques diverses des matériaux). Elle nécessite aussi une connaissance de l'ensoleillement du lieu où il sera utilisé et doit aussi être conçu en fonction des besoins qu'il est censé remplir. Tous ces facteurs très variables et parfois difficiles à définir font que si l'on veut réussir du premier coup son four solaire, il faut plancher sur les calculs. 
+
+Néanmoins, si l'on n'a pas cette prétention et étant donné le faible coût d'un four solaire, il est très facile de construire un four de manière plus empirique en partant de [[Four solaire pour cuisson|recette simple]]. 
+
+Un four solaire classique est fait de [[bois]], d'isolant, de verre, de plaque d'[[acier]] ou de [[cuivre]] et de tuyau d'acier ou de cuivre. Sa réalisation peut donc entièrement se faire avec des matériaux de [[récupération]] si l'on s'y prend à l'avance.
+
+Dans tous les cas, vous serez amené à vous adapter à ce que le four solaire vous fournit. Car il est à peu près impossible de remplacer purement et simplement des [[énergie]]s telles que le [[gaz]] ou le [[fuel]] pour ce qui est du chauffage domestique par un four solaire. Par exemple, il est très dur d'obtenir une eau bouillante, après la tombée du jour le four ne fonctionne plus. Aussi, il n'y a pas de bouton pour augmenter la puissance du four comme sur une [[chaudière]].
+
+Ce sera donc à vous, dans une certaine mesure, de vous adapter au four et non l'inverse, comme on a l'habitude de le faire avec les énergies fossiles.   
+  
+=== Principes élémentaires ===
+Le four solaire est généralement plat et doit être orienté le plus possible perpendiculairement à l'axe terre-soleil. Concrètement, pour des fours en régions équatoriales ou tropicales, votre captage est horizontal ou presque. 
+
+Pour les régions tempérées, il s'agit de faire un calcul pour l'inclinaison de la plaque transparente. 
+
+La position du [[soleil]] variant durant la journée, on peut soit:
+* changer la position du four plusieurs fois dans la journée;
+* lui mettre un système d'asservissement qui lui fera suivre la course du Soleil (ceci est complexe et onéreux);
+* positionner le four dans une position fixe qui ne sera pas idéale (mais qui aura pour avantage la simplicité et la tranquillité).
+
+Si l'on décide de mettre le four en position fixe, il est conseillé de l'orienter perpendiculairement au soleil lorsque celui-ci est au plus haut dans le ciel. C'est à dire aux alentours de midi (faites attention au décalage horaire par rapport au temps solaire).
+ 
+Il doit y avoir le moins possible d'obstacles aux rayons du soleil devant le four. Ceci est important, notamment si l'on plante des arbres qui, en quelques années, peuvent s'avérer gênants. Le four solaire sera donc souvent placé en hauteur afin d'éviter au maximum les obstacles.
+
+=== Fluide caloriporteur ===
+Dans les fours à effet de serre, l'énergie du four en est extraite grâce à un fluide caloriporteur. Les deux fluides caloriporteurs les plus utilisés sont l'eau et l'air. Ceux-ci ont des avantages et des inconvénients propres qui les réservent chacun à un usage particulier.
+
+{{Loupe|contenu=Pour un complément d'information, voir l'article [[fluide caloriporteur]].}}
+
+==== l'eau ====
+Comme fluide caloriporteur, l'eau est utilisée pour la fabrication d'eau chaude sanitaire (mais elle peut aussi être utilisée pour le chauffage avec des radiateurs).
+
+==== l'air ====
+Comme fluide caloriporteur, l'air est utilisé pour le chauffage ou pour le séchage.
+
+
+=== Four classique pour eau chaude sanitaire ===
+{{...}}
+
+=== Four classique pour chauffage ===
+{{...}}
+
+=== Paroi à four solaire ===
+{{...}}
+ 
+=== Four pour séchoir === 
+Voir [[séchoir solaire]]
+
+== Calculer son four ==
+{{...}}
+
+
+
+== Voir aussi ==
+===Liens internes===
+* Le [[four solaire pour cuisson]]
+* L'[[énergie solaire]]
+* [[Serre écologique]]
+
+===Liens externes===
+* [http://www.atlascuisinesolaire.com/four-solaire.php Modèles et plans de fours solaires à effet de serre (Atlas de la Cuisine Solaire)]
+* [http://www.idcook.com/fr/2-four-solaire Les fours solaires à effet de serre développés par Idcook]
+* [http://ravage.over-blog.com/ Découvrez la cuisson solaire]
+* [http://fr.solarcooking.wikia.com/wiki/Les_Archives_de_Cuisson_Solaire_-_Wiki Les archives de cuisson solaire - Wiki]
+* [http://www.boliviainti-sudsoleil.org Association BOLIVIA INTI-SUD SOLEIL : diffusion de cuiseurs solaires et écologiques dans les Andes, en France et ailleurs dans le monde.]
+
+===Bibliographie===
+
+
+{{Portail Énergie}}
+
+[[Catégorie:Énergie solaire]]
+[[catégorie:comment fait-on ceci ?]]
+
+[[en:Greenhouse solar oven]]
+[[pl:Piec słoneczny z efektem szklarniowym]]
