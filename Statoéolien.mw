@@ -1,0 +1,112 @@
+ {{Vivre ensemble}}
+[[Image:Gio.jpg|left|thumb|Statoéolien sur pylône]]
+
+L'[[éolienne]] classique, celle que nous avons l'habitude de voir dans nos campagnes, pourrait bien rapidement laisser la place au StatoEolien : concept révolutionnaire d'[[éolienne]] à axe vertical composée d'un stator fixe, qui canalise, de manière optimale, le vent sur un rotor mobile. Conçu principalement pour une implantation en ville où il s'intégrerait facilement dans le paysage urbain, il peut également être mis en place en mer (production off-shore) comme sa structure lui permet de résister aux vents les plus violents.
+
+
+
+== Caractéristiques techniques ==
+[[Image:Rotor.jpg|right]]
+Le ''StatoEolien'' fonctionne en couple et non en vitesse de rotation, ce qui se traduit par une réduction de la vitesse linéaire des aubes rotor. Elle fonctionne grâce à la trainée différentielle, c'est le principe du rotor de savonnius. Alors que la vitesse en bout de pales des éoliennes à hélices peut facilement atteindre 400 km/h, les aubes du ''StatoEolien'' ne dépassent pas 85 km/h, ce qui élimine les vibrations et réduit considérablement les efforts centrifuges.
+
+La chaîne électrotechnique du Statoéolien est constituée :
+* d’un multiplicateur
+* d’un générateur, de type synchrone ou asynchrone selon modèle,
+* d’un servo-variateur de fréquence, intégrant un automate et un bus continu,
+* d’un module de réinjection réseau,
+* de filtres réseau.boudi
+
+Voici un schéma technique de l'installation électrique nécessaire afin de raccorder un système statoéolien :
+[[Image:Technique.jpg|600px|shéma technique du Statoéolien]]
+
+== Exemples == 
+Voici quelques exemples d'applications du statoéolien : 
+
+
+[[Image:Appli4ph2.jpg]]   [[Image:appli2ph2.jpg]]   [[Image:appli1ph3.jpg]]
+
+== Comparaison avec une micro-éolienne ==
+
+Ceci est une comparaison basée seulement sur des données brutes et ne comprend pas des caractéristiques comme nuisances sonores ou visuelles :
+
+{| class="ekotable"
+
+!
+! StatoEolien !! Micro-éolienne
+|-
+! Dimensions
+| 4m de diamétre
+1.5m de hauteur
+| 2.7m de diamétre
+|-
+! Poids
+|800kg
+|50kg
+|-
+! Puissance de la génératrice
+|10kW
+|1.5kW
+|-
+! Énergie produite par an avec un vent moyen de 5m/s
+|1880kWh
+|1670kWh
+|-
+!Prix
+|19000€  
+|~ 6000€ 
+|}
+
+''Les calculs ont été faits à partir d'une micro-éolienne de type Inclin 1500 mais ils sont valables pour toute éolienne classique''
+
+
+
+== Avantages  == 
+[[Image:Schema.jpg|right|thumb|300px|Schéma de principe aérodynamique]]
+En plus de son caractère écologique, le concept breveté du Statoéolien présente un grand nombre d'atouts :
+* Indépendance à la direction du vent (donc meilleur rendement par rapport à une éolienne classique)
+* Fonctionnement même sous vents violents (jusqu’à 216km contrairement aux éoliennes classiques qui résistent jusqu’à 90Km) 
+* Fiabilité élevée et maintenance réduite
+* Absence totale de nuisance sonore
+* Structure compacte
+* Opérations de maintenance facilitées par le fait que la machine n’est pas installée au sommet d’un pylône, mais placée le plus souvent sur un toit.
+
+
+== Inconvénients ==
+Les inconvénients sont rares et difficiles à trouver compte tenu de l'avancement de cette technologie. De plus, les seules informations disponibles sont celles fournies par les constructeurs plutôt avares en critiques. Les seuls points négatifs possibles sont donc les suivants : 
+* Prix élevé
+* Nécessite du vent (min 8km/h=2.2m/s)
+* Coût de montage important
+* Aspect pouvant en rebuter certains
+
+
+
+== Maintenance ==
+Le Statoéolien a été conçu de manière à réduire au maximum les opérations de maintenance. Ainsi, les roulements sont garantis à vie, et leur vérification est réalisable très facilement grâce à un système de cage du roulement entièrement démontable. En ce qui concerne le multiplicateur, une vidange tous les 4 ans et un changement complet tous les 10 ans sont nécessaires. Quant à la chaîne électrotechnique (générateur, électronique de puissance), elle devra faire l’objet d’un contrôle annuel, de la même manière que l’éolienne entière.
+
+
+
+== Coût == 
+Le prix varie selon la taille de l'installation et donc la quantité d'électricité produite. Le plus souvent, le diamètre d'une installation statoéolienne varie de 4 à 8 mètres et son prix peut aller de 16000 à 45000 € (sans compter les surcoûts éventuels induit par le support et le montage).
+  
+Exemple : Installation d’un StatoEolien GSE 4 sur une maison individuelle :
+: Coût de l'opération (transport, montage et installation) 22400 Euros TTC 
+: Dont coût de l'équipement 19000 Euros TTC 
+: Le crédit d'impôt ne prend en compte que le coût de l'équipement 
+: Taux de crédit d'impôt 50 % 
+: Montant du crédit d'impôt : 15900 € HT x 50 % = 7950 Euros 
+: Coût net de l'opération pour l'usager : 22400 € - 7950 € = 14450 Euros
+
+== Liens internes ==
+* [[Éolienne]]
+* [[Moulin à vent]]
+* [[Utilisation de l'énergie]]
+* [[Énergies renouvelables]]
+
+
+== Liens externes ==
+* [http://www.ropatec.com/smartedit/produkte/ Site de Ropatec]
+* [http://www.windside.com/old/france/fraframe.htm/ Site de Winside]
+* [http://www.gual-industrie.com/ Site de Gual Industrie ]
+* [http://www.freeenergynews.com/Directory/Wind/Vertical_Axis/StatoEolien_English.ppt/ présentation powerpoint du statoéolien (en anglais)]
+
+[[Catégorie:Énergie éolienne]]
