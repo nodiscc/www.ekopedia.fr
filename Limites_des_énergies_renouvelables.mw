@@ -1,0 +1,298 @@
+{{Vivre ensemble}}
+
+Au vu des technologies connues et de leurs besoins énergétiques, il serait impossible pour la quasi-totalité des pays industrialisés d'avoir une production énergétique uniquement, ou même essentiellement, issue des ''énergies renouvelables''. Globalement, seuls font exception les pays disposant d'un fort potentiel hydroélectrique. Pour les autres, les ressources fossiles, parfois complétées par du nucléaire, demeurent incontournables et ce pour longtemps sans doute. 
+En effet, les énergies fossiles (pétrole, gaz, charbon) couvrent à ce jour 85% de la consommation mondiale d'énergie (énergie dit "finale"), les énergies renouvelables seulement 13% (le nucléaire étant marginal avec 2%).
+La part des énergies renouvelables croît continuellement mais cette augmentation sera encore plus rapide lorsqu'il sera possible de stocker de grandes quantités d'énergie à un coût raisonnable.
+
+
+== Production d'électricité de source renouvelable (TW·h)==
+Pour référence et afin de mieux comprendre la suite de l'article, voici la liste des dix plus grand producteurs mondiaux d'électricité à base d'énergie renouvelable. Les chiffres sont exprimés en TW·h. Notez que les pays recourant massivement aux renouvelables sont ceux ayant un territoire avec un fort potentiel hydroélectrique (Brésil, Canada, Norvège). Si l'on omet cette énergie, la production d'énergie renouvelable chute drastiquement pour devenir anecdotique.
+
+{| class="ekotable"
+|-
+! N&deg;
+! Pays
+! Total<ref>[http://www.bp.com/productlanding.do?categoryId=6929&contentId=7044622 Statistical Review of World Energy 2008]</ref>
+! Total renouvelable<ref>[http://en.wikipedia.org/wiki/List_of_countries_by_renewable_electricity_production List of countries by electricity production from renewable sources]</ref>
+! [[Hydroélectricité|Hydro]]<ref>[http://data.un.org/Data.aspx?d=EDATA&f=cmID%3aEH UN Energy Statistics Database] - 2006 hydroelectric power data</ref><br>
+! [[Énergie Éolienne|Éolien]]<ref>[http://data.un.org/Data.aspx?d=EDATA&f=cmID%3aEW UN Energy Statistics Database] - 2006 wind power data</ref><br>
+! [[Biomasse]]
+! [[Énergie solaire|Solaire]]<ref>[http://data.un.org/Data.aspx?d=EDATA&f=cmID%3aES UN Energy Statistics Database] - 2006 solar electricity data (publicly produced)</ref><br>
+! [[Géothermie]]<ref>[http://data.un.org/Data.aspx?q=null&d=EDATA&f=cmID%3aEG%3btrID%3a01 UN Energy Statistics Database] - 2006 geothermal power data</ref><br>
+! Autre<sup>* </sup>
+|-
+|1
+| Chine
+| 3433 
+| 576.1 (16,6%)
+| 563.3
+|12.8<ref>[http://en.wikipedia.org/wiki/Wind_Power Wikipedia] - Windpower</ref>
+|
+|
+| 
+| 
+|-
+|2
+| Brésil
+| 454 
+| 385.8 (84,9%) <ref>http://www.mme.gov.br/site/menu/select_main_menu_item.do?channelId=1432&pageId=14131</ref>
+| 371.5
+| 0.6
+| 14.3
+| 
+| 
+| 
+|-
+|3
+| États-Unis
+| 4316 
+| 375.6 (8,7%) 
+| 250.8<ref>http://en.wikipedia.org/wiki/Hydroelectricity</ref>
+| 52.0
+| 55.4<ref name=usa>http://www.eia.doe.gov/cneaf/alternate/page/renew_energy_consump/table3.html</ref> <small>(2007)</small>
+| 0.596
+| 16.778
+|
+|-
+|4
+| Canada
+| 599 
+| 369.7 (61,7%) 
+| 368.2
+| 1.471
+|
+| 0.017
+| 
+| 
+|-
+|5
+| Russie
+| 1036
+| 179.1 (17%)
+| 174.604
+| 0.007
+|
+|
+|
+| 0.41
+|-
+|6
+| Norvège <ref>http://ec.europa.eu/dgs/energy_transport/figures/pocketbook/doc/2007/2007_energy_ext_renewables_gross_electricity_generation_en.pdf</ref>
+| 142,7
+| 137.3 (96%)
+| 136.572
+| 0.506
+|  0.2<ref>http://www.sffe.no/documents/strategi/SFFE_RD-strategy_2008.pdf</ref>
+| 
+| 
+|
+|-
+|7
+| Inde
+| 834
+| 137.1 (16%)
+| 122.4
+| 14.7
+| 
+| 
+| 
+|
+|-
+|8
+| Japon
+| 1154
+| 95.0 (8%)
+| 86.350
+| 1.754
+| 
+| 0.002
+| 3.027
+|
+|-
+|9
+| Vénézuela
+| 119,3
+| 83.9 (70%)
+| 83.9
+|
+| 
+| 
+| 
+|
+|-
+|10
+| Allemagne
+| 639
+| 68.7 (10%)
+| 26.717
+| 38.5
+| 
+| 3.5<ref>http://www.german-renewable-energy.com/Renewables/Redaktion/PDF/es/Vortraege-2008/es-Renewable-Energy-Asia-2008-Bard,property=pdf,bereich=renewables,sprache=es,rwb=true.pdf</ref>
+| 
+|}
+<nowiki>* </nowiki> Les autres sources incluent l'énergie [[Énergie marémotrice|marémotrice]] et la production d'énergie à base de déchets.
+
+== Aléas de la production ==
+Ce problème concerne principalement l'[[énergie éolienne]] mais aussi l'[[énergie solaire]] photovoltaïque. En effet, celles-ci produisent de l'énergie lorsqu'il y a du vent ou du soleil. À contrario, les consommateurs réclament une électricité disponible à tout moment. En l'absence de moyen de stockage à large échelle et efficace de l'énergie, il y a donc une incompatibilité qui ne peut être résolue. C'est là une différence fondamentale par rapport aux énergies traditionnelles "actives" qui, toutes, fonctionnent sur demande. Pour simplifier, par une nuit sans vent, la production totale des éoliennes et panneaux solaires est nulle et rien n'alimente le réseau.
+
+=== Intermittence ===
+[[Image:Consommation_électrique_hivernale_en_PACA.gif|thumb|330px|right|Consommation hivernale quotidienne moyenne sur 24h en PACA]]
+La consommation électrique est extrêmement variable. Les pics de consommation sont atteints, en France, en hiver et plus précisément aux alentours de 20h (comme illustré par le graphique ci-contre)<ref>[http://clients.rte-france.com/lang/fr/visiteurs/vie/courbes.jsp RTE - Courbes de consommation]</ref>. Durant cette saison, les panneaux solaires produisent durant huit heures par jour seulement et sous un ensoleillement réduit. À défaut de pouvoir stocker l'énergie produite durant la journée, l'[[énergie solaire]] ne peut que faire office de doublon puisqu’elle ne produit strictement rien lors des pics de consommation. Elle compte donc comme nulle par rapport à la capacité totale de production nécessaire à tout moment.
+
+Un problème similaire se retrouve avec l'[[énergie éolienne]] : il arrive régulièrement que, certaines journées, la production éolienne soit très faible, et ce, même sur une très large étendue géographique (voir graphique de la section ci-dessous). En conséquence, même en installant une capacité de production par éolienne 10 fois supérieur à la consommation annuelle, cela serait absolument insuffisant en soi pour permettre d'assurer la disponibilité d'électricité à chaque instant : Il n'est pas rare que l'anti-cyclone sibérien s'étende à toute l'Europe pour créer une zone quasiment sans vent pour plusieurs jours voire semaines (Souvenez vous de la canicules de 2006). Les vendeurs d'éolienne eux-même parlent de nécessité de capacités de stockage égale à 8 fois la capacité de production éolienne journalière; mais comme on le verra ci-dessous, stocker l'électricité n'a rien d'évident.
+
+=== Variabilité ===
+[[Image:Variabilité de l'énergie éolienne.jpg|thumb|330px|right|Simulation de la production éolienne en décembre en Europe]]
+Un autre problème est celui de la variabilité. Puisque le stockage est difficile, il faut donc pouvoir pallier les déficits de production par une production complémentaire. Mais la variabilité de ces énergies renouvelables est très rapide, même en atténuant le problème en interconnectant des installations sur de larges étendues géographiques<ref>[http://www.trade-wind.eu/index.php?id=13 TradeWind] - Projet public européen implémenté par des acteurs de l'éolien.</ref>. Or, toutes les productions "actives" ne peuvent pas satisfaire cette variabilité. Ainsi, les réacteurs nucléaires sont incapables de démarrer aussi rapidement et ce sont aujourd'hui les centrales fossiles qui doivent prendre le relai et amortir cette variabilité, en plus des dispositifs de stockage éventuellement mis en place. 
+
+Pour exemple, une étude<ref>[http://www.arer.org/pj/articles/457_rapport.pdf Etude] de l'influence des centrales photovoltaïques sur la stabilité du réseau réunionnais.</ref> réalisée pour l'Agence Régionale de l'Énergie à la Réunion observe que, sur un site donné, on peut observer des variations de production allant de +81% à -85% par demi-heure. Au niveau de l'île toute entière (superficie de 2500km², égale à 0,3% de celle de la métropole), cette variabilité va de -37% à +32% par demi-heure. Or, l'agence fixe une variabilité maximale de 15% par demi-heure afin que qu'elle soit supportable par l'opérateur du réseau, il est donc nécessaire de recourir à des dispositifs de stockage pour amortir ces variations rapides (et non pas pour stocker en vue de la nuit).
+
+=== Les difficultés du stockage ===
+En une nuit d'hiver, la France consomme plusieurs centaines de GWh. Soit plusieurs centaines de millions de kWh. Or, les batteries ont un coût s'échelonnant entre 200€ par kWh (batteries au plomb) et 2000$ par kWh (batteries Li-ion et Li-polymères) <ref>[http://www.mines-energie.org/Dossiers/Stock2005_15.pdf Note] de l'[[ADEME]] (Agence de l'environnement et de la maîtrise de l'énergie)</ref> avec des caractéristiques - vitesse de charge, puissance délivrable, autodécharge, etc. - diverses et pas forcément adaptées au problème. Elles sont presque toujours polluantes, souvent même très polluantes et beaucoup font appel à des matériaux rares alors que leur espérance de vie n'est généralement que d'une poignée d'années (une à cinq pour la plupart) et le recyclage a un coût, aussi bien économique qu'énergétique. Leur encombrement est également loin d'être négligeable : de 3L à 13L par kWH.
+
+Les piles à hydrogène, souvent jugées comme l'une des solutions de stockage les plus prometteuses pour l'avenir, mais outre le fait qu'elles utilisent du [[platine]], dont les réserves connues ne sont que de quelques milliers de tonnes - environ deux grammes par être humain, les différentes méthodes de production d'hydrogène possèdent un très mauvais rendement et seul le stockage géologique semble intéressant; en effet, par sa petitesse, la petite molécule d'hydrogène passe à travers les parois d'acier de qualité standard ou insuffisamment épaisse.
+
+D'autres solutions existent. Par exemple la compression d'air, le pompage d'eau (on dépense de l'énergie pour élever l'eau dans un réservoir puis on la récupère en laissant chuter le liquide sur une turbine, comme dans un barrage) ou le chauffage d'un liquide (qui, en se refroidissant, rayonnera de l'énergie que l'on pourra récupérer). Là encore, ces solutions ont leurs propres caractéristiques et leurs propres limites. Il faut ainsi plus 36 mètres cubes d'eau élevés à dix mètres de hauteur pour stocker un kilowatt heure. Pour une nuit d'hiver française, c'est plus d'une centaine de fois le débit quotidien de la Loire qui serait nécessaire.
+
+Parmi toutes les techniques de stockage actuelles, aucune à ce jour n'offre de solution suffisante pour résoudre le problème du stockage dans son ensemble. Certaines seraient adapté pour un stockage quotidien, et parfaitement impropre à un stockage saisonnier, et pour d'autres ce serait l'inverse. L’échelle des besoins si l'on devait reposer entièrement sur le stockage pour compléter des sources d'approvisionnement majoritairement intermittente serait proprement astronomique. Le stockage ne peut donc pas pallier seul aux problèmes d'intermittence. En revanche, il est nécessaire pour amortir les problèmes de variabilité.
+
+=== Effet de foisonnement ===
+
+Une solution efficace serait l'interconnexion à large échelle des réseaux électriques. Si l'on prenait l'exemple d'un réseau mondial, lorsqu'une moitié de la planète serait dans le noir, l'autre moitié recevrait les rayonnements du Soleil. Ce bénéfice se retrouverait également avec l'[[énergie éolienne]], quoique peut-être dans une moindre mesure. Cette réduction de l'intermittence et de la variabilité par la multiplication de sources éloignées est appelé ''effet de foisonnement''. Si un tel réseau pouvait être mis en œuvre, le solaire et l'éolien deviendraient alors beaucoup plus intéressants. 
+
+Toutefois, cela ne va pas sans poser de problèmes politiques et de sécurité : sachant qu'une poignée de défaillances dans le réseau européen ont pu entraîner des extinctions générales, ces problèmes de réseau peuvent-ils être circonvenus et à quel prix? Car en dehors de l'Occident il y a encore trop peu de pays à pouvoir garantir la stabilité, la sécurité et le professionnalisme nécessaires à une telle interconnexion. D'un autre côté, nous dépendons déjà de pays instables pour nos approvisionnements en pétrole. Enfin, sur le plan technique, il y a d'autres difficultés : si, sur cent kilomètres, une ligne à haute tension ne perd que 0.5% de son énergie, ce chiffre monterait à 50% sur 20000 km. Et ce, en conservant les puissances actuelles alors même que les besoins seraient plus importants et que les lignes haute-tension sont coûteuses. Baisser la puissance transportée en multipliant le nombre de lignes serait possible, mais augmenterait d'autant le coût.
+
+
+Cela dit, l'idée fait son chemin. Au niveau européen, en hiver, grâce aux nombreux fuseaux horaires, la partie occidentale serait encore éclairée et pourrait produire de l'énergie solaire pour une Europe orientale en plein pic de consommation et plongée dans la nuit. Une idée dont tire partie la Roadmap 2050<ref name="roadmap">[http://www.roadmap2050.eu/ Roadmap 2050]</ref>. On peut également mentionner le projet Desertec<ref>[http://fr.wikipedia.org/wiki/Projet_Desertec Projet Desertec]</ref>, qui consiste à bâtir des centrales solaires au Maghreb pour alimenter l'Europe, même s'il n'y a pas ici de décalage horaire, le but étant simplement d'abaisser les coûts de production.
+
+=== Conséquences ===
+
+La principale conséquence de tout ceci est que l'éolien et le solaire ne remplacent pas les centrales traditionnelles, ils ne peuvent être qu'un complément. Ils ne permettent pas ou peu de réduire le nombre et la puissance des centrales traditionnelles installées mais plutôt d'éteindre celles-ci par moment.
+
+Sur le plan économique, il faut démultiplier les coûts d'investissement (installations traditionnelles + installations renouvelables) et y ajouter des dispositifs de stockage de l'énergie. Qui plus est, puisque les centrales traditionnelles sont moins utilisées, les investissements et la maintenance sont moins amortis. La moindre utilisation de ces installations signifie aussi davantage de temps passé en régime sub-optimal (un réacteur n'atteint son fonctionnement optimal qu'après un certain temps). Au final, ces surcoûts l'emportent sur les hausses des prix des combustibles. Aujourd'hui, recourir au solaire et à l'éolien pour 20% de la production entraîne une hausse du coût moyen du kWh supérieure à 20%. Même à l'horizon 2050, avec des ressources non-renouvelables bien plus coûteuses qu'aujourd'hui, une production impliquant fortement les renouvelables resterait plus coûteuse qu'une production fossile et beaucoup plus coûteuse qu'une production nucléaire.
+
+Sur le plan technique, il est aujourd'hui improbable que tous les pays puissent développer des réseaux énergétiques fournissant de l'énergie à la demande et basés sur les seules énergies renouvelables. Même en ignorant les problèmes de coût, les ressources nécessaires au stockage (eau, terres rares, platine, etc) ne sont sans doute pas suffisantes.
+
+
+== Rareté des énergies renouvelables ==
+
+=== Énergie hydroélectrique ===
+De toutes les énergies renouvelables, l'[[énergie hydroélectrique]] en est sans doute la championne. Même si elle n'est pas sans poser de problèmes (inondation de vallées par exemple, bouleversement des écosystèmes), elle reste parmi les plus propres, les plus économiques, et peut essentiellement être extraite à la demande (même s'il existe sans doute des cycles saisonniers). Malheureusement, les capacités de production que l'on peut en tirer dépendent de la géographie : débits des fleuves, reliefs, etc. À titre d'exemple, en France, 90% du potentiel hydroélectrique est exploité alors même que celui-ci ne pèse que pour moins d'un dixième dans la production électrique. À l'opposé, la province du Québec (Canada) offre des conditions idéales pour le développement de l'hydroélectricité. La quasi-totalité de l'énergie électrique consommée au Québec provient de centrales hydroélectriques (96,8 %)<ref>Ministère des Ressources naturelles et de la Faune du Québec: [http://www.mrnf.gouv.qc.ca/publications/energie/statistiques/production-electricite.xls La production d'électricité disponible par source d'énergie (1981-2006)]</ref>.
+
+=== Combustion de biomasse === 
+[[Image:Cycle_carbone2.jpg|thumb|Cycle du carbone dans le bois]]Les végétaux, notamment le [[bois]], ont, durant toute leur croissance, stocké du carbone extrait depuis le dioxyde de carbone présent dans l'atmosphère. Lors de leur combustion, ces végétaux ne font que relâcher dans l'atmosphère ce carbone stocké, voici pourquoi on parle d'un bilan de carbone neutre<ref>[http://vision2025.uqac.ca/forumnordique/presentation/presentationjeanfrancoisboucher.pdf Potentiel et enjeux à propos de la création de puits de carbone en forêt boréale]</ref>.
+
+La pousse annuelle d'un hectare de forêt produit, en brûlant, dans le meilleur des cas, 60MWh<ref>[http://www.manicore.com/documentation/solaire.html#biomasse Jean-Marc Jancovici] - Biomasse</ref>. La consommation électrique annuelle française est de 550 TWh (T = tera = mille milliards). En tenant compte du rendement d'une centrale à bois (40% à 50%), il faudrait donc dédier 25% à 30% du territoire français à ces exploitations forestières industrielles alors même que seul un tiers du territoire français est boisé et 3% seulement exploités. Cela se ferait au détriment d'autres espaces (sauvages, agricoles, habités, etc). Par ailleurs, une exploitation forestière n'est pas une forêt, loin de là (monoculture fréquente, espèces productives, etc) et cela aurait des conséquences fortes sur la biodiversité. Enfin, ces changements d'usage modifieraient la biomasse végétale du territoire : si elle augmente (plus de carbone stocké à tout instant), c'est une réduction du {{CO2}} présent dans l'atmosphère, sinon c'est une augmentation.
+
+On pourrait également comptabiliser les déchets du [[bois]] : avec 1,1 million de tonnes<ref>[http://www.arecpc.com/guide/dib/bois.html ADEME Poitou-Charentes] - Déchets de bois</ref> de déchets par an partants en décharge ou non-valorisés, cela représente 0.8TWh. De même une part des déchets agricoles ne sont pas valorisés et pourraient être brûlés.
+
+Le bois-énergie est donc une des importantes solutions de substitution aux sources d'énergies "traditionnelles", mais ne peut à lui seul satisfaire à tous nos besoins énergétiques. D'ailleurs, en France, personne ne semble sérieusement envisager d'allouer 20% à 30% du territoire au bois.
+
+=== Géothermie ===
+
+La géothermie est exploitée depuis longtemps et avec succès dans des sous-sols à fort gradient de température (zones volcaniques et tectoniques), comme en Californie ou en Islande. Mais dans des zones avec des gradients intermédiaires (moitié est de la France par exemple), l'exploitation de la géothermie conventionnelle est encore discrète. Bien qu'elle y soit économiquement viable et intéressante, l'eau extraite présente une température et une pression beaucoup plus faibles qui la limitent au chauffage domestique. Par ailleurs les réserves de chaleur disponibles sont restreintes. Ainsi, la ville de Paris a relancé l'exploitation du potentiel géothermique de la nappe du Dogger<ref>[http://www.lemonde.fr/planete/article/2009/06/29/paris-redecouvre-les-vertus-ecologiques-et-fiscales-de-la-geothermie_1212966_3244.html Le Monde], 29/06/2009, Paris redécouvre les vertus écologiques et fiscales de la géothermie</ref>, plus grande nappe aquifère de France. Elle y pompe une eau à 57°C et y réinjecte une eau à 20°C en moyenne. Mais, avec seulement 300.000 logements approvisionnés, une limite sera atteinte au bout de 30 à 35 ans et une bulle froide se formera sous les installations de pompage, qui mettra 100 à 150 ans à pour se réchauffer. En attendant, il faudra fermer les installations et en construire de nouvelles, plus loin, organisant un système de "jachères".
+
+Toutefois, à l'avenir, des forages profonds dans des zones à gradient intermédiaire (5km pour une eau à 125°C), déjà réalisables mais encore coûteux, permettraient d'extraire beaucoup plus d'énergie en vue de produire de l’électricité. Ainsi, le Bureau des Recherches Géologiques et Minières (BRGM, organisme public) évoque<ref>[http://www.geothermie-perspectives.fr/07-geothermie-france/04-geothermie-futur-02.html BRGM] La géothermie du futur en France</ref> pour la mise en exploitation profonde de 3% de la surface de l'Alsace (un des deux points chauds du sous-sol français), une production électrique suffisante pour satisfaire un cinquième de la consommation électrique française. Des projets de ce genre se développent ici ou là avec des résultats divers : l'un des plus emblématiques, le projet de Bâle, a été temporairement suspendu après avoir provoqué des séismes faibles mais suffisants pour être ressentis, en attendant les conclusions d'études de sûreté.
+
+=== Valorisation des déchets ===
+L'[[Incinérateur|incinération]] (beaucoup plus propre que par le passé), la [[méthanisation]] ou le [[compost]]age des déchets sont aussi soumis à une limite évidente : la quantité de déchets non recyclables. Aujourd'hui, la production annuelle des incinérateurs français (électricité et chaleur confondue) est de 13 TWh<ref>[http://www.industrie.gouv.fr/energie/renou/biomasse/incineration-om.htm Inudstrie.gouv.fr] - La valorisation des déchets</ref>, soit environ 2% de la seule consommation électrique française alors que 42% des déchets sont incinérés<ref>[http://www.incineration.org/123.cfm Incineration.org]</ref>.
+
+=== Énergies maritimes<ref>[http://www.manicore.com/documentation/energie_mer.html Jean-Marc Jancovici] - La mer, nouvel eldorado énergétique ?</ref> ===
+[[Image:Production hydrolienne.jpg|thumb|330px|right|Production hydrolienne cumulée de trois sites français.]]
+
+Toutes les énergies maritimes ou plus ou moins les mêmes limites : les côtes disponibles et leurs configurations (profondeur, courant, etc.), ou la surface de la zone économique exclusive (ZEE) du pays, et la place qu'on peut y dédier à des installations énergétiques sans que celles-ci ne gênent les autres activités maritimes et les écosystèmes à préserver. Ces technologies sont donc intéressantes pour des pays comme la France ou la Grande-Bretagne (la France dispose avec ses territoires et départements d'Outre-mer de la plus importante ZEE).
+
+De toutes les technologies maritimes, l'[[énergie hydrolienne]] (éoliennes sous-marines) semble constituer la plus intéressante. D'abord parce que les courants marins fluctuent de façon régulière, ensuite car ces fluctuations sont décalées d'un bout à l'autre des côtes, permettant aisément de lisser leur production globale et de rendre celle-ci plus ou moins constante en espaçant correctement les centrales (voir graphique ci-contre). Elle évite donc les aléas de production des éoliennes. EDF estime<ref>[http://www.edf.com/53971d/Accueilfr/LesenergiesEDF/PDFsEnergiesEDF/pdfhydrolienne EDF - Hydroliennes]</ref> que la France métropolitaine pourrait en extraire 10TWh par an, soit 2% de la consommation électrique française. 
+
+Les autres technologies sont plus limitées : l'énergie marémotrice impose de fermer un estuaire, ce qui n'est pas négligeable. L'exploitation de l'énergie de la houle, séduisante sur le papier, s'est révélée peu concluante jusque-là, réclamant des surfaces non négligeables pour des productions plutôt faibles. Elle est en revanche moins perturbatrice pour les écosystèmes.
+
+=== Solaire thermique ===
+
+La chaleur pouvant être accumulée dans des réservoirs isolés (au prix d'un certain encombrement), le [[énergie solaire|solaire thermique]] peut-être efficacement employé à un niveau local pour le chauffage de l'eau ou des installations, sans rencontrer les problèmes mentionnés plus haut pour le solaire photovoltaïque. Les chauffe-eau solaires constituent ainsi un moyen efficace pour réduire la consommation de gaz naturel par exemple. Toutefois, leur efficacité dépend du climat sous lesquels ils sont installés. En France métropolitaine, ces chauffe-eau doivent ainsi être couplés à un système plus traditionnel, à gaz ou électrique. Ils demeurent intéressants, mais ne constituent toujours qu'une réponse limitée au problème du réchauffement climatique.
+
+=== Éolien ===
+
+En plus des problèmes de variabilité et d'intermittence évoqués plus haut, le potentiel éolien de la France est lui aussi limité. Ainsi, en installant une éolienne de 100m de diamètre et 80m de hauteur tous les 450m (!) sur terre et une éolienne de 120m de diamètre 80m de hauteur tous les 840m, la production ne serait encore que de 200TWh par an<ref>[http://wikiwix.com/cache/?url=http://www.espace-eolien.fr/Eolien/200twh.htm Potentiel éolien en France] source : cabinet d’études Espace Éolien Développement, filiale de Poweo</ref>, pour trois quarts d'origine offshore.
+
+
+== Passage d'un modèle centralisé à un modèle distribué ==
+
+Le réseau électrique actuel est bâti pour acheminer l'électricité depuis quelques importants centres de production vers de nombreux consommateurs, l'ensemble de la production étant contrôlée et la distribution anticipée d'après les moyennes saisonnières et d'autres facteurs. Le passage à un modèle avec un grand nombre de sources à la production erratique n'est pas anodin et pose plusieurs problèmes.
+
+=== Problème ===
+
+En premier lieu, lorsque sur une boucle locale (petite échelle), en plus de la tension de 220V fournie par le réseau, sont superposés plusieurs sources indépendantes (panneaux solaires, éoliennes), la tension locale augmente et peut causer des coupures de courant localisées. En pratique, on estime qu'au-delà de 10% à 20% de photovoltaïque, des problèmes apparaissent. ERDF (Électricité Réseau Distribution France) a ainsi récemment communiqué<ref>[http://www.lemonde.fr/planete/article/2010/06/22/trop-de-panneaux-solaires-risque-de-provoquer-des-coupures-de-courant_1376733_3244.html Le Monde - 22 juin 2010 - Trop de panneaux solaires risque de provoquer des coupures de courant]</ref> que dans la département français des Landes, le développement rapide de projets photovoltaïques (profitant de l'aubaine de la rente créée par le tarif réglementaire élevé de rachat de cette électricité), pourrait sous peu causer des coupures locales. Cela dit, les arguments de sa directrice étaient approximatifs (mélangeant centrales photovoltaïques et production diffuse par de multiples petites sources) et intéressés (ERDF se passerait bien de racheter à prix élevé cette électricité). Malheureusement, ses contradicteurs étaient tout aussi approximatifs (assimilant échelles nationale et locale) et intéressés ou partisans.
+
+En second lieu, on entend souvent dire que le photovoltaïque et l'éolienne, bien qu'intermittents, n'auraient pas une production erratique puisque prévisible, via les bulletins météo. Malheureusement, c'est essentiellement faux. Les prévisions météo sont grossières, pour de larges échelles (départements, grandes villes) et au mieux heure par heure. Impossible avec cela de prévoir la production photovoltaïque locale des vingt minutes à venir, surtout si les conditions venaient à changer rapidement (passage d'un nuage au-dessus d'une forte concentration de panneaux photovoltaïques, telle qu'une centrale). D'ailleurs, encore faudrait-il qu'un système recense les coordonnées exactes et la puissance de chaque installation. En somme, les prévisions météo permettent au mieux de fixer des limites de sûreté à la production heure-par-heure des centrales nucléaires mais pas d'évaluer les besoins à la minute près des centrales fossiles qui devront compenser les fluctuations des panneaux photovoltaïques et éoliennes.
+
+En réponse à tout cela, les réseaux électriques vont devoir évoluer vers des [[smart grid|réseaux intelligents]] (smart grid), capables de mesurer et anticiper en temps réel, en de nombreux points du réseau, les variations subites de production et de consommation, afin de procéder aux redistributions nécessaires, au sein de la boucle locale ou même entre différentes régions, et de stocker, dans la limite du raisonnable, les excès afin de les absorber et pallier aux éventuelles carences soudaines. Plusieurs de ces technologies sont encore en cours de développement et des investissements importants sont en plus nécessaires. En plus du surcoût attendu, un développement trop rapide de certaines énergies renouvelables pourrait en effet être préjudiciable à la stabilité du réseau, au moins en certains points.<ref>[http://www.eu-deep.com/index.php?id=397 EU-Deep] - Consortium réunissant les différents acteurs de la production et la distribution d'électricité en Europe</ref>
+
+=== Pertinence environnementale d'une production locale ===
+
+Le concept d'autonomie séduit énormément dans nos sociétés fortement individualisées et permet parfois de s'acheter un vernis écologique à peu de frais et même au contraire de se constituer parfois une vraie petite rente (comme c'est le cas en France avec le photovoltaïque et l'éolienne dont les coûts de rachat par ERDF sont très élevés et font le bonheur de nombreux investisseurs). Il est même possible en France de revendre toute sa production à ERDF en même temps que l'on rachète sa propre consommation pour bien moins cher, omettant au passage l'auto-consommation supposée faire l'intérêt de ces installations. Pourtant, sur le principe, la production locale d'électricité n'a que peu d'intérêt vu le très faible coût écologique de son transport ; rien à voir ici avec des produits acheminés par bateau ou avion des quatre coins du monde. En revanche, on l'a vu, ces productions locales requièrent des investissements supplémentaires, ont une productivité plus faible (le coût de production du photovoltaïque reste supérieur en France au prix de revente de l'électricité) et, en France, poussent à produire plus d'électricité à partir d'énergie fossile, aux dépens du nucléaire, faible émetteur de gaz à effet de serre.
+
+La logique vaut d'ailleurs pour d'autres produits que l'électricité : si dans l'ensemble produire localement a un sens, ce n'est pas systématiquement plus écologique, car la production locale est généralement moins efficace qu'une production centralisée, et la différence peut excéder assez vite le coût environnemental du transport. Il faut donc toujours vérifier si réduire ce coût en favorisant un mode de transport plus écologique, par exemple ferré ou fluvial, n'est pas une meilleure solution que de produire localement.
+
+== Bilan du potentiel renouvelable pour la France ==
+[[Image:Consommation_énergétique_française.gif|thumb|330px|right|Consommation énergétique française en 1995]]
+
+=== Énergies disponibles à tout moment ===
+En ignorant d'abord l'éolien et le solaire photovoltaïque, du fait des problèmes évoqués plus haut qui rend problématique leur intégration dans un réseau à la demande, quelle production énergétique la France pourrait-elle au maximum extraire des énergies renouvelables?
+* On considère que les besoins thermiques seraient à 90% satisfaits avec une meilleure conception (isolation, conception, solaire thermique, géothermie, cogénération et réseaux de chaleur) et une meilleure isolation : besoins globaux en énergie réduits de 30%.
+* Combustion de la biomasse, avec 30% du territoire converti en forêts d'exploitation : 600TWh électriques (hypothèse quasi-fantaisiste qui n'est aujourd'hui retenue par personne). La biomasse est normalement mieux utilisée pour l'énergie thermique mais les besoins thermiques seront satisfaits autrement. Une part pourrait toujours être utilisée pour cela mais nous la négligeons.
+* Incinération des déchets, avec 100% des déchets non recyclables : 30 TWh électriques.
+* Énergie hydroélectrique : 60 TWh électriques.
+* Énergie hydrolienne : 10 TWh électriques
+
+
+La consommation énergétique annuelle française étant actuellement de 3200 TWh par an, la première hypothèse la réduirait à 2250 TWh. Or notre bilan renouvelable ne couvre que 700 TWh, soit 30% des besoins. Malgré des hypothèses généreuses (bois notamment), il faudrait donc encore réduire de 70% la consommation énergétique (hors confort thermique). Ce qui reviendrait par exemple, en se basant sur notre consommation actuelle, à supprimer toutes les dépenses consacrées au transport (individuels et de marchandises) et à l'industrie.
+
+=== En incluant l'éolien et le photovoltaïque ===
+Par rapport à ce qui précède, il serait envisageable d'utiliser le solaire et l'éolien pour une part des besoins restants. 
+* L'énergie solaire photovoltaïque pourrait être développée jusqu'à satisfaire tous nos besoins... durant la journée. Le surcoût serait évidemment important, surtout si l'on veut que le photovoltaïque réponde également à nos besoins en cas de mauvais temps. Enfin, étant inactive la nuit, en particulier en hiver où se situent les pics de consommation, cette énergie ne pourrait sans doute pas couvrir plus de la moitié de la consommation annuelle. 
+* Un parc éolien important et bien implanté ne produirait de toute façon que quelques dizaines de TWh par an. Production qui sera inégalement répartie selon les jours selon leur activité venteuse.
+
+Ceci laisserait encore quelque 2200 TWh à fournir, soit la tâche de réduire de 40% la consommation énergétique (hors confort thermique).
+
+== Politiques énergétiques possibles ==
+{{loupe|Propositions énergétiques pour la France}}
+
+Certains pays jouissent de grands avantages naturels qu'ils n'ont pas hésité à exploiter, parfois depuis longtemps : le Québec, par exemple, qui dispose avec un immense potentiel hydroélectrique qui fournit aujourd'hui 96% de l'électricité, le reste venant pour moitié du nucléaire et, enfin, des énergies fossiles (gaz) et renouvelables (éolien, biomasse). Le Brésil est dans la même situation. L’Islande est quant à elle assise sur un fort gisement géothermique qui assure 70% de sa consommation d'énergie (et 30% de sa production électrique).
+
+A contrario, pour la plupart des pays, la production électrique est essentiellement d'origine fossile. Ceux-ci peuvent aisément réduire leurs émissions de carbone par kWh en doublant leurs centrales fossiles avec des énergies renouvelables (on éteint les centrales fossiles en présence de soleil ou de vent) mais au prix d'une importante augmentation du coût de l'énergie, surcoût qui sera toutefois compensé à mesure que les prix des combustibles fossiles augmenteront. C'est notamment le cas des États-Unis, de l'Allemagne et de beaucoup d'autres. Pour ces pays, la piste actuellement privilégiée dans la plupart d'entre eux semble être un mix renouvelables-fossiles, s'appuyant lourdement sur le charbon (ressources estimées supérieures à un siècle) et l'[[Stockage géologique du dioxyde de carbone|enfouissement du CO2]], couplée à une amélioration de l'efficacité énergétique.
+
+Le problème est très différent pour la France métropolitaine qui, avec le [[Énergie nucléaire|nucléaire]], n'a recours aux énergies fossiles que pour un dixième de sa production. Pour ce pays, le résultat attendu du développement des énergies renouvelables est celui d'une multiplication des centrales fossiles et une hausse des émissions de carbone par kWh, ainsi que des tarifs de l'électricité. Le seul bénéfice sera celui d'un usage moindre des réacteurs nucléaires. Soit moins de combustible, moins de déchets et, peut-être, moins de risques. Les raisons de ce choix sont sans doute plus politiques et industrielles qu'écologiques.
+
+Les départements et territoires d'Outre-mer français sont dans une situation différente, beaucoup dépendant presque exclusivement d'importations d'hydrocarbures pour leur production électrique. Au vu de leur potentiel renouvelable (ensoleillement, vents, surface maritime) la stratégie mise en être est celle d'un pari sur ces énergies. La Réunion a d'ailleurs pris de l'avance et atteint aujourd'hui 40% de renouvelables dans sa production électrique (hydroélectrique, combustion des résidus de la canne à sucre) et des projets de géothermie autour du Piton de la Fournaise.
+
+== Sur le long terme ==
+
+=== Fin du nucléaire et des combustibles fossiles ===
+
+Aujourd'hui, ces aléas de production imposent donc le recours à d'autres sources d'énergie, le plus souvent fossiles ou nucléaires. Malheureusement, ces énergies fossiles ne constituent pas des alternatives viables à moyen ou très long terme : même si l'on parvenait à mitiger leur impact écologique (via l'[[Stockage géologique du CO2|enfouissement du CO2]] capturant ces émissions, procédé dont l'intérêt et la sécurité sont âprement débattus), ces combustibles sont de toute façon en voie d'épuisement et leur coût augmentera fortement. La fission [[Énergie nucléaire|nucléaire]] souffre du même problème : là aussi le combustible s'épuise rapidement. Même si des réacteurs de quatrième génération (surgénérateurs) permettaient de brûler les déchets existants ainsi que des combustibles moins riches, cette technologie, si elle était généralisée et systématisée dans le monde, ne repousserait sans doute que de quelques décennies (peut-être plus) la limite existante.
+
+Qui plus est, si l'on peut attendre des progrès technologiques, rien actuellement ne permet d'espérer dans un avenir prévisible un stockage radicalement plus efficace de l'énergie ou des sources d'énergie à la fois propres, inépuisables et consommables à la demande (sauf peut-être la fusion nucléaire). À priori, nous disposons donc d'un temps limité pour nous adapter aux outils qui seront à notre disposition. A long terme, donc, il est clair qu'en l'absence d'innovations techniques "magiques", des transformations profondes devront avoir lieu. Nous pourrons certes améliorer notre efficacité énergétique mais, en-dehors du confort thermique, les gains à attendre ne sont pas énormes. 
+
+=== Transformations sociétales ===
+
+Il va donc falloir apprendre à fonctionner différemment, par exemple avoir recours aux énergies solaires et éoliennes tout en nous adaptant à leurs aléas de production : le chauffage, par exemple, pourrait n'être allumé que par intermittence, en présence de vent. Ou certains véhicules pourraient être rechargés lorsqu'il fait soleil (stationnements publics équipés, voitures collectives en location à la journée ou à l'heure). Cela pose bien sûr des problèmes sociologiques, d'équipements (nouveaux produits, prédiction facilement accessible de la production, établissement de priorités parmi les appareils électriques) et d'efficacité (un appareil de chauffage consomme moins s'il fonctionne en continu plutôt que par bouffées courtes et intenses, une batterie peut mal supporter les variations lorsqu'elle est en charge). Cela dit, si l'on peut imaginer se priver de certains appareils pendant une heure, il en va autrement s'il s'agit de trois jours.
+
+Il serait également possible de produire plus souvent localement et de transporter pour un moindre coût écologique. Pour la France, les transports de personnes et de marchandises représentent 25% de la consommation énergétique. Si les coûts du transport augmentent, une production plus locale deviendra économiquement rationnelle mais cela signifie aussi un accroissement des coûts de production, ce qui est préjudiciable à l'intérêt général. On peut envisager d'autres solutions mais qui restent aujourd'hui minoritaires ou marginales, comme l'intensification du télétravail, certaines formes de [[faites-le vous-même]] (mais au détriment du temps libre et seulement quand cela conduit bien à une baisse des émissions de {{CO2}}), etc.
+
+Enfin, la conception des biens de consommation pourrait elle-même changer avec le choix de matériaux différents, moins coûteux en énergie, transports, ressources non-renouvelables.
+
+
+== Voir aussi ==
+=== Liens internes ===
+* [[Énergie renouvelable]]
+* [[Gestion de l'énergie]]
+* [[Propositions énergétiques pour la France]]
+
+=== Liens externes ===
+* [http://www.manicore.com/index.html Manicore] - Site de Jean-Marc Jancovici. 
+
+===Références===
+<References/>
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
+[[Catégorie:Énergies renouvelables]]
