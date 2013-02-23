@@ -1,0 +1,197 @@
+{{Se loger}}
+La '''conductivité thermique''' est la quantité de chaleur transférée en une unité de temps au travers d'un matériau d'une unité de surface et d'une unité d'épaisseur, quand les deux faces opposées diffèrent d'une unité de température. La conduction thermique est le mode de transfert de chaleur correspondant.
+
+'''Plus la valeur de la conductivité thermique est faible et plus le matériau est isolant, plus la conductivité thermique est grande, plus le matériau est conducteur'''.
+
+Dans le système international d'unités, la conductivité thermique est exprimée en watts par mètre-kelvin, (W·m<sup>-1</sup>·K<sup>-1</sup>) où:
+* le watt (W) est l'unité de puissance
+* le mètre (m) est l'unité de longueur
+* le kelvin (K) est l'unité de température
+
+Elle s'exprime aussi très souvent en W·m<sup>-1</sup>·°C<sup>-1</sup> ou W/(m.°C).
+
+En général, la conductivité thermique va de pair avec la conductivité électrique. Par exemple, les métaux, bons conducteurs d'électricité sont aussi de bons conducteurs thermiques. Il y a toutefois des exceptions, la plus exceptionnelle est celle du diamant qui a une conductivité thermique élevée, entre 1000 et 2600 W·m<sup>-1</sup>·K<sup>-1</sup>, alors que sa conductivité électrique est basse. La conductivité thermique augmente surtout avec l'humidité contenue dans le matériau. Pour la plupart des matériaux, la  conductivité thermique diminue légèrement (en proportion négligeable) quand la température s'élève.
+
+Le [[bois]] résineux est moins conducteur que le [[bois]] feuillu.
+
+
+== Matériaux de construction ==
+{| border="1" cellspacing="0" width="500"
+! Matériau !! Conductivité en W/(K.m)
+|-align="center
+|Air sec immobile
+|0,0262
+|-align="center"
+|Marbre
+|2,5 
+|-align="center"
+|[[Verre]]
+|0,5 à 1
+|-align="center"
+|[[Eau]]
+|0.6
+|-align="center"
+|briques perforées allégées
+|0.4
+|-align="center"
+|Bois de pin (parallèle aux fibres)
+|0.36
+|-align="center"
+|Bois de pin (perpendiculaire aux fibres)
+|0.15
+|-align="center"
+|Laine
+|0.05
+|-align="center"
+|Liège
+|0.05
+|-align="center"
+|feutre
+|0.047
+|-align="center"
+|Paille (densité de paille de 83 kg/m3, inclut un supplément de 20% d´humidité)
+|0.0404
+|-align="center"
+|Polystyrène expansé
+|0.03
+
+|}
+
+
+== Matériaux divers ==
+{| border="1" width="400" cellpadding="5" cellspacing="0"
+! Matériau !! Conductivité en W·m<sup>-1</sup>·K<sup>-1</sup>
+|-align="center"
+|Argent
+|430
+|-align="center"
+|Cuivre
+|348 à 390
+|-align="center"
+|Or
+|320
+|-align="center"
+| Aluminium
+|200 à 236
+|-align="center"
+|Platine
+|70
+|-align="center"
+|[[Fer]]
+|56
+|-align="center"
+|[[Acier]]
+|60
+|-align="center"
+|Acier doux
+|52
+|-align="center"
+|Quartz
+|8
+|-align="center"
+|Pierre naturelle non poreuse
+|3,5
+|-align="center"
+|Marbre
+|2,5
+|-align="center"
+|[[Béton]] ordinaire
+|1,6 à 2,1
+|-align="center"
+|[[Diamant]]
+|1000 à 2600
+|-align="center"
+|[[Verre]]
+| 1 à 1,15
+|-align="center"
+|[[Terre]] sèche
+|0,17 à 0,58
+|-align="center"
+|[[Terre]] à 10% d'eau
+|0,50 à 2,10
+|-align="center"
+|[[Terre]] à 20% d'eau
+|0,80 à 2,60
+|-align="center"
+|[[Eau]]
+|0.58 à 0,6
+|-align="center"
+|Pierre naturelle poreuse
+|0,55
+|-align="center"
+|Plâtre sec
+|0,40
+|-align="center"
+|Maçonnerie en [[brique]]s
+|0,30 à 0,96
+|-align="center"
+|Béton cellulaire
+|0,14 à 0,23
+|-align="center"
+|[[Bois]]
+|0,13 à 0,2
+|-align="center"
+|Sapin
+|0,12
+|-align="center"
+|Béton-chanvre
+|0,09 à 0,17
+|-align="center"
+|Linoléum naturel
+|0,081
+|-align="center"
+|Isolant fibreux
+|0,05
+|-align="center"
+|[[Laine]]
+|0,05
+|-align="center"
+|Perlite
+|0,045 à 0,05
+|-align="center"
+|Liège
+|0,04 à 0,05
+|-align="center"
+|Cellulose
+|0,04
+|-align="center"
+|Laine de verre
+|0,04
+|-align="center"
+|Mousse d'EPDM (élastomère)
+|0,04
+|-align="center"
+|Polystyrène
+|0,04
+|-align="center"
+|Polystyrène expansé
+|0,038
+|-align="center"
+|Polystyrène extrudé
+|0,035
+|-align="center"
+|mousse de polyuréthane
+|0,025
+|-align="center"
+|[[Air]]
+|0,024
+|-align="center"
+|Huile Minérale[http://fr.wikibooks.org/wiki/Tribologie/Lubrifiants/Lubrifiants_liquides#conductivit.C3.A9_thermique]
+|0,14 
+|-align="center"
+|Aérogel[http://fr.wikipedia.org/wiki/A%C3%A9rogel]
+|0,014
+|}
+
+== Voir aussi ==
+===Liens internes===
+* [[Isolation thermique]]
+* [[Effusivité thermique]]
+*[[Calcul thermique pour son habitat]]
+
+===Liens externes===
+
+=== Bibliographie ===
+
+{{Portail Se loger}}
+[[Catégorie:Chimie]]
