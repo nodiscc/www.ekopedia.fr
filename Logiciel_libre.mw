@@ -1,0 +1,99 @@
+{{Communiquer}}
+
+Un '''logiciel libre''' est un logiciel dont l'utilisation, la modification, la distribution et l'amélioration sont libres, avec accès au code source.  
+En anglais, on utilise le terme ''free software''.
+
+Remarque : il ne faut pas confondre avec le terme ''open-source''  (source ouverte) parfois utilisé, car ce terme n'indique pas  que le logiciel est librement distribuable et modifiable.  Il existe des licences open source non libres.  
+En effet, un logiciel peut-être fourni avec son code source, mais sa [[licence]] peut interdire sa modification.<br>
+
+Pour une définition plus précise du '''Logiciel Libre''', voir sur [http://fr.wikipedia.org/wiki/Logiciel_libre Wikipedia].
+
+
+==Histoire==
+
+Le logiciel libre ''moderne'' est né dans les années 1980 grâce à [http://fr.wikipedia.org/wiki/Richard_Stallman Richard M. Stallman] (fondateur de la [http://fr.wikipedia.org/wiki/FSF Free Software Fondation]) et son projet [http://fr.wikipedia.org/wiki/GNU GNU].
+
+==Définition d'après Richard M. Stallman==
+
+[[Image:Heckert_GNU.png|180px|right]]
+
+L'expression « logiciel libre » fait référence à la liberté pour tous (simples utilisateurs ou développeurs) d'exécuter, de copier, de distribuer, d'étudier, de modifier et d'améliorer le logiciel. Plus précisément, elle fait référence à quatre libertés pour un individu ayant acquis une version du logiciel, définies par la licence de ce logiciel :
+* la liberté d'exécuter le programme, pour tous les usages (liberté 0) ;
+* la liberté d'étudier le fonctionnement du programme, et de l'adapter à ses besoins (liberté 1) ; pour cela, l'accès au code source est nécessaire ;
+* la liberté de redistribuer des copies, donc d'aider son voisin, (liberté 2) ;
+* la liberté d'améliorer le programme et de publier ses améliorations, pour en faire profiter toute la communauté (liberté 3) ; pour cela, l'accès au code source est nécessaire.
+
+==Modèle économique==
+
+Le modèle prôné par les logiciels libres est un modèle d'économie collaborative. Le savoir (le code du logiciel) est accessible à l'ensemble des utilisateurs et non pas gardé secret par des multi-nationales.
+
+Cette ouverture permet d'avoir des produits plus proches du besoin utilisateur car faits ''par les utilisateurs''.
+Cette approche a tout de même des limites quand les utilisateurs ne sont pas des informaticiens.
+L'enjeu actuel est donc d'augmenter l'aura des logiciels libres vers les utilisateurs ''lambda''.
+
+Des projets comme [http://www.mozilla-europe.org/fr/products/firefox/ Firefox] (Navigateur Web) et [http://www.mozilla-europe.org/fr/products/thunderbird/ Thunderbird] (Client de messagerie) de la [http://www.mozilla-europe.org/fr/ Fondation Mozilla] ainsi que [http://fr.libreoffice.org/ LibreOffice] ou [http://fr.openoffice.org/ OpenOffice.org] (Suite Bureautique) et [http://www.ubuntu-fr.org/ Ubuntu] (Système d'exploitation Linux) essayent d'attirer vers le logiciel libre, des utilisateurs non spécialistes.
+
+Il faut tout de même noter que ''libre'' ne veut pas forcément dire ''gratuit'' (bien que généralement les logiciels libres sont gratuits).
+En effet, de nombreuses entreprises vendent des logiciels libres, ou plus souvent du support pour ces mêmes logiciels.
+
+Ce nouveau modèle de ''gratuité'' remet complètement en cause le modèle économique traditionnel, c'est un genre d'[[Economie alternative]]. Le fait que le Logiciel soit un produit ''immatériel'' a tout de même bien aidé les choses.
+
+==Logiciels libres et décroissance soutenable ==
+
+L'utilisation  systématique de logiciels libres est une piste à envisager par les  adeptes de la [[Décroissance_soutenable|décroissance soutenable]] car  elle permet de réduire fortement la fréquence de renouvellement d'une  partie du matériel informatique. En effet, certains éditeurs de  logiciels propriétaires, de systèmes d'exploitation et les fabricants  d'ordinateurs ont un intérêt commun à provoquer une obsolescence rapide  de leurs produits afin d'obtenir un renouvellement et donc des profits  plus rapides.
+
+Voici comment les étapes de ce cycle vicieux : 
+
+# certains éditeurs de logiciels propriétaires<ref>D'autres font le choix de l'ouverture, également intéressante pour eux pour d'autres raisons</ref> ont intérêt à modifier le format des fichiers générés lors de la sortie d'une nouvelle version : les utilisateurs seront amenés à acheter (ou à pirater) une mise à jour pour pouvoir exploiter des documents au nouveau format reçus par Internet.
+# la mise à jour d'un logiciel peut entraîner la mise à jour, également payante, du système d'exploitation qui est au cœur de la machine car souvent seule la dernière version du système d'exploitation est supportée par l'éditeur de logiciel afin de réduire les couts de maintenance et de développement.
+# la mise à jour du  système d'exploitation implique très souvent le changement de la machine  complète car cette dernière n'est plus assez puissante pour supporter  le nouveau système d'exploitation.
+# elle implique aussi souvent le changement de certains périphériques (imprimante, scanner, écran) car ceux-ci ne sont plus compatibles avec la nouvelle machine ou plus supportés par le nouveau système d'exploitation.
+# les fabricants  d'ordinateurs utiliseront systématiquement la dernière version du  système d'exploitation pour le nouveau matériel, obligeant ainsi les  utilisateurs à se procurer les dernières versions de logiciels. 
+
+La  boucle est ainsi bouclée : pour pouvoir continuer à utiliser les mêmes outils, il faut sans cesse payer (ou pirater) les mises à jour des  logiciels propriétaires et renouveler très souvent son matériel, même si  ce dernier est encore parfaitement fonctionnel...
+
+===Le '''Libre''''' : partage et pérennité, deux valeurs pour une solution alternative===
+
+La notion de partage des connaissances est fondamentale. Non seulement les développeurs ont accès au code source pour modifier, améliorer un logiciel, mais l'utisateur lambda peut utiliser ce logiciel dans le cadre de sa spécialité pour partager son savoir. Les formats sont standards et l'utilisateur est sûr de pouvoir lire et modifier un fichier datant de 5 ans sans devoir acheter et installer une application supplémentaire lorsque la nouvelle version du logiciel actuel ne le permet plus.
+
+==Migration vers les logiciels libres==
+Voir l'article [[Migration vers les logiciels libres]]
+
+Il faut souligner l'effort des développeurs pour mettre l'utilisation du ''Libre'' à la portée de l'utilisateur lambda : plus besoin de maîtriser la ligne de commande pour ''utiliser'' les diverses distributions '''Linux'''<ref>[http://librechoix.org/wiki/Cat%C3%A9gorie:Distribution_Linux les diverses distributions '''Linux''']</ref>, le néophyte peut très bien travailler en graphique et trouver aisément les pilotes pour ses périphériques. Le débutant peut se lancer sans risque en installant son système libre en double boot ou en utilisant un CD live. '''''Linux'''''  est un système libre, le noyau Linux fut conçu à l'origine par Linus Torvalds<ref>[http://fr.wikipedia.org/wiki/Linus_Torvald Linus Torvalds]</ref>. L'utilisateur peut librement choisir sa distribution en fonction de ses besoins et de son matériel, chaque distribution se décline elle-même en plusieurs environnements de bureau <ref>[http://fr.wikipedia.org/wiki/Environnement_de_bureau Environnements de bureau Linux]</ref>.
+
+==Logiciel libre et pays en voie de développement==
+
+Les logiciels libres sont aussi très importants afin de faciliter l'accès à la connaissance des pays en voie de développement.
+
+En effet, utiliser les logiciels libres, veut dire être autonome : ne pas dépendre de telle ou telle entreprise pour la fourniture de tel ou tel logiciel et ainsi garantir la pérennité des solutions choisies.
+
+==Logiciel libre et administrations==
+
+Les administrations peuvent réaliser des économies substantielles (l'argent du contribuable), des versions dédiées aux professionnels <ref>http://www.journaldunet.com/solutions/0409/040930_comparo-linux.shtml logiciel libre dans les administrations</ref> leur permettent de s'affranchir du coût des licences pour un système propriétaire et ses mises à jour. La mutualisation permet à plusieurs ministères de collaborer pour avoir une application sur mesure qu'ils n'auraient pu payer seuls (dans le monde propriétaire). L'éducation nationale a également l'occasion de faire des économies tout en initiant les jeunes au libre <ref>[http://www.mandriva.com/enterprise/fr/societe/presse/mandriva-et-le-ministere-de-leducation-nationale-en-partenariat-pour-promouvoir-li le libre dans l'Éducation Nationale]</ref>.
+
+== Notes ==
+
+<references />
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Migration vers les logiciels libres]]
+* [[économie alternative]]
+* [[Ordinateur]]
+* [[Carticiel]]
+* [[Matériel libre]]
+* [[Ressource libre de droits]]
+* [[Linux]]
+
+===Liens externes===
+* [http://www.framasoft.net/ Framasoft] : site internet collaboratif dont le sujet est le logiciel libre et son état d’esprit.
+* [http://www.april.org/ l'April] : l'April, association pour la promotion du logiciel libre.
+
+=== Bibliographie ===
+* ''La bataille du logiciel libre'' par Perline et Thierry Noisette, éd. La Découverte, 2004.
+* ''Cause commune'' de Philippe Aigrain, éditions Fayard, 2005. <small>ISBN 2213623058</small> - [http://www.causecommune.org/download/ ''Web'']
+
+{{Portail Communiquer}}
+
+[[Catégorie:Économie]] [[Catégorie:Culture alternative]]
