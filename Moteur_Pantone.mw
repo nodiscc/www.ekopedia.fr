@@ -1,0 +1,100 @@
+{{Se déplacer}}
+
+La technologie Pantone consiste à modifier l'alimentation en carburant du moteur à explosion (essence ou diesel).
+
+Elle est censée permettre une forte réduction de pollution et une importante économie de carburant, en remplacement ou en adjonction du produit de la pyrolyse de vapeur (essence, eau, etc..).
+
+Cependant, aucune étude scientifique, aucune publication n'a permis de démontrer la réalité des performances annoncées. Le lecteur est invité à garder toute réserve face à ce genre de propos.
+
+Le dispositif inventé par '''Paul Pantone''' permet essentiellement d'améliorer la combustion dans un moteur à explosion, pour une complexité et un investissement très réduits.
+
+
+==Description==
+
+Conçu initialement comme un préchauffage des gaz d'admission par récupération de la chaleur des gaz d'échappement, le '''procédé Pantone''' semble avoir des effets plus prononcés, tels que l'augmentation de la volatilité des gaz d'admission, une réduction de consommation, une réduction des émissions [[pollution|polluantes]], et la possibilité d'utilisation de [[carburants]] alternatifs et/ou d'ajout d'eau.
+
+Le système, également nommé '''Processeur Multi Carburants''' (PMC) se présente sous la forme de deux tubes concentriques (souvent réalisés à partir de matériel de plomberie), le tube interne renfermant lui-même une tige métallique longitudinale. Il est couplé à un moteur à combustion interne classique, 4 temps, à essence ou Diesel selon la méthode employée. Les gaz chauds issus de l'échappement circulent dans le tube externe, transférant une partie de leur chaleur aux gaz d'admissions circulant dans le tube interne, aspirés par le moteur. Une réaction se produirait alors dans le tube interne, rendant le mélange carburant plus volatil, et propice à une combustion plus complète (ce qui explique un meilleur rendement et moins de polluants imbrûlés).
+
+Le phénomène qui se produit dans ce "réacteur endothermique" est encore mal connu. En effet, les annonces enthousiastes de Pantone et la simplicité du montage ont très vite convaincu la communauté scientifique qu'il s'agit d'un charlatan de plus, d'autant que Pantone évoque une intervention divine et aurait trompé quelques investisseurs crédules. On peut toutefois supposer, notamment suite aux expériences d'un élève ingénieur <ref>http://www.econologie.com/</ref>, qu'il s'agit d'une réaction de crackage moléculaire, qui aurait lieu par collision des molécules sur les parois du tube et de la tige centrale.
+
+
+==Histoire==
+
+Paul Pantone né en 1950 à Detroit, est un inventeur américain qui a déposé un brevet international <ref>Brevet International N° US005794601A1</ref> pour son "processeur multi-carburants Geet", il a travaillé seul et sans l'aide ou le soutien d'industriels. Craignant que son travail soit étouffé, il a voulu le rendre libre et public en rendant accessible tous les plans de son invention. En 2005, on recensait plusieurs milliers d'appareils équipés du dispositif Pantone, mais aucun projet suivi par une équipe scientifique ou industrielle reconnue.
+
+Paul Pantone a été condamné pour escroquerie et incarcéré pendant deux semaines le 21 août 2005, à cause de clients peu satisfaits. Il reste actuellement ( le 28 février 2008 ) incarcéré dans un hôpital psychiatrique de l'Utah.
+
+== Principes ==
+
+On peut en fait distinguer plusieurs principes de réalisations:
+
+# Le plan initialement publié par Pantone, et repris par JL Naudin, utilise une recirculation des gaz d'échappement dans un "bulleur" afin de préchauffer et de vaporiser le carburant (généralement un mélange eau + essence). Mis en œuvre sur de nombreuses tondeuses, ce design est le plus médiatisé mais également le moins prometteur. En effet, il a pour conséquence de polluer l'essence avec les gaz d'échappement, de ne permettre que peu de variations de régime, et de ruiner toute analyse. Ce principe fait l'objet du brevet déposé par Paul Pantone.
+# Plusieurs mythes ont été propagés quant à la bonne marche de ce système: il faudrait que les gaz circulent en sens inverse dans chaque tube, que la tige soit alignée avec le champ magnétique terrestre lors des premiers essais, le réacteur produirait un intense champ magnétique, de brusques changements de température (d'où le terme endothermique) ou une circulation en spirale des gaz. Aucune de ces hypothèses n'a été confirmée.
+# Une implémentation radicalement différente a été installée initialement sur le "Tracteur n°22" <ref>[http://quanthomme.free.fr/qhsuite/systemespantonefrance.htm http://quanthomme.free.fr/]</ref>, puis sur d'autres véhicules. S'agissant d'un moteur Diesel, il n'était pas question de modifier le circuit d'injection de gazole pour mettre en place un bulleur. Le PMC agit seulement sur un flux de vapeur d'eau (ou d'aérosol air + eau ?), ajouté à l'entrée d'air. Ici, seuls l'air et l'eau sont préchauffés, il n'y a pas de bullage des gaz d'échappement. On constate également une réduction de consommation et d'imbrûlés. Y a-t-il une catalyse due à la tige ?
+# De nombreux autres essais ont vu le jour, avec des réussites variables, utilisant diverses vannes, carburateurs, préchauffage du bulleur, isolation thermique du tube externe ... Une association française propose actuellement un module "prêt à poser", notamment pour les machines agricoles, et qui semble très prometteur. Ces procédés dérivés peuvent éventuellement ne pas être couverts par le brevet de Pantone.
+
+'''Qu'est ce que le système Pantone ? Par C.Martz''' <ref>C. Martz, ingénieur mécanicien ENSAIS</ref> 
+
+''Mots clés : système, moteur, procédé, Pantone, eau, carburant, cracking, traitement, dépollution''
+
+Il s'agit d'une modification pouvant être effectuée sur n'importe quel moteur existant essence ou diesel. L'idée principale est de récupérer une partie de la chaleur ( pertes thermiques ) des gaz d'échappement afin de prétraiter le carburant et l'air d'admission ( mélange hydrocarburé ). Une proportion d'eau est également employée dans le mélange d'admission. Cette eau contribue à l'efficacité du procédé mais attention il ne s'agit aucunement d'un moteur à eau.
+
+Son nom vient de l'inventeur américain Paul Pantone qui a fait le choix, pour diverses raisons, de diffuser sur Internet les plans de son invention. La raison principale de cette diffusion étant, je pense, qu'il n'est pas capable de développer lui-même son invention. En effet; j'ai rencontré Mr Pantone et cette rencontre a été plus que décevante comme le montre cette page <ref>[http://www.econologie.com/le-moteur-pantone-et-moi-2-articles-1294.html Le moteur Pantone et moi]</ref> . Néanmoins le concept de cette invention n'est pas inintéressant.
+
+En effet; il s'agit d'un échangeur de chaleur récupérant les calories des gaz d'échappement pour les transférer aux gaz d'admissions frais. Sachant qu'environ 40% du carburant consommé dans un moteur est perdu dans l'échappement l'idée de récupérer une partie de ces pertes est intéressante. Le principal résultat est une dépollution très impressionnante des gaz d'échappement comme le montre ces quelques relevés <ref>[http://www.econologie.com/mesures-de-la-depollution-d-un-moteur-pantone-articles-321.html Mesures de la dépollution d'un moteur]</ref>:
+
+Ceci concerne le montage 100% Pantone comme le préconise l'inventeur : ce montage montre assez vite ses limites avec des moyens de développement réduits ( non industriels ) notamment au niveau du contrôle de la puissance et de la maitrise de la combustion. Il est donc pour le moment assez peu développé mais permet des choses intéressantes comme, par exemple, faire tourner un petit moteur essence au fuel domestique.
+
+Mais il existe un montage bien plus simple qui consiste à ne faire passer que de l'eau dans le réacteur et à mélanger le flux sortant du réacteur à l'air d'admission du moteur. On injecte donc une faible quantité d'eau dans l'air d'admission. Ce montage s'avère particulièrement efficace sur les moteurs diesel qui montrent une baisse systématique de la consommation d'au moins 20%. Les fumées noires ( imbrulés ) sont aussi diminuées de manière importante ( 40% mesuré sur une ZX-TD d'un ami ) et les moteurs claquent moins, ce qui est caractéristique d'une meilleure combustion. Certains agriculteurs ont monté ce principe sur leur tracteur et on constaté des baisses de consommation allant jusqu'à 60%. Une moyenne entre 30 et 40% est communément admise. Ces résultats doivent néanmoins être pris avec précaution : à ma connaissance, aucun passage sur banc d'essai de puissance, n'a pu confirmer scientifiquement ces réductions de consommation mais d'un autre coté il n'y a pas plus pragmatique qu'un agriculteur...
+
+Enfin, je tenais à préciser que, pour le moment il n'est pas prouvé scientifiquement qu'une réaction autre qu'un échange thermique et un cracking des hydrocarbures se passe dans le réacteur. On peut lire de diverses sources bien des incertitudes et inexactitudes à propos de cette invention comme par exemple le fait que le réacteur cracke la molécule d'eau en hydrogène ou pire que le réacteur peut traiter des déchets nucléaire. Seules des études scientifiques pourraient confirmer ou infirmer ces « hypothèses affabulatrices ». Par exemple j'ai prouvé durant mon projet qu'il n'y avait pas d'hydrogène (H2) pur en sortie de réacteur et pourtant on peut encore entendre ou lire que c'est ce qui se passe sur certains sites internet par exemple...
+Pour en savoir plus je vous invite à lire les différentes page de mon site : notamment l'intégralité du rapport d'ingénieur <ref>[http://www.econologie.com/rapport-d-ingenieur-ensais-sur-le-moteur-pantone-articles-93.html Rapport d'ingénieur ENSAIS sur le moteur]</ref>.
+
+''C.Martz, Ingénieur ENSAIS''
+
+
+== Validité scientifique ==
+
+Les expérimentations sur le procédé Pantone sont principalement menées par des enthousiastes francophones, fédérés autour des sites web cités ci-dessous. Malgré la bonne volonté de ces expérimentateurs amateurs, peu d'analyses scientifiques sérieuses ont pu être menées jusqu'à aujourd'hui. Les nombreux retours d'expérience tendent à prouver la validité et l'intérêt du concept, mais les descriptions sont succinctes: gain de consommation approximatif, parfois une photo, test de pollution réduit à une observation des suies avec un mouchoir ... Les éventuels échecs (et leurs causes) ne sont pas rapportés.
+
+Il est maintenant souhaitable, pour comprendre le phénomène et améliorer le procédé, de mettre en place une démarche d'expérimentation rigoureuse, avec des mesures précises et reproductibles (mesures de couple et de puissance, analyse des gaz d'admission et d'échappement, comparaison avec un moteur non modifié, etc.). On pourra alors envisager une diffusion à plus grande échelle, notamment dans le domaine agricole et industriel.
+
+Pour un protocole de test, voir [http://www.passerelleco.info/article.php3?id_article=380 ici].
+
+Une piste sérieuse pour expliquer l'efficacité du procédé serait une catalyse de la combustion des hydrocarbures par la vapeur d'eau (par ailleurs connue dans l'industrie) <ref>[http://www.jp-petit.com/ENERGIES_DOUCES/moteur_a_eau1.htm Energies douces]</ref>.
+
+En 2007 le jeune Kevin a réalisé son propre moteur Pantone <ref>[http://www.yazerty.net/post/2007/03/06/Moteur-Pantone-a-eau Son propre moteur Pantone !]</ref> et lors d'un reportage sur TF1 des tests de pollution se sont avérés très concluants !
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Agrocarburant]]
+* [[Énergies renouvelables]]
+* [[Moteurs alternatifs]]
+* [[Moteur Stirling]]
+* [[Modes de déplacement alternatifs]]
+* [[Quasiturbine]]
+* [[Véhicules à carburants alternatifs]]
+
+===Liens externes===
+*[http://www.moteurpantone.info  Système pantone]
+* [http://quanthomme.free.fr/qhsuite/systemespantonefrance.htm Des expérimentations] depuis 2000 et notamment le "système G"
+* [http://fr.wikipedia.org/wiki/Moteur_pantone L'encyclopédie scientifique] en ligne explique les principes du moteur Pantone et formule des critiques sur le plan théorique
+* [http://www.econologie.com/ Econologie.com]
+* [http://www.econologie.com/forums/experimentations-de-moteurs-pantone-vf42.html Econologie: Projet Pantone expérimentations!]
+* [http://jlnlabs.imars.com/bingofuel/pmcjln.htm Test d'une tondeuse à gazon équipée du Processeur Multi-Carburants]
+* [http://www.pmc.new.fr PMC Evolution : Forum Francophone sur le Processeur MultiCarburant de Paul Pantone]
+* [http://moteur-pantone.xelopolis.com Moteur Pantone sur Xelopolis.com] 
+* [http://www.jp-petit.com/ENERGIES_DOUCES/moteur_a_eau1.htm Energies douces]
+*[http://groups.google.fr/group/fr.sci.physique/browse_frm/thread/cea309d968ae407c/2fe8d56c4d8f0e44?q=pantone&rnum=1&hl=fr#2fe8d56c4d8f0e44  arguments détracteurs]
+* [http://www.econologie.com/wiki-moteur-pantone/index.php/Synth%C3%A8se_sur_le_dopage_%C3%A0_l%27eau_pantone Synthèse scientifique sur le dopage à l'eau]
+
+===Références===
+<references/>
+===Bibliographie===
+
+{{Portail Se déplacer}}
+
+{{Wikipedia|Moteur_Pantone}}
+
+[[Catégorie:Moteurs alternatifs]]
