@@ -1,0 +1,38 @@
+'''Xubuntu''' est le système de distribution de [[Linux]] pour ordinateur.
+
+Voici comment paramétrer Xubuntu, pour avoir une installation efficace et sûre, tout en évitant au maximum les [[logiciel]]s propriétaires.
+
+1. Installez Libreoffice
+
+2. Installez Epiphany et Midori, les navigateurs web open source, ainsi que Dejadup, qui est un outil de sauvegarde.
+
+3. Sauvegardez vos données personnelles (fichiers, marques-pages) sur un disque externe ou une clé. Notez tous vos mots de passe sur un carnet.
+
+4. Allez dans les options des mises à jour système et décochez "Mises à jour de sécurité"
+
+5. Dans la logithèque Ubuntu, désinstallez Java, Mono, puis Flash (installez d'abord Gnash qui est l'équivalent libre de Flash)
+
+6. Puis désinstallez Python 3, KDE (Nepomuk, K3B et autres) et toutes leurs dépendances. Notez les noms des dépendances que vous devrez désinstaller: il s'agit en principe de logiciels non libres.
+
+7. Redémarrez en ignorant toutes les alertes. Vous serez forcé de désinstaller Mozilla Firefox, le gestionnaire de mises à jour et la logithèque Ubuntu.
+
+8. Vérifiez que Synaptic est bien présent dans la barre de menus. Sinon, ouvrez un terminal et lancez la commande "sudo synaptic"
+
+Si vous avez suivi jusqu'au bout ces étapes, vous aurez un système installé sur votre ordinateur avec le maximum de composants libres.
+
+A ce stade il peut être bon de désinstaller les composants serveur dont vous n'avez pas besoin. Lancez synaptic et faire une recherche par mot-clé sur l'expression "server" vous permettra de visualiser les composants serveur installés sur votre système. Il suffira alors de désinstaller les paquetages dont vous êtes sûr de ne pas avoir besoin.
+
+Il est possible à ce moment que lorsque vous naviguiez sur Internet, il soit difficile de naviguer sur certains sites, car vous avez dû désinstaller Mozilla Firefox. Ne cherchez pas à contourner le problème, et boycottez plutôt les sites qui bloquent les navigateurs libres.
+
+Vous avez dû désinstaller les composants Ubuntu comme la logithèque et le gestionnaire de mises à jour. Utilisez synaptic (par le menu ou la commande "sudo synaptic") pour installer des logiciels, et lancez la commande "sudo apt-get update" puis "sudo apt-get install" dans un terminal pour télécharger et installer les mises à jour du système. 
+
+Il n'y a pas de réel besoin de télécharger les mises à jour plus d'une fois par semaine en principe. La sécurité repose de toute façon sur l'ouverture du code source du système, et leur vérification par la communauté contre les failles de toutes sortes.
+
+En limitant au maximum le nombre de composants serveur (donc ouverts à des attaques extérieures) vous limitez les risques d'attaques et d'exploitation de failles de ces composants.
+
+Vous disposez donc d'un système fonctionnel et propre à un usage bureautique, graphique, multimédia et [[internet]].
+
+{{Portail Communiquer}}
+
+[[Catégorie:Économie]]
+[[Catégorie:Culture alternative]]
