@@ -1,0 +1,153 @@
+L''''Éclairage public''' est l'[[éclairage]] utilisé pour éclairer les espaces publics (places, rues, bâtiments publics, etc.).
+
+Dans un monde où la consommation énergétique ne fait que croître ainsi que le prix de l'[[énergie]], les collectivités locales ont tout intérêt à diminuer leur facture. L'éclairage public représentant environ 40% du budget alloué à l'électricité des villes, certaines ont donc décidé d'agir. Ainsi, Oslo a adopté un système d'éclairage intelligent qui adapte l'intensité lumineuse en fonction des paramètres extérieurs tels que la fréquentation de la rue, l'heure ou le temps qu'il fait<ref>[http://www.echelon.com/company/news/articles/2007/4083.pdf LUX N° 244 SEPTEMBRE/OCTOBRE 2007]</ref>. Los Angeles a décidé de remplacer ses {{formatnum:140000}} ampoules traditionnelles par des LEDs, visant une réduction de consommation de 65 millions de kWh<ref>[http://www.lefigaro.fr/vert/2009/02/25/01023-20090225ARTFIG00499-los-angeles-premiere-grande-metropole-a-passer-aux-led-.php Los Angeles, première grande métropole à passer aux LED] sur lefigaro.fr</ref>.
+
+Ces initiatives ne sont que des exemples, qui illustrent la prise de conscience de l'importance d'un poste de consommation tel que l'éclairage public.
+
+[[Image:NY_night.jpg|right|thumb|500px|New York de nuit]]
+
+==Les besoins==
+
+===Rôles et fonctions===
+La première utilité de l'éclairage public est de sécuriser l'espace public. Que ce soit au niveau des voies piétonnes, ou pour l'éclairage des routes. En effet, une route bien éclairée, c'est-à-dire sans coupure de luminaires, diminue le risque d'accident.(ceci est fortement contredit par les extinctions de l'éclairage de voies de circulation en région Parisienne, depuis que le vol de câbles d'alimentation non remplacé a permis de constater un taux d'accident en très nette diminution :http://videos.tf1.fr/jt-20h/on-eteint-la-lumiere-sur-les-autoroutes-d-ile-de-france-5847661.html )L'éclairage a bien entendu une fonction de signalement, avec les feux tricolores.
+L'éclairage urbain sert enfin à mettre en valeur les monuments architecturaux et historiques, notamment pour le tourisme, mais également pour les spectacles en plein air.
+
+[[Image:Fluxlumineux.JPG|right|380px]]
+
+===Les caractéristiques de l'éclairage===
+* ''Les grandeurs lumineuses''[[Image:Courbe_de_ survie.jpg|right|thumb|300px|Exemple pour une lampe de {{formatnum:5000}} heures de durée de vie]]
+** ''L'intensité lumineuse'' I exprimée en candela [cd] représente la densité spatiale de flux lumineux, elle est mesurée dans une certaine direction. La candela est l'intensité lumineuse, dans une direction donnée, d'une source qui émet un rayonnement monochromatique de fréquence 540.1012 Hz et dont l'intensité énergétique est de 1/683 watt par stéradian. Cette fréquence correspond au maximum de sensibilité spectrale de notre rétine (couleur jaune-vert).
+** ''Le flux lumineux'' exprimé en lumen [lm] est la somme du rayonnement fourni par une source lumineuse et évaluée par l'œil.
+** ''L'éclairement'' est la quantité de flux lumineux tombant sur une surface de 1 m², il se mesure en lux [lx].
+** ''L'exitance'' (ou émittance) est la quantité de flux lumineux émis par une surface, exprimée en lm/m².
+** ''La luminance'' est la sensation de clarté pour l'œil, c'est l'intensité par unité de surface mesurée en cd/m².
+
+* ''La température de couleur Tc''
+Tc est la température [en K] du corps noir dont le rayonnement présente la même chromaticité que celui de la lampe testée.
+
+*''Courbe de vie''
+Les lampes perdent peu à peu de leur efficacité, c'est pourquoi les constructeurs font en sorte qu'elles s'autodétruisent pour un flux lumineux trop faible. On essaye d'avoir une courbe de vie qui ressemble à la courbe orange.
+
+*''L'efficacité lumineuse'' d'une lampe K [lm/W], c'est le rapport du flux lumineux émis par la lampe (fla) à la puissance électrique (Pla) qu'elle absorbe. ''K=fla/Pla''
+
+===Norme de l'éclairage public===
+La norme européenne NF EN 13201 concernant l'éclairage, définit des caractéristiques photométriques des installations d'éclairage public en France (non, pas en france, mais en Europe)et les emplacements des lampadaires. Les nouvelles technologies de mesures (photomètres, caméras CCD, dispositifs de mesures in situ, luminancemètres numériques) permettent de mieux définir les paramètres de la norme et les caractéristiques de réflexion des chaussées pour une conception de l'éclairage public au plus juste en termes de performances qualitatives et énergétiques.
+
+Cette norme n'est pas d'application obligatoire (en France, elle l'est dans les pays Européens qui l'ont inscrite dans leur droit national).
+
+==Les solutions techniques==
+Comme vu précédemment, l'éclairage public va devoir (ben non il ne va pas devoir, puisqu'il n'y a pas d'obligation) répondre à plusieurs exigences de base en matière d'éclairement, de sécurité et de coût, tout en optimisant les consommations énergétiques. Dans la mise en place d'une politique d'économie d'énergie au niveau d'une collectivité locale, il est possible d'intervenir à plusieurs niveaux et en plusieurs étapes. Dans un premier temps, il est pertinent de limiter la perte de flux vers la voute céleste en changeant par exemple, les anciens globes lumineux et en utilisant un éclairage directif vers le sol. Ensuite selon les moyens disponibles des actions à plusieurs niveaux peuvent être envisagées : diminuer les pertes électriques du luminaire en utilisant des ballasts appropriés, en installant des capteurs de présence ou de gradation du flux lumineux ou encore en mettant en place une planification d'éclairage. Enfin, nous verrons que l'émergence des [[LED]] ([[Diode électroluminescente]]) dans l'éclairage public ouvre de grandes perspectives dans l'économie d'énergie, mais reste une avancée coûteuse que nombre de petites collectivités ne sont pas prêtes à assumer.
+
+===L'optique des luminaires===
+[[Image :Etalementlumiere.JPG|thumb|350px|Étalement de la lumière]]
+
+L'optique est la partie du luminaire situé au-dessus de l'ampoule qui réfléchit la lumière émise par la lampe. Même si c'est un élément qui peut paraître anodin, l'optique permet de gérer la directivité et la répartition du flux lumineux. Des optiques bien étudiées vont permettre un étalement de la lumière plus important que des optiques de base, tout en conservant un niveau de luminance similaire. Ainsi, les espacements entre candélabres sont plus importants, le nombre de points lumineux est réduit ainsi que l'[[énergie]]  nécessaire. De plus, le flux sera concentré sur la surface à éclairer et non vers la voute céleste (globes lumineux) ou les façades de bâtiments.
+
+Utiliser une optique adaptée est une chose encore faut-il l'entretenir. En effet avec le temps, de l'eau et des poussières pénètrent dans le luminaire et encrassent l'optique : l'efficacité d'une optique de base sans traitement peut passer de 100% à 75% au bout d'une dizaine d'années. Philips recommande un nettoyage tous les 4 ans pour maintenir les performances de ses luminaires. Il est donc intéressant de réfléchir au gain énergétique d'une optique propre comparé à la lourdeur de la maintenance…
+
+===Les ballasts===
+Les lampes les plus utilisées en éclairage public sont les lampes à vapeurs de sodium et les tubes fluorescents. On retrouve les tubes fluo pour l'éclairage des galeries et passages souterrains et les lampes à sodium pour les éclairages routier par exemple. Dans les deux cas, ces lampes nécessitent un appareillage auxiliaire pour leur fonctionnement. Le ballast est un des éléments déterminants. Il a pour but de limiter la puissance additionnelle au démarrage des lampes, en accumulant de l'[[énergie]] dans un premier temps puis en libérant l'[[énergie]] nécessaire pour atteindre la tension d'arc de la lampe et assurer la fourniture correcte du courant. Il régule également l'intensité qui circule dans la lampe pendant son fonctionnement faisant économiser environ 10% de la consommation par rapport à une lampe sans ballast.
+
+Deux types de ballasts sont présents sur le marché, le ballast ferromagnétique (conventionnel, faibles pertes et très faibles pertes) et le ballast électronique. La différence essentielle se situe au niveau de la conception. De plus en plus, ce matériel tend à être remplacé par des ballasts gérés électroniquement. En effet depuis le 21 novembre 2005 la vente de luminaires équipés de ballasts ferromagnétiques standards est interdite. Seuls les ballasts à faibles pertes ou électroniques sont autorisés. 
+
+Les ballasts électroniques permettent d'augmenter la durée de vie d'une lampe de 60 % par rapport aux ferromagnétiques. En terme d'économie d'énergie, les ballasts électroniques sont tout aussi avantageux. En effet, ils alimentent la lampe en haute fréquence : à flux constant la consommation est réduite de 10%. De plus, ils détectent les lampes défectueuses et coupent leur alimentation : il n'y a plus d'amorçage inutile pour une lampe hors service.
+
+===La gestion du flux lumineux===
+Utiliser un matériel performant et économique est la base d'une politique d'économie énergétique. Seulement ces éclairages performants doivent être couplés avec une bonne gestion des flux lumineux. Est-il nécessaire de maintenir éclairée à pleine puissance une rue de zone industrielle? Ne pourrait-on pas utiliser un gradateur de flux en fonction de l'occupation d'une zone ou de l'intensité lumineuse ambiante? L'éclairage se doit d'être modulable en fonction de la fréquentation. Deux types de périodes sont définies. La période pleine correspondant à une forte demande d'éclairage lors d'importants flux d'utilisateurs (retours et départ au travail, entrée en bar de nuit, ouverture et fermeture des zones commerciales ou commerçantes…). À l'inverse la période creuse correspond à une période où les besoins lumineux sont moins essentiels. La définition de ces périodes revient à adopter une démarche personnalisée pour chaque zone (résidentiel, récréatif, commercial, industriel…) d'une même ville pour établir une planification d'éclairage. Pour cela, des solutions technologiques existent déjà, embarquant des capteurs photométriques couplés à des variateurs de puissance.
+
+D'un côté, un capteur crépusculaire ou une horloge va ordonner une demande lumineuse, en fonction d'une valeur minimale d'intensité lumineuse ambiante ou d'un horaire établi par la collectivité locale (1). Le capteur va transmettre le signal au variateur de puissance qui va dans un premier temps libérer la pleine puissance aux luminaires (2). Lorsque l'on atteint une période creuse, fixée par la programmation des capteurs, le régulateur va diminuer le flux lumineux de 40% en moyenne (3). Cette puissance est maintenue jusqu'au moment où les capteurs ordonnent un retour à une période pleine (4). Enfin, le flux est coupé lorsque l'interrupteur crépusculaire ou l'horloge coupe l'alimentation (5).
+
+[[Image:Planningeclairage1.JPG|center|thumb|500px|Exemple d'une planification d'éclairage quelconque]]
+[[Image:Planningeclairage2.JPG|right|thumb|250px|Exemple de planification d'éclairage établi en fonction de la zone]]
+[[Image:Planningeclairage3.JPG|right|thumb|250px|Exemple de planification d'éclairage établi en fonction de la zone]]
+
+Plusieurs avantages rendent ce genre d'éléments intéressants pour l'éclairage public.
+
+* Des programmes d'horaire ou de seuil d'intensité lumineuse peuvent être programmés en fonction de la saison, de la période de l'année (périodes de vacances par exemple) ou du type de zone à éclairer. Ainsi, les périodes creuses ou pleines sont ajustables, l'éclairage public peut être découpé par zone (voir graphiques ci-contre) et optimisé en fonction de la fréquentation.
+* '''L'économie d'énergie''' : la mise en place de planification d'éclairage permet de réduire les niveaux d'éclairement jusqu'à 20% de leur valeur nominale lors de périodes creuses. La consommation en sert d'autant réduite. Cette valeur peut être très variable et dépend des systèmes de gestion et des zones à éclairer. 
+* '''La modularité''' : les systèmes de variation de puissances s'adaptent en général sur tous types de lampes : ballons fluorescents, lampes à décharge sodium haute ou basse pression… Cela permet aux collectivités d'équiper un système d'éclairage déjà existant.
+* '''Un retour sur investissement rapide''', entre 2 et 5 ans suivant les configurations. On peut l'illustrer par un simple calcul. En considérant :
+** {{formatnum:4000}} heures d'éclairage annuel (11h heures par nuit)
+** {{formatnum:2700}} heures d'éclairage en période creuse (7h30 par nuit)
+** Prix du kWh électrique : 0,07€
+** Rue à éclairer : 1km sur les deux cotés, espacement de 70m entre chaque candélabre. 28 candélabres nécessaires, 150W chacun = {{formatnum:4200}}W 
+** Un système de régulation pouvant gérer un réseau de 5kw = {{formatnum:1200}}€ à l'achat
+
+{| class="ekotable" 
+|align="center"|% de réduction de la puissance nominale||align="center"|Coût annuel sans réduction||align="center"|Coût annuel avec réduction du flux||align="center"|Economie/an||align="center"|Coût variateur de puissance||align="center"|Retour sur investissement en années*
+|-
+| align="center"|30||align="center"|1400,00 €||align="center"|1116,50 €||align="center"|283,50 €||align="center"|1200 €||align="center"|4,2
+|-
+|align="center"|40||align="center"|1400,00 €||align="center"|1022,00 €||align="center"|378,00 €||align="center"|1200 €||align="center"|3,2
+|-
+|align="center"|50||align="center"|1400,00 €||align="center"|927,50 €||align="center"|472,50 €||align="center"|1200 €||align="center"|2,5
+|}
+{| border="0"
+|''*Le retour sur investissement est calculé en faisant le rapport du coût du variateur de puissance sur l'économie annuelle réalisée''
+|}
+
+Il existe d'autre moyens pour gérer l'éclairage, ils dépendent directement du type d'utilisation et sont spécifiques à chaque cas. Citons par exemple la Passerelle Mangin à Grenoble, dont l'éclairage a entièrement été repensé par GEG. Cette passerelle est très fréquentée en début de matinée et en fin de journée, mais complètement inutilisée en milieu de nuit. Partant de ce constat, GEG a équipé les deux extrémités du passage de capteurs de présence commandant directement les luminaires. Ainsi, l'éclairage reste en veille toute la nuit et se lance immédiatement et à pleine puissance dès l'approche d'un passant. Bien entendu, il est nécessaire d'équiper les luminaires de lampes adaptées à des allumages et extinction intempestive. Une telle démarche permet de diviser par neuf la consommation électrique par rapport à l'ancien système. Soit {{formatnum:6600}} kWh/an économisés ou encore 720 kg de CO2/an non émis.
+
+===Les lampadaires producteurs d'énergie===
+[[Image:Windela.jpg|right|thumb|200px|Lampadaire autonome Windela]]
+En parallèle aux systèmes de gestions des luminaires déjà existants, on assiste aujourd'hui aux débuts des lampadaires indépendants. En effet des points lumineux pour l'éclairage public ont été développés pour fournir eux même leur énergie nécessaire à leur fonctionnement. Une éolienne verticale avec des pales de type Savonius et Darrieus, couplée à des cellules photovoltaïques permettent la complémentarité de la production d'électricité. Dans le cas où le vent et le soleil viennent à manquer, un jeu de batteries intégrées au mat permet d'assurer l'autonomie du lampadaire pendant quelques jours. Cette autonomie est possible grâce à l'utilisation d'un système d'éclairage par [[LED]] beaucoup plus économe que les lampes classiques. Ce système représente la meilleure économie possible en termes d'éclairage puisque le lampadaire n'est pas relié au réseau EDF. Cependant du fait de la nouveauté de la technologie, l'investissement de base reste supérieur à celui d'un candélabre classique couplé à un gradateur de flux. En effet il faut compter environ {{formatnum:6000}} euros par lampadaire indépendant. Mais selon la région d'utilisation et du gisement éolien et solaire, le retour sur investissement peut être rapide. (je reprends les chiffres annoncés ci-dessus : 4 000 heures d'allumage par an, et 0.07 € le kWh, une lampe courante de 150 W consomme donc 600 kWh/an, et coute en énergie 42 €/an + l'abonnement : 60 €/an, d'où l'amortissement du lampadaire de 6000 € en... un siècle ! retour sur investissement peut être rapide ?)
+Ce type de système peut s'avérer rentable en cas de création du éclairage public avec alors un surcout de 800 € par rapport à un eclairage classique.
+
+===L'émergence de l'éclairage par D.E.L.===
+[[Image:Modular Design CODE Lighting.jpg|right|thumb|180px|Gamme de Foyers à [[D.E.L.]]]]
+Le principe de l'éclairage par [[D.E.L.]]  (Communément appelés [[LED]]) existe depuis une quarantaine d'années, mais c'est que très récemment que l'on peut voir apparaître des applications au domaine de l'éclairage public. Pendant longtemps, beaucoup ont considéré que la technologie [[D.E.L.]] n'était pas encore prête pour l'application à l'éclairage public. En effet, les D.E.L. posent le problème d'émettre un flux lumineux intense, mais très directif. C'est justement ce qui a été un défi pour les équipes de recherche et de développement des grandes firmes : réussir à diriger efficacement le flux lumineux dans la bonne direction. Ainsi, de nombreux travaux ont été menés quant à l'optique du luminaire accueillant un éclairage D.E.L.. On voit donc des systèmes permettant d'éclairer uniformément de grandes surfaces, tout en limitant les pertes de flux autour de la tache lumineuse. Au final, la directivité de l'éclairage qui était un problème s'avérer être un atout en développant des optiques performantes. Certains aspects posent encore problème, comme la dissipation de la chaleur des modules d'alimentation des [[D.E.L.]].
+
+'''Avantages :'''
+*Grande efficacité lumineuse : 112 lumens/W contre 85 lumens/W pour les lampes à vapeur de sodium classiques.
+*Émission sur une faible partie du spectre : l'émission infrarouge est évitée et donc pas de transformation du flux lumineux en chaleur.
+*Impact environnemental plus faible que les lampes à incandescence ou les lampes à décharges. Les D.E.L. ont une durée de vie très supérieure : environ {{formatnum:50000}} heures contre {{formatnum:8000}} heures pour les tubes fluo et sodium haute pression, {{formatnum:1000}} heures pour les incandescentes. Les D.E.L. ne contiennent pas de vapeurs toxiques comme les lampes à vapeur de sodium ou de mercure.
+*Consommation moindre : 50 à 80% d'économie d'énergie par rapport aux lampes classiques à mercure ou sodium. Consommation neuf fois inférieure à une ampoule à incandescence.
+*Éclairage directif : peu de fuites de flux lumineux. Cela induit une économie d'énergie pour une même zone à éclairer par rapport aux éclairages dispersifs classiques et une diminution de la pollution lumineuse.
+ 
+L'éclairage [[D.E.L.]] tend à se démocratiser : Los Angeles donne l'exemple en lançant en juin 2009 un programme de modernisation de l'éclairage urbain. Objectif: changer les {{formatnum:140000}} ampoules traditionnelles et feux tricolores par des D.E.L.. La consommation sera réduite de 65 millions de kWh par an, soit une réduction de {{formatnum:40500}} tonnes de gaz carbonique émis, l'équivalent de {{formatnum:6000}} voitures. Ces chiffres montrent à quel point la gestion de l'éclairage public est importante dans des villes de grande envergure.
+
+==Exemple de produits==
+*''LUXEON'': La société Philips à mis au point un lampadaire à D.E.L. adapté à l'intégration dans l'environnement urbain
+
+Panneau de 2x18 D.E.L..
+Consommation de 150W. Durée de vie : {{formatnum:50000}} heures. Variation de la température de couleur et de la luminance, ce qui est impossible en éclairage classique. Démarrage instantané. Pas d'effet d'éblouissement. Environ {{formatnum:6000}} euros pièce.
+
+*''LUCIOLE d'Est Environnement'', régulateur de l'éclairage public.
+
+Le système luciole permet la gestion du flux lumineux des éclairages déjà existants, comme décrit précédemment. De 1150 à 2500€.
+
+*''WINDELA, les lampadaires autonomes''
+
+Mât de 12m. Démarrage pour un vent de 3 m/s jusqu'à 20m/s. 600 Wh de production pour un vent de 15 m/s. 150 Wh de production photovoltaïque. Éclairage à D.E.L., consommation de 63 W. 
+Durée de vie de {{formatnum:80000}} heures des D.E.L.. 30% moins cher qu'un lampadaire classique, pas de travaux de génie civil.
+
+*'''''ModuLight Design™''''', La société '''Suisse''', [http://www.code-lighting.ch/ '''CODE Lighting SA'''] a développé une gamme de '''foyers d'éclairage public à Led''' de puissance. '''L'optique Breveté''' permet une '''distribution de lumière unique et homogène''' sur la surface à éclairer. La gamme couvrant les puissances de '''14w à 80w'''. Lumen dépréciation : '''L70={{formatnum:100000}}h''' à Tj=55°C et Ta=25°C.
+
+Pour le '''40W''' à 7m de haut entraxe 30m , '''+10 lux''' homogènement répartis sur une surface 30m*7m.
+
+== Références ==
+<References />
+
+== Voir aussi ==
+
+===Liens internes===
+* [[Led]]
+* [[Fluocompacte]]
+* [[Éclairage]]
+
+===Liens externes===
+* [http://www.code-lighting.ch/ CODE Lighting SA]
+* [http://fr.wikibooks.org/wiki/Photographie/Photom%C3%A9trie/Grandeurs_lumineuses_et_unit%C3%A9s_photom%C3%A9triques Grandeurs lumineuses] 
+* [http://www.afe-eclairage.com.fr/uploads/documentation/534-ext.pdf Norme NF EN 13201]
+* [http://www.slg.ch/pdf/FG51/Grundlagen-Powerpoint_f.pdf Influence des caractéristiques des lampes sur l'éclairage public] 
+* [http://www.flickr.com/photos/33194556@N05/3110597536/ Image Windela]
+* [http://www.est-environnement.com Développeur de lucioles]
+* [http://www.lighting.philips.com/ Optiques Philips]
+* [http://www.heliophane.com/documentation-eclairage/documentation-eclairage-ballasts.html Informations sur les ballasts]
+* [http://www.techno-science.net/?onglet=news&news=4176 Utilisation des LED pour l'éclairage public]
+* [http://energie.lexpansion.com/articles/Prospective/2009/03/Pour-un-eclairage-public-intelligent/ L'éclairage public intelligent]
+* [http://www.eclairage-public-a-led.com/eclairage-led.html Qu'est-ce-que la LED?]
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
+{{DEFAULTSORT:Eclairage publique}}
+[[Catégorie:Éclairage]]
