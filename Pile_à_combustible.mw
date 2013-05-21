@@ -1,0 +1,79 @@
+{{Se déplacer}}
+
+Une '''pile à combustible''' est une pile dont les éléments chimiques sont réapprovisionnables. La plus connue étant la pile à hydrogène (qui utilise de l'hydrogène stocké dans un réservoir et l'oxygène de l'air). C'est alors une [[pile]] électrique dont le résidu ([[déchet]]) est de l'eau. L'hydrogène gazeux étant très rare à l'état naturel, les piles à combustible nécessitent donc en amont une industrie de production de ce gaz, laquelle peut être fortement consommatrice d'énergie et polluante. La pile à combustible n'est donc pas un générateur mais un vecteur d'énergie (comme une pile chimique classique).
+
+
+== Le principe ==
+
+Une cellule élémentaire est constituée de 3 éléments :
+* deux électrodes, 
+* un électrolyte.
+
+Les deux électrodes sont séparées par l'électrolyte. À l'anode, on amène le combustible (le plus souvent de l'[[hydrogène]], parfois du [[méthanol]]). La cathode est alimentée en [[oxygène]] (ou plus simplement en [[air]], enrichi ou non en oxygène). 
+
+== Avantages et Inconvénients ==
+
+=== Avantages ===
+* '''Haut rendement :''' il dépend du type de pile, mais varie entre 40 et 70%. En comparaison, un moteur thermique d'[[automobile]] a un rendement qui varie entre 25  et 30%.
+* '''Peu bruyante'''
+* '''Compacité'''
+* '''Émissions [[polluant]]es "quasiment" nulles'''
+* '''Pas de vibration (pas de pièces tournantes)'''
+
+=== Inconvénients ===
+
+[[Image:Fuell cell.jpg|thumb|280px|Schéma de fonctionnement de la pile à combustible]]
+
+[[Image:Fuel cell NASA p48600ac.jpg|thumb|280px|Pile à combustible au méthanol]]
+
+* '''Le coût :''' les piles à combustible utilisent des catalyseurs. Ces genres de catalyseurs (métaux précieux et/ou rares) ont deux défauts. Ils sont '''chers''' et présentent '''un risque de corruption''' par des réactifs insuffisamment pur. ''C'est d'ailleurs pour permettre l'utilisation de pots catalytiques que l'on a fait des essences sans [[plomb]] (pas parce que le plomb pollue l'air, mais parce qu'il pollue les catalyseurs !)''
+* '''[[Pollution]] :''' une pile fonctionnant uniquement à l'hydrogène ne produit en théorie aucun polluant (Cependant, il ne faut pas oublier que la production d'hydrogène en elle-même peut polluer, en particulier si le pétrole, contenant une bonne partie des polluants rejetés par une voiture traditionnelle -notamment le soufre-, est utilisé pour produire l'hydrogène). Par contre les piles à combustible utilisant de l'[[éthanol]], du méthanol ou du méthane rejettent des gaz (''[[dioxyde de carbone|CO<sub>2</sub>]], [[méthane|CH<sub>4</sub>]], [[CO]], [[Hydrogene|H<sub>2</sub>]],'' en très faible quantité) qui sont soit des polluants toxiques (le [[CO]]), soit des gaz à fort effet de serre (le [[méthane|CH<sub>4</sub>]]). Pour info, une voiture à essence rejette en plus du SO<sub>2</sub>. Cependant, les piles à combustible ayant recours au reformage (craquage du carburant pour produire de l’hydrogène) sont normalement munies d'un système de post combustion catalytique permettant d'éliminer les résidus combustibles et de rejeter uniquement du [[dioxyde de carbone|CO<sub>2</sub>]] et de l'eau.   
+* '''Durée de vie :''' aujourd'hui, elle n'est que de quelques milliers d'heures. Pour être rentables, les piles devraient atteindre une durée de vie de 20.000 à 40.000 heures (entre 2 et 5 ans).
+* '''La disponibilité des combustibles de qualité adéquate :''' qui dit nouveau carburant, dit nouveau réseau de distribution. Nous sommes actuellement équipés de pompes à essence. Si nous voulons mettre en service la distribution du méthanol, il suffira de supprimer une pompe de super 98+ et de la remplacer par une pompe méthanol. Il faut savoir également que la pile à hydrogène est fort exigeante quant à la qualité du combustible, trop d'impuretés rendraient le catalyseur inopérant. 
+* '''Quel carburant ?''' Même si à terme, c'est l'hydrogène qui s'imposera, la question est de savoir quand et sous quelle forme; et quel carburant servira d'intermédiaire dans les applications automobiles. 
+* '''Fabrication :''' les piles à combustible sont un thème récurrent dont un des obstacles au développement est, outre les catalyseurs, toute l'infrastructure autour de la cellule d'électrolyse proprement dite. '''Ceci en interdit donc une réalisation domestique !'''
+* '''Production d'hydrogène :''' le problème réside (entre autres) dans la production d'hydrogène : si sa combustion est totalement non polluante, il n'en va pas de même pour sa production... Par exemple, dans le méthanol, il y a C et donc dioxyde à la sortie... A moins de le produire à partir d'eau par électrolyse (et de récupérer l'oxygène comme comburant) mais il faudrait alors de très grandes quantités d'électricité. La méthode de production actuelle nécessite un dérivé du pétrole (gaz naturel) et ne rend donc pas indépendant du pétrole. De nombreuses autres méthodes existent ou font l'objet de recherches, entre autres l'utilisation des réacteurs nucléaires de quatrième génération qui permettraient une réaction à très haute température (entre deux réactifs à base d'hydrogène, cf plus bas). Selon le Rapport Gatignol, la généralisation des moteurs à hydrogène stocké (comme la pile à combustible) implique, pour la France uniquement, le doublement ou le quadruplement du nombre de réacteurs nucléaires. Il existe cependant une alternative qui est de produire l'hydrogène à bord du véhicule au moment de l'utilisation (Brevet déposé en France en 2005).
+
+== Remarques à vérifier ==
+
+C'est une fausse idée que de croire qu'obtenir le [[méthanol]] à partir de
+la [[énergie de la biomasse|biomasse]] est peu coûteux.
+
+Les plus simples (et quasi gratuit) sont les procédés industriels :
+* l'oxydation du méthane en méthanol,
+* la transformation du gaz industriel (CO + H<sub>2</sub>) en méthanol (CH<sub>3</sub>OH),
+
+Par contre, l'obtention d'éthanol à partir de la biomasse est moins couteuse qu'à partir des sources fossiles. D'ailleurs, les industriels abandonnent actuellement cette voie au profit de la biomasse. Cette tendance devrait se confirmer avec l'arrivée d'innovations telles que le fractionnement de la cellulose en sucres simples, qui permettra prochainement d'obtenir de l'éthanol à partir de bois ou de paille.
+
+D'autre part, l'obtention de l'hydrogène et de l'[[alcool]] (méthanol ou éthanol) sont des processus polluants. Il convient donc pour juger de l'intérêt de chaque voie, de les étudier de façon impartiale et exhaustive. Une telle étude n'existe toujours pas à ma connaissance. L'une des difficultés tient aux énormes enjeux financiers. En effet, il s'agit de savoir qui fournira l'énergie des transports de demain. Chaque lobby (pétrole, nucléaire, biomasse, etc..) cherche à se mettre en avant et à dénigrer les autres. 
+
+Pour générer de l'hydrogène, il y a les réacteurs nucléaires de troisième génération qui sont en train de trouver des solutions envisageables industriellement par thermolyse. EDF a trouvé une application des réacteurs nucléaires de quatrième génération consistant en une réaction entre l'acide iodhydrique (IH) et un autre acide (peut-être l'acide chlorhydrique) qui a lieu à une température de 700°C environ. Cette méthode serait un peu plus écologique que la production actuellement très répandue d’hydrogène par reformage de gaz naturel.
+
+L'utilisation de l'hydrogène comme carburant est toujours évoquée à travers la pile à combustible. Or une méthode plus directe serait d'utiliser un moteur à combustion, l'hydrogène étant plus énergétique que les dérivés du pétrole. De nombreuses entreprises effectuent des essais sur banc de ces moteurs, et BMW expérimente cette technologie sur ses série 7.
+
+L'aspect écologique de la pile à combustible se constate facilement dans son utilisation c'est un fait établi. Mais sa fabrication, et son recyclage font appel aux industries les plus polluantes ce qui je pense en fait un produit extrêmement dangereux si son utilisation venait à se généraliser.
+
+== Conclusion ==
+
+Voici donc une technologie prometteuse. Mais aussi une technologie jeune. Qui n'est pas parfaite : "Comment générer de l'hydrogène sans polluer ?". 
+Donc en attendant qu'elle soit au point, il serait plus judicieux de se tourner vers d'autres [[énergie]]s telles que l'air, l'[[eau]], le [[soleil]]...
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Véhicules à carburants alternatifs]]
+* [[Électricité]]
+* [[Véhicules à hydrogène]]
+
+=== Liens externes ===
+* Les Piles à combustibles sur Wikipedia http://fr.wikipedia.org/wiki/Pile_%C3%A0_combustible. Pour ceux que cela intéresse des détails sur les deux catégories de piles à combustible (en Anglais):
+** Membrane à échange de protons (PEMFC) http://en.wikipedia.org/wiki/PEMFC
+** Pile à oxydes solides (SOFC) http://en.wikipedia.org/wiki/SOFC
+* Limites actuelles de la PAC[http://stratenvie.blogspot.com/2006/12/le-point-sur-la-pile-combustible-entre_05.html]
+* [http://pac-tpe.sup.fr/ Site sur la PAC, l'enjeu qu'elle constitue, son principe de fonctionnement, ses limites et applications]
+
+===Bibliographie===
+
+{{Multi bandeau|Portail Énergie|Portail Se déplacer}}
+
+[[Catégorie:Énergies renouvelables]]
