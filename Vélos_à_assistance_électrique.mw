@@ -1,0 +1,249 @@
+{{Se déplacer}}
+
+Les <b>véhicules à propulsion musculaire avec assistance électrique</b>, bien que peu connus, commencent à se développer en Europe alors qu'ils sont utilisés depuis plusieurs années dans des pays tels que la Chine et dans une mesure moindre en Europe du Nord.
+
+
+== Description ==
+
+La demande croissante dans le monde a engendré une augmentation de la qualité et une baisse des prix de ces véhicules. Aujourd'hui, la meilleure motorisation existante est un moteur dit "brushless" c'est-à-dire sans contact à balai, qui remplace le moyeu de la roue avant ou arrière.<br />
+Il existe en France de plus en plus de revendeurs de ce type de moyen de transport.
+Les avantages sont les mêmes que ceux d'un [[vélo]] classique : économique, rapide en milieu urbain, facile à garer, n'émet pas de polluants atmosphériques à l'utilisation et ... bon pour la santé.  Par ailleurs, lorsque la distance le permet, il est utile pour aller à son travail, sans arriver en sueur.
+
+L'avantage supplémentaire est le fait de pouvoir se déplacer sans subir une fatigue excessive, ce qui est intéressant lors des trajets travail domicile, surtout si le trajet comporte des côtes ou de fréquents STOPS qui nécessitent autant de relances.
+
+Le principal inconvénient est le poids, plus important à cause des [[batterie]]s (de l'ordre de 25 kg au total pour les plus légers et en progrès constant), mais peu sensible en raison de l'assistance. L'autonomie moyenne est de l'ordre de 20 à 100 km et ils se rechargent pour un prix dérisoire en quelques heures. Les batteries génèrent de la [[pollution]] pour leur fabrication (énergie et matières premières), pour leur recharge, et par les déchets qu'elles représentent en fin de vie (en particulier le plomb.)  
+
+La législation concernant ces vélos (VAE) est la même en France que celle concernant nos bons vieux vélos, pourvu que l'assistance ne fonctionne que quand on pédale et se coupe à partir de 25 km/h. 32 km/h pour le Canada. Au-delà de 25 km/h, on bascule dans la catégorie Vélomoteur. Rappel: moins de 45 km/h, port du casque et assurance obligatoire.
+Il est requis une puissance de 250 W nominal pour reste dans la catégorie.
+
+
+=== Prix et subventions ===
+
+Le principal inconvénient demeure le prix : les VAE sont à peine moins chers que les cyclomoteurs ou les scooters.
+En effet, si on peut trouver des premiers prix à moins de 1000€, un vélo électrique de bonne qualité coûte généralement entre 1000 et 2000€.
+
+Cependant, afin d'encourager de type de déplacement propre, plusieurs communes, dont Paris ou bientôt Lyon, proposent des subventions<ref>[http://www.ecovelo.fr/dossiers/subventions-achat-velo-electrique Subventions pour l'achat d'un vélo à assistance électrique sur ecovelo.fr]</ref> à leurs résidents pouvant atteindre 400€. 
+
+On peut trouver dans le commerce des vélos électriques ou des Kits tout prêts. Mais rien ne vous empêche de choisir chaque composant :
+
+=== Le vélo ===
+Dans ce cadre, il est important de considérer sa solidité. Il sera bien souvent très employé et soumis à rude épreuve.
+Lorsque le moteur est à l'avant, les becs de fourches sont sollicités dans un sens inhabituel (en traction alors qu'ils sont prévus pour encaisser un freinage surtout!). Les fourches en acier ne posent pas de problème. Celles en aluminium doivent être renforcées.  Dans le choix du cadre, penser qu'on va rouler nettement plus vite. Choisir un vélo confortable.
+
+=== Moteur ===
+* De type brushless de 3 à 5 kg
+* Rendement exceptionnel de 80 à 97 % comparé au moteur thermique dont le rendement n'est que de 25 %.
+* Sans entretien.
+
+L'achat reste à réfléchir selon :
+* Le poids à tracter
+* Le dénivelé à franchir
+* La vitesse souhaitée
+
+Deux familles sont connues :
+
+====Moteur moyeux, dans la roue====
+[[Image:VAEMoteurMoyeux.jpg|thumb|100px|Moteur moyeux]]
+* Régénération (fabrique de l'électricité) possible dans les fortes descentes avec un rendement de 20 à 40 % de ce que l'on a consommé.
+* Souvent silencieux
+* Rendement jusqu'à 86%
+
+====Moteur classique====
+* Possibilité de bénéficier des avantages de la démultiplication des vitesses du vélo.
+* Souvent moins silencieux
+* Rendement supérieur (jusqu'à 97%)
+====Branchement====
+Trois fils de phases :
+Vert -> Vert
+
+Bleu -> Bleu
+
+Jaune -> Jaune
+
+Et 5 petits fils de capteur à effet hall.
+
+Vert -> Vert
+
+Bleu -> Bleu
+
+Jaune -> Jaune
+
+Rouge -> Rouge + (ne jamais changer)
+
+Noir -> Noir - (ne jamais changer)
+
+Si votre moteur, tourne dans le bon sens il suffira de brancher comme ci-dessus
+
+Si non vous devez inverser deux fils aux phases ET reporter ce changement aux halls dans les mêmes couleurs.
+Exemple :
+Phases :
+Vert -> Vert
+
+Bleu -> Jaune
+
+Jaune -> Bleu
+
+Les halls :
+
+Vert -> Vert
+
+Bleu -> Jaune
+
+Jaune -> Bleu
+
+Rouge -> Rouge + (ne jamais changer)
+
+Noir -> Noir - (ne jamais changer)
+
+
+Si cela ne suffit pas, tester sans changer l'ordre des hall.
+
+Exemple :
+
+Phases :
+
+Vert -> Vert
+
+Bleu -> Jaune
+
+Jaune -> Bleu
+
+Les halls :
+
+Vert -> Vert
+
+Bleu -> Bleu
+
+Jaune -> Jaune
+
+Rouge -> Rouge + (ne jamais changer)
+
+Noir -> Noir - (ne jamais changer)
+
+Si cela ne suffit pas, tester une inversion deux phases et une combinaisons variable dans les hall.
+
+Exemple :
+
+Phases :
+
+Vert -> Vert
+
+Bleu -> Jaune
+
+Jaune -> Bleu
+
+
+Les halls :
+
+bleu -> bleu
+
+vert -> jaune
+
+jaune > vert
+
+Rouge -> Rouge + (ne jamais changer)
+
+Noir -> Noir - (ne jamais changer)
+
+=== Batterie ===
+On calculera avec le choix du moteur l'autonomie que l'on souhaite obtenir.
+Les batteries sont de 10 à 20 ah soit de 3 à 7 kg. A titre indicatif, elles permettent respectivement de faire de 80 à 150 km selon les facteurs 
+influençant la consommation.
+
+====Autonomie de la batterie====
+Le nerf de la guerre !
+Il vous faudra trouver les informations suivantes :
+Les Ah : Ampère-heure exprime une quantité. Exemple 10 Ah
+Les V : Volt est la tension de votre batterie. Exemple 24 V
+
+Si l'on multiplie les ampères heures par les volts. On obtient des watts heures. Ce chiffre permet une valeur théorique de l'autonomie de cette batterie. Watts consommés en une heure. Cependant, ce chiffre ne tient pas compte de l'efficacité énergétique du moteur.
+
+10 X 24 = 240 Watts heures
+
+Mon moteur pourra dans une côte, donner 240 Watts pendant 1 heures.
+C'est ce que l'on trouve comme vélo électrique de ville.
+
+Autre exemple plus utilitaire :
+36 V X 16 Ah = 360 Watts heures vous permettrons de faire 50 Km avec des courses et 500 m de dénivelé.
+48 V X 20 Ah = 960 Watts heures bridé, vous pourrez transporter en plus vos enfants dans une remorque.
+
+==== Technologie obsolète ====
+
+Ces technologies sont à proscrire, car dépassées. En effet, elles sont peu chères à l'achat, mais à l'utilisation, elles seront vite usées.
+* Plomb, polluant, peu de cycles de recharge
+* Nimh, 400 cycles de recharge
+* (Lithium ion) mauvais vieillissement (4 ans maximum)
+
+==== Technologie actuelle, moins polluante ====
+
+* Lipo
+Pas soumis au vieillissement
+Meilleur rapport poids puissance
+1000 - 1500 cycles (recharge)
+Préfère être rechargée souvent
+Ne doivent pas être trop souvent totalement déchargées
+
+* LiFePo
+Peu de recul dans la durée, mais prometteur.
+Charge rapide
+Forte décharge (recharge)
+1000 - 1500 cycles
+Surpoids de 20 % par rapport à une Lipo.
+
+=== Contrôleur ===
+C'est le cerveau de l'ensemble. Il détermine le caractère législatif de par la puissance qu'il délivre au moteur.
+
+Deux types de contrôleurs se démarquent :
+
+==== Contrôleur sensor less (sans capteurs) : ====
+
+Ils n'utilisent pas les capteurs du moteur électrique. (capteur à effet hall)
+Ils sont réputés rustiques.
+Ils utilisent donc 3 fils vers le moteur.
+* Accélérateur
+* Frein régénératif on/off
+
+==== Contrôleur classique : ====
+
+Ils permettent beaucoup de fonctionnalités, donc beaucoup de technologie ce qui augmenterait les pannes.
+Piste => l'humidité ?
+* Accélérateur
+* Frein régénératif, un frein régénératif variable est idéal voire indispensable en terrain vallonné.
+* Accélérateur réglable
+* Régulateur de puissance
+* Capteur de couple
+
+=== Les capteurs ===
+Reliés au contrôleur, ils lui fournissent des informations.
+
+* PAS : Capteur de pédalage qui permet d'adapter la puissance délivrée par le moteur à la vitesse de rotation des pédales : plus je pédale vite, plus j'ai de puissance.
+* Pedelec : Capteur de pédalage on-off. Détecte la rotation de pédale, et le cycliste détermine alors la puissance délivrée via une poignée ou un accélérateur "pouce".
+* Capteur de couple : plus j'appuie sur les pédales, plus la puissance du moteur est forte.
+* Capteur de vitesse, permet de limiter à 25 km/h l'assistance du moteur.
+
+=== Écran de contrôle ===
+Cet outil, à l'usage, est indispensable. En effet, l'électricité restant dans votre batterie est difficile à déterminer.
+Deux éléments la caractérisent : les volts et les ampères consommés.
+D'autres éléments peuvent être importants comme la vitesse, le nombre de cycles de batterie, sa vitesse moyenne, sa consommation au km, la régénération obtenue.
+
+Exemple de modèle : [[cycle analyst]]
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Liens internes ===
+* [[Bicyclette]]
+* [[VAE Solaire]]
+* [[Trike]][[Tricycle]]
+
+=== Liens externes ===
+* [http://fr.wikipedia.org/wiki/V%C3%A9lo_%C3%A0_assistance_%C3%A9lectrique Sur Wikipedia]
+* [http://www.ecovelo.fr Un magazine consacré au vélo électrique]
+* [http://veloelectrique.free.fr/ Un weblog sur les vélos à assistance électrique]
+* [http://www.electricbikerange.info/Electric_bike_range.html Un simulateur d'itinéraire dédié aux vélos électriques]
+
+=== Bibliographie ===
+
+{{Portail Se déplacer}}[[Catégorie:Cycle]]
