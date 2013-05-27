@@ -1,0 +1,124 @@
+{{Vivre ensemble}}
+
+Le concentrateur solaire couplé à un moteur de Stirling est une nouvelle technologie qui permet de transformer l'énergie solaire en énergie électrique. L'énergie solaire est captée et concentrée grâce à une parabole de miroirs. Celle-ci met en marche un moteur Stirling.
+
+
+== Fonctionnement ==
+
+=== Moteur Stirling ===
+Ce type de moteur a été inventé en 1816 par le pasteur Robert Stirling. Il est aussi appelé "moteur à air chaud" ou "moteur à combustion externe".
+Le fluide principal est un gaz, soumis à un cycle thermodynamique simple composé de 4 phases:
+* un chauffage isochore (à volume constant)
+* une détente isotherme (à température constante)
+* un refroidissement isochore
+* une compression isotherme
+
+Le moteur fonctionne si il est alimenté par une énergie thermique. Cette énergie thermique peut être issue soit de la combustion externe de dérivés du pétrole, gaz naturel, charbon, soit d'énergies renouvelables comme le solaire ou la géothermie.
+La combustion externe de ce moteur le rend moins polluant, il est silencieux, facile d'entretien et a la possibilité d'être réversible.
+
+Par contre, l'étanchéité du moteur de Stirling est difficile à réaliser (l'obligation d'utiliser un gaz léger et les hautes températures du fluide chaud rajoutent des difficultés pour obtenir une bonne étanchéité). 
+
+Le temps de réponse du moteur de Stirling est long.
+
+La température de la source chaude doit être de l'ordre de 700°C pour obtenir de bons rendements, de l'ordre de 40%, en utilisant l'hydrogène ou de l'hélium comme gaz interne
+
+=== Concentrateur solaire ===
+[[Image:parab.gif|left|200px|Convergence des rayons vers un même point à l'aide d'un miroir parabolique]]
+
+Le concentrateur solaire est composé soit d'un miroir parabolique soit d'une mosaïque de miroirs assemblés pour former une parabole. Pour un concentrateur ayant une surface collectrice de 56,7m², la température du point de convergence peut atteindre 650°C.
+Comme le montre le schéma à gauche, le miroir parabolique permet de faire converger les rayons du soleil vers un point unique.
+
+Cette parabole permet de capter uniquement les rayons solaires directs.
+
+=== L'addition des 2 technologies ===
+[[Image:Stirling-odeillo.jpg|thumb|200px|Exemple de moteur de Striling alimenté par un concentrateur solaire]]
+
+Il est possible d'utiliser un  miroir parabolique pour alimenter un moteur de Stirling. 
+
+En général, un système permettant de suivre la trajectoire du soleil est installé. Par exemple, la parabole peut être installée sur un support mobile qui peut être muni de deux moteurs pas à pas.
+
+Le rayonnement solaire concentré à l'aide du miroir parabolique sert à chauffer un gaz placé dans un récepteur. Ce gaz est la source chaude du moteur de Stirling.
+
+La source froide peut être soit un refroidisseur à eau, soit l'air ambiant.
+
+Le moteur de Stirling produit de l'énergie mécanique. Pour transformer cette énergie en énergie électrique, le moteur de Stirling peut être relié à une génératrice électrique.
+
+== Performances ==
+
+Le laboratoire PROMES<ref>PROcédés, Matériaux et Energie Solaire, http://www.promes.cnrs.fr/PROJETS/Systemes/stirling.htm</ref> du CNRS possède deux "paraboles Stirling". <br>
+La première (surface collectrice de 56,7m<sup>2</sup>) a un rendement moyen de 14,7% et un rendement de pointe de 18%.
+La seconde, avec un récepteur solaire amélioré sur le moteur Stirling (l'efficacité thermique du récepteur a été améliorée de 30%) et une surface collectrice réduite à 42m<sup>2</sup>, atteint un rendemet moyen de 19%, et un rendement de pointe de 23%
+
+Du côté industriel, la société étatsunienne Stirling Energy Systems a battu le record d'efficacité en conversion solaire-électricité le 31 janvier 2008, atteignant 31,25%<ref>http://www.sandia.gov/news/resources/releases/2008/solargrid.html</ref>
+Le précédent record, datant de 1984 était de 29,4%
+
+Ce système est particulièrement intéressant dans des zones où l'ensoleillement est principalement constitué de rayonnement direct, c'est à dire dans les zones inter-tropicales.
+
+== Avantages et Inconvénients ==
+
+=== Avantages ===
+• '''Performances''' : le rendement est généralement du même ordre que pour des panneaux [[Photovoltaïque|photovoltaïques]], mais ce type de système a atteint des rendements supérieurs à 30% dans la
+conversion du rayonnement solaire en électricité<br>
+• '''Simplicité''' : le principe de fonctionnement est relativement simple, face à la technologie photovoltaïque, et permet de fabriquer soi-même un système concentrateur solaire<ref>http://www.greenpowerscience.com/PARABOLICMIRROR.html</ref>-moteur Stirling<ref>http://www.photologie.fr/stirling/stirling.html</ref> (avec des rendements pas forcément intéressants cependant)<br>
+• '''Cogénération''' : le moteur Stirling peut fonctionner en cogénération (valorisation du travail ET de la chaleur disponible) conduisant à un très bon rendement global<br>
+• '''Gamme de puissance''' : possibilité d'adapter la puissance au besoin suivant la source chaude utilisée (du mW au MW)<br>
+• '''Sites isolés''' : comme l'ensemble des énergies renouvelables, le système Stirling à concentration solaire permet l'électrification de sites isolés sans nécessiter le raccord au réseau de distribution d'électricité
+
+=== Inconvénients ===
+• '''Coût''' : le moteur Stirling étant encore peu développé, c'est un matériel très coûteux<br>
+• '''Etanchéité''' : si la pression de fonctionnement est élevée, il est difficile de contenir le gaz utilisé dans le moteur. Ce problème est d'autant plus compliqué que l'un des gaz très intéressant pour le moteur Stirling est l'hydrogène (pour sa légèreté et sa capacité calorifique importante), qui diffuse facilement au travers des matériaux<br>
+• '''Volume''' : les échanges de chaleur avec des gaz nécessitent généralement de grands volumes<br>
+• '''Modulation''' : un moteur Stirling fonctionne très bien à puissance nominale, mais des variations rapides de puissance sont difficiles à réaliser, et l'efficacité peut rapidement chuter<br>
+• '''Intermittence''' : ce système étant alimenté par le soleil, il connaît une production soumise aux aléas météorologiques. Pour pallier cette discontinuité, un système d'appoint ou un système de stockage peut être mis en place pour assurer l'autonomie de ce type d'appareil
+
+== Maintenance ==
+
+Pour que ce type d'installation fonctionne correctement, l'entretien des paraboles doit être effectué de manière à les maintenir parfaitement efficace, pour que l'optique des miroirs soit toujours optimale (propreté des surfaces réfléchissantes). 
+
+Le moteur de Stirling lui-même ne nécessite pas ou très peu de maintenance.
+
+==Coût==
+
+Des projets de centrales électriques équipées de plusieurs milliers de paraboles Stirling sont en développement dans le monde. Une entreprise étatsunienne a récemment inauguré Nevada Solar One, une installation de 64-mégawatt coutant près de 250 millions de Dollars.
+
+Les entreprises en cours de lancement de production de ce système annoncent le lancement en 2009 d'installations complètes avec convertisseur d'électricité, qui devraient pouvoir concurrencer les panneaux photovoltaïques. Cependant, le moteur Stirling est encore cher car il n'y a pour l'instant pas d'applications qui nécessitent une fabrication à grande échelle.
+
+On peut penser que le coût de ces installations va baisser dans les années à venir, ce qui devrait rendre avantageux l'autonomie, le faible coût d'entretien et le faible impact sur l'environnement que proposent ces machines.
+
+== Exemples d'application ==
+
+Plusieurs machines sont en test pour la conversion en électricité dans des laboratoires de recherche, notamment au CNRS où des prototypes ont  déjà été construits sur le site du Four Solaire d'Odeillo.
+ 
+Deux centrales solaires regroupant 32000 paraboles Stirling, pour un total de 800 MW, sont en construction en Californie (réalisation Stirling Energy System). Elles devraient fournir une puissance comparable à deux centrales nucléaires après leur extension.
+
+D'autres centrales solaires devraient voir le jour dans les déserts du Nevada et d'Algérie, et le développement en sites isolés devrait débuter courant 2009 en Europe (selon Infinia Corporation).
+
+Il est également possible d'utiliser la chaleur produite par le moteur en cogénération avec du bois ou un brûleur gaz comme moyen de chauffage d'appoint. Un prototype a été lancé par Viessmann et d'autres suivent.<ref>http://www.acqualys.fr/page/microcogeneration-a-gaz-ecogenerateurs#elect</ref>
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Moteur Stirling]]
+* [[Énergie solaire]]
+* [[Solaire à concentration thermodynamique]]
+* [[Gestion de l'énergie]]
+* [[Photovoltaïque]]
+* [[Climatisation solaire]]
+
+=== Liens externes ===
+* [http://www.stirlingenergy.com Stirling Energy Systems], É.U<br>
+* [http://www.infiniacorp.com/applications/clean_energy.htm Infinia], É.U
+
+=== Références ===
+<References/>
+
+=== Bibliographie ===
+http://www.photologie.fr/stirling/stirling.html<br>
+http://guillaume.douard.free.fr/modeles.htm<br>
+http://www.promes.cnrs.fr/PROJETS/Systemes/stirling.htm<br>
+http://www.stirlingenergy.com<br>
+http://www.sandia.gov/news/resources/releases/2008/solargrid.html<br>
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
+ 
+[[Catégorie:Énergie solaire]]
