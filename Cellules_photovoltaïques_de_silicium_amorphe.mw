@@ -1,0 +1,102 @@
+{{Vivre ensemble}}
+
+== Définition ==
+* '''Une cellule photovoltaïque est un composant électronique qui, exposé à la lumière (photons), génère une tension électrique (volt) (cet effet est appelé l'effet photovoltaïque). Le courant obtenu est un courant continu et la tension obtenue est de l'ordre de 0,5 V.
+
+Les cellules sont constituées de semi-conducteurs à base de silicium (Si), de sulfure de cadmium (CdS) ou de tellurure de cadmium (CdTe). Elles se présentent sous la forme de deux fines plaques en contact étroit. Un autre nom est « photo-galvanique ».
+
+Ce semi-conducteur est pris en sandwich entre deux électrodes métalliques et le tout est protégé par une vitre.'''
+
+
+''Source'' : http://www.techno-science.net/
+
+== Principe de fonctionnement ==  
+Il peut être illustré par l'exemple suivant, qui présente le cas d'une cellule au silicium :
+* La couche supérieure de la cellule est composée de silicium dopé par un élément de valence supérieure dans la classification périodique, c’est-à-dire qui possède plus d'électrons sur sa couche de valence que le silicium. Le silicium possède 4 électrons sur sa couche de valence : on peut donc utiliser des éléments de la colonne 15, par exemple le Phosphore (P). Cette couche possédera donc en moyenne une quantité d'électrons supérieure à une couche de silicium pur. Il s'agit d'un semi-conducteur de type N.
+* La couche inférieure de la cellule est composée de silicium dopé par un élément de valence inférieure au silicium. Il peut s'agir de Bore (B) ou d'un autre élément de la colonne 13. Cette couche possédera donc en moyenne une quantité d'électrons inférieure à une couche de silicium pur. Il s'agit d'un semi-conducteur de type P.
+
+Lorsqu'on met ces deux semi-conducteurs en contact (de manière à ce qu'il puisse y avoir conduction), on crée une jonction PN, qui doit permettre le passage des électrons entre les deux plaques. Cependant, dans le cas d'une cellule photovoltaïque, le gap du semi-conducteur de type N est calculé de manière à ce que le courant ne puisse pas s'établir seul : il faut qu'il y ait un apport d'énergie, sous forme d'un photon de lumière, pour qu'un électron de la couche N soit arraché et vienne se placer dans la couche P, créant ainsi une modification de la répartition de la charge globale dans l'édifice.
+
+Deux électrodes sont placées, l'une au niveau de la couche supérieure et l'autre au niveau de la couche inférieure : une différence de potentiel électrique et un courant électrique sont créés.
+
+[[Image:300px-CellStructure-SiCrystal-eng.PNG]]
+
+
+
+== Technique de fabrication ==
+Le silicium est actuellement le matériau le plus utilisé pour fabriquer les cellules photovoltaïques disponibles à un niveau industriel. Divers traitements du sable permettent de purifier le silicium qui est alors chauffé et réduit dans un four. Le produit obtenu est un silicium dit métallurgique, pur à 98% seulement. Ce silicium est ensuite purifié chimiquement et aboutit au silicium de qualité électronique qui se présente sous forme liquide. Par la suite, ce silicium pur va être enrichi en éléments dopant (P, As, Sb ou B) lors de l'étape de dopage, afin de pouvoir le transformer en semi-conducteur de type P ou N.
+
+La production des cellules photovoltaïques nécessite de l'énergie, et on estime qu'une cellule photovoltaïque doit fonctionner environ 2 à 3 ans suivant sa technologie pour produire l'énergie qui a été nécessaire à sa fabrication (retour énergétique du module)
+
+Les techniques de fabrication et les caractéristiques des principaux types de cellule sont décrits dans les 3 paragraphes suivants. Il existe d'autres types de cellule actuellement à l'étude, mais leur utilisation est pratiquement négligeable actuellement.
+
+
+
+== Avantages/inconvénients d'une cellule photovoltaïque en silicium amorphe ==
+=== Avantages ===
+* Fonctionnent avec un éclairement faible (même par temps couvert ou à l'intérieur d'un bâtiment),
+* Moins chères que les autres.
+* Moins sensible aux températures élevées que les cellules mono ou poly cristallines
+
+=== Inconvénients ===
+* Rendement faible en plein soleil, de 60W/m²,
+* Performances qui diminuent sensiblement avec le temps.
+
+
+=== Comparaison amorphe/cristallin ===
+[[Image:Sans_titre2.gif]]
+
+
+
+== Technologies et performances des cellules photovoltaïques aujourd'hui ==
+[[Image:Sans_titre.gif]]
+''Source'' : http://www.industrie.gouv.fr/energie/recherche/solaire-photovoltaique.htm
+
+
+== Caractéristiques ==
+=== Souplesse ===
+La souplesse des panneaux permet de les utiliser sur des couvertures courbes (Rmin = 12 m). 
+L'inclinaison des pans doit être comprise entre 5 et 60° même si l'efficacité maximum s'obtient à des inclinaisons de 30° environ.
+
+=== Durée dans le temps ===
+Garantie de 80% de la puissance nominale installée au bout de 25 ans de fonctionnement pour les produits les plus récents.
+
+== Utilisation des panneaux de silicium amorphe ==
+Les coûts de fabrication sont sensiblement meilleur marché que ceux du silicium cristallin (panneaux photovoltaïque généralement utilisés). 
+
+Les cellules amorphes sont utilisées partout où une alternative économique est recherchée, ou, quand très peu d'électricité est nécessaire (par exemple, alimentation des montres, calculatrices, luminaires de secours). 
+
+Elles sont également souvent utilisées là où un fort échauffement des modules est à prévoir. Cependant, le rendement est de plus de 2 fois inférieur à celui du silicium cristallin et nécessite donc plus de surface pour la même puissance installée. Les cellules en silicium amorphe sont actuellement de moins en moins utilisées : 9,5 % de la production mondiale en 2000, alors qu'elles représentaient 12 % en 1999.
+
+''Source'' : http://www.ciele.org/filieres/solairephotovoltaique.htm
+
+
+== Installation des panneaux de silicium amorphe == 
+Grâce à leur souplesse et leur robustesse, les modules solaires permettent que l’on puisse circuler sur
+toute la surface de la toiture pendant les opérations d’installation et de maintenance.
+
+La pose dans le plan de la toiture a pour avantage que les modules ne génèrent pas d’ombres portées qui limiteraient les surfaces utiles. Ceci permet également de favoriser la production estivale.
+Dans des circonstances idéales, quasiment toute la surface de la toiture peut être utilisée pour produire de l’électricité.
+
+Il n’est pas nécessaire de renforcer les charpentes , ni d’effectuer des tests sur la stabilité du toit, de par la légèreté du système (sous forme de panneaux, environ 3 kg/m²)
+
+[[Image:1432955875.jpg]]  
+
+''Source'' : http://www.urbasolar.com
+
+== Coût et réglementation ==
+La pose de ces panneaux revient, selon les constructeur, à environ 150-400 Euros/m² (3 euros/W avec 50-55W/m²)
+
+Ce système photovoltaïque monocouche est considérée comme intégrée au bâtiment au sens de la circulaire de la DIDEME / Ministère de l'Industrie qui bénéficie du tarif de vente du kWh à 60cts d'euros.
+
+== Voir aussi ==
+===Liens internes===
+* [[Cellule photovoltaïque]]
+* [[Cellules iJET]]
+* [[Photovoltaïque]]
+* [[Énergie solaire]]
+
+===Liens externes===
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
+[[Catégorie:Énergie solaire]]
