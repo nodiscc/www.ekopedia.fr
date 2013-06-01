@@ -1,0 +1,13 @@
+== Utilisation ==
+Fonctions exportables :
+* <code>authorityControl(frame)</code> – Point d'entré pour le modèle {{M|Autorité}}
+
+== Exemples ==
+Voir {{M|Autorité}}
+
+<includeonly>
+{{Projet Scribunto}}
+</includeonly>
+<noinclude>
+[[Catégorie:Documentation de module|{{BASEPAGENAME}}]]
+</noinclude>
