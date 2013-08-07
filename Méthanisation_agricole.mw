@@ -1,0 +1,138 @@
+Le principe de la méthanisation [http://fr.wikipedia.org/wiki/M%C3%A9thanisation] a été découvert lorsque l’on a observé des phénomènes de dégradation naturels des substrats organiques, vase ou fumier, sous forme de gaz : le méthane (CH<sub>4</sub>) et le dioxyde de carbone (CO<sub>2</sub>).
+
+== Principe et utilisation ==
+
+Le principe général de la méthanisation agricole est très simple il s’agit de récupérer les déchets organiques de fermes (paille, fumier, bouse…) pour les valoriser dans un réacteur où ils seront transformés en biogaz. Ensuite ce biogaz pourra être utilisé pour générer de la chaleur (pour la maison par exemple) et/ou produire de l’électricité avec une turbine ou un cogénérateur.Voici le schéma de principe d'une installation de ce type :
+
+[[Fichier:Methanisation.JPG|center|Méthanisation agricole.]]
+
+La méthanisation fournit du biogaz que l’agriculteur peut valoriser mais elle fournit aussi un nouveau fumier qui a méthanisé et qui a une teneur en azote plus élevée (le fumier méthanisé a donc de meilleures vertus fertilisantes).
+Cette pratique pour les agriculteurs est un bon moyen de valoriser les déchets et pourrait se développer, si les réglementations sur les produits pétroliers en France pouvaient évoluer. En effet pour l’instant on ne peut pas utiliser le biogaz pour les véhicules car il faut payer la Taxe Intérieure sur les Produits Pétroliers (TIPP). Un changement à ce niveau pourrait développer de façon exponentielle l’utilisation de cette technique de valorisation.
+
+== Performance ==
+
+Quelques chiffres : 1 m<sup>3</sup> de biogaz produit environ 2 kWh électrique. En cogénération, pour 1 kWh électrique on obtient 1,5 kWh de chaleur.
+
+Tableau représentant l’énergie électrique produite suivant le produit méthanisé : 
+
+{| class="ekotable"
+! Les produits (par tonnes) !! m<sup>3</sup> de biogaz produit !! Équivalent en litre de fioul !! kWh électrique
+|-
+|Lisier
+|16
+|11
+|30
+|-
+|Fumier
+|60
+|35
+|100
+|-
+|Paille
+|220
+|120
+|350
+|-
+|Graisse
+|450
+|350
+|1000
+|}
+
+À titre d'exemple, une exploitation de plus de 300 tonnes de matières sèches par an aurait une puissance installée de 35 kW.
+
+== Avantages et inconvénients ==
+
+===Avantages===  [http://www.evalor.fr/index.php/methanisation/avantages ]
+
+* '''Valorisation énergétique :''' la méthanisation agricole permet une valorisation énergétique des déchets produits par l’agriculture, comme les co-produits venant de l’agroalimentaire ou les fumiers. Cette valorisation peut être thermique : le biogaz créé est brulé en chaudière. Il peut alors être utilisé pour produire de l’électricité mais il peut aussi être utilisé en cogénération pour chauffer des bâtiments, produire de l’eau chaude ou encore chauffer de l’air. Elle permet donc à l'éleveur d'être autonome en chaleur, pour son exploitation et sa maison d'habitation, dans un contexte d'accroissement du coût des énergies fossiles.
+* '''Production de fertilisant :''' la méthanisation engendre une production de matières sèches qui peut être utilisé pour fertiliser les sols. En effet, l’azote passe d’une forme organique à une forme minérale et devient plus rapidement assimilable par les plantes.
+* '''Accessibilité :''' Tous les agriculteurs ayant des déchets organiques peuvent mettre en place un réacteur biogaz.
+
+===Inconvénients=== 
+
+* '''Prix :''' Le coût d'une installation (individuelle) reste élevé malgré les aides de l'État.
+* '''Frein administratif :''' La complexité administrative freine les lancements de projets. 
+
+== Coûts ==
+
+L'objectif économique d'une telle installation est de garantir une relative indépendance énergétique tout en valorisant un déchet. On supprime donc une partie des frais de la ferme liés à l'énergie (électricité, chauffage). Cependant l'investissement est important et l'unité réclame une attention de logistique et d'entretien qui ont un coût supplémentaire. Les subventions atteignent entre 40 et 60 % du coût global du projet. 
+
+Le coût d'une installation est très variable selon sa taille et sa configuration. Il est possible de mieux estimer cette somme grâce aux exemples d'installations existantes .
+On distingue pourtant une tendance : les tarifs baissent pour des installations plus importantes : ils vont de {{formatnum:8000}} à {{formatnum:9000|}} euros/kWe installé pour des projets inférieurs à 300 kW et de 4000 à 5000 euros/kWe installé pour une unité d’1 MW.
+Les tarifs de rachats de l'électricité par EDF augmentés en juillet 2007 assurent 0,09 euros/kWh, montant pouvant atteindre 0,14 euros/kWh avec les primes.
+
+Globalement, une installation requiert un investissement compris entre {{formatnum:200000}} et {{formatnum:800000}} euros, le retour sur investissement étant prévu sur une dizaine d'année.
+
+== Exemple, illustration ==
+
+En France, le recensement des installations de méthanisation d'octobre 2008 faisait état de 15 installations en service et 205 projets en cours. Près des trois quarts concernent la méthanisation agricole (les autres étant des projets industriels de traitement des déchets ménagers ou des installations collectives plus importantes).
+La Bretagne, Le Midi-Pyrénées, le Languedoc-Roussillon, la Champagne-Ardennes, la Lorraine et la région Rhône-Alpes sont à ce jour les pôles de réflexions et d'innovation.
+
+=== Installation individuelle ===
+
+[[Fichier:Installation methanisation.JPG|center]]
+
+''Installation de Migneville (Source: www.trame.org)''
+
+En Lorraine, à Migneville, une ferme a sa propre unité de méthanisation depuis 2000, agrandie en 2006. Elle produit aujourd'hui {{formatnum:784000}} m<sup>3</sup> de gaz par an qui produisent chaleur ({{formatnum:1835550}} kWh/an et électricité {{formatnum:1550000}} kWh/an). Moins l'utilisation de fonctionnement, cette unité produit neuf fois plus d'énergie qu'elle ne consomme de fioul, et a réduit de 66 % ses émissions de gaz à effet de serre.
+
+=== Installation collective ===
+
+Au Luxembourg à Rédange où 29 exploitants se sont réunit pour former une unité centrale collective. Les dimensions et les coûts sont ici bien supérieurs à l'exemple précédent, mais les charges sont réparties sur plus de fermes (apport en capital de 4 000 euros par membre de la coopérative).
+Pour un volume de 5 800 m<sup>3</sup> de biogaz produits par jour (soit 2 117 000 m<sup>3</sup>  produits par an), l'installation de Rédange fournit chaque année au réseau d'électricité, 4,5 millions de kWh ainsi que 5,6 millions de kWh d'énergie calorifique. Le résidu est utilisé par tous les membres pour l'épandage.
+Les avantages d'une telle structure sont nombreux pour l'agriculteur: faible coût relatif du projet, gain de temps et d'organisation ou encore mixité du distillat pouvant atteindre les valeurs requises pour un épandage spécifique.
+''
+Lien vers la fiche technique du projet de Rédange'' [http://www.biogazrhonealpes.org/doc/methanisation_agricole/realisations/voyage_etude/methanisation_voyage_etude2006.pdf]
+
+== Réglementation ==
+
+La réglementation actuelle n'inclut actuellement pas de rubrique de la nomenclature
+des installations classées adaptée à la méthanisation agricole. A l'issu du Grenelle de l'environnement, le gouvernement prévoit une future augmentation du tarif de rachat de l'électricité pour les petites installations, et la subvention de 30 projets financés dans le cadre du plan de relance de l'économie.
+Cependant les procédures générales pour créer une installation prévoient de passer devants différents ministères et les démarches administratives peuvent s'avérer longues. Les unités de méthanisation doivent en particulier respecter :
+
+* '''La règlementation sur les déchets entrants :''' L'agriculteur est soumis au code de l'environnement qui classe l'installation pour la protection de l'environnement. C'est également ce code qui définit les plans d'épandages départementaux et régionaux.
+* '''La réglementation relative à l’activité de méthanisation :''' Les unités de méthanisation agricoles relèvent de la loi relative aux Installations Classées pour la Protection de l'Environnement (CF: n° 76-663 du 19 juillet 1976 ). Dans certaines conditions, les installation de méthanisation paraissent soumises à la rubrique 2170 (fabrication des engrais et supports de culture à partir de matières organiques), de la législation des [[ICPE]] Les seuils sont :
+**déclaration si la capacité de production (de matières fertilisantes : digestat, compost) est supérieure ou égale à 1t/j et inférieure à 10 t/j, voir l'[http://aida.ineris.fr/textes/nomenclature/at2170.htm Arrêté type - Rubrique n° 2170 : Fabrication des engrais et supports de culture à partir de matières organiques et mettant en œuvre un procédé de transformation biologique aérobie (compostage) des matières organiques],
+**sous le régime de l'autorisation au-delà de 10 t/j.
+* Pour la combustion, lorsque le produit consommé est du biogaz, si la puissance thermique est supérieure à 0,1 MW, l'installation est soumise à autorisation sous la rubrique 2910-B. Ce qui est précisé par la [http://aida.ineris.fr/textes/circulaires/text4332.htm circulaire du 10 décembre 2003 relative aux Installations classées : installations de combustion utilisant du biogaz].
+** voir l'[http://aida.ineris.fr/textes/nomenclature/at2910.htm arrêté type - Rubrique n° 2910 : Combustion]. En [[traitement des boues]], une puissance thermique de combustion de méthane de 0,1 MW correspond très approximativement à 20 000 [[EH]].
+* '''La réglementation relative au digestat :''' On observe deux statuts différents : Si l'effluent a subit une phase de maturation par compostage, il contient l'azote sous une forme minéralisée. S'il respecte la norme NFU, il est considéré comme un amendement organique, utilisé comme engrais. Il a alors le statut de produit et peut être l'objet de transaction ou d'échange. Sinon, le digestat reste statutairement un déchet et le producteur en est responsable. Il peut être utilisé pour l'épandage selon le plan en vigueur.
+Voir page 14 du guide sur la méthanisation de 16 pages a pour sujet : "Principaux textes réglementaires".
+
+==Documents de référence==
+* la [http://www.solagro.org page de Solagro]
+* trois documents en pdf sur la méthanisation à la ferme :
+** [http://www.solagro.org/site/im_user/193methaagricole.pdf données du Solagro (10 p)]
+** [http://www.aile.asso.fr/aile2004/ctn/activites/methanisation/pdf/16pmethanisation.pdf guide de 16 pages] du co-rédigé par SOLAGRO, AILE, le réseau TRAME et l’ADEME Lien externe) ou [http://trame.asso.fr/maj/_files/upload/documents/16pmethanisation.pdf ici]
+** [http://www.solagro.org/site/im_user/1932pfichemethanisation.pdf Sa synthèse] (2 pages)
+* Fiche : [http://sinfotech.cemagref.fr/UPL/map/fiches/Beline.pdf La méthanisation : un moyen de valoriser la matière organique des déjections animales et de réduire les émissions de gaz à effet de serre], Fabrice Béline et Armelle Gac Cemagref, décembre 2007
+**Présentation diapo [http://sinfotech.cemagref.fr/upl/map/fiches/presentations/beline-gac.pdf La méthanisation : Un moyen de valoriser la matière organique des déjections animales et de réduire les émissions de gaz à effet de serre] 28 diapos, Fabrice Béline et Armelle Gac, Cemagref.
+* [http://www.astee.org/publications/bibliographie/guide/guide_10/accueil.php Vade-mecum du porteur de projet de méthanisation des déchets des collectivités.] ''"Afin d'aider les collectivités et les acteurs de la gestion des déchets ménagers dans leurs options de traitement et de collecte, le groupe Gestion Biologique des Déchets de l'ASTEE a réalisé un Vade-mecum de la méthanisation. Guide complet et pratique de plus de 60 pages, ce dossier aborde l'ensemble des enjeux associés à la méthanisation des déchets, depuis la gestion de l'amont et des entrées, jusqu'à la valorisation des produits obtenus, sans omettre les aspects de process et les contraintes réglementaires."''
+
+==Voir aussi==
+=== Liens internes ===
+
+* [[méthane]]
+* [[biogaz]]
+* [[Énergie de la biomasse]]
+* [[Compostage]]
+
+===Liens externes===
+* [http://www.aile.asso.fr/aile2004/ctn/activites/methanisation/meth_accueil.html Page de l'association AILE], Rennes en Bretagne, les documents précédents + d'autres.
+* [http://www.evalor.fr/index.php/methanisation/avantages ]    '''http://www.evalor.fr''' Une étude personnalisée, une offre technique adaptée et un accompagnement complet de la conception à la réalisation de votre projet. 
+* [http://www.vks-asic.ch/ Association Suisse des installations de compostage et de méthanisation], ([http://www.vks-asic.ch/franz/uebersicht.html accueil en français])
+** [http://www.vks-asic.ch/acrobatreader/Rapport_ASIC_f_def.pdf Rapport 2004 sur les inspections des installations de compostage et de méthanisation en Suisse] <small>En Suisse, le débouché ''épandage'' est interdit pour les boues d'épuration, avec ou sans traitement, ce qui interdit de traiter conjointement des matières dont le débouché sera du compost ou l'épandage.</small>
+* [http://www2.ademe.fr/servlet/getDoc?cid=96&m=3&id=25139&p1=00&p2=00&ref=17597 Référentiel technico-économique des unités de méthanisation de produits organiques agricoles et non agricoles à petite échelle en Europe 2004] Guide technique méthodologique, ADEME/EREP 2004.
+* '''Référentiel technico-économique des unités de méthanisation de produits organiques agricoles et non agricoles à grande échelle en Europe 2003''' ADEME / MERLIN - 2003 ''cité [http://www2.ademe.fr/servlet/KBaseShow?m=3&catid=14227&cid=96&p2=05&p1=00t ici] Pas trouvé en ligne.
+* [http://www.google.fr/search?hl=fr&q=site%3Aademe.fr+m%C3%A9thanisation&btnG=Recherche+Google&meta= recherche méthanisation sur le site de l'ADEME avec Google]
+* http://www.methaneva.eu
+* http://www.trame.org
+* http://www2.ademe.fr
+* http://www.veoliawatersti.fr/standard/effluents-industriels/methanisation/
+* http://www.biogazrhonealpes.org/
+
+==Bibliographie== 
+
+[[Catégorie:Gestion des déchets]]
+[[Catégorie:Énergie]]
