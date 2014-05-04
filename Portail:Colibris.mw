@@ -1,0 +1,40 @@
+<!-- PRÉCAUTIONS : Ce portail utilise un modèle pour chaque section. Vous ne devez donc pas (sauf exception) éditer cette page directement, mais le modèle concerné. La liste des modèles est disponible avec leur correspondance dans le portail, sur la page de discussion. -->__NOTOC__  __NOEDITSECTION__
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = Bienvenue sur le portail Colibris!|
+tailleTitre = 150% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Présentation}}
+<div style="width:60%; display:block; float:left; align:left;"> <!-- DÉBUT COLONNE GAUCHE -->
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Crystal 128 knode.png|25px|link=]] Sélection d'articles |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Sélection d'articles}}
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Travaux.png|25px|link=]] Projet du {{PAGENAME}} |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Projet}}
+</div>
+<!-- FIN COLONNE GAUCHE -->
+<div style="width:39%; display:block; float:right; align:right;"> 
+<!-- DÉBUT COLONNE DROITE -->
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Nuvola apps ktip.png|25px|link=]] Lumière sur... |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Lumière sur}}
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Crystal 128 camera.png|25px]] Image du mois |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Image du mois}}
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Nuvola filesystems services.gif|25px|link=]] Contribuer |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Contribuer}}
+</div><!-- FIN COLONNE DROITE -->
+<br clear="all" /><!--pour éviter les chevauchements-->
+
+{{Portail/pied}}
+[[Catégorie:Portail:Colibris|*]]
+[[Catégorie:Colibris|*]]
