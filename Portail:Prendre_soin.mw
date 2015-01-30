@@ -1,0 +1,55 @@
+<!-- PRÉCAUTIONS : Ce portail utilise un modèle pour chaque section. Vous ne devez donc pas (sauf exception) éditer cette page directement, mais le modèle concerné. La liste des modèles est disponible avec leur correspondance dans le portail, sur la page de discussion. -->__NOTOC__  __NOEDITSECTION__
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Noia 64 apps kcmdrkonqi.png|25px]] Prendre soin de soi et des autres|
+tailleTitre = 150% |partie = {{NAMESPACE}}:{{PAGENAME}}/Présentation}}
+<div style="width:60%; display:block; float:left; align:left;">
+<!-- DÉBUT COLONNE GAUCHE -->
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Nuvola apps ktip.png|25px]] Lumière sur... |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Lumière sur}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Crystal 128 knode.png|25px]] Sélection d'articles |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Sélection d'articles}}</div> 
+<!-- FIN COLONNE GAUCHE -->
+<!-- DÉBUT COLONNE DROITE -->
+<div style="width:39%; display:block; float:right; align:right;">
+{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Crystal 128 camera.png|25px]] Image du mois |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Image du mois}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Noia 64 apps help index.png|25px]] Saviez vous que... |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Le saviez vous}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Nuvola filesystems services.gif|25px]] Contribuer |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Contribuer}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Crystal 128 knode.png|25px]] Articles à créer |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Ramdom}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Nuvola apps bookcase.png|25px]] Les catégories |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Catégories}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Travaux.png|25px]] Projet:Prendre soin |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Projet}}{{{{NAMESPACE}}:{{PAGENAME}}/Section |
+titre = [[Image:Noia 64 apps xeyes.png|25px]] Voir aussi |
+tailleTitre = 100% |
+partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}
+</div><!-- FIN COLONNE DROITE -->
+<br clear="all" /><!--pour éviter les chevauchements-->
+{{Portail/pied}}
+
+<noinclude>
+<!------- NE PAS MODIFIER les lignes SUIVANTES qui catégorisent cette page.  Merci ! --------------------------------------->
+<!------- ------------------------------------------------------------------------------------------------------------------>
+[[en:Portal:Health and care]]
+[[it:Portale:Curarsi]]
+</noinclude>
+<noinclude>
+<!-------------------------------------------------------------------------------------------------------------------------->
+[[Catégorie:Portail:Prendre soin|* Portail:Prendre soin]]
+[[Catégorie:Portail]]
+[[Catégorie:Prendre soin|* Portail:Prendre soin]]
+<!-------------------------------------------------------------------------------------------------------------------------->
+</noinclude>
