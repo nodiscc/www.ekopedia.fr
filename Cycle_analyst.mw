@@ -1,0 +1,295 @@
+{{Se déplacer}}
+
+== Description ==
+
+Le Cycle Analyst est le premier tableau de bord de surveillance de batteries conçu pour les besoins spécifiques d'un vélo à assistance électrique (VAE) et autres petits véhicules électriques.<br />
+
+*Il mesure la consommation électrique et la vitesse du véhicule, et affiche ces informations sur un écran.<br />
+
+*Il est également capable de limiter la vitesse d'assistance, le courant délivré, et de protéger la batterie d'une sous-tension.<br />
+
+Véritable "ordinateur de bord" pour petit véhicule électrique, il est très utile pour optimiser l'utilisation d'un VAE. A ce jour il n'existe pas d'équivalent à ce système.<br />
+
+Cette description concerne les C.A versions 2.0 et delà. <br />
+
+== Écran de contrôle ==
+[[Image:CycleAnalyst.jpg|thumb|250px|Écran de contrôle]]
+C'est un écran LCD rétro-éclairé en permanence.<br />
+
+Il affiche les valeurs suivantes en les distribuant dans 7 écrans successifs :<br />
+
+*Les deux premiers écrans donnent au pilote les paramètres pertinents durant son trajet.
+*Les cinq derniers écrans lui permettent d'analyser sa consommation d'énergie depuis la précédente remise à zéro des valeurs.
+
+'''V : Volts''' : Tension instantanée de la batterie.'''<br />
+
+'''Kph : Kilomètres par heure''' : Vitesse instantanée.<br />
+
+'''A : Ampères''' : Intensité instantanée délivrée.<br />
+
+'''W : Watts''' : Puissance de sortie instantanée.<br />
+
+'''Ah : Ampères heures''' : Consommation électrique depuis la remise à zéro.<br />
+
+'''Km : Kilomètres''' : Distance totale depuis la remise à zéro.<br />
+
+'''Wh : Watt Heure''' : Énergie totale consommée depuis la remise à zéro.<br />
+<u>Exemple de calcul théorique</u> :
+Batterie 36V / 16Ah - Formule (U x I = P) 36 x 16 = 576 : Capacité 576Wh.<br />Cette batterie peut donc fournir théoriquement 576 W pendant une heure, ou encore 250 Watts pendant 2h20mn<br />
+
+'''%Regen''' : Pourcentage du courant réinjecté dans la batterie durant les descentes (en réalité très peu sans dispositif particulier de régénération).<br />
+
+'''Regen Ah''' : Total des Ampères heures régénérés depuis la remise à zéro.<br />
+
+'''Fwd Ah''' : Total des Ampères heures consommés depuis la remise à zéro.<br />
+
+'''SMax''' : Vitesse maximale atteinte depuis la remise à zéro.<br />
+
+'''Savg''' : Vitesse Moyenne depuis la mise à zéro.<br />
+
+'''0h00m00s''' : Durée du d'utilisation totale depuis la remise à zéro.<br /> 
+Cette durée est décomptée uniquement lorsque la vitesse est non nulle: C'est le temps durant lequel vous avez effectivement roulé.<br />
+
+'''Amin''' : Pic maximum de courant réinjecté depuis la remise à zéro (régénération lors d'une grosse descente).<br />
+
+'''Amax''' : Pic maximum de courant délivré depuis la remise à zéro.<br />
+
+'''Wh/Km''' : Moyenne des watts-heures utilisés par kilomètres depuis la remise à zéro.<br />
+Cette valeur permet d'évaluer approximativement l'autonomie restante.<br />
+<u>Exemple de calcul théorique</u> : Avec une batterie de 576 w si vous consommez 5 Wh/Km, vous allez pouvoir parcourir 115 km (à condition de conserver la même consommation en Wh/Km).<br />
+
+<span style="color:#444444;">
+'''La remise à zéro se fait par un simple appui prolongé sur l'unique bouton du CA :'''</span><br />
+Par cette opération on remet à zéro toutes les valeurs ci-dessus: Il n'est pas possible de choisir certaines valeurs à réinitialiser et pas d'autres.<br />
+On fait généralement cette remise à zéro après chaque recharge car cette manœuvre incrémente de 1 la valeur "'''Cyc'''" qui comptabilise le nombre de cycles de recharge de votre batterie.<br />
+
+<u>Les trois valeurs suivantes totalisent des données qui ne sont pas remises à zéro par la fonction ''reset'' normal</u>.<br />
+Elles permettent d'avoir des totaux depuis l'installation de votre Cycle-Analyst ou depuis un reset total obtenu par une manœuvre spéciale.<br />
+
+'''Cyc''' : Nombre total de cycles de recharges de la batterie depuis l'installation ou le reset total. <br />Cette valeur s'incrémente à chaque fois que vous utilisez la fonction reset normal (remise à zéro).<br />
+
+'''TotAh''' : Nombre total d'Ah débités depuis l'installation ou le reset total.<br />
+
+'''TotKm''' : Kilométrage total parcouru depuis l'installation ou le reset total.<br />
+
+
+==Installation d'un Cycle Analyst modèle Stand Alone (CA-SA)  :==
+===Pré requis ===
+
+Savoir : 
+* Dénuder un fil
+* Réaliser une  [http://www.sonelec-musique.com/electronique_bases_tutoriel_soudure.html soudure électrique]
+
+Matériel :
+* Fer et fil à souder pour gros diamètres ou cosses de fort ampérage (30 amp) à sertir
+* Pince coupante
+* Un petit voltmètre peut vous rendre service <br />
+
+===Monter le Cycle Analyst-SA===
+L'installation est très simple.<br />
+
+1/ <u>Brancher le '''<span style="color:#444444;">shunt du CA</span>''' entre la batterie et le contrôleur</u> :<br />
+
+Il suffit de connecter le shunt du CA (petit boitier noir moulé sur le câblage u CA) sur le câble qui va de la batterie au contrôleur :<br />
+Deux fils clairement identifiés, + et -, entrent dans le shunt, et deux autres, + et -, en ressortent.<br />
+*Sur le + et le - qui entrent: Connecter les + et - de la batterie. <br />
+*Sur le + et le - qui sortent: Connecter les + et - qui partent vers le contrôleur du moteur.<br />
+Vous pouvez connecter ce shunt par soudure directe, ou mieux en soudant des fiches qui vous permettront de déconnecter le CA et de reconnecter la batterie directement au contrôleur.<br />
+
+2/ <u>Poser le '''<span style="color:#444444;">capteur de vitesse</span>'''</u> :<br />
+Cette pose est la même que celle d'un capteur de vitesse filaire pour compteur classique avec son aimant fixé sur un rayon (Ne pas utiliser un autre aimant).<br />
+
+===Résultat===
+Dès que vous mettez votre batterie sur ON, '''<span style="color:#444444;">l'écran d'accueil du CA s'allume !</span>'''<br />
+*'''<span style="color:#444444;">Toutes les informations énumérées au chapitre précédent sont disponibles</span>'''  par appuis successifs sur le bouton.<br /><br />
+
+===Paramétrage menu "Set-Up"===
+
+La batterie étant sur "off " appuyer sur le bouton du CA, le maintenir enfoncé et mettre la batterie en fonction.<br />
+
+L'écran d'accueil apparait, puis le message '''''Setup'''''.<br />
+ 
+Pour changer les variables : Une pression courte défile les choix. Une pression longue les valide.<br /> 
+
+#Sélectionnez l'unité de distance: Km ou Milles<br />
+#Indiquez la circonférence exacte de votre roue en cm<br />
+#Indiquez la vitesse maximale au delà de laquelle le CA supprimera l'assistance moteur (ce réglage est toujours accessible, mais il est inopérant si vous n'avez pas effectué la modification décrite au chapitre ''Limitation'')<br /> 
+#Indiquez la tension au dessous de laquelle le CA supprimera l'assistance moteur pour protéger la batterie (ce réglage est toujours accessible, mais il est inopérant si vous n'avez pas effectué la modification décrite au chapitre ''Limitation'')<br /> 
+#Indiquez l'Ampérage maximal au delà duquel le CA supprimera l'assistance moteur (ce réglage est toujours accessible, mais il est inopérant si vous n'avez pas effectué la modification décrite au chapitre ''Limitation'')<br />
+#Sélectionnez le paramètre : Intensité(A) ou Puissance(W), que vous voulez voir apparaitre sur l'écran principal.<br />
+
+
+<u>ATTENTION</u>:<br />A ce niveau de l'installation votre CA affiche bien les données sur la consommation électrique et la vitesse du vélo, mais '''<span style="color:#444444;">il n'est pas capable de limiter vitesse et courant</span>'''.<br />
+*Vous pouvez l'utiliser tel quel , mais pour que cette très utile fonction de limitation soit opérante vous devrez procéder en plus au branchement d'une diode et d'une résistance comme indiqué dans la section suivante.<br /><br />
+
+== Fonction de limitation ==
+
+'''<span style="color:#444444;">Il existe un certain nombre de situations où il est souhaitable de limiter le courant délivré par la batterie: <br />Cette fonction permet au CA d'agir sur <u>trois facteurs importants</u> : </span>'''<br />
+*Limiter les forts appels de courant pour augmenter votre autonomie lorsque votre parcours peut vous emmener aux limites de la batterie.<br />
+
+*Paramétrer une vitesse au delà de laquelle le moteur ne fournira plus d'assistance peut aussi contribuer à augmenter votre autonomie.<br />
+
+*Enfin limiter le seuil bas de tension est primordial pour sauvegarder votre batterie. Même si votre BMS fourni le même service, doubler cette sécurité n'est pas inutile.<br />
+
+Grâce a cette fonction vous pourrez paramétrer votre propres valeurs de consigne en '''<span style="color:#444444;">Ah maxi / Vitesse maxi / Seuil bas de tension</span>''' par le menu setup, comme indiqué dans la section Paramétrage ci-dessus.<br />
+
+Le CA va agir agir, de manière électrique, sur le signal qui vient de votre commande de puissance (accélérateur ou PAS) comme vous le feriez vous même, de manière mécanique, en tournant votre poignée d'accélérateur ou en arrêtant de pédaler.<br />
+
+'''<span style="color:#444444;">Pour rendre cette fonction opérante il suffira de placer une <u>diode</u> et une <u>résistance</u> sur le circuit de commande électrique comme le montre le schéma ci-après.</span><br />[[Image:CycleAnalystSchemaBridage.png|thumb|250px|Schéma de bridage]]<br />
+Ce petit système monté sur le fil de consigne de l'accélérateur permettra au CA de limiter courant et vitesse selon les paramètres que vous aurez choisi. <br />
+
+'''<span style="color:#444444;">Traduction des termes du schéma :</span><br />
+*Throttle = Accélérateur
+*Throttle over ride = Désigne le boitier du CA sur ce schéma
+*Th pad on PCB = Borne "marquée "Th" sur le circuit imprimé à l'intérieur du CA
+*Hall effec Throttle signal = Désigne le fil de consigne de l'accélérateur (vert ou blanc, jamais rouge ou noir)
+*To controller throttle input = Désigne le câble de l'accélérateur qui part vers le contrôleur
+=== Monter le système de limitation===
+
+Inspiré aussi de :
+[[http://cyclurba.fr/forum/32385/cycle-analyst.html?discussionID=2715]] [[http://www.velectris.com/forum/s1203-Limitation-avec-Cycle.html]]
+
+'''''Matériel:'''''<br />
+*Fer à souder panne pointue<br />
+*Fil à souder qualité électronique<br />
+*Pinces coupantes<br />
+*Scotch électricien<br />
+*Gaine thermo-rétractable- éventuellement-<br />
+*Une Diode modèle 1N4148
+*Trois résistances d'une valeur proche de 1 kOhms, 3 kOhms, 5 kOhms<br />
+*50cm de fil électrique<br />
+
+
+<u>'''Pose de la résistance :'''</u><br />
+'''<span style="color:#444444;">1/ Dénuder la gaine du câble qui sort de l'accélérateur</span>''' au niveau où se trouvera le boitier écran du CA.<br />
+*Attention : Il s'agit pour l'instant de dénuder la gaine sans couper les fils.<br />
+Il y a généralement trois fils dans cette gaine en sortie de l'accélérateur : un noir, un rouge, et un dernier généralement vert, ou parfois blanc : c'est ce fil vert ou blanc qui est celui du signal. 
+
+'''<span style="color:#444444;">2/ Couper ce fil de signal</span>''' (UNIQUEMENT celui là).<br /> 
+
+'''<span style="color:#444444;">3/ Souder la résistance</span>''' entre les extrémités de ce fil que l'on vient de couper.<br />
+
+
+<u>'''Pose de la diode :'''</u><br /> 
+[[Image:CycleAnalystOuvert.jpg|thumb|CycleAnalystOuvert]]
+
+'''<span style="color:#444444;">1/ Ouvrir le CA, percer un petit trou dans le boîtier</span>''' près des autres sorties de câbles du CA.<br /> Sur le CA version grand écran plusieurs passages de fils sont déjà disponibles à l'arrière du boîtier.
+
+'''<span style="color:#444444;">2/ Souder la diode sur la borne TH du circuit imprimé du CA</span>''' (entourée de rouge sur la photo).<br />
+*Attention : Sur le corps de la diode il y a un trait noir sur une des extrémités : c'est cette extrémité qui doit être soudée sur la borne TH.<br />
+
+'''<span style="color:#444444;">3/ De l'autre coté de la diode souder un fil</span>''' qui va passer par le trou du boîtier.
+
+'''<span style="color:#444444;">4/ Souder ce fil sur le fil de signal de l'accélérateur</span>''' quelque part entre la résistance et le contrôleur.<br />
+*Il peut être soudé sur la borne de la résistance qui pointe vers le contrôleur : De cette manière le fil de signal de l'accélérateur n'est coupé qu'une fois.<br />
+
+'''<span style="color:#444444;">5/ Fermer le CA.</span>''' <br /> 
+
+'''<span style="color:#444444;">6/ Protéger la résistance et les connections/soudures sur les câbles</span>''' par gaine thermo + scotch élec. 
+*Ou insérer dans un petit boîtier étanche.<br /> 
+
+'''Conseils de montage : '''<br />
+
+*Acheter plusieurs valeurs de résistances proches de : 1, 3, 5 kOhms.
+**Commencer par monter la 5 kOhms, régler la valeur de vitesse max sur 99km/h. 
+**Faire un essai : si la vitesse max atteinte par votre vélo est inférieure à celle que vous aviez sans le CA : essayer 3k, etc.<br />
+Une résistance de 1 à 2 kOhms permet de ne pas trop impacter la consigne maximale de la poignée sur le contrôleur.<br /> 
+Des essais sont donc nécessaires, mais cette valeur de 1 à 2k semble actuellement convenir à beaucoup de VAE.<br />
+Il faut juste qu'il y ait une résistance d'au moins 1000 ohms (1k)
+ 
+*Quelle que soit la batterie 36V, 48V, 72 V ça ne change rien à ce qui précède.<br />
+
+*Pour les vélos qui ont des PAS analogiques :<br />
+Remplacer "Throttle" par "PAS" sur le schéma.<br />
+
+*Pour les vélos qui ont les deux qui se branchent en parallèle : <br />
+Remplacer "Throttle" par "poignée+PAS" sur le schéma.<br />
+
+*Pour les vélos qui ont deux entrées (PAS et poignée) sur leur contrôleur:<br />
+Il faudra faire un choix sur celle que vous voulez limiter : Ce sera l'une ou l'autre.<br />
+
+
+'''<u>Choisir les valeurs de limitations :'''</u><br />
+Entrer les valeurs de consignes dans le menu Setup du CA pour limiter:  
+*La vitesse maxi
+*Les Ah maxi
+*La tension mini de la batterie
+Chaque fois qu'une de ces valeurs est atteinte le CA coupe l'alimentation du moteur, puis relance dès que la valeur revient dans les valeurs de consignes.
+
+===Options===
+<span style="color:#444444;">
+'''Ce sont deux petits systèmes qui rendent la limitation de votre CA encore plus agréable à utiliser.'''</span><br />
+Vous pouvez indifféremment monter l'une ou l'autre de ces options, et mêmes les deux ensemble.<br />
+
+'''<u>Option 1 : Pour rendre le système débrayable:'''</u><br />
+Monter simplement un petit interrupteur en série sur le fil en sortie de diode :<br /> 
+* Interrupteur fermé vous êtes en config "limitation" : Le CA limite puissance, vitesse, et tension en fonction des valeurs de consignes que vous avez paramétré.<br /> 
+* Interrupteur ouvert vous êtes en config "full power" : La limitation n'est plus en fonction : Le moteur donne toute sa puissance.<br /> 
+
+'''<u>Option 2 : Pour pouvoir modifier la limitation de puissance en roulant:'''</u><br />
+(Cette option n'est accessible qu'à partir de la version '''V2.1''' et suivantes)<br />
+Monter un potentiomètre de 10 kOhms entre la borne "G"-Ground- et la borne Vi-Auxilliary Input Voltage- (bien visibles sur la photos ci-dessus).
+* Vous pourrez modifier directement, en roulant (sans passer par le setup), la valeur de consigne Ah (puissance maxi délivrée)
+
+=== Paramétrages menu "Advanced Setup"===
+
+En modifiant les nombreux paramètres de ce setup avancé, accessible depuis le setup normal, vous pourrez obtenir une régulation encore plus précise et répondant parfaitement à vos attentes.<br />
+Toutes ces possibilités sont détaillées dans le mode d'emploi du CA (lien en bas de page)<br />
+'''<span style="color:#444444;">ATTENTION : Réservé aux utilisateurs avancés !</span>'''<br />
+
+<u>Exemples de paramétrages portant sur la vitesse et l'intensité</u> :
+*'''<span style="color:#444444;">PSGain</span>''' : par défaut = 0,08/ mini = 0 / maxi = 0,99<br />
+Agit sur la rapidité de la réponse du CA proportionnellement à l'importance du dépassement de la vitesse (S) de consigne.<br />
+> Plus diminuez cette valeur, plus le CA autorisera un fort dépassement de la vitesse de consigne avant de couper l'assistance :<br />
+<span style="color:#009900;">
+=> Gain de souplesse autour de la vitesse maxi d'assistance</span><br />
+> Plus vous augmentez cette valeur, moins le CA autorisera de dépassement de la vitesse de consigne avant de couper l'assistance : <br /><span style="color:#2A55D6;">
+=> Gain d'autonomie</span><br />
+
+*'''<span style="color:#444444;">IntSGain</span>''' : par défaut = 200  / mini = 0 / maxi = 999<br />
+Agit en cascade, derrière le PSGain, sur la rapidité de la réponse du CA.<br />
+
+> Plus diminuez cette valeur, plus le temps de réaction du CA sera long pour couper l'assistance après dépassement de la vitesse de consigne  =<br /> <span style="color:#009900;">
+=>Plus de souplesse autour de la vitesse maxi d'assistance</span><br />
+> Plus vous augmentez cette valeur, plus le temps de réaction du CA sera court pour couper l'assistance après dépassement de la vitesse de consigne :<br /> <span style="color:#2A55D6;"> 
+=>Plus d'autonomie</span><br />
+
+*'''<span style="color:#444444;">IntAGain</span>''' : par défaut = 300  / mini = 0 / maxi = 999<br />
+Agit sur la rapidité de la réponse du CA après le dépassement de l'intensité (A) de consigne.<br />
+
+> Plus diminuez cette valeur, plus le temps de réaction du CA sera long pour couper l'assistance après dépassement de l'intensité de consigne  :<br /> <span style="color:#009900;">
+=>Plus d'énergie pour les démarrages ou les relances</span><br />
+> Plus vous augmentez cette valeur, plus le temps de réaction du CA sera court pour couper l'assistance après dépassement de l'intensité de consigne  :<br /> <span style="color:#2A55D6;">
+=>Plus d'autonomie</span><br />
+
+<u>Pour le cas où vous seriez perdus après une séance de paramétrage voici, pour mémoire et dans l'ordre, les valeurs d'origine </u>:<br />
+*Range Mode = low 0.01A
+*Averaging = 5
+*SetRshunt = 1.277mOhm
+*Zero amps = 0
+*Volt sense = 22.89V/V
+*Set#poles = 1
+*'''<span style="color:#444444;">PSGain</span>''' 0.08V/kph
+*'''<span style="color:#444444;">IntSGain</span>''' = 200
+*PAgain = 0.05V/A <span style="color:#9999FF;">(cette valeur n'est plus accessible sur les versions v 2.1 et suivantes du C.A)</span>
+*'''<span style="color:#444444;">IntAGain</span>'''  = 300
+*PVGain = 0.38V/V <span style="color:#9999FF;">(cette valeur n'est plus accessible sur les versions v 2.1 et suivantes du C.A)</span>
+*IntVgain = 800
+*ITerm max = 3.79V
+*Iterm min = 0.49V
+*Maxthrottle = 4.98<V
+*SetRatio = 0.1 LG/HG
+*Serial Output = 1Hz <span style="color:#9999FF;">(cette valeur n'est accessible qu'à partir des versions v 2.1 et suivantes du C.A)</span>
+
+== Voir aussi==
+
+===Lien interne===
+* [[Vélos à assistance électrique]]
+
+===Lien externe===
+* [http://www.ebikes.ca/drainbrain.shtml Site officiel du cycle analyst]
+* [http://www.ebike.ca/drainbrain/CycleAnalyst_Manual_Vers21.pdf Mode d'emploi en Anglais V2.1]
+* [http://www.ebikes.ca/drainbrain/CA_Manual_French.pdf Mode d'emploi en Français V2.0]
+
+{{Portail Se déplacer}}
+[[Catégorie:Cycle]]
