@@ -1,0 +1,235 @@
+{{Communiquer}}
+Le '''matériel libre''' (en anglais ''open hardware'') définit les [[ordinateur]]s et le matériel [[électronique]] développés selon les principes de la [[culture libre]].
+
+Il est donc conçu pour se rapprocher du modèle du [[logiciel libre]], c'est-à-dire qu'il vise à garantir à l'utilisateur la possibilité d'utiliser, de modifier, de faire évoluer et de redistribuer le produit (sans restrictions imposées par les concepteurs d'origine).
+
+'''Le matériel libre réduit les coûts en moyenne par huit - 8 fois moins chère en prix de revient et plus écologique'''<ref>[http://openfarmtech.org/weblog/2010/10/global-village-construction-set-gvcs-in-2-minutes/ BFI Challenge & Global Village Construction Set in 2 Minutes]</ref>{{,}}<ref>[http://openfarmtech.org/index.php?title=LifeTrac Exemple détaillé du tracteur lifetrack : 20 000 euro au lieu de 150 000 euro]</ref>, sans compter les [[technique]]s d'[[impression 3D]] (pour produire tout matériel de toute taille, de tout matériaux, y compris de l'électronique, de la nourriture ou [[biologique]] avec des cellules souches pour créer des organes à transplanter pour la [[médecine]]) qui réduiront encore plus les coûts, permettant ainsi la [[résilience]], l'[[autonomie]], la [[création]] d'[[écovillage]]s.
+
+Le Matériel [[OpenSource]] est un terme qui regroupe des artéfacts tangibles — machines, dispositifs ou toutes choses physiques — dont les plans ont été rendus publics, de façon que quiconque puisse les fabriquer, modifier, distribuer et les utiliser. Une définition commune du Matériel OpenSource (OSHW - OpenSource Hardware) existe et fut créée par différents acteurs<ref>[http://www.lagrottedubarbu.com/2010/07/14/open-source-hardware-oshw-ebauche-de-definition-traduction/ Open Source Hardware (OSHW) ébauche de définition ]</ref>. Ceci permet de définir le matériel open source, et d'en conclure les [[licence]]s qui sont compatibles avec celle-ci.
+
+Chris Anderson, rédacteur en chef de Wired et auteur de ''La longue traîne'' affirme que "''Dans la prochaine [[révolution industrielle]]'', ''les atomes seront les nouveaux bits''"<ref name="32280184 La prochaine">[http://www.lemonde.fr/technologies/article/2010/11/05/la-prochaine-revolution-faites-la-vous-meme_1436212_651865.html#xtor=AL-32280184 La prochaine révolution ? Faites-la vous même ! (lemonde)]</ref> et évoque la [[voiture]] libre [[Rally Fighter]], une des premières voiture de course “open source” (ses spécifications sont “libres“), développée de façon communautaire, en mode “[[crowdsourcing]]”. Dans un autre article il ajoute “''si ces 10 dernières années ont permis la découverte et l’émergence'', ''sur le web, de nouveaux modèles sociaux post-institutionnels'', ''les 10 prochaines années les verront s’appliquer dans le monde réel''”<ref>[http://www.wired.com/magazine/2010/01/ff_newrevolution/all/1 nouvelle révolution industrielle, Chris Anderson] </ref> :
+
+{{Début citation}}L’internet a démocratisé la publication, la diffusion et la communication, ce qui a eu pour conséquence d’accroître de façon massive le degré de participation et de participants dans le monde digital -la longue traîne des bits.
+La même chose est en train de se produire en terme de fabrication – la longue traîne des objets. Le web n’était qu’une démonstration de faisabilité (proof of concept, en VO). Maintenant, la révolution va aussi toucher le monde réel.”{{Fin citation}}
+
+Pour Marten Mickos, ex-PDG de MySQL, cette révolution porte encore bien plus sur ce que peuvent faire les êtres humains entre eux, dès lors qu’ils se mettent en réseau :
+{{Début citation}}Auparavant, les gens collaboraient dans leurs villages. Aujourd’hui, le village, c’est la [[planète]]. Ça a débuté avec le développement de logiciels libres et open source, mais c’était une pure coïncidence : les développeurs de logiciels ont été les premiers êtres humains à véritablement embrasser l’internet.
+
+N’importe quel autre groupe peut aujourd’hui connaître de tels bouleversements : on commence à le voir avec des journalistes, chercheurs, hommes politiques, professionnels de la santé, et aujourd’hui avec des fabricants de voiture…{{Fin citation}}
+
+== Économie ==
+Le magazine ''Make'' soutenant le mouvement du matériel libre, a édité une présentation des grandes entreprises du matériel libre, avec leurs évolutions en chiffre d'affaires<ref> {{fr}} [http://www.logiciellibre.net/shortnews.php?ref=20100512 Treize entreprises actives dans l'Open Source Hardware au delà du million de dollars de CA] : marché en croissance de plus de 100% par ans</ref>.
+
+Eric von Hippel, démontre qu'il y a 2 à 3 fois plus d’innovations de la part des [[Consommation|consommateur]]s qu’il n’y en a dans l’industrie<ref>[http://www.internetactu.net/2010/09/23/eric-von-hippel-il-y-a-2-a-3-fois-plus-dinnovations-de-la-part-des-consommateurs-quil-ny-en-a-dans-lindustrie/ Eric von Hippel : il y a 2 à 3 fois plus d’innovations de la part des consommateurs qu’il n’y en a dans l’industrie(internetactu)]</ref>.
+
+Arduino, est utilisé par des milliers d’artistes, ingénieurs, designers et passionnés désireux de créer des objets ou environnements interactifs, indépendants, c’est en tout cas le plus vendu jusqu'à aujourd'hui (plus de {{formatnum:100000}} unités – à partir de {{unité|20|$}})<ref name="32280184 La prochaine"></ref>
+
+[[DIY Drones]], lancé par Chris Anderson, est un portail communautaire permettant de développer des drones à prix compétitif, l'entreprise a généré un chiffre d’affaires de {{formatnum:250000}} dollars la première année, les 2/3 à l’export, et il espère atteindre le million d’ici trois ans. Ses principaux concurrents ? Lockheed Martin et Boeing, dont il divise les coûts technologiques par 10, essentiellement en économisant sur les brevets et la [[propriété intellectuelle]], en crowdsourçant la recherche et [[développement]], tout en s’affranchissant de la [[bureaucratie]], des commerciaux, communicants, bureaux, usines… la production des étant externalisée dans un TechShop du Colorado.
+
+Dans le même ordre de gain chiffré et de compétitivité, [[openfarmtech]] qui vise à faire de l'[[écologie]] open source, afin de créer des écovillages, rapporte que son matériel libre coute 8 fois moins que ces concurrents fermés<ref>[http://openfarmtech.org/weblog/2010/10/global-village-construction-set-gvcs-in-2-minutes/ BFI Challenge & Global Village Construction Set in 2 Minutes]</ref>{{,}}<ref>[http://openfarmtech.org/index.php?title=LifeTrac Exemple détaillé du tracteur lifetrack : 20 000 euro au lieu de 150 000 euro]</ref>.
+
+Lors de sa présentation “Open Everything” au parlement Européen, Michel Bauwens de [[P2P Foundation]] a mis en avant que les projets opensource ou libre visent la perfection, soit la meilleure qualité possible, les meilleurs coûts, tout en respectant les contraintes [[éthique]]s et écologiques<ref>[http://www.youtube.com/watch?v=DGjQSki0uyg Video “Open Everything” TEDxBrussels - Michel Bauwens - 11/23/09]</ref>{{,}}<ref>[http://blog.p2pfoundation.net/open-everything-p2p-presentation-for-tedx-brussels/2009/11/23 Présentation]</ref>.
+
+== Initiatives ==
+
+===Production de nourriture libre et abondante===
+* [[Hydroponie]] - et [[aéroponie]], [[ultraponie]] <ref>[http://www.kurzweilai.net/future-food-for-cities Future Food For Cities]. D'ici une décennie, vous serez en mesure de développer tout vos besoin en [[légume]]s dans une boîte à peine plus grande que votre [[réfrigérateur]]. Les [[jardins aéroponique]] peuvent économiser 90% de l'[[eau]] utilisée dans un [[jardin]] classique, et le taux de croissance peut être de 25% plus élevé que dans les jardins du sol parce que les niveaux d'[[oxygène]] dans l'[[air]] sont beaucoup plus élevés que dans le sol. Un supplément de 40% de taux de croissance supplémentaire peut être obtenu par la [[culture]] des [[plante]]s dans des atmosphères enrichies en CO2.</ref> :
+* [[Algue]]s.
+
+===Production d'énergie libre et abondante===
+
+Par la [[photosynthèse]] :
+* Les [[algue]]s pour la Production d'[[hydrogène]], de [[pétrole]], de [[méthane]], de [[biomasse]], (et ainsi d'[[électricité]] ou d'[[énergie]]).
+
+[[Panneau solaire]] libre : produire des [[cellules photovoltaïques]] est difficilement réalisable pour le moment, mais si vous achetez des cellules photovoltaïques (même en partie cassées) au lieu de panneau complet vous paierez moins cher ('''10 fois moins, soit un amortissement en un an'''). Il faut noter que des systèmes d'encre photosensible, que l'on pourrait imprimer ou déposer sur des fenêtre sont en développement.
+* Aide à la [[construction]] de panneau solaire soi même (DIY) à partir de cellule photovoltaique<ref>[http://www.instructables.com/tag/type-id/category-workshop/channel-solar/?sort=POPULAR Aide a la construction de panneau solaire soi même (instructable)]</ref><ref>[http://power-shift.org/solar-panel-construction-3-open-source-ecology Solar Panel Construction 3 – Open Source Ecology]</ref>
+* The Conc en trated Solar Power Open Source Initiative (CSPOSI)<ref>[http://www.csposi.org/ The Conc en trated Solar Power Open Source Initiative (CSPOSI)]</ref>
+AIDE : Prendre des cellules monocristallin pour un meilleur rendement y compris par mauvais temps, et prendre si possible les cellules fournissant le plus de puissance pour avoir moins de surface et moins de travail et de matériel pour l'assemblage de vos panneaux.
+
+[[Pompe à chaleur]] : 
+* Solar Heat Pump Electrical Generation System - SHPEGS<ref>[http://www.energytower.org/ Solar Heat Pump Electrical Generation System - SHPEGS]</ref>
+
+[[Éolienne]] libre :
+* [http://en.wikipedia.org/wiki/Small_wind_turbine#DIY_and_Open_Source_Wind_Turbines DIY and Open Source Wind Turbines]
+* éolienne à axe vertical<ref>[http://www.onpeutlefaire.com/construire-une-eolienne-a-axe-vertical Construire une éolienne à axe vertical](onpeutlefaire)</ref>
+* Small Wind Turbine( howto ) <ref>[http://en.howtopedia.org/wiki/How_to_Build_a_Small_Wind_Turbine Small Wind Turbine]</ref>
+
+=== Les moyens de transport ===
+
+[[Véhicule électrique]]
+
+Voitures :
+* Six Voitures libres et écologiques<ref>[http://p2pfoundation.net/Open_Source_Car Des Voitures libres (p2pfoundation)]</ref>
+
+Motos :
+* [[Open Moto X]] : une moto de course électrique, en matériel libre<ref>[http://openmotox.wikia.com/wiki/Open_Moto_X_Wiki Open Moto X]</ref>
+[[Vélos à assistance électrique]]
+
+Velo : 
+* WorldBIke<ref>[http://worldbike.org/resources WorldBike]</ref>
+
+Vélo électriques
+
+Bateaux :
+* Xmaran<ref>[http://xmaran.org/tiki-index.php Xmaran]</ref> : projet de catamaran pour créer un ville durable sur l'océan
+
+Aerien :
+* Aeromodeller<ref>[http://www.aeromodeller2.be/ aeromodeller]</ref> : projet de montgolfière
+* Note : des projets de montgolfière fonctionnant seulement à l'énergie solaire sont en constructions par les gouvernements.
+=== Les imprimantes 3-D ===
+
+* [[Imprimante 3D]] ([[RepRap]], [[Fab@home]], [http://en.wikipedia.org/wiki/MakerBot_Industries Makerbot], [http://en.wikipedia.org/wiki/CandyFab CandyFab] Imprimante FoodPrinting)
+L'[[Imprimante 3D]] est surement un composant important dans la nouvelle forme de production, et qui pourrait le devenir de plus en plus. La précision et les types de matériaux augmenteront à l'avenir avec des techniques plus avancées<ref>[http://nextbigfuture.com/2010/08/voxel-fabbing-nanosphere-lithography.html Voxel Fabbing, Nanosphere Lithography and Microspheres, Personal Portable 3D Printer and At Home Laser Cutting ]</ref>.
+
+[[Arthur C. Clarke]] avait parlé d'une « machine à répliquer » dans les années 1960, machine qui allait répliquer les objets comme on imprimait des livres, et ce qui aurait un impact profondément positif sur la société : « l'humanité s'adaptera comme par le passé »<ref>[http://www.youtube.com/watch?v=XosYXxwFPkg&feature=player_embedded BBC Horizon (1964) with Arthur C. Clarke (Part 2 of 2)]</ref>{{,}}<ref>[http://vimeo.com/6527021 Video : How to Build a Post-Scarcity Village, Marcin Jakubowski, OpenFarmTech]</ref>.
+
+Le [[New York Times]] a traité de ce sujet et parle de moyen de fabrication révolutionnaire, et déjà utilisé par de nombreuses entreprises<ref>[https://www.nytimes.com/2010/09/14/technology/14print.html 3-D Printing Spurs a Manufacturing Revolution]</ref>.
+
+Le commandement des opérations spéciales de l'armée américaine construit huit « usines mobiles » qui peuvent rentrer dans des conteneurs de transport standard. Ces usines sont basées sur une expérience réussie , le MPH<ref>[http://globalguerrillas.typepad.com/globalguerrillas/2010/08/resilient-community-forget-afghanistan-these-are-needed-in-detroit-etc.html RESILIENT COMMUNITY: Forget Afghanistan, These are Needed in Detroit etc.]</ref>. Ce type de « micro usines » est l'aboutissement de l'idée d'usine, avec des technologies d'impression 3-D.
+
+
+===Appareil électronique grand public===
+
+* Apertus : Une caméra HD libre<ref>[http://osliving.com/sourced/real-world-open-source/meet-apertus-the-open-source-hd-cinema-camera/ Article sur apertus]</ref>
+
+[[Baladeur multimédia]]:
+* [http://lyre.sourceforge.net/ LYRE] qui utilise le logiciel libre [[Rockbox]].
+
+[[Téléphone mobile]]:
+*[[OpenMoko]]
+*[http://mozphone.com/ Futur MozPhone] de la [http://fr.wikipedia.org/wiki/Mozilla#La_Fondation_Mozilla Fondation Mozilla]
+* [[OsmocomBB]] Projet d'ouverture des téléphones GSM
+
+Point d'accès téléphonique sans fil ( GSM, ...) : Les réseaux Open-source pour téléphone cellulaire pourrait réduire les coûts à {{unité|1.5|euros}} par personne et par mois<ref>[http://www.engineeringforchange.info/2010/06/open-source-cell-phone-network-could-cut-costs-to-2-per-month/ Open-source cell phone network could cut costs to $2 per month]</ref>
+* [[OpenBTS]]<ref>[http://en.wikipedia.org/wiki/OpenBTS OpenBTS Wikipedia anglais]</ref> logiciel libre qui permet de créer un point d'accès GSM. Openbts utilise notamment le logiciel libre asterisk, et respecte la norme GSM<ref>[http://owni.fr/2010/09/10/openbts-un-reseau-mobile-open-source-qui-pourrait-changer-le-monde/ OpenBTS: un réseau mobile open source qui pourrait changer le monde]</ref>.
+*[[OpenBSC]]<ref>[http://openbsc.osmocom.org/trac/wiki/OpenBSC Site]</ref>
+
+[[Console de jeux vidéo]] 
+*([[GP2X]], [[Pandora (console)|Pandora]], DOGS)
+
+===Électroménager===
+
+Machine à laver :
+* [http://www.oswash.org/ OSWash] Open source washing machine.
+
+Réfrigérateur :
+* Green Fridge : Réfrigérateur à très faible consommation, donc économe, consomme 30 kWh par mois, sois environ 30 fois moins d'énergie qu'un réfrigérateur de classe A+<ref>[http://www.homedesignfind.com/appliances/green-fridge-invention-uses-almost-no-electricity/ Green Fridge Invention Uses Almost No Electricity]</ref>.
+* Réfrigérateur solaire : ne consomme pas d'énergie exceptée l'énergie directe du soleil, de préférence en milieu ensoleillé<ref>[http://www.inhabitat.com/2009/01/12/solar-powered-fridge-by-emily-cummins/ Student Invents Solar-Powered Fridge for Developing Countries]</ref>.
+
+===Domaine médical===
+
+Matériel médical libre :
+* [[Open Prosthetics Project]] : des projets de prothèses libres <ref>[http://openprosthetics.org/ site]</ref>{{,}}<ref>[http://www.framablog.org/index.php/post/2010/11/12/protheses-libres-pour-mieux-vivre Article : Des prothèses libres pour mieux vivre(framablog)]</ref>.
+* Open Myoelectric Signal Processor : Interface matériel pour gérer les signaux du corps afin de diriger des prothèses<ref>[http://openprosthetics.wikispot.org/Open_Myoelectric_Signal_Processor site]</ref>.
+* [[Whirlwind Wheelchair International]] des chaises roulantes libres ( design mis sous domaine public )<ref>[http://www.whirlwindwheelchair.org/ site]</ref>.
+* Open EEG ( Électro-encéphalographie ) <ref>[http://openeeg.sourceforge.net/doc/ site]</ref>.
+* Pandemic Ventilator Project  : assistance respiratoire <ref>[http://panvent.blogspot.com/ site] </ref>.
+* EyeWriter Project : Permettre a des handicaper de communiquer avec les yeux<ref>[http://www.refresheverything.com/eyewriter site]</ref>.
+
+[[Médicament libre]] :
+* [[Opensource Drug Discovery]]<ref>[http://www.osdd.net/ site]</ref> : Recherche des médicaments opensource et libre, et en collaboration. Les Découvertes résultant de ces recherches ne seront pas breveté, mais plutôt, ils sont mis à la disposition de tous, dite «pharma virtuelle», comme d'autres initiatives tel que [[Institute for OneWorld Health]]<ref>[http://www.oneworldhealth.org/ site]</ref> et la [[Drugs for Neglected Diseases Initiative]]<ref>[http://www.dndi.org/ site]</ref>, ainsi le développement et la production, et sera possible dans les pays touchés eux-mêmes permettant la production locale. 
+
+=== Pour l'agriculture et l'écologie ===
+* [[LifeTrack]], un tracteur libre d'[[openfarmtech]], multifonction, qui vise à mettre en œuvre divers projets d'écologie libre<ref>[http://openfarmtech.org/weblog/wp-content/uploads/2010/08/GVCS-Burndown.jpg Image des projet openfarmtech]</ref>{{,}}<ref>[http://openfarmtech.org/index.php?title=LifeTrac_II_Build Documentation et design LifeTrac II Build]</ref>. Coute 8 fois moins chère qu'un tracteur sur le marché<ref>[http://openfarmtech.org/index.php?title=LifeTrac 20 000 euro au lieu de 150 000 euro]</ref>.
+
+===Projets spatiaux===
+* [[Open Source Satellite Initiative]] (OSSI)  : Après trois années de recherche et un an d'expérience en tant qu'ingénieur de satellite, [[Song Hojun]] a trouvé qu'il est possible de lancer et exploiter un satellite personnel à un prix très raisonnable. En outre, les cinq dernières années, il explore les moyens d'intégrer le concept de satellite personnelle dans des contextes culturels et économiques, et dans des pratiques artistiques. Tous les systèmes de ses satellites (à l'exception de la fusée pour le lancer) sont sous [[licence libre]] - conçus de façon que les gens ordinaires peuvent également avoir la chance de développer et éventuellement lancer leurs propres satellites<ref>[http://opensat.cc/ site]</ref>{{,}}<ref>[http://books.google.com/books?id=YAIHa97G4icC&printsec=frontcover&dq=diy+satellite&ei=X0TSS8fgOYr8lQTUtOH0CA&cd=1#v=onepage&q&f=false D.I.Y. Satellite Par Song Hojun.] ( livre )</ref>.
+* AMSAT - Radio Amateur Satellite Corporation<ref>[http://www.amsat.org/amsat-new/index.php AMSAT - Radio Amateur Satellite Corporation]</ref>
+* [[CubeSat]] : spécification libre fait par les universités de California Polytechnic State University (Cal Poly) et Stanford University. ( voir par exemple [http://en.wikipedia.org/wiki/UCISAT UCISAT] )
+* [[Ristretto]] est un projet de plate-forme satellitaire libre porté par le CNES. Si ce projet est à destination des unités de recherche et du monde de l'enseignement, il explore un domaine nouveau (satellite de {{unité|30|cm}} de côté) et sa réussite ouvrirait la voie à diverses opportunités commerciales<ref>NB : Le périmètre du projet semble en cours (octobre 2010) de réévaluation au CNES
+[http://www.cnes.fr/web/CNES-fr/175-stages-cnes.php?view=item&item=5364 Etude d'un projet satellite étudiant en Open Source].
+Synthèse des études préliminaires réalisées sur les projets étudiants, en particulier RISTRETTO (satellites/ballons et réseau de stations). Proposition d’une architecture système et d’une organisation pour la concrétisation de telles idées de projets.
+
+Le sujet comporte 2 aspects qui seront partagés entre les 2 étudiants :
+1- Architecture système d'une gamme RISTRETTO de satellites « étudiants » (micro-satellites) de type cubesat (30kg/30 W/30 cm) avec une plateforme qui serait développée en open source.
+</ref>
+
+Ballons sondes :
+* Weather Balloon Space Probes<ref>[http://makezine.com/24/ Weather Balloon Space Probes in MAKE Volume 24] by John Baichtal,</ref>
+
+=== Autres Projets ===
+Des projets plus on moins avancés de production de produits dont la part immatérielle n'est pas soumise à des contraintes empêchant sa libre réutilisation ont commencé depuis les années 2000 (et un peu avant). Ils concernent tous les aspects du matériel informatique :
+
+* [[Microprocesseur]]s ([[OpenSPARC]], f-cpu (ou Freedom CPU), [[LEON]])
+* [[Carte graphique]] ([[OpenGraphics]])
+* [[Basic Input Output System|BIOS]] ([[OpenBIOS]], [[coreboot]])
+* [[Micrologiciel]]s ([[Rockbox]]) et baladeur [http://lyre.sourceforge.net/ LYRE] basé sur RockBox
+* [[Pédale d'effet]] (OpenStomp)
+* [[Arduino]]
+* [[Smartbook]]/[[Netbook]] Touchbook de [http://www.alwaysinnovating.com Always Innovating]
+* [[RONJA]], Système de communication libre par [http://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente LED]
+* Autres matériels [http://www.buglabs.net BugLabs]
+
+Traitement des eaux :
+* [[Agua Clara]] : Open Design Water Treatment Plants <ref>[https://confluence.cornell.edu/display/AGUACLARA/Home/ site]</ref>
+* [[Akvo]] , Traitement des eaux et sanitaires<ref>[http://www.akvo.org/wiki/index.php/Portal:Water wiki akvopedia]</ref>
+
+Pompe hydraulique :
+* Le bélier hydraulique : le pompage perpétuel<ref>[http://www.onpeutlefaire.com/fichestechniques/ft-pompe-belier.php Fiche technique - Le bélier hydraulique : le pompage perpétuel]</ref>
+
+Pour une version exhaustive, voir les différents articles de la [[:Catégorie:Matériel informatique libre|catégorie « Matériel informatique libre »]].
+
+== La nature légale du matériel ==
+Un [[bien matériel]] garantit normalement par sa nature la possibilité à un utilisateur de pouvoir l'utiliser et le modifier comme bon lui semble. La copie et la redistribution ne pose problème qu'en fonction de la part immatérielle du produit (estimée par exemple à 30 % dans le cas d'une voiture).
+
+C'est donc la part immatérielle, souvent indissociable du matériel, qui est concernée par le principe de « matériel libre ».
+
+La licence matériel libre à valeur légale, désigne, le plus couramment, les produits dont la part immatérielle (les informations concernant leur conception, les programmes utilisés, etc.) est libre (utilisable, modifiable et redistribuable librement).
+
+== Licence libre ==
+Certaines personnes ont adapté les 4 règles du [[logiciel libre]] au matériel libre, voici une des adaptations possibles:
+
+* Liberté 1: La liberté d'utiliser le produit, pour tous les usages.
+* Liberté 2: La liberté d'étudier le fonctionnement du produit (ainsi que des parties logicielles), de réaliser des copies du produit, et de l'adapter à ses besoins.
+** Les schémas de fonctionnement du produit, la liste des pièces, ainsi que le plan de montage doivent être disponibles 
+** Les parties logicielles doivent aussi être [[Logiciel libre|libres]]
+* Liberté 3: La liberté de réaliser et de redistribuer des copies du dit produit (ainsi que des parties logicielles), donc d'aider son prochain.
+* Liberté 4: La liberté d'améliorer le produit (ainsi que ses parties logicielles) et de publier ses améliorations, pour en faire profiter toute la communauté
+** Les schémas de fonctionnement du produit, la liste des pièces, ainsi que le plan de montage doivent être disponibles 
+** Les parties logicielles doivent aussi être [[Logiciel libre|libres]]
+
+[[Richard Stallman]] rappelle que plus généralement ce sont les principes de "'''[[Liberté, Égalité, Fraternité]]'''" qui sont l'origine du développement du logiciel libre, et subsidiairement pour les licences matériel libre qui découlent de cette philosophie.<ref>[http://www.creationmonetaire.info/2010/11/dialogues-avec-richard-stallman.html Dialogues avec Richard Stallman ]</ref>
+
+
+=== Des licences matériel libre ===
+* [[licence matériel libre TAPR]]: rédigé par l'avocat [[John Ackermann]], examiné par les dirigeants de la communauté des logiciels libres [[Bruce Perens]] et [[Eric S. Raymond]], et discuté par des centaines de volontaires dans une communauté ouverte de discussion<ref>[http://technocrat.net/d/2007/2/5/14355 transcript of all comments], hosted on technocrat.net</ref>. Selon cette licence : Le matériel libre est une chose - un objet physique, soit électrique ou mécanique - dont l'information lié à la conception est disponible et utilisable par le public d'une manière qui permet à quiconque de faire, modifier, distribuer, et utiliser un objet matériel.
+* [[Balloon Open Hardware License]]: utilisé par tous les projets du [[Balloon Project (matériel libre)|Balloon Project]]
+* Bien qu'à l'origine une licence de logiciel, [[OpenCores]] encourage l'utilisation de la licence [[LGPL]]
+* Hardware Design Public License: écrit par [[Graham Seaman]], admin. de Opencollector.org
+
+==Etape d'un projet matériel libre==
+
+* Avoir une idée de projet, et un minimum de compétence pour le définir
+* Trouver des fonds, certains des projets de matériel libre se tournent vers des plateformes internet de demande de fond pour entrepreneuriat du type Kickstarter.
+* Construire une communauté, avoir une bonne documentation est une composante importante dans les projets opensource en général mais c'est encore plus indispensable pour le matériel libre qui nécessite des étapes d'assemblage, la documentation doit contenir le design du matériel libre, ainsi que les montages et divers étapes d'assemblages. C'est notamment un conseil de l'entreprise [[Adafruit]] constructeur de l'[[Arduino]]<ref>[http://www.adafruit.com/blog/2010/10/14/automating-the-maker-revolution/ AUTOMATING THE MAKER REVOLUTION ( Adafruit )]</ref> qui cite la documentation de qualité du projet de tracteur libre [[Lifetrack]] d'[[openFarmTech]] ( opensource écologie )<ref>[http://openfarmtech.org/index.php? LifeTrac_II_Build Documentation et design LifeTrac II Build]</ref>.
+* Produire ou faire produire
+* Construire l'esprit de marque.
+
+==Actualité==
+* Octobre 2010 : les médias français commencent à parler du matériel libre<ref>[http://owni.fr/2010/10/29/la-prochaine-revolution-faites-la-vous-meme/ La prochaine révolution ? Faites-la vous même ! ( OWNI )]</ref>{{,}}<ref name="32280184 La prochaine"></ref>.
+
+== Référence ==
+{{Traduction/Référence|en|Open source hardware|98864188}}
+{{Références|colonnes=2}}
+
+== Voir aussi ==
+
+=== Liens internes ===
+* [[Logiciel libre]]
+* [[Économie de l'abondance]]
+* [[Biens rivaux]], [[Biens anti-rivaux]]
+* [[Liste des projets de matériel libre]]
+
+=== Liens externes ===
+
+====En français====
+* {{fr}} [http://hackable-devices.org/ Communauté française hackable-devices]
+
+====En anglais====
+* {{en}} [http://openfarmtech.org/wiki/Main_Page-FR OpenFarmTech] / [http://opensourceecology.org/ Opensource Ecology] visant à faire de l'écologie open source, avec son [http://openfarmtech.org/wiki/Global_Village_Construction_Set kit de construction de village global] (écovillage, autonome) , qui est l'ensemble des outils en matériel libre, avec toutes les instructions et l'aide nécessaire.
+* {{en}} [http://p2pfoundation.net/Product_Hacking Une liste du matériel libre] sur P2P foundation, et spécialement au titre [http://p2pfoundation.net/Product_Hacking#Agriculture.2C_Development.2C_Energy.2C_Environment.2C_and_Sustainability Agriculture, Développement, Énergie, Environnement et développement durable]
+* {{en}} [http://harkopen.com/ Liste sur harkopen]
+* {{en}} [http://www.openhardwaresummit.org/ Les rencontres du matériel libre (open hardware summit), première rencontre a new york le 23 septembre 2010] et [http://www.ustream.tv/channel/open-hardware-summit-2010#utm_campaign=www.openhardwaresummit.org&utm_source=5761873&utm_medium=social vidéo des conférences]
+
+{{Portail Communiquer}}
+[[Catégorie:Communiquer]][[Catégorie:Matériel informatique libre]]
