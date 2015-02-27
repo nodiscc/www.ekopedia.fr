@@ -1,0 +1,136 @@
+{{Se loger}}
+
+La '''ventilation''' d'un logement est absolument impérative pour maintenir une ambiance intérieure saine : '''satisfaire''' les besoins en oxygène des occupants et des appareils de combustion pour un fonctionnement normal et sans danger, '''limiter''' la pollution intérieure (odeurs, fumées, substances toxiques), '''éviter''' les condensations et dégradations en évacuant de l'eau produite par les occupants, la cuisine, les appareils sanitaires et ménagers.<br />
+Or en hiver, le réchauffement de l'air neuf froid entrant dans le logement représente une part très importante des besoins de chauffage : 25 à 35% pour une habitation courante, 50% pour une habitation très bien isolée.
+Pour remédier à ce problème, il convient de :
+*limiter les infiltrations parasites du logement
+*ventiler ce qu'il faut au bon moment
+*mettre en œuvre des solutions économes comme la ventilation hygroréglable ou le préchauffage de l'air extérieur (double flux, passage dans une véranda)
+
+== Qu'est-ce que la ventilation double flux ? ==
+La '''ventilation double flux''' est une [[VMC]] (ventilation mécanique contrôlée) qui permet, en plus de renouveler l'air du bâtiment, de récupérer la chaleur (en hiver) ou la fraîcheur (en été) contenue dans l'air évacué du logement et de la fournir à l'air entrant. Elle permet donc d'éviter le gâchis d'énergie pour le chauffage ou la climatisation.
+[[Image:Image7.JPG|thumb|center|1000px|Schéma de principe]]
+
+== Les différentes technologies ==
+Il existe plusieurs '''types de ventilation double flux''' qui diffèrent par leurs fonctions et leurs technologies.
+
+=== Double flux avec échangeur ===
+==== Fonctionnement ====
+''Les types d'échangeur''
+
+Le système est constitué de :
+*un circuit de récupération d'air vicié dans les salles techniques (cuisine, WC, salle de bain), constitué de gaines, d'un ventilateur et de filtres.
+*un circuit d'insufflation d'air neuf dans les pièces principales (séjour, chambres), également constitué de gaines, d'un ventilateur et de filtres.
+*un [http://fr.wikipedia.org/wiki/%C3%89changeur_de_chaleur échangeur] permettant l'échange de chaleur entre les deux circuits d'air. Il existe plusieurs types :
+**'''échangeur à plaques'''[[Image:Image4.JPG|thumb|500px|Schématisation d'une VMC double flux avec échangeur]]
+**'''échangeur rotatif''' : une roue constituée d’un matériau emmagasinant et diffusant la chaleur tourne entre 2 circuits aérauliques. Dans l’un des deux, l’air chaud traverse un secteur de roue et lui transfère son énergie thermique. Après rotation le même secteur est traversé par l’air froid qui récupère l’énergie emmagasinée.
+**'''échangeur à double batterie''' : le circuit d’air extrait et le circuit d’air neuf sont chacun dotés d’une batterie à ailettes. Entre ces 2 batteries un fluide caloporteur circule et permet l’échange thermique.
+**'''échangeur à caloduc''' : le caloduc est un tube contenant un fluide caloporteur choisi en fonction des échanges thermiques à réaliser (pour les logements, on utilise l'eau glycolée). Ce fluide s’évapore au contact de l'air chaud en lui prenant de la chaleur et se condense au contact de l'air froid en lui donnant de la chaleur.
+
+Les échangeurs à plaques et rotatif ne sont pas totalement imperméables : il y a un faible mélange entre l'air neuf et l'air sortant. Ils sont utilisés dans les habitations individuelles et collectives mais pas dans les bâtiment nécessitant une très bonne hygiène comme les hôpitaux, où l'on choisira plutôt un échangeur à caloduc.
+[[Image:Pages-2-2.jpg|thumb|center|500px|Un système de VMC double flux : on remarque bien les 2 entrées/sorties]]
+
+==== Performances ====
+Actuellement on arrive à fabriquer des échangeurs à haut rendement (> 90%). Mais attention, le rendement réel de l'échangeur dépend de l'[http://fr.wikipedia.org/wiki/%C3%89tanch%C3%A9it%C3%A9 étanchéité] du bâtiment, il n'est donc pas égal au rendement donné par le fournisseur. Plus le bâtiment est perméable à l'air, plus le rendement réel de l'échangeur diminuera par rapport au rendement fournisseur. Des mesures<ref>http://www.ecorise.ch/wiki/Ventilation_double-flux</ref> en situation réelle ont montré un rendement effectif inférieur à 60%.
+
+==== Avantages et inconvénients ====
+[[Image:Pages-2-1.jpg|thumb|500px|Schématisation du principe de renouvellement et de récupération d'air]]
+Les '''avantages''' d'une ventilation double flux avec échangeur par rapport à une ventilation simple flux sont :
+*préchauffage ou rafraîchissement de l’air entrant
+*économies d’énergie par récupération de calories
+*filtration de l’air entrant, meilleure hygiène
+*sensation de courant d’air froid supprimée
+*isolation acoustique du dehors.
+
+Les '''inconvénients''', non négligeables, sont :
+*le bâtiment doit avoir une excellente étanchéité à l'air 
+*choix de ventilateurs basse consommation
+*entretien régulier nécessaire : encrassement de l'échangeur, des bouches et des gaines
+*plus coûteux à l'achat qu'un système simple flux (environ dix fois plus cher)
+*plus d'espace requis pour les gaines de ventilation
+*en cas de mauvaise conception, bruit des bouches d'insufflation en particulier dans les chambres
+*isolation des gaines nécessaire
+*besoin d'évacuer les condensats (liaison du caisson au réseau d’eaux usées)
+
+Ainsi la ventilation double flux avec échangeur n'est pas adaptée à la '''rénovation''', car les vieux bâtiment sont généralement très perméables à l'air.
+
+==== Maintenance ====
+A la longue une VMC double flux s'encrasse, devient moins efficace, plus bruyante et peut même contaminer l'air neuf qu'elle introduit dans la maison. Pour éviter ces dysfonctionnements et assurer la longévité de l'installation, il faut '''nettoyer''' ses éléments régulièrement, comme indiqué dans le tableau ci-dessous :
+
+{| border="1" |class="ekotable"
+|colspan="8" align="center"|Temps entre 2 entretiens
+|-
+!Entretien
+!bouches d'insufflation 
+!bouches d'extraction 
+!ventilateur d'insufflation 
+!filtre opacimétrique 
+!ventilateur d'extraction 
+!filtre de l'échangeur 
+!conduits 
+|-
+!tous les
+|2 ans
+|6 mois
+|1 an
+|6 mois
+|1 an
+|6 mois
+|5 ans
+|}
+
+Un '''spécialiste''' peut réaliser un entretien complet tous les trois ans environ (nettoyage, maintien des gaines et du caisson bloc moteur en combles, vérification des entrées d’air neuf et mesures de tirage et de dépression). Le coût en sera d’environ 130 €, si l’accès de l’installation est simple et les combles sécurisés (plancher adapté).
+
+==== Exemples d'utilisation ====
+Bâtiments de bureaux : une ventilation double flux à échangeur rotatif est installé à la maison des énergies de Chambéry (association ASDER).
+Bâtiments d'habitation : tous les bâtiments passifs construits doivent adopter cette technique pour respecter les faibles seuils de consommation.
+
+=== Double flux thermodynamique ===
+
+Le principe reste de récupérer les calories que l'on dispose à l'intérieur du bâtiment avant de rejeter l'air à l'extérieur. Pour cela, la VMC est équipée d'une [[pompe à chaleur]] air/air. Il est notable que pour de faibles gradients de températures (l'air intérieur étant constamment autour de 19°C), le '''COP''' (coefficient de performance) de la pompe à chaleur sera assez grand (autour de 4), permettant une mise en température totale de l'air neuf injecté.
+
+=== Double flux avec accumulation ===
+
+Si vous souhaitez installer un système double flux dans une maison existante, il faut d'abord et avant tout minimiser les infiltrations pouvant rendre négligeable toute récupération de chaleur. Une fois la maison rendue la plus étanche possible, la solution la plus élégante qui peut s'offrir à vous en matière de VMC DF (ventilation double flux) est le '''système d'accumulation'''. Le principal avantage est qu'il n'y a pas besoin de beaucoup de travaux pour l'installation de gaines, collecteurs,... .En effet, le système, qui occupera une partie des parois intérieur/extérieur, fonctionne en alternance pour le renouvellement. Lorsque l'air chaud intérieur est évacué, une partie de la chaleur est capturée dans le système. Celle-ci est restituée à l'air neuf lorsque le système passe en mode admission d'air. Les phases d'admission et d'évacuation durent chacune environ 30 secondes à une minute. Le système le plus reconnu est pour l'instant le système [http://www.sotena.com/thermo-lufter.html Thermo-Lüfter].
+
+== La réglementation ==
+Le bâtiment représente 46% de la consommation énergétique en France. Or, dans le cadre du protocole de Kyoto, l’état français s’est fixé comme objectif de diviser la consommation des bâtiments par quatre d’ici à 2020. Pour répondre à un tel but, la '''Réglementation Thermique''' a été modifiée. Publiée au Journal Officiel du 25 mai 2006, la version 2005, dite RT 2005, s’applique aux bâtiment neufs dont le permis de construire a été déposé à partir du 1er septembre 2006.
+Côté équipement, l’accent a été mis sur la réduction des déperditions de ventilation. Ainsi, les règles d'hygiène restent les mêmes (un débit minimum est imposé par les arrêtés du 24/03/1982 et du 28/10/1983) mais la ventilation double flux permet d'avoir de meilleures valeurs que la référence (et donc des garde-fous) du point de vue thermique. Il est à noter que ce système est maintenant plus que largement utilisé pour l'obtention de différents '''labels''' (Minergie, HPE, HQE, PassivHaus).
+
+== Coûts ==
+Une installation double flux est forcément plus coûteuse qu'une ventilation naturelle ou même qu'une VMC simple flux car il y a plus de gaines à installer (récupération et rejet d'air vicié), plus de ventilateurs et un système d'échange de chaleur. Tout d'abord, il ne faut pas oublier tous les avantages en terme d''''amélioration''' de confort intérieur. De plus, considérant l'installation d'une VMC double flux comme un '''investissement''', l'argent fourni à l'achat est récupéré au quintuple avec les économies d'énergies faites les années suivantes, surtout compte-tenu de l'augmentation constante du prix de l'énergie. Les prix moyens en mai 2008 sont :
+* environ 400 euros (autoréglables) à 700 euros (hygroréglables) pour la VMC simple flux
+* environ 2000 euros pour une VMC double flux
+
+== Voir aussi ==
+===Liens internes===
+* Le [[puits provençal]] ou [[puits canadien]]
+* [[Construire son habitat]]
+* [[Utilisation de l'énergie]]
+* Les [[énergies renouvelables]]
+* L'[[isolation]]
+* La [[laine pour l'isolation]]
+* Les [[toit végétal|toits végétaux]]
+* La [[maison passive]]
+
+=== Liens externes ===
+* [http://www.asder.asso.fr/httpdocs/index.php3 Site de l'association savoyarde des énergies renouvelables ASDER]
+* [http://sotena.com/thermo-lufter.html A propos du système Thermo-Lüfter d'accumulation]
+* [http://www.leroymerlin.fr/mpng2-front/pre?zone=zonecatalogue&renderall=on&idLSPub=1146235994 Informations sur la ventilation double flux]
+* [http://www.certivea.fr/hqe/bonnes_pratiques/bonnes%20pratiques%202005.pdf Différents projets respectant la démarche HQE]
+* [http://www.edif.asso.fr/spip.php?article74 Étude de l'EDIF(Énergies durables en Ile de France) sur la ventilation double flux en rénovation]
+* [http://www.cm-nanterre.fr/pdf/fiches/techniques/ventilation-climatisation.pdf Rapport de la Chambre de Métiers et de l'Artisanat sur la ventilation]
+* [http://prod.batiproduits.com/hlm/2005/pdf_cupi/8/370.pdf Caractéristiques techniques d'une installation VMC Aldes]
+* [http://www2.ademe.fr/servlet/getBin?name=2785FD9CC77CF1A03FE16A34C451158B1159868936972.pdf Bilan de l'ADEME]
+* [http://www.android-software.fr/wflowhelper wFlowHelper : Une application d'aide au dimensionnement des gaines.]
+
+=== Références ===
+<References />
+
+=== Bibliographie ===
+*De Haut, P., Chauffage isolation et ventilation écologiques, Eyrolles, 179, pp 91-101, 2007
+*Salomon, T., Bedel, S., La maison des [néga]watts, Terre vivante, 155, pp.66-70, 2001
+
+
+{{Multi bandeau|Portail Énergie|Portail Se loger}}
+[[Catégorie:Construction écologique]]
