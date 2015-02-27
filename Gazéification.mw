@@ -1,0 +1,140 @@
+{{vérifier}}          
+
+
+La gazéification est une transformation thermochimique qui consiste à décomposer par la chaleur un solide combustible ([[charbon]], [[bois]], [[paille]]…) en présence d'un réactif gazeux ([[air]], [[oxygène]], [[gaz carbonique]], vapeur d'eau…), généralement dans le but d'obtenir un mélange gazeux combustible. Elle se distingue de la pyrolyse, opération thermique s'effectuant en l'absence de gaz réagissant avec le solide, et de la combustion, dans laquelle la plus grande partie du carbone contenu dans le solide est transformée en gaz carbonique.
+
+
+La gazéification permet de convertir des matières carbonées en monoxyde de carbone et en hydrogène par réaction de la matière première avec une quantité contrôlée d'oxygène à des températures très élevées. Le mélange carboné obtenu, appelé syngaz, est lui-même un carburant. La gazéification est une méthode très efficace pour l'extraction d'énergie à partir des différents types de matières organiques, et trouve également des applications dans l'élimination des déchets verts.
+
+
+
+
+== Histoire ==
+ 
+La gazéification est mise au point au XVIIème siècle et est largement utilisée dans les villes au début du XXème siècle. Peu à peu remplacé par le [[gaz naturel]], le gaz de houille est abandonné dans les années 1940. C'est à cette période qu'est mis au point par Fischer et Tropsch le procédé permettant de synthétiser des hydrocarbures liquides à partir du gaz de synthèse. Pendant la seconde guerre mondiale, on utilise les gazogènes automobiles au bois ou au charbon pour faire face à la pénurie de carburant. L’Allemagne développe le procédé à l'échelle industrielle et plusieurs usines d'essence synthétique fournissent l'armée allemande. Le procédé est rapidement abandonné avec la découverte d'abondantes ressources pétrolifères. Seule l'Afrique du Sud contrainte par l'embargo sur les produits pétroliers durant l'Apartheid continue d'exploiter ses gigantesques réserves de charbon pour en faire du carburant.
+
+
+== Technique ==
+
+La gazéification du bois est le procédé qui permet la transformation du bois en gaz combustible, composé essentiellement de monoxyde de carbone et d'hydrogène et de nitrogène mélangés à des goudrons et des cendres volantes issus de la pyrolyse du bois. La gazéification du bois est obtenue en présence d’un mélange de vapeur et d’oxygène.
+
+[[File:GAZO1.jpg]]
+
+Les procédés traditionnels de gazéification à l’air, à faible température et faible pression, produisent du gaz pauvre. Ce gaz est composé d’ un mélange de monoxyde de carbone et d’hydrogène, et prés de 50 % d’azote et de gaz carbonique qui sont incombustibles. Avec le faible pouvoir calorifique de ce gaz, l’avantage de ce procédé est de valoriser des déchets bois en alimentant en gaz un moteur pour produire de l’électricité.
+ 
+Les procédés modernes de gazéification à l’oxygène à haute température et à haute pression et une épuration du gaz produisent un gaz de qualité. Les centrales électriques de plusieurs dizaines de mégawatts sont alimentées en gaz par des installations de grandes tailles. Le rendement d'une unité moderne transformant le bois en gaz combustible atteint 70 à 85%.
+
+[[File:GAZO2.jpg]]
+
+
+
+'''Description :'''
+
+	La transformation d'un composé organique en gaz combustible qu'on appelle gazéification est une transformation thermo-chimique réalisée à haute température. Pour mieux comprendre les phénomènes physiques mis en jeu, il faut se pencher sur ce qui se passe lorsque l'on chauffe une matière carbonée.
+
+À partir de 100°C et jusqu'à 160°C environ, la matière est séchée. L'eau qu'elle contient s'échappe sous forme de vapeur et on obtient de la matière sèche.
+
+Cette matière sèche subit ensuite entre 120°C et 600°C la réaction de pyrolyse: décomposition thermique de la matière. Une partie des atomes de carbone s'associent pour former un solide appelé charbon tandis que l'autre partir s'associe avec l'hydrogène plus légers et les quelques atomes d'oxygène présents pour former des gaz inflammables riches notamment en goudrons.
+
+Si la température monte encore, entre 500°C et 1100°C, le charbon de bois réagit avec les gaz de pyrolyse et un agent oxydant pour former du monoxyde de carbone. Les gaz de pyrolyse réagissent aussi avec l'oxygène: le carbone s'oxyde tandis que l'hydrogène est libéré sous forme de dihydrogène. Les trois étapes présentées pour l'instant nécessitent un apport de chaleur qui sera fournit par la quatrième: la combustion.
+
+
+[[File:GAZO3.jpg]]
+
+C'est entre 1200°C et 1500°C que se produit la combustion. Pour la réaliser, il faut une quantité d'oxygène plus importante car on a cette fois-ci oxydation totale du carbone et de l'hydrogène en dioxyde de carbone et vapeur d'eau. La chaleur libérée est importante et permet d'entretenir les autres étapes
+
+Dans un gazéifieur, le réglage de la quantité d'oxygène introduite permet de favoriser la réaction de gazéification et donc d'optimiser la production de monoxyde de carbone et d'hydrogène. Bien sur la combustion fournit une partie de la chaleur mais le bilan global est généralement endothermique et la réaction nécessite donc un apport de chaleur.
+
+'''Différentes technologies :'''
+
+	Deux types de réacteurs sont utilisés pour la gazéification : les réacteurs gazogènes à lit fluidisé (eux même de deux types : bullant et circulant), et les gazogènes à lit fixe (soit co-courants soit contre-courant). 
+
+'''Gazogène à lit fluidisé :'''
+
+[[File:GAZO4.jpg]]
+
+
+Puissance : 5 à 100 MWth
+
+Consommation : 1 à 20 tonnes MS/h
+
+Application :
+Production de chaleur ex : réseau de chauffage urbain en Finlande
+Production d'électricité
+Co-combustion
+Cycles IGCC
+
+État de maturité :
+Commercial pour « chaleur » et « co-combustion »
+Démonstration pour IGCC
+
+
+
+'''Gazogène à lit fixe : contre-courant'''
+
+[[File:GAZO5.jpg]]
+
+Puissance : 1 à 5 MW
+
+Combustible :
+Consommation : 0,2 à 1 tonne MS/h
+Granulométrie : 5 à 100 mm
+Humidité : 10 à 60 %%
+
+Gaz :
+PCI : 4000 à 5500 kJ/m3N
+Température : 150°C à 300°C
+Teneur en goudrons : très élevée : 100g/m3
+
+Application : 
+Production de chaleur
+Statut commercial :
+Disponible mais reste peu développé
+	
+
+
+'''Gazogène à lit fixe : co-courant'''
+
+[[File:GAZO6.jpg]]
+
+Puissance : 20 kW à 2 MW
+
+Combustible :
+Consommation : 5 à 400 kg MS/h
+Granulométrie : 5 à 100 mm
+Humidité : < 20%
+
+Gaz :
+PCI : 4500 à 5500 kj/m3
+Température : 400°C à 600°C
+Teneur en goudrons : faible : 0,1 à 1 g/M3
+
+
+'''Avantages :'''
+
+	Quand la biomasse se désintègre, elle ne produit pas plus de CO2 que celui que les plantes ont prélevé dans l’atmosphère lors de leur croissance. L’utilisation de la biomasse a donc un bilan nul en CO2, pour autant qu’on n’utilise pas plus de biomasse qu’il en croît. La protection du climat devrait donc pousser à son utilisation, p. ex. la substituer au pétrole et au gaz. Ceci est techniquement et économiquement faisable à court et moyen terme. Ce que l’on économise en émissions de CO2 ne doit pour autant pas être perdu par une augmentation des émissions de polluants atmosphériques locaux.
+
+	Le gaz peut être produit à partir d'une variété impressionnante de combustibles, presque tout ce qui contient du carbone. On va du carbone à la biomasse en passant par tous les types de déchets que l'on peut trouver. Ce "gaz de synthèse" est principalement composé de monoxyde de carbone et d'hydrogène et contient également de faibles quantités de méthane, dioxyde de carbone et de goudrons.
+
+	Pour la production d’électricité, les avantages de la gazéification sur la combustion directe résident dans une plus grande propreté de la combustion (absence de cendres et de goudrons) et la possibilité d’obtenir des rendements plus élevés du fait de températures de combustion plus hautes et de la valorisation de l’énergie contenue dans les gaz d’échappement de la turbine à gaz, dans la production de vapeur.
+La production de vapeur est utilisable :soit pour des procédés industriels, soit pour l’injecter dans la chambre de combustion (centrales à gazéification de biomasse intégrée et à injection de vapeur), soit pour la détendre dans une turbine à vapeur entraînant un alternateur (centrales à gazéification de biomasse intégrée et à cycles combinés). Ces centrales électriques sont actuellement encore des projets pilotes de recherche et développement. 
+
+	Enfin, le faible coût général de cette ressource d’énergie qu’est le bois est un argument majeur quant au développement de la technique de gazéification.
+
+'''Inconvénients :'''
+
+	La dispersion spatiale des ressources en bois peut être un inconvénient quant à l’approvisionnement. 
+
+	Autre inconvénient : la combustion non standardisée, et difficile à mettre en œuvre.
+
+
+<!-- Suggestion de présentation des annexes. -->
+== Références ==
+<references/>
+== Voir aussi ==
+=== Liens internes ===
+* [[À remplacer]]
+*
+=== Liens externes ===
+* [www.ecogen.fr.st]
+* [pagesperso-orange.fr/oser/gazeification.htm]
