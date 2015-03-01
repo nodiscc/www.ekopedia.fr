@@ -1,0 +1,121 @@
+{{Vivre ensemble}}
+En matière de [[monnaie libre]], ou non, il existe deux types de systèmes [[économie|économiques]] :
+
+* Un système financier centralisé.
+
+C'est '''''le système actuel''''', où l'émission et le contrôle de la monnaie est dirigé par une oligarchie et imposée à la majorité. Il impose les taux d'intérêt et conduit à une immense spoliation de la majorité par une minorité. Il impose l'inflation, et l'usure. L'objectif de ce système est l'accumulation infinie et le servage. Le court terme est la dictature morale et politique pour le maintien des privilèges. Les cycles de bulles et de guerres sont alors nécessaires. Chacun est mesuré sur ce qu'il a.
+
+* Un système monétaire décentralisé.
+C'est '''''l'alternative proposée'''''. Où l'émission monétaire et les outils de compensation et émission monétaire sont donnés à chaque citoyen. La disparition des taux d'intérêts, et de l'inflation fera que l'objectif de l'humanité sera l'échange, la création, le partage. L'absence de guerre, de spéculation, et de financiarisation fera que chacun sera mesuré sur ce qu'il est, ce qu'il propose.
+
+Des nuances peuvent être apportées aux deux précédents paragraphes dans la mesure où chaque personne peut voir des avantages et inconvénients dans les deux systèmes. Les propos des deux derniers paragraphes sont issus du blog Free currency<ref>[http://free-currency.over-blog.com/ Free currency]</ref>.
+
+=== Open-Source ===
+L'expression Open Source caractérise les logiciels dont le code source est visible et librement modifiable sous certaines conditions, ces conditions peuvent être plus ou moins strictes. La formulation de ces conditions constitue d'ailleurs le critère principal qui différencie le logiciel open source du Logiciel libre.
+
+Le fait de disposer des sources d'un logiciel ne suffit pas à dire qu'il est Open Source<sup>TM</sup>. Dans tous les cas, on se référera à la licence d'utilisation du logiciel.
+
+Par ailleurs, une confusion peut exister entre les termes logiciel libre (free software) et open source. Bien que tous les logiciels libres rentrent dans les critères de l'Open Source<sup>TM</sup>, l'esprit qui anime les logiciels libres ([[copyleft]]) et les règles plus restrictives qui les composent incitent à clairement les différencier.
+
+=== Logiciel libre ===
+''Définition d'après Richard M. Stallman :''<br />
+L'expression logiciel libre correspond au terme anglais free software. Comme ce dernier est ambigu en anglais, free pouvant signifier « libre » ou « gratuit », on voit le terme français « libre » de plus en plus utilisé, même en anglais.
+
+L'expression « logiciel libre » fait référence à la liberté pour tous (simples utilisateurs ou développeurs) d'exécuter, de copier, de distribuer, d'étudier, de modifier et d'améliorer le logiciel. Plus précisément, elle fait référence à quatre libertés pour un individu ayant acquis une version du logiciel, définies par la licence de ce logiciel :
+* la liberté d'exécuter le programme, pour tous les usages (liberté 0) ;
+* la liberté d'étudier le fonctionnement du programme, et de l'adapter à ses besoins (liberté 1) ; pour cela, l'accès au code source est nécessaire ;
+* la liberté de redistribuer des copies, donc d'aider son voisin, (liberté 2) ;
+* la liberté d'améliorer le programme et de publier ses améliorations, pour en faire profiter toute la communauté (liberté 3) ; pour cela, l'accès au code source est nécessaire.
+
+== Discussion ==  
+Toute plate-forme logicielle publique destinée à développer et administrer les monnaies libres (comptes, banque, épargne, correspondance offre-demande, compensation, informations brutes et statistiques, outils de rapport et d'analyse) devrait être open source, libre, gratuit, publiquement accessible et améliorable.
+
+'''Parmi les multiples avantages, listons :'''
+* Les règles sont claires et partagées par tout le monde.
+* Poste-à-poste (P2P) et décentralisées. Cela veut dire que la confiance et la sécurité ne sont pas monopolisées par des pouvoirs centralisés. Voilà qui contribuera grandement aux libertés publiques et individuelles tout en réduisant très fortement les coûts de sécurité.
+* Même si certaines monnaies libres seront conçues pour fonctionner sans aucun logiciel ni [[ordinateur]] (reposant à 100% sur des supports non informatiques), les chances sont malgré tout importantes que l'ingénierie logicielle soit présente dans la plupart des projets.
+* L'intelligence du monde logiciel open source ainsi que l'intelligence open source ont un très fort potentiel pour résoudre les limitations rencontrées par les monnaies complémentaires et communautaires.
+* On est dans un contexte international et transculturel.
+* La partie logicielle associée aux monnaies libres n'a pas besoin de beaucoup de puissance informatique ni de bande passante. La plupart des plates-formes consisteront en un ordinateur qui pourra comptabiliser l'ensemble des transactions d'une communauté entière. Voilà qui rend tout cela accessible à la plupart de l'humanité.
+* La communauté open source a un besoin urgent d'évoluer vers un système économique taillé à sa mesure, c'est-à-dire de passer des écosystèmes du savoir à une véritable économie du savoir avec ses propres outils transactionnels. Les monnaies libres sont la solution.
+* De nombreuses communautés open source tels que [http://www.tikiwiki.org tikiwiki] envisagent d'implémenter des systèmes de monnaies intégrés dans le logiciel.
+* Le monde du logiciel a démontré sa capacité à générer de rapides transitions de phases disruptives. Il possède un haut pouvoir viral de transformation du monde là où des moyens classiques n'ont pas fonctionné dans le passé. Des exemples récents sont les logiciels relationnels, les technologies poste-à-poste (P2P) (elles gagneront la partie face aux majors) ou [https://www.skype.com/fr/ Skype]. Cela devrait marcher exactement de la même manière avec l'argent open source si la vision et sa réalisation sont à la hauteur.
+* L'aspect viral des monnaies libres peut faire qu'il envahira rapidement les interfaces mobiles : smartphones et tablettes. En dépit de son caractère disruptif effrayant, il est possible qu'un acteur industriel de poids apporte un soutien fort au projet car le développement des marchés complexes de demain tient au développement d'une telle monnaie.
+
+On se rend de plus en plus compte que certaines infrastructures de haute technologie, du fait de leur faible coût et facilité d'implémentation, sont moins coûteuses et plus rapides à déployer que des processus classiques. Notons enfin que l'approche open source est de plus en plus relayée, accaparée et soutenue dans le tiers-monde. Une chance supplémentaire pour les futures monnaies libres.
+
+== En pratique ==
+{{Créer}}
+Comment fonctionne une monnaie libre ? : ''Contributions appréciées !''
+
+Une monnaie libre doit être créée, comme toute monnaie. Or, une fois créée, à qui cette monnaie sera-t-elle distribuée ?
+
+Une réponse (Bitcoin) consiste à donner la monnaie créée à ceux qui participent à la vérification des transactions, grâce à un réseau de calcul distribué, comme Bitcoin. Les Bitcoins sont créés en quantité limitée (maximum : 21 millions de bitcoins<ref>[http://www.bitcoinfr.com/ Bitcoin : Une devise virtuelle ouverte et libre]</ref>) mais ils sont divisibles pratiquement à l'infini. C'est le modèle de la monnaie métallique (or, argent, etc) avec ses avantages (pas de manipulation de la masse monétaire qui fait décroitre le pouvoir d'achat de tous et enrichit quelques uns) mais sans ses inconvénients (vérification, divisibilité, transférabilité).
+
+Une autre réponse possible est qu'elle doit être donnée à tous les contractants acceptant de créer une nouvelle monnaie. Ainsi, si on décide d'augmenter la masse monétaire (parce que les échanges augmentent en volume par la création de biens de plus en plus élevée); la création de 1000 ML pour 100 contractants, alors chacun des 100 devra recevoir 10 à parts égales.
+
+Cette idée reprend celle du [[dividende monétaire]].
+
+Par ailleurs, le crédit qui est de la création de monnaie temporaire associé le plus souvent à un taux d'intérêt, doit être limité à 50% de la masse monétaire totale existante maximum, à tout instant.
+
+Gérer la masse monétaire revient alors à jouer sur deux leviers : 1) le dividende monétaire pour augmenter la masse monétaire disponible et suivre la croissance, et 2) le crédit total allouable qui peut varier de 50% à 0 pour diminuer cette même masse monétaire en cas de stagnation (et rendre la monnaie plus rare).
+
+Le logiciel '''openmoney'''<ref>[http://www.openmoney.org/go/cc.html openmoney]</ref> est en phase bêta c'est-à-dire qu'il est testé avant d'être disponible au téléchargement. Mais il sera bientôt finalisé et pourra être déployé.
+
+{{...}}
+
+== Références ==
+<references />
+
+== Webographie ==
+[http://www.fundp.ac.be/~glauters/open/ Les logiciels Open Source (ou libres)]
+
+=== Appel à contributions ===
+''Pour aider au développement des logiciels "open money" :''
+* [http://creditpool.sourceforge.net/ creditpool.souceforge.net]
+* [http://sourceforge.net/projects/d-e-b-t-s/ sourceforge.net/projects/d-e-b-t-s]
+* [http://sourceforge.net/projects/decentric/ sourceforge.net/projects/decentric]
+* [http://sourceforge.net/projects/togethershop/ sourceforge.net/projects/togethershop]
+* [http://sourceforge.net/projects/weblets/ sourceforge.net/projects/weblets]
+* [http://sourceforge.net/projects/geekcredit/ sourceforge.net/projects/geekcredit]
+* [http://sourceforge.net/projects/pcs/ sourceforge.net/projects/pcs]  (propagational currency system)
+* [http://sourceforge.net/projects/fairmoney/ sourceforge.net/projects/fairmoney]
+* [http://sourceforge.net/projects/diytrade/ sourceforge.net/projects/diytrade]
+* [http://sourceforge.net/projects/freeconomy/ sourceforge.net/projects/frexomy]
+* [http://sourceforge.net/projects/openmoney/ sourceforge.net/projects/openmoney]
+* [http://sourceforge.net/projects/pennylender/ sourceforge.net/projects/pennylender]
+* [http://sourceforge.net/projects/openbs/ sourceforge.net/projects/openbs]
+* [http://sourceforge.net/projects/resourcebank/ sourceforge.net/projects/resourcebank]
+* [http://ripple.sourceforge.net/ ripple.sourceforge.net]
+* [http://sourceforge.net/projects/trademanager/ sourceforge.net/projects/trademanager]
+
+==Voir aussi==
+{{Wiktionnaire|open-source|Open-Source}}
+=== Liens internes ===
+* [[Ekopedia:Copyright]]
+** [[Domaine public]]
+** [[Monnaie libre ou open money]]
+*** [[Copyleft]]
+
+=== Liens externes ===
+* [http://www.e-ducat.fr e-ducat.fr] : Blog sur Bitcoin, monnaie libre fondée sur un logiciel libre et un réseau de pair à pair.
+* [http://open-udc.org OpenUDC] : Élaboration de standards numériques pour l'échange et la création de nouvelles monnaies sécurisées, qui s'appuient sur, et étendent, le standard OpenPGP ([http://tools.ietf.org/html/rfc4880 RFC 4880]).
+* [http://www.thetransitioner.org/wikifr/tiki-index.php?page=Accueil the transitionner] (cet article écrit par [http://www.thetransitioner.org/wikifr/tiki-index.php?page=Jean-Francois+Noubel jean-françois noubel] est tiré de ce site)
+* [http://openmoney.info open money]
+* [http://en.wikipedia.org/wiki/Ripple_monetary_system Ripple Monetary System at Wikipedia]
+* [http://sites.radiofrance.fr/franceinter/em/ruedesentrepreneurs/index.php?id=80062 La nouvelle couleur de l'argent] Émission de radio France Inter, ''Rue des entrepreneurs'', 30 mai 2009. (écoutable en ligne jusqu'en janvier 2010)
+
+== Bibliographie ==
+----
+{{Portail|Créer|Communiquer|Donner}}
+----
+
+[[Catégorie:Économie]]
+[[Catégorie:Finance]]
+[[Catégorie:Domaine libre]]
+[[Catégorie:Informatique]]
+[[Catégorie:Article à illustrer]]
+[[Catégorie:Espace Images - BASE - Ekopédia|* Ressource libre de droits]]
+<br />
+<center>[[Économie alternative|'''- Page précédente - (Économie alternative)''']]</center>
+<br />
