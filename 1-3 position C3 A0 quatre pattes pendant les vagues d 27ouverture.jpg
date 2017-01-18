@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html lang="fr-fr" >
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=0;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<title>Connexion | Site d&#39;administration de Django</title>
+<link rel="stylesheet" type="text/css" href="/save/_embed/http://fr.ekopedia.org/static/admin/css/base.css" />
+<link rel="stylesheet" type="text/css" href="/save/_embed/http://fr.ekopedia.org/static/admin/css/login.css" />
+
+
+
+
+<meta name="robots" content="NONE,NOARCHIVE" />
+</head>
+
+
+<body class=" login"
+  data-admin-utc-offset="0">
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app0.us.archive.org";}; </script>
+
+<!-- Start of Record Banner output -->
+<wb_div id="__wb_record_overlay_div" class="__wb_overlay">
+</wb_div>
+
+<wb_div class="__wb_record_content" id="__wb_record_content_loader">
+<wb_h1 id="_wb_load_msg">Saving page now...</wb_h1>
+<wb_p id="_wb_curr_url">http://fr.ekopedia.org/admin/login/?next=/w/images/thumb/1-3_position_%25C3%25A0_quatre_pattes_pendant_les_vagues_d%27ouverture.jpg/180px-1-3_position_%25C3%25A0_quatre_pattes_pendant_les_vagues_d%27ouverture.jpg</wb_p>
+<wb_p>As it appears live November 12, 2016 4:40:15 PM UTC</wb_p>
+
+
+
+<wb_div id="__wb_spinningSquaresG">
+<wb_div id="__wb_spinningSquaresG_1" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_2" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_3" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_4" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_5" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_6" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_7" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_8" class="__wb_spinningSquaresG">
+</wb_div>
+</wb_div>
+
+<img id="_wb_logo" src="/static/images/logo_WM.png"/>
+</wb_div>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript">
+  function doRedir()
+  {   
+    var redirUrl = "/web/20161112164015/http://fr.ekopedia.org/admin/login/?next=/w/images/thumb/1-3_position_%25C3%25A0_quatre_pattes_pendant_les_vagues_d%27ouverture.jpg/180px-1-3_position_%25C3%25A0_quatre_pattes_pendant_les_vagues_d%27ouverture.jpg";
+    var textElem = document.getElementById("_wb_load_msg");
+    if (textElem) {
+      textElem.innerHTML = "Loading Saved Page...";
+    }
+    window.location.replace(redirUrl);  
+  }
+  
+  function redirToCapture()
+  {
+    window.setTimeout(doRedir, 1000);
+  }
+
+  
+  if ( window != window.top ) {
+    
+    var wmOverlay = document.getElementById("__wb_record_overlay");
+    
+    if (wmOverlay) {
+      wmOverlay.style.display = "none";
+    }
+    
+  } else {
+    
+    if (window.addEventListener) {
+      window.addEventListener('load', redirToCapture, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', redirToCapture);
+    }
+    
+    // Just in case, redir after 90 secs
+    window.setTimeout(doRedir, 90000);
+  }
+</script>
+
+<!-- End of Record Banner Output output -->
+
+
+<!-- Container -->
+<div id="container">
+
+    
+    <!-- Header -->
+    <div id="header">
+        <div id="branding">
+        
+<h1 id="site-name"><a href="/save/_embed/http://fr.ekopedia.org/admin/">Administration de Django</a></h1>
+
+        </div>
+        
+        
+    </div>
+    <!-- END Header -->
+    
+    
+
+    
+        
+    
+
+    <!-- Content -->
+    <div id="content" class="colM">
+        
+        
+        
+
+
+
+
+<div id="content-main">
+
+
+
+<form action="/save/_embed/http://fr.ekopedia.org/admin/login/?next=/w/images/thumb/1-3_position_%25C3%25A0_quatre_pattes_pendant_les_vagues_d%27ouverture.jpg/180px-1-3_position_%25C3%25A0_quatre_pattes_pendant_les_vagues_d%27ouverture.jpg" method="post" id="login-form"><input type='hidden' name='csrfmiddlewaretoken' value='kcnw7bU9PcFnShIWAVD1SLr7ePSLELLy' />
+  <div class="form-row">
+    
+    <label class="required" for="id_username">Nom d&#39;utilisateur :</label> <input id="id_username" maxlength="254" name="username" type="text" />
+  </div>
+  <div class="form-row">
+    
+    <label class="required" for="id_password">Mot de passe :</label> <input id="id_password" name="password" type="password" />
+    <input type="hidden" name="next" value="/w/images/thumb/1-3_position_%C3%A0_quatre_pattes_pendant_les_vagues_d&#39;ouverture.jpg/180px-1-3_position_%C3%A0_quatre_pattes_pendant_les_vagues_d&#39;ouverture.jpg" />
+  </div>
+  
+  
+  <div class="submit-row">
+    <label>&nbsp;</label><input type="submit" value="Connexion" />
+  </div>
+</form>
+
+<script type="text/javascript">
+document.getElementById('id_username').focus()
+</script>
+</div>
+
+        
+        <br class="clear" />
+    </div>
+    <!-- END Content -->
+
+    <div id="footer"></div>
+</div>
+<!-- END Container -->
+
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 16:40:15 Nov 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:40:17 Nov 12, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
