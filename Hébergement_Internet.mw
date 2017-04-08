@@ -1,0 +1,118 @@
+{{ébauche}}
+{{communiquer}}
+
+L'hébergement d'un site Internet est expliqué de manière générale sur [http://fr.wikipedia.org/wiki/H%C3%A9bergement_Internet Wikipedia].
+
+Le choix d'un hébergeur est technique mais également un choix de société. C'est pourquoi, nous rassemblons ci-dessous quelques points auxquels il faut faire attention.
+
+==Hébergement par un tiers==
+
+===Liste de critères===
+
+====Critères techniques====
+* L'emploi de logiciels libres
+* L'utilisation de standards ouverts
+* Fiabilité
+* La disponibilité de personnes pouvant aider à résoudre les problèmes techniques, la vitesse d'intervention
+* L'adéquation entre les compétences disponibles au sein de l'association et les technologies proposées par l'hébergeur
+
+====Critères environnementaux====
+* Utilisation d'énergies renouvelables
+
+====Organisation====
+* Indépendance. Face à d'autres acteurs de l'informatique par exemple.
+* Pas de finalité de profit. Organisation sans but lucratif
+* Existence d'une charte reprenant les valeurs / principes
+* Autonomie financière
+
+====Autres critères====
+* La confidentialité
+* le respect de la vie privée
+* Le prix 
+* Anonymat?
+
+===Évaluation des opérateurs===
+{| class="ekotable"
+! Nom de l'opérateur !! Logiciels libres !! Finalité de profit / type !! Ecolo !! Charte !! Lieu
+|-
+| [http://www.acornhost.com/ Acorn] || ? || ? || ? || ? || ?
+|-
+| [http://www.aiso.net/ Aiso] || ? || ? || Solaire || ? || ?
+|-
+| [http://www.all2all.org All2all] || [http://www.all2all.org/fr/informations/about-all2all/charte/ OK] || [http://all2all.org/fr/informations/about-all2all/statuts/ Non] / Association sans but lucratif || Éolien || [http://www.all2all.org/fr/informations/about-all2all/charte/ OK] || Bruxelles, Belgique
+|-
+| [http://apinc.org APINC] || [http://apinc.org/pages/services OK] || [http://apinc.org/pages/manifeste Non] / Association loi 1901 || ? || [http://apinc.org/pages/charte OK] || Paris, France
+|-
+| [http://www.cassiopea.org Cassiopea] || [http://www.cassiopea.org/Logiciels-libres OK] || ? || ? || ? || Bruxelles, Belgique
+|-
+| [http://www.domainepublic.net Domainepublic] || [http://www.domainepublic.net/Reglement-Technique.html OK] || ? || ? || [http://www.domainepublic.net/Charte.html OK] || Bruxelles, Belgique
+|-
+| [http://www.dreamhost.com/company/were-green/ Dreamhost] || ? || ? || ? || ? || ?
+|-
+| [http://www.greenwebhost.net/ Greenwebhost] || ? || ? || ? || ? || ?
+|-
+| [http://www.lautre.net/ L'Autre Net] || [http://www.lautre.net/Comment OK] || [http://www.lautre.net/Fonctionnement Non] / Association loi 1901 || ? || ? || Paris, France
+|-
+| [http://www.lixium.fr/ Lixium] || [http://www.lixium.fr/web/ OK] || Oui / [http://www.lixium.fr/web/contact.html SARL] || Biogaz || [http://www.lixium.fr/demarche.pdf OK] || Noisy-le-grand, France
+|-
+| [http://www.ouvaton.org Ouvaton] || [http://www.ouvaton.org/spip.php?article166 OK] || [http://www.ouvaton.coop/spip.php?article146 Non] / Société Anonyme Coopérative || ? || [http://www.ouvaton.org/spip.php?rubrique26 OK] || Challes, France
+|-
+| [http://www.rhien.org RHIEN] || OK || Non || ? || OK || ?
+|-
+| [http://www.sustainablemarketing.com/ SustainableMarketing] || ? || ? || Éolien || ? || ?
+|-
+| [http://tuxfamily.org TuxFamily] || [http://tuxfamily.org/fr/about OK] || [http://tuxfamily.org/fr/organization Non] / Association loi 1901 || ? || ? || ?
+|-
+| [http://www.webctel.com/solar.htm Webctel] || ? || ? || ? || ? || ?
+|}
+
+==Auto hébergement==
+L'auto hébergement consiste à avoir son propre serveur chez soi, en gardant une indépendance technique face à des tiers, en protégeant sa vie privée par la maîtrise de l'infrastructure, ceci à un prix modique et relativement écologique. Par ce biais, il est aussi possible d'héberger d'autres sites web, ou adresses emails, voir des services de messagerie instantanées décentralisées tel Jabber, les possibilités ne sont pas limitées.
+
+L'auto hébergement peut être perçu comme le moyen de faire son Internet, en décentralisant l'information plutôt que de laisser la gestion de celle-ci à un prestataire.
+
+===Nécessaire technique===
+====Ordinateur basse consommation====
+Des ordinateurs à basse consommation se trouve sur le marché, leur prix est très variable mais il est possible de se faire un serveur facilement avec une consommation faible en récupérant un ordinateur portable voir un netbook, qui eux-même sont fabriqués afin de consommer le moins d'énergie possible. Même un ordinateur portable avec un clavier cassé peut faire l'affaire.
+
+Un moyen de changer un ordinateur portable en serveur pour qu'il consomme moins est de rabattre l'écran, devenu inutile si il est administré à distance (via SSH par exemple), cela économise une dizaine de watts, puis enlever la batterie pour éviter les pertes de charge ou de maintien de la charge (attention, cela provoque une extinction brutale si l'alimentation par le secteur est interrompue, à faire uniquement si la disponibilité de service est peu importante, ou si l'alimentation est sûre). Au niveau logiciel, les distributions en Logiciel Libre supportent généralement bien la gestion d'énergie, il est aussi possible de bloquer la fréquence du processeur, évitant les pics de consommation, l'ordinateur exécutant la tâche de manière un peu plus lente.
+
+Il existe aussi des serveurs de type plug, pas plus grand qu'un chargeur de téléphone mobile, ces appareils sont très économes en énergie, de l'ordre de 5 watts, mais les possibilités sont limitées, un ordinateur portable peut atteindre un minimum de 13 watts, au niveau de la connexion, choisissez si un port Ethernet est présent une connexion par câble, sûre, durable, stable.
+
+====Suite logicielle====
+La partie logicielle est elle aussi peu voir pas onéreuse, sauf en temps, un système d'exploitation basé sur du Logiciel Libre tel GNU/Linux fait très bien l'affaire, ne nécessite pas d'antivirus et est plus ou moins facile d'utilisation via des solutions automatisées d'hébergement et de messagerie comme AlternC.
+
+====Réseau====
+Pour le réseau, il est nécessaire d'avoir une connexion Internet avec une adresse IP fixe, pas toujours obligatoire si l'adresse publique du modem/routeur ne change que très rarement et si le fournisseur d'accès facture la location d'IP fixe, mais ceci peut provoquer quelques tracas notamment en terme de nom de domaine et DNS.
+
+Une solution économique est d'utiliser le paramétrage du NAT sur le modem/routeur en précisant les ports à ouvrir pour le serveur, ou mieux, d'utiliser le partage de l'adresse publique du routeur, technique appelée «transparence IP» ou «IP Pass-Through» évitant de devoir connaître les ports utilisés en créant une DMZ (zone démilitarisée).
+
+De manière générale, il est très souvent fait usage du système DNS pour accéder à un site web ou un service sur un serveur, par exemple ''ekopedia.org'' est un nom de domaine, prévoyez la location d'un nom de domaine chez un registrar.
+
+====Connaissances====
+* Système DNS
+* Administration d'un site web (HTML et CSS, PHP et MySQL pour les sites dynamiques)
+* Transfert de fichiers par (S)FTP
+* Législation sur la journalisation des événements (logs)
+
+===Comment faire ?===
+Prenez un ordinateur de votre choix, si possible récupéré car un serveur n'a pas toujours besoin de performance, familiarisez-vous avec les Logiciels Libres, notamment avec une distribution GNU/Linux où les communautés d'utilisateurs sont très actives, récupérer une image disque d'une distribution comme Debian ou Ubuntu Serveur, installez-là sur la machine et si vos connaissances le permettent, n'installez pas l'interface graphique, consommatrice de ressources, le mode texte peut paraître rebutant mais il est au final assez facile à utiliser, d'autant plus que nombre de tutoriels traitent de son utilisation.
+
+Ensuite, de nombreux articles traitant de l'utilisation des logiciels souvent utilisés sur les serveurs sont disponibles sur le site de la communauté Ubuntu-fr.org ou si vous préférez un serveur tout automatisé avec gestion graphique via votre navigateur web, le logiciel AlternC se charge de tout paramétrer à votre place, notamment Apache2, MySQL, PHP, Bind, Postfix etc...
+
+Une fois le réseau mis en place, avec une IP fixe ou par redirection de ports, il faut paramétrer le(s) nom(s) de domaine chez le registrar, généralement sur son site web pour que le nom de domaine renvoie sur l'adresse IP du serveur.
+
+Placer votre site sur le serveur et vérifier qu'il soit accessible depuis l'extérieur, vous pouvez demander de l'aide aux communautés spécialisées dans l'auto hébergement.
+
+===Rendre votre serveur plus écologique===
+Plusieurs approches sont possibles, la première est de produire vous-même l'électricité nécessaire à son alimentation par des sources d'énergie renouvelable, la seconde est de mutualiser les ressources du serveur en hébergeant par exemple le site de vos amis, ou en allégeant les scripts de vos pages web, bloquer les fréquences processeur est d'ailleurs un bon moyen de limiter la consommation.
+
+À titre d'information, un ordinateur contient des transistors pour réaliser les opérations binaires, ces transistors chauffent à chaque commutation, il est donc évident que moins l'ordinateur doit faire de calcul, moins il chauffera et moins il consommera. On pourrait penser que l'énergie utilisée par un ordinateur est inutile puisque elle est simplement transformée en chaleur par les transistors, toutefois de nombreux progrès ont été réalisé sur ce point puisque l'on trouve des ordinateurs sans ventilateur.
+
+== Voir aussi ==
+
+=== Lien externe ===
+* {{fr}} [http://www.auto-hebergement.fr www.auto-hebergement.fr]
+* {{fr}} [http://www.fdn.fr/Internet-libre-ou-Minitel-2.html Conférence « Internet libre ou Minitel 2.0 de Benjamin Bayart]
+
+[[Category:Internet]]
