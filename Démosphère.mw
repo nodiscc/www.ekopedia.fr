@@ -1,0 +1,86 @@
+== Qu'est-ce que Démosphère ? ==
+
+C'est un agenda sur le web, pour aider les habitants de la région parisienne à se rencontrer, à agir, et à se réapproprier la politique. Démosphère est indépendant de toute organisation ou parti et couvre une large gamme de sensibilités (voir nos critères ci-dessous).
+
+Le site parisien a démarré en mars 2007. Aujourd'hui, il existe des agendas dans plusieurs régions (Grèce, Bruxelles, Toulouse, Gironde, ... voir la liste complète ici).
+
+== Qui anime le site Démosphère - région parisienne? ==
+
+Ce sont des bénévoles, sur leur temps libre. Nous ne recevons aucune forme de subvention.
+
+Vous êtes invités à nous rejoindre! N'hésitez pas à nous contacter : contact@demosphere.eu
+
+== Pourquoi ce site? ==
+
+Démosphère centralise les informations qui étaient éparpillées, et fournit un outil pratique à ceux qui veulent faire connaître leurs initiatives. En proposant un large éventail de thèmes et de sensibilités politiques, Démosphère peut aider à décloisonner les mouvements de contestation.
+
+
+== Comment proposer un rendez-vous? ==
+
+Nous encourageons tout le monde à proposer des rendez-vous. Pour apparaître dans l'agenda, un rendez-vous doit:
+
+* porter sur un sujet "politique" au sens large,
+
+* être ouvert à tous sans distinction (Par exemple, les tarifs des événements payants doivent être raisonnables pour ne pas exclure les personnes à faibles revenus),
+
+* permettre à chaque participant de s'exprimer (Sont donc exclus, par exemple, les meetings politiques sans débat, les concerts et les spectacles sans débat),
+
+* être porteur d'un message de "progrès social" et ne promouvoir aucune forme de domination (économique, sexiste, raciste, etc...)
+
+* avoir lieu en région parisienne. Des rendez-vous hors région parisienne peuvent être publiés s'ils sont de portée nationale ou internationale.
+
+Plus de détails ici sur notre charte.
+
+== Comment afficher l'agenda Démosphère sur mon site web? ==
+
+Toutes les informations sont ici: http://www.demosphere.eu/aide-sur-votre-site-web
+
+== Quels sont les projets à long terme? ==
+
+Nous souhaitons progressivement :
+
+* ajouter des fonctionnalités pour les utilisateurs et les contributeurs,
+
+* créer une communauté active qui fasse vivre le site,
+
+* développer et diffuser le logiciel, en aidant d'autres régions à créer leurs propres agendas.
+      
+Plus d'informations sur le logiciel et les sites qui l'utilisent: http://code.demosphere.eu
+
+Les directions que prendra le projet à plus long terme dépendront des souhaits des personnes qui y participeront.
+
+== D’où viennent les informations ? ==
+
+Une partie de nos RDV nous sont envoyés directement, nous espérons que cette proportion augmentera.
+
+Pour l'essentiel des RDV, nous parcourons de nombreuses pages web (plus de 170), de flux RSS et des listes de diffusion mail. Nous avons développé des outils de suivi pour nous indiquer les pages web modifiées et pour chercher des mails annonçant potentiellement des RDV. Même avec l'aide de ces outils, le parcours et la saisie des RDV nous prennent entre 3 et 4 heures par jour.
+
+Quelques-unes de nos sources (parmi plus de 170) : (voir la liste complète ici)
+
+* http://letohubohu.free.fr
+* http://www.monde-diplomatique.fr/rendez-vous
+* http://www.alternativelibertaire.org
+* http://www.educationsansfrontieres.org
+* http://bellaciao.org/fr
+* http://www.desobeir.net
+* ...
+
+== Est-ce que je peux faire confiance aux informations du site? ==
+
+Nous faisons ce que nous pouvons pour vérifier les informations, mais nous ne pouvons rien garantir. Nous essayons d'indiquer systématiquement les sources des informations que nous publions. Ces sources vous permettent de vous faire une idée sur la validité de chaque RDV. N'hésitez pas à vous renseigner en contactant les organisateurs de l'événement. Pour en faire profiter les autres utilisateurs, vous pouvez nous indiquer des erreurs ou des informations complémentaires (contact@demosphere.eu)
+
+== Est-ce que je peux copier ces informations ailleurs? ==
+
+Bien sûr ! Pour vous aider à les afficher sur votre site nous avons mis en place des flux RSS et un calendrier au format iCalendar. Si le format de ce flux ou des données iCal ne vous convient pas, n'hésitez pas à nous contacter pour le personnaliser. Si vous trouvez notre travail utile, n'hésitez pas à ajouter un lien vers notre site.
+
+== Que sont les agendas personnalisés? ==
+
+Vous pouvez créer votre propre agenda en sélectionnant les RDV qui vous intéressent particulièrement. Cette sélection peut être rendue publique pour la partager avec d'autres personnes. Pour plus d'informations, voir ici.
+
+== Quelle plate-forme technique utilisez-vous? ==
+
+Démosphère est un logiciel libre développé par Démosphère Paris/Idf. C'est une extension de Drupal, un système de gestion de contenus. Pour plus d'informations voir http://code.demosphere.eu/
+
+Le site est hébergé sur un serveur dédié fonctionnant avec GNU/Linux (Debian).
+
+[[Catégorie:Internet]]
