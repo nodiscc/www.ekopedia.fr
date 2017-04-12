@@ -1,0 +1,27 @@
+== Problèmes en cours ==
+
+* Il manque des images, miniatures ...
+: parfois le pb peut etre resolu avec une redirection quand le fichier png est la (soucis d import ?)
+:: exemple pour Yes_check.svg : http://www.ekopedia.fr/index.php?title=Fichier:Yes_check.svg
+:
+: Note : il est possible de récupérer des images sur http://ekopedia.osremix.com/
+:
+:''Personne qui a soumis le problème : [[Utilisateur:Pierro78|Pierro78]]''
+
+* Plus de sources/description pour les images!
+:Nous avons perdu la totalité des [[Ekopedia:Page de description d'une image|pages de description]] des fichiers présents sur Ekopedia. Cela discrédite notre encyclopédie : plus aucune description, catégorisation, source, auteur, licence... Plus rien nous justifie que ces images sont libres de droit. C'est dommage, je me souviens avoir passé des heures sur [http://base.ekopedia.org/ la base ekopedia] afin que chaque images possèdent une [[Ekopedia:Page de description d'une image|pages de description complète]]. Actuellement, notre site ne respecte plus les [[Ekopedia:Règles d'utilisation des images|règles d'utilisation des images]]. 
+:''Personne qui a soumis le problème : [[Utilisateur:Jecolo|Jecolo]]''
+:: base.ekopedia.org a été perdue, on a demandé à Jean-Luc et il n a pas pu retrouver d archives --[[Utilisateur:Pierro78|Pierro78]] ([[Discussion utilisateur:Pierro78|discussion]]) 24 février 2017 à 16:18 (CET)
+
+== Problèmes a peu prés resolus ==
+
+* Plus de pages projets 
+:Problème de nommage des pages projets : http://www.ekopedia.fr/wiki/Cat%C3%A9gorie:Projet (probablement du au (non-)parametrage du namespace)
+:Remarque : Voir le "bon" nommage sur http://ekopedia.osremix.com/Cat_C3_A9gorie_Projet/
+:''Personne qui a soumis le problème : [[Utilisateur:Pierro78|Pierro78]]''
+{{fait}}
+
+== Problemes resolus ==
+
+[[Category:Projet]]
+[[Category:Redémarrage]]
