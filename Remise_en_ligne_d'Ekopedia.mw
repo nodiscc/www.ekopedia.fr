@@ -1,0 +1,72 @@
+Présentation des étapes du projet de remise en ligne d'Ékopedia mis en oeuvre par [[RésiWay]] <ref>List complète des tâches de récupération sur github, [https://github.com/cedricfrancoys/ekopedia.fr]</ref>.
+
+== contacts préliminaires ==
+''Entamés le 5 septembre 2016''  
+* contacts avec [[Utilisateur:HertzZ|Jean-Luc Henry]] (initiateur d'Ékopedia)
+* contacts avec Lonny Grafman et Chris Watkins (gestionnaires d'[[Appropedia]] et dépositaires du nom de domaine ekopedia.org) : projet d'intégration d'Ékopedia à Appropedia mais pas de date précise pour la mise en oeuvre
+
+== Données brutes ==
+'''[[Utilisateur:HertzZ|Jean-Luc Henry]]''' : backup MySQL de la dernière version d'Ekopedia (juillet 2015) - dump SQL sans les fichiers (dossier 'image' manquant)  
+
+'''Archive.org''' : version statique (html) pour le nom de domaine ekopedia.org <ref>Liste des fichiers Ekopedia archivés sur archive.org, [https://web-beta.archive.org/web/*/www.ekopedia.org]</ref>
+
+* installation, adaptation et configuration du script ruby wayback-machine-downloader "<ref>wayback-machine-downloader sur github, [https://github.com/hartator/wayback-machine-downloader]</ref>"
+* récupération de en.ekopedia.org, fr.ekopedia.org, base.ekopedia.org
+
+== Configuration serveur ==
+Identification de la version de mediaWiki du backup (1.17) et MySQL (5.1)
+installation 
+* Apache / PHP / MySQL
+* mediaWiki 1.24 (pour conversion de la base de données) 
+* 1.26 (dernière version)
+
+Configuration 
+* MySQL : pour import de fichier de grande taille (dump SQL > 2 Go)
+* PHP : selon les besoins de mediawiki 1.26
+* Apache2 : host et URL rewriting (dossier /wiki virtuel)
+
+== Importation ==
+Reconstitution du dossier 'image' 
+* fusion des des versions enregistrées par archive.org
+* écriture d'un script de linéarisation des fichiers images (sélection, our chaque nom d'image, du fichier en plus haute résolution disponible sur base de la syntaxe du nom de fichier et de la taille)
+* ré-importation de 2000 images à partir du script mediawiki ImportImages.php
+
+mise à jour des "liens spéciaux" (:Spécial, :Fichier, :Image)
+adaptation du contenu pour se conformer aux restrictions syntaxiques (dernières version du moteur mediawiki moins permissif)
+
+analyse du contenu pour déterminer 
+* les extensions utilisées
+* les catégories spéciales
+
+''11 octobre 2016: mise en ligne sous le nom de domaine ekopedia.resiway.org <ref>ekopedia.resiway.org, [http://ekopedia.resiway.org]</ref>''
+
+
+== Soutien du groupe PermaWiki ==
+
+[[Utilisateur:Papillon_pollenisateur|Lorenzo Favia]]
+* Par son impulsion <ref>Idée du PermaWiki de Lorenzo : https://www.facebook.com/lorenzo.favia.7/posts/1413292078688965 </ref> le [https://www.facebook.com/groups/PermaWiki/ groupe facebook PermaWiki] a été créé. L'objectif principal du groupe PermaWiki est un wiki sur la permaculture.
+* Communication pour faire connaitre Ekopedia.
+
+[[Utilisateur:Pierro78|Pierre Pham-Phu]] 
+* vérification des images / vidage du cache
+* configuration des backups automatiques 
+* système de validation des inscriptions avec envoi de mail de confirmation 
+* aide à la configuration des catégories spéciales  
+
+Camille Daviaud
+* récupération d'une version à partir de l'offre payante de archive.org
+* création d'une archive et d'une version en ligne disponible sur ekopedia.osremix.org <ref>ekopedia.osremix.org, [http://ekopedia.osremix.org]</ref> 
+(importation de 300 images supplémentaires )
+
+[[Utilisateur:Karmak23|Olivier Cortes]] : 
+* mise à disposition d'un accès en SSH à un serveur perso pour héberger les backups d'Ekopedia <ref>backups d'Ekopedia hébergés par Olivier Cortes : http://www.appropedia.org/Ekopedia/Projet/Backups</ref>et une seconde version de test & développement <ref>version de test & développement  hébergée par Olivier Cortes : http://www.appropedia.org/Ekopedia/Projet/ekopedia.1flow.net</ref>
+
+
+''24 décembre 2016 : mise en ligne sous le nom de domaine [http://www.ekopedia.fr www.ekopedia.fr]''
+
+Bravo à tous !
+
+== Notes et Références ==
+<references/>
+[[Catégorie:Information sur Ekopedia]]
+[[Catégorie:Redémarrage]]
