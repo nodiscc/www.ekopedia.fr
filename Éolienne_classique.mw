@@ -1,0 +1,243 @@
+{{Vivre ensemble}}
+
+On appelle '''Éolienne classique''', les éoliennes à hélices qui composent les parcs, les fermes ou champs d'éoliennes.
+
+
+== Fonctionnement des éoliennes à axe horizontal à hélices ==
+<div style=float:right>
+[[Image:Schema_eolienne.png]]</div>
+
+Une éolienne à axe horizontal à hélices a en général 3 pales.
+
+Elle permet de produire de l'électricité grâce aux éléments suivants qui la composent:
+* '''le mât''', qui permet de placer l'éolienne à une hauteur où la vitesse du vent est plus élevée, plus régulière et plus linéaire qu'au sol;
+* '''les pales''', montées sur l'axe du rotor de l'alternateur sont généralement au nombre de trois. Elles sont l'élément de prise au [[vent]] de la machine;
+* '''une nacelle''' montée au sommet du mât et abritant les composants électriques, pneumatiques et électroniques travaillant à la conversion du mouvement de rotation du rotor en énergie électrique selon le principe de la [[dynamo]] ou de l'alternateur;
+* '''un poste de transformation''' à proximité des éoliennes. Ce poste permet de compter la production électrique du parc et de relever la tension pour se connecter au réseau publique d'[[électricité]] existant, afin de pouvoir y injecter l'énergie produite et non consommée directement.
+
+* La puissance unitaire maximale des éoliennes a considérablement évolué depuis les débuts de l’énergie éolienne :
+
+{|class="ekotable"
+!Année!!Puissance nominale maximale d'une éolienne
+|-
+|en 1984
+|55 kW (0,055 MW)
+|-
+|en 1990
+|200 kW (0,2 MW)
+|-
+|en 1995
+|500 kW (0,5 MW)
+|-
+|en 2000
+|1 MW
+|-
+|en 2005
+|1,5 à 2 MW
+|-
+|en mer en 2008 
+|jusqu’à 3 MW
+|-
+|en mer en 2010
+|plus de 5 MW
+|-
+|à terre en 2010
+|7,58 MW
+|-
+|en mer en 2012
+|jusqu'à 6 MW
+|}
+
+== Le rendement et le choix de l'emplacement ==
+
+L'efficacité d'une éolienne dépend principalement de son emplacement. En effet, la puissance fournie augmente avec le cube de la vitesse du vent. Un site avec des vents d'environ 30 km/h produira 8 fois plus qu'un autre où les vents n'atteindront que 15 km/h. En règle générale, les éoliennes ne tournent qu'avec des vitesses de vents supérieures à 11 km/h. Par mesure de sécurité, lorsque le vent dépasse 90 km/h, l'éolienne est mise à l'arrêt.
+
+Le potentiel éolien d'un site est généralement pré-évalué avec l'utilisation de données météo à proximité. Néanmoins, pour des sites très ventés, des indices tels que la végétation peuvent également confirmer l'importance du vent ([[arbre]]s courbés par les vents). L'étude du vent reste indispensable à l'évaluation de l'électricité pouvant être produite et un mât de mesure de plus de 40m est souvent installé pour évaluer finement le potentiel du site (étude réalisée dans le cadre de projets soumis à permis de construire)
+
+Le rendement varie selon la vitesse du vent et reste soumis à la loi de Betz. 
+Le terme ''taux de charge''  évalue le rapport entre la production réelle d'électricité et la production maximale possible (Puissance de la machine multipliée par le nombre d'heures comprises dans une année). Ce rapport est généralement compris entre 20% et 30% et la moyenne en France se situe autour des 25%.
+
+[[Image:Éoliennes.jpeg|right]]
+
+Compte tenu de la répartition des éoliennes sur le territoire, la production est relativement constante. 
+
+* Deux gisements totalement décorrelés sont présent en France : un en Manche, et un sur le pourtour méditerranéen. De plus, à l'intérieur de la zone nord, plusieurs gisements de vents sont quasiment décorrélés : un dans le nord et en Picardie, l'autre en Bretagne. Cela signifie que lorsqu'il n'y a pas de vent dans le nord, il y en a dans le sud ce qui permet une grande régularité de la production. Cette situation est quasi unique en Europe, ce qui fait de la France un des pays les mieux adapté à la production éolienne.
+* On peut stocker l'énergie produite quand il y a du vent pour la réutiliser quand il n'y a pas de vent. Au niveau national, cela est utilisé quotidiennement grâce aux stations de pompage-turbinage, qui pompent de l'eau en période creuse (nuit, période de vent, etc.), pour produire de l'électricité en période de pointe de consommation, ou en période sans vent.
+
+== Techniques de constructions ==
+
+Les éoliennes classiques se trouvent soit dans sur terre dans des parcs ou des zones industrielles, voir des fermes. 
+Elle peuvent se trouver aussi en mer.
+
+=== Ferme d'éolienne ===
+
+Les champs d'éoliennes peuvent s'intégrer sur un site agricole et/ou industriel, ou sur un site spécifique.
+
+=== Ferme d'éoliennes offshore ===
+
+Ce principe permet d'installer les éoliennes en [[mer]] peu profonde, souvent proche d'un port. Il est ainsi possible de les exposer à des vents plus forts et presque constants. Fait non négligeable pour le cas de la France, aucune habitation n'étant proche de la ferme, personne ne peut alors se plaindre d'un bruit ou d'une vue...
+On en trouve désormais en Allemagne, au Japon, au Danemark, au Royaume-Uni, ...
+
+==Avantages et Inconvénients==
+
+===Avantages===
+* Énergie propre et non polluante
+
+* [[Énergie renouvelable]] et non fossile, participant à notre indépendance énergétique, et disponible pour l'éternité, contrairement au gaz ou à l'uranium qui sont en cours d'épuisement et totalement importé. Les énergies renouvelables ne favorisent pas les conflits militaires pour l'accession aux ressources naturelles restantes.
+
+* Le prix des énergies renouvelables n'augmente pas, contrairement aux énergies fossiles ou nucléaires, dont le prix augmente suite à l'épuisement des ressources telle que l'uranium (dont le prix a été multiplié par 15 en 3 ans).
+
+* Les coûts externes des énergies renouvelables sont très faibles. 
+
+* Énergie créatrice d'emplois : En 2004, la filière énergie éolienne emploie plus de 100 000 personnes en Europe, dont la moitié en Allemagne. C'est considérable. Une étude officielle entreprise en Allemagne indique qu'en 2002, 119 000 personnes travaillaient dans les énergie renouvelables, dont 53 000 dans l'éolien, 29 000 dans la biomasse et 13 000 dans le solaire. En France en raison de la jeunesse de cette nouvelle filière de production électrique, seulement 5 000 personnes environ qui travaillent dans l'éolien.
+
+* Intérêt touristique et économique : Les parcs éoliens entrent dans le cadre du tourisme scientifique, du tourisme industriel, de l'[[écotourisme]] et du tourisme vert , autant de formes nouvelles et originales de découverte. La présence d'éolienne renforce l'image verte des zones rurales touristiques. Les parcs éoliens peuvent être un moyen de conserver les visiteurs un peu plus longtemps sur leurs lieux de vacances, notamment ceux du nord de l'Europe, plus sensibilisés à la problématique des énergies renouvelables. Dans ce but, des animations thématiques se mettent souvent en place autour des parcs éoliens.
+
+* L'insertion paysagère des parcs est soigneusement étudiée lors des enquêtes préliminaires. Des cabinets spécialisés dans ce domaine, indépendants des projets, sont sollicités afin d'étudier la meilleurs manière de disposer les aérogénérateurs afin qu'ils s'intègrent harmonieusement dans le paysage. Des cartes de visibilités ainsi que de nombreuses simulations sont systématiquement réalisées dans l'étude d'impact, avant le dépôt de permis de construire. 
+
+* Des associations se sont créées autour de certains parcs éoliens modernes en France, celles-ci organisent des visites à thème autour des énergies renouvelables et proposent également une large gamme d'activités (expositions, conférence, etc.). Un parc éolien devient ainsi un moteur économique sur le plan local, permettant de développer la sensibilisation du grand public et le tourisme sur la commune. 
+
+* Lorsque de grands parcs d’éoliennes sont installés sur des terres agricoles, seulement 2 % du sol environ est requis pour les éoliennes. La surface restante est disponible pour l’exploitation agricole, l’élevage et d’autres utilisations.
+
+* La taxe professionnelle reversée par l'exploitant du parc éolien à la commune est une ressource financière supplémentaire, parfois indispensable à la survie financière de communes souvent rurales et pauvres.
+
+===Inconvénients===
+[[Image:Éoliennes-Cap-Chat.jpg|thumb|200px|Une [[Énergie éolienne|éolienne]] est un dispositif utilisant l'[[énergie]] du vent. (Cap-Chat, Québec)]]
+
+On constate des freins à l'implantation de champs de production : 
+* les riverains n'acceptent pas toujours l'impact visuel des éoliennes. Le bruit perceptible à proximité modifie l'environnement proche des machines. Des interférences électromagnétiques causent parfois des problèmes de réceptions qui sont pris en charge par les exploitants du parc éolien. Même si l'aspect visuel n'est guère plus changé par un champs d'éoliennes que par celui d'une centrale nucléaire ou d'une ligne à haute tension, c'est un point de dégradation du paysage (Cf l'avis rendu par la Fédération des paysages et du patrimoine, la FNASSEM<ref>[http://www.associations-patrimoine.org/a-la-une.php?page=3 FNASSEM]</ref>;
+
+* la réception des ondes hertziennes peut parfois être perturbée, ce qui provoque une image bruitée sur les récepteurs de télévision ; (Remise en état généralement prise en charge par l'exploitant du parc éolien avec l'installation du câble ou d'antenne relais.)
+
+* le balisage est obligatoire comme pour toute autre construction de grande hauteur. Ce balisage est visible à plusieurs kilomètres de distance, afin de signaler la position des éoliennes et assurer la sécurité aéronautique ;
+
+* il peut arriver que certains oiseaux entrent en collision avec des pales, cependant, ce risque est à relativiser car toutes les études réalisées sur ce sujet montrent que ces collisions sont très rares (de l'ordre de 1 à 5 oiseaux/éolienne/an) et les éoliennes très bien repérées par les oiseaux. Des études avifaunes sont obligatoires avant la construction et la LPO travaille sur de nombreux projets éoliens afin d'étudier l'impact du parc avant sa réalisation ;
+
+* les éoliennes peuvent interférer avec les radars météorologiques ou militaires, en constituant un obstacle à la propagation de l'onde à basse altitude donnant une zone d'ombre dans les données. De plus, comme les pales sont en rotation, le radar note leur vitesse de déplacement qui est indifférenciable d'une cible en mouvement comme la pluie. Cet aspect est actuellement en cours d'études dans divers pays européens afin de résoudre techniquement ces difficultés. Afin de ne causer aucune perte aux opérateurs radars, l'accord de Météofrance ainsi que de l'aviation civile et l'armée de l'air est pour cette raison obligatoire afin d'obtenir le permis de construire d'un parc éolien ;
+
+* Selon les militants anti-éoliens, l'énergie intermittente produite par l'éolienne nécessite souvent la complémentarité d'une production d'énergie thermique. En réalité, c'est l'inverse qui se passe, la production éolienne se substitue en quasi-totalité à l'énergie thermique. De plus, si la production d'un parc est intermittente, le foisonnement de l'ensemble des parcs français crée une production relativement stable, de part la dispersion des parcs et les différents gisements décorrélés des vents français présents sur le sol français.<ref>[http://www.rte-france.com/htm/fr/mediatheque/telecharge/bilan_complet_2007.pdf Bilan prévisionnel de RTE]</ref>.
+
+* Au pied d'un pylône d'une éolienne de 2,5 MW comme de 4MW, il n'y a pas plus de bruit que celui d'un moteur de Peugeot HDI 307 au ralenti. En d'autre termes, il est tout à fait possible d'entretenir une conversation sans, à aucun moment, paraitre gêné par le bruit de l'éolienne. Mieux des cultivateurs, présents, nous ont dit être surpris par le silence de ces merveilleuses hélices... "Qu'est-ce qu'ils sont forts nos ingénieurs quand même !", ont-ils ajoutés ! On pourra s'assurer de la véracité de ces écrits en allant au pied de chacune des éoliennes du Bel Air, à côté de Collinée, en Bretagne (à 25 Km au Sud de Lamballe ; côte d'Armor), mais ailleurs en Bretagne. Nous avons fait le même constat au pied de pylônes d'éolienne dans d'autres endroits en France. Mais hélas, il se dit toujours que certaines éoliennes (lesquelles, probablement de très anciennes) produisent beaucoup de bruit (ce terme parait énorme). De même l'académie nationale de médecine recommande de ne pas mettre d'éoliennes d'une puissance de 2,5 Mw à une distance inférieure de 1500 mètres d'une habitation<ref>[http://www.academie-medecine.fr/upload/base//rapports_267_fichier_lie.rtf Distance par rapport aux habitations]</ref>. Curieux, pour quelle raison alors, puisqu'elles ne font pas de bruit ? Qu'en est t-il à ce sujet pour une centrale nucléaire ?
+
+==Comparaison avec un réacteur nucléaire==
+
+Combien faut-il d’éoliennes classiques pour remplacer un réacteur nucléaire ?<br>
+Note: Nous n'allons parler que d'éoliennes classiques dans des fermes d'éoliennes, et pas d'éoliennes urbaines ou de proximité qui pour certaines ont un rendement bien supérieur.
+
+Basons nous sur des chiffres moyens (on pourra toujours avancer d’autres chiffres, ce qu’il faut retenir, c’est l’ordre de grandeur).
+
+Prenons un réacteur de 1 200 MW (mégawatts).<br>
+En France, les tranches nucléaires vont de 900 à 1450 MW.(1)<br>
+Facteur de charge du nucléaire = 75 % <br>
+On divise la quantité d'électricité produite en un an par la quantité d'électricité qui pourrait être théoriquement produite s'il n'y avait pas d'arrêts pour travaux, pour rechargement du combustible, ... <br>
+(Énergie théorique = Puissance installée * 8 760 heures) <br>
+Puissance moyenne produite par une centrale: 1 200 * 75% = 900 MW <br>
+Puissance maximum pour une belle éolienne: (mars 2012) <br>
+. offshore : 5 MW (Areva,...), 6 MW (REpower, Siemens, ...), <br>
+. terrestre: 7,58 MW (Enercon) <br>
+Facteur de charge de l'éolien: <br>
+. éolien terrestre = entre 20% et 25%, <br>
+. éolien offshore = entre 30% et 35%. <br>
+(pour l'énergie théorique on ne tient pas compte des vents nuls, trop faibles ou trop forts, des pertes par sillage, de la maintenance, ...). <br>
+Puissance moyenne : <br>
+. éolienne terrestre de 7,5 MW : 7,5 * 25% = 1,875 MW, <br>
+. éolienne offshore de 6 MW: 6 * 30% = 1,8 MW. <br>
+900 MW / 1,8 MW = 500 éoliennes <br>
+'''Nombre d'éoliennes pour remplacer un réacteur nucléaire: 500 (environ).'''<br>
+
+
+
+Concernant la comparaison de surface au sol utilisée, cela n'a que peu de sens. L'éolien utilise l'énergie du vent et ne produit aucun déchet. La surface d'occupation au sol utilisée par le pied du mât est d'une trentaine de m² avec un volume de béton enterré d'environ 200 m³. En comparaison, une centrale nucléaire utilise (suivant les centrales), 60 000 000 m² cloturés pour la zone de production et des milliers de m² supplémentaires pour extraire la matière fissile et enterrer les déchets.
+
+Il faut plus de cent ans pour pouvoir espérer utiliser le terrain après l'usage d'une centrale nucléaire, alors que c'est immédiat pour l'éolien ; et le pb. de déchets ultimes est loin d'être réglé pour le nucléaire... un autre et vaste problème).
+
+===Avantages/Inconvénients comparés===
+
+{|class="ekotable"
+!Points!!Champs d'éoliennes!!Centrale nucléaire
+|-
+|Construction
+|coût + impact faible
+|cout + impact très élevés et souvent mal estimés (cf EPR)
+|-
+|Surface occupée
+|2 000 éoliennes avec des surfaces exploitables autour des éoliennes (champs, cultures, ...)
+|Une centrale nucléaire avec une périmètre de sécurité, des sites d'extraction, des sites d'enfouissement, des sites de traitements!
+|-
+|Durée de vie de l'installation
+|Une vingtaine d'année
+|A l'origine 30 année
+D'après le site du développement durable du gouvernement : La durée de vie atteignable par un réacteur n'est pas une donnée certaine mais se confirme au fur et à mesure de l'exploitation. (cf http://www.developpement-durable.gouv.fr/energie/nucleair/epr_2_9.htm)
+|-
+|Carburant
+|Vent... totalement renouvelable!<br>Mais éole souffle quand il veut!
+|Uranium et Plutonium ... 
+|-
+|Transport de l'énergie
+|Production décentralisée, sites de productions répartis sur le territoire, et donc utilisant les lignes électriques du réseau de distribution d'électricité.
+|Production centralisée, quelques sites de production avec des lignes très haute tension pour transporter sur de longues distances l'électricité produite.
+|-
+|Déchets de fonctionnement
+|Graisse et Huiles
+|Graisse et Huiles + Déchets toxiques et radioactifs
+|-
+|Démantèlement
+|coût + impact faible (remise en état du site assurée)
+|cout + impact beaucoup plus élevé et surtout mal maîtrisé lié à la radioactivité { selon médias français: en 2012, coût de déconstruction = coût de construction }
+|-
+|Sécurité du personnel
+|Risque lié au travail en hauteur: Chute, ...
+|Risque lié à la radioactivité: Leucémie, Cancer, ...
+|}
+
+ATTENTION : 
+
+Il est évident que l'éolien n'a pas pour objectif de remplacer le parc nucléaire français qui produit 76% de l'électricité française. Néanmoins, l'éolien, comme toutes les énergies renouvelables s'inscrit dans une démarche globale qui comprend :
+#Des économies d'énergies (ou au moins, éviter les pertes inutiles)
+#Un mix énergétique composé de plusieurs sources (solaire, vent, biomasse, hydraulique, ...) et décentralisé.
+
+Il convient aussi de tenir compte des pertes liées au transport de l'électricté<ref>[http://www.leseoliennes.be/economieolien/transportcourant.htm Pertes liées au transport]</ref>.
+
+== [[Matériel libre]] ==
+
+Il existe des éoliennes en [[matériel libre]] ou open source :
+* DIY and Open Source Wind Turbines<ref>[https://en.wikipedia.org/wiki/Small_wind_turbine#DIY_and_open_source_wind_turbines  DIY and Open Source Wind Turbines]</ref>
+* éolienne à axe vertical<ref>[http://www.onpeutlefaire.com/construire-une-eolienne-a-axe-vertical Construire une éolienne à axe vertical(onpeutlefaire)]</ref>
+* Small Wind Turbine( howto)<ref>[http://en.howtopedia.org/wiki/How_to_Build_a_Small_Wind_Turbine How to Build a Small Wind Turbine]</ref>
+
+==Notes==
+
+(1) voir: http://energie.edf.com/nucleaire/carte-des-centrales-nucleaires-45738.html
+
+==Voir aussi==
+<references />
+===Liens internes===
+* [[Éolienne]]
+* [[Énergie éolienne]]
+* [[Utilisation de l'énergie]]
+* [[Énergies renouvelables]]
+* [[Système électrique idéal]]
+
+===Liens externes===
+* Autoconstruction
+** [http://www.mini-eoles.com/ Mini-éoles] Documentations pour auto-construire son éolienne.
+** [http://www.instructables.com/id/EDTMO3QLQIEP287OGM/?ALLSTEPS DIY 1000 watt wind turbine]
+** [http://www.instructables.com/id/E0T6AVT19OEP286NG5/?ALLSTEPS Chispito Wind Generator]
+** [http://www.otherpower.com/otherpower_wind.html Wind power]
+* Militantisme
+** [http://www.planete-eolienne.fr/index.html/ La fédération des Energie du Vent  !] qui regroupe les associations pro-éolien
+** [http://www.ventdecolere.org/ La fédération Vent de Colère !] qui regroupe 300 associations luttant contre l'éolien industriel
+** [http://www.windpower.org/composite-192.htm Association danoise de l'industrie éolienne]
+** [http://www.energie2030.com/ Energie 2030] Coopérative belgo-allemande pour la production et la promotion des énérgies renouvelables.
+* Données et statistiques
+** [http://www.thewindpower.net The Wind Power] Base de données sur les champs éoliens et sur les éoliennes.
+
+* Autres
+** [http://www.energiepge.com La marguerite des vents]
+** [http://www.radio-canada.ca/actualite/v2/decouverte/niveau2_2909.shtml Reportage sur 'La marguerite des vents' ]
+
+===Bibliographie===
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}
+{{DEFAULTSORT:Eolienne classique}}
+[[Catégorie:Énergie éolienne]]
