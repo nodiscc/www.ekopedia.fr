@@ -1,0 +1,59 @@
+{{Vivre ensemble}}
+L'exploitation solaire par '''énergie photovoltaïque''' consiste à transformer les rayons solaire en [[électricité]].
+
+== Énergie photovoltaïque ==
+
+La conversion par photopiles est le seul moyen connu de convertir directement la lumière en énergie électrique. Le matériau de base des photopiles est le silicium, semi-conducteur. La lumière solaire transmet son énergie aux électrons contenus dans le silicium. <ref>[http://www.solerine-energie.com/photovoltaique/ Fonctionnement du photovoltaïque]</ref> Les électrons sont alors mis en mouvement, produisant ainsi un courant électrique. Les cellules au silicium cristallin (poly ou mono) sont actuellement celles qui permettent d'obtenir les meilleurs rendements sans perte dans le temps. 
+
+Un système photovoltaïque autonome comprend, outre le panneau photovoltaïque la batterie pour le stockage de l'électricité, la diode anti-retour qui évite que la batterie se décharge dans les panneaux la nuit, le régulateur qui gère la charge de la batterie afin de lui éviter tout dommage irréversible (trop forte surcharge ou décharge complète), les récepteurs fonctionnant en courant continu, éventuellement un onduleur si vous souhaitez utiliser des appareils en 220V alternatif. 
+
+Il existe aussi une autre application du photovoltaïque qui consiste à raccorder l'installation au réseau. Dans ce cas seul un onduleur spécifique est nécessaire, il n'y a plus besoin de batteries qui devaient être remplacées souvent et dont le recyclage pose problème. L'électricité produite est injectée sur le réseau et peu ainsi être consommée instantanément au plus proche en limitant aussi les pertes en ligne. De plus, avec les tarifs d'achat intéressants de l'électricité photovoltaïque mis en place en 2006 en France, la filière devrait se développer et la recherche s'intéresser un peu plus à ce domaine porteur à long terme. 
+
+La technologie basée sur le silicium a un développement comparable à celui de l'informatique. De nombreuses sociétés actives dans ce domaine, comme Sharp, sont aussi actives dans l'électronique. Outre l'amélioration constante des produits à base de silicium, on peut citer deux technologies innovantes et sans doute promises à un bel avenir : les cellules photovoltaïques en plastique et les cellules de Graetzel. 
+
+Malheureusement, la fabrication de ces panneaux solaires demeure encore aujourd'hui trop polluante (utilisation de pétrole ou de fioul pour les machines permettant leur conception)
+
+Le '''[[solaire à concentration photovoltaïque]]''' est une technologie qui permet de concentrer l'énergie solaire grâce à des miroirs vers des cellules photovoltaïques et de produire ainsi de l'électricité.
+
+Le photovoltaïque produit aux alentours de 120 Watts/m² (moyenne pour un pic maximum) (source ADER [suisse])
+
+== Les cellules solaires en plastique ==
+Les cellules solaires en plastique ont un rendement compris entre 4 et 5% et elles restent encore très fragiles, car elles sont sensibles à l'oxygène et à l'humidité. La recherche vise à améliorer l'encapsulation et à en diminuer le prix (actuellement de l'ordre de 2 euros/watt-crête, c'est-à-dire le double de la technologie basée sur le silicium). 
+
+== Les cellules de Graetzel ==
+Les [[Cellules_graetzel|cellules de Graetzel]] (du nom de l'inventeur de l'École polytechnique fédérale de Lausanne, Suisse) sont des cellules solaires nanocristallines à colorant. La résistance à la chaleur en était le point faible, mais fait l'objet de recherches intensives. Ces cellules ne nécessitent pas une grande pureté des matériaux utilisés. Elles sont inspirées de la photosynthèse et sont constituées d'un côté d'une couche de dioxyde de titane recouverte d'un colorant appelé « sensibilisateur » et de l'autre d'une solution électrolytique. Lorsqu'un rayon lumineux tombe sur le colorant, un électron est éjecté. Tous les électrons ainsi libérés traversent l'oxyde, sont collectés au bord de la cellule et ensuite dirigés vers un circuit externe.
+
+== Stockage de l'énergie photovoltaïque == 
+
+L'un des arguments majeurs, auxquels se heurtent les partisans de l'énergie solaire, consisterait en son alléguée impossibilité (actuelle) d'en constituer des réserves.  
+
+En contradiction avec ce qui précède, la [[wikipedia:fr:radio télévision suisse|RTS]], lors de son journal télévisé du 18 novembre 2010<ref name="RTS">[http://www.tsr.ch/video/info/journal-19h30/2706434-des-chercheurs-de-l-epfz-remettent-en-cause-le-principe-de-l-isolation-des-batiments.html Des chercheurs de l'EPFZ remettent en cause le principe de l'isolation des bâtiments] – [[wikipedia:fr:radio télévision suisse|RTS]] – 19:30 le journal – 18 novembre 2010</ref>, a fait part d'une récente découverte – émanant de chercheurs de l'[[wikipedia:fr:EPFZ|EPFZ]] – dont les fondements, structurels, associés à une innovation technique révolutionnaire, tendraient à remettre en cause le principe même de l'[[isolation thermique]] des bâtiments<ref name="EPFZ">Selon lesdits chercheurs affiliés à l'[[wikipedia:fr:EPFZ|EPFZ]], l'[[isolation thermique]] des bâtiments tendrait à désolidariser l'habitation de son environnement, raison pour laquelle ils lui préfèrent la nouvelle solution en cours, telle qu’ébauchée par un prototype de leur crû.</ref >. Pour ce faire, ils auraient apparemment réussi à développer une approche inédite (bien que controversée), dont les tenants et aboutissants, relativement complexes, permettraient – par le biais d'un forage associé (lui-même relié aux panneaux solaires), effectué à environ 300 mètres de profondeur – de «&#160;stocker&#160;» l'énergie photovoltaïque, en prévision des frimas hivernaux et/ou des jours plus rigoureux<ref name="RTS" />.
+
+== Maintenance des systèmes photovoltaïques ==
+
+Il est trop souvent oublié que ces systèmes solaires doivent être rigoureusement entretenus et maintenus afin que leur rendement soit préservé.
+
+Ainsi, il faut tailler les plantations qui pourraient leur faire de l'ombre, ne pas laisser des feuilles coller sur les panneaux ou des fientes d'oiseau. Un élément rarement expliqué est que pour des raisons d'économie et de tension, la majorité des systèmes solaires photovoltaïques sont installés en série, avec des diodes by-pass de sécurité pour éviter que la défaillance d'un seul élément ne plombe le rendement de l'ensemble donc un défaut sur un élément aura des conséquences dépassant largement la zone touchée. <ref>[http://www.photovoltaique.guidenr.fr/cours-photovoltaique-2011/III_diode-by-pass.php Les by-pass]</ref>
+À noter également que ces modules peuvent avoir des défaillances électriques ou structurelles, une inspection électrique et/ou thermographique est conseillée: la thermographie permettra de déceler les défaillances des cellules et de les cibler précisément et l'électrique permettant de vérifier la tension et les circuits. <ref>[http://www.thethermograpiclibrary.org/index.php?title=Tests_de_panneaux_solaires_par_thermographie Test de panneaux photovoltaïques par thermographie]</ref>
+
+== Notes et références ==
+{{références}}
+== Voir aussi ==
+=== Liens internes ===
+* [[Énergie solaire]]
+* [[Énergie renouvelable]]
+* [[Limites des énergies renouvelables]]
+* [[Énergie de la biomasse]]
+* [[Gestion de l'énergie]]
+* [[Maison passive]]
+* [[Climatisation solaire]]
+* [[Cellules graetzel]]
+* [[Capteur héliothermique]]
+* [[Cellules photovoltaïques de silicium amorphe]]
+* [[Système électrique idéal]]
+
+=== Liens externes ===
+* [http://www.photovoltaique.guidenr.fr/cours_photovoltaique.php ''GuidEnR PHOTOVOLTAÏQUE'' : Ressources sur l'énergie photovoltaïque]
+
+{{Multi bandeau|Portail Énergie|Portail Vivre ensemble}}	 
+[[Catégorie:Énergie solaire]]
