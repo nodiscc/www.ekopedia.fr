@@ -1,0 +1,39 @@
+{{Vivre ensemble}}
+
+Le''' petit éolien''' désigne l'ensemble des aérogénérateurs dont la puissance maximale est inférieure à environ 65Kw soir 200m2. Certains fixent ce seuil au-dessus, d'autres en-dessous. Ici nous parleront de puissance encore inférieures puisque cette page est destinée à l'autoconstruction d'éoliennes. Le but de cette page est de rendre accessible gratuitement et à un large public l'aspect technique et théorique de l'autoconstruction d'éoliennes.<br/> Il est possible de commencer par des micros-éoliennes d'environ 50 à 200 watts (alimentant un peu d'éclairage et une radio) et de réaliser plus tard des modèles de 500watts voir plus. Mais il convient avant tout de connaître certaines choses : 
+*La construction d'une éolienne est une épreuve dangereuse : on manipule des outils électriques, on utilise des matériaux toxiques (mais aussi peu que possible), l'éolienne devra tourner constamment à parfois 30 mètres de haut...
+*Ce n'est pas aussi simple que le bidouillage d'une mobylette, ainsi il est important de savoir que la lecture de pages aussi complètes soient-elles comme celles-ci bientôt, n'est pas du tout suffisant pour se lancer dans la fabrication de l'aérogénérateur, rien ne vaut un stage pratique, et un bon copain mécanicien...
+*Il faut du temps, de l'argent (bien que le prix peut baisser considérablement si vous fouinez bien les ferrailleurs), un bon atelier dédié à votre bijou, une famille compréhensive aussi !
+*Sachez qu'à moins d'être très écolo et donc très économe vous n'atteindrez pas l'autonomie énergétique. On estime la consommation journalière moyenne d'un français à 1Kw/h. Si vous vous débarrassez d'objets à peu près inutile (télévision, congélateur, sèche-linge, climatisation, bouilloires, etc...) et que vous utilisez le reste au strict nécessaire, alors vous pouvez sûrement diviser par 2, 3, voire bien plus votre consommation...C'est là que la construction d'un aérogénérateur prend du sens ! 
+*Malgré tout, il faut savoir que c'est probablement un des exercices les plus intéressant que vous puissiez faire, rien ne devrait vous y empêchez, pas même la nécessaire prudence, car sachez qu'une éolienne, on n'en construit jamais qu'une seule !
+
+== Description rapide ==
+Par commodité on emploiera le terme d'éolienne au lieu de son vrai nom : ''aérogénérateur''.
+Une éolienne est constituée de plusieurs ensembles de pièces :
+*L'hélice (plus technique : le rotor), qui est conçue pour suivre les vents le plus sensiblement et rapidement possible. Nous connaissons deux célèbres modèles d'hélices : les tripales de nos grandes éoliennes modernes, et celles des vieilles éoliennes de pompage qui contiennent beaucoup plus de pales (elles même peuvent être reconverties dans la production de courant). Bien que les tripales et bipales soient les plus utilisées (car selon beaucoup ce sont de toute manières les plus efficaces...à vérifier ?), il existe aussi les savonius (un cylindre  avec une spirale interne pour absorber et rejeter le vent, fait tourner un axe vertical), les darrieus (des tiges courbées ou plates font tourner un axe verticale), et bien d'autres modèles. Plusieurs critères les différencient : elles ont une sensibilité plus ou moins grande au vent (certaines sont destinées à fournir du courant en permanence quitte à être faible, tandis que d'autres sont utilisées pour produire plus d'électricité quitte à démarrer seulement avec des vents forts), elles ont une vitesse de rotation plus ou moins grande selon les dangers que cela amène (on doit aussi pouvoir les bloquer lors des tempêtes), les "nuisances" sonores ou visuelles changent également. On peut dire que plus elles sont grandes, plus elles capteront l'énergie du vent, plus elles seront aptes à fournir du courant. Cela ne veut pas dire qu'il faut à tout prix se diriger vers la construction d'une grosse hélice : si elle est petite et bien conçue elle captera les vents faibles beaucoup plus facilement que celles de plus gros diamètre.
+*Les générateurs et alternateurs. Lorsque l'hélice tourne suivant les vents, elle transmet un mouvement mécanique à un générateur ou un alternateur, par le biais d'un axe ou parfois de roulements. Le générateur ou l'alternateur ont pour but de transformer ce mouvement en énergie électrique. Le choix ne manque pas là non plus. 
+Les solutions les plus courantes consistent à acheter (encore mieux : à récupérer) ces pièces sur des voitures ou camions. Cette solution est plus facile et peut-être gratuite si vous chinez bien chez les ferrailleurs, du coup vous éliminez un des plus gros coût de votre éolienne. Sachez que cette option vaut le coup : souvent les gens ne jettent pas parce que l'objet est usé, mais parce qu'un produit plus attrayant est désormais en vente, ou parce qu'il ne connaissent pas l'intérêt de ces objets dès qu'il savent qu'ils n'ont plus de "valeurs" (monétaire...). Nous verront plus tard de quels alternateurs ou générateurs il s'agit, mais ils nécessitent tous des modifications souvent à la portée de tous pour être employées sur votre éolienne. 
+La deuxième choix est plus compliqué et plus onéreux, mais bien plus adapté. Il s'agit des alternateurs à aimants permanents. On les achète rarement, lorsqu'on décide d'utiliser ce genre d'alternateurs s'est parce qu'on fait le choix de tout autoconstruire dans les règles de l'art. Le principe de ce genre d'appareils est de produire du courant avec deux disque (le rotor tourne face au stator immobile) dans lesquels sont fixés des aimants. La perturbation magnétique obtenue entre ces deux disques lors de la rotation du rotor fournit de l'électricité.
+*Le mât porteur : il va soutenir l'ensemble du système en hauteur (en hauteur les vents sont plus forts. Il doit être solide et sécurisant, il doit permettre d'intervenir sur le système en hauteur (l'idéal est de pouvoir le baisser à terre), il doit dépasser les objets aux alentours (arbres, constructions, etc...), il peut être esthétique. Il va aussi abriter les fils qui descendent au sol. Trois types de mâts existent : le poteau ancré dans du béton au sol, le poteau qui utilise moins de béton et qui est surtout fixé par des câbles métalliques ancrés au sol, et enfin l'assemblage métallique ressemblant à ceux des lignes haute tension, qui est lui moins utilisé pour les petites éoliennes.
+
+==Une éolienne pour s'entraîner==
+Voici plusieurs modèles de petite taille qui ne fourniront que l'énergie nécessaire à deux ou trois lampes et une radio par grand vent...Elles servent juste d'entraînement, avec elles vous saurez à quoi vous attendre si vous vous lancez dans la construction d'une éolienne plus puissante. Les deux premières sont des modèles construit par une bonne équipe d'américains qui à commencé elle aussi par des articles d'internet et par le tâtonnement. La troisième est un modèle d"hélice à axe vertical proposé par le magasine "Système D" qui avait publié un hors-série avec d'autres modèles, mais celui-ci ne parle pas de la production électrique, vous pourrez quand même l'adaptez sur le système de production électrique des deux éoliennes américaines. 
+
+L'éolienne en bois
+
+== Voir aussi ==
+
+=== Liens internes ===
+*[[Énergie éolienne]]
+*[[Énergies renouvelables]]
+*[[Gestion de l'énergie]]
+*[[Moulin à vent]]
+*[[Système électrique idéal]]
+
+=== Liens externes ===
+* [http://www.tripalium.org/index.cfm?birdname=manuel Plan pour l'autoconstruction d'une petite éolienne]
+* [http://www.sepen-montplaisir.fr/ SEPEN, Site Expérimental pour le Petit Éolien de Narbonne]
+
+{{Portail Vivre ensemble}}
+
+[[Catégorie:Énergie éolienne]]
