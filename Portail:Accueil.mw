@@ -3,10 +3,10 @@ __NOTOC__ __NOEDITSECTION__
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
 <div style="padding:0px;padding-bottom:0px"><div align="center">
 {| style="background-color:#F9F9F9"
-|[[Image:Crystal Clear filesystem folder home2.png|75px|Index des portails]]
-| valign="center" | <center><span style="font-size: 200%"><br />Bienvenue sur l'index des portails d'Ékopédia !</span><br />
-Les articles sont divisés en [[Modèle:Index-thematique|14 thématiques générales]]<br />
-''Vous pouvez entrer dans un portail en cliquant sur son nom.''</center>
+|[[Image:Crystal Clear filesystem folder home2.png|75px|left|Index des portails]]
+| valign="center" | <span style="font-size: 200%">Bienvenue sur l'index des portails d'Ékopédia !</span><br>
+<br>
+<center>{{Vert|'''''«&nbsp;&nbsp; D'un appel de son nom, un portail tu franchiras,<br> pour entrer en un autre monde... &nbsp;&nbsp;» '''''}}</center><br>
 |}
 </div></div></div>
 {|width="100%" cellspacing="0" cellpadding="0" style="background-color: transparent"
@@ -15,6 +15,15 @@ Les articles sont divisés en [[Modèle:Index-thematique|14 thématiques génér
 <!---------------------------------------------------------------------------------------------------------------------->
 <!---- Colonne de gauche ---->
 <!---------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------->
+<!-- DÉBUT DU NOTE -------->
+<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
+<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
+<div style="padding:5px;padding-bottom:5px">
+==== <small>''A noter : [[Spécial:Toutes_les_pages|Chaque article]] de l'encyclopédie est une page écrite pour au moins une de nos [[Modèle:Index-thematique|21 thématiques d'activités humaines]]''</small> ====
+</div></div>
+<!-- FIN DU NOTA BENE --------->
+<!--------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------->
 <!-- DÉBUT DU TABLEAU NAÎTRE -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #7D2020;background: #F9F9F9;padding:0">
@@ -118,7 +127,7 @@ Les articles sont divisés en [[Modèle:Index-thematique|14 thématiques génér
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #5273A0;background: #D0DAE8"></div>
 <div style="padding:5px;padding-bottom:5px">
 [[Image:Noia 64 apps cookie.png|40px|right|Portail:S'alimenter|link=]]
-==[[Portail:Cultiver|'''Permacultiver''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- De la cueillette écologique à la culture biologique  -''</small></small> ==
+==[[Portail:Permaculture|'''Permacultiver''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- De la cueillette écologique à la culture biologique  -''</small></small> ==
 <br>
 
 &nbsp;&nbsp;{{nobr|''[[AMAP]]''}}
@@ -295,8 +304,11 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer p
 <!-- {{Portail/pied}} ------------------------------->
 <!--------------------------------------------------->
 |}
-
+<!------------------------------->
+<!------ FIN des colonnes ------->
+<!------------------------------->
 <!-- DÉBUT DU TABLEAU COLIBRIS -->
+<!------------------------------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
 <div style="padding:5px;padding-bottom:5px">
@@ -304,12 +316,31 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer p
 == <center>[[Portail:Colibris|'''Mouvement Colibris''']]</center> ==
 <center>L'encyclopédie [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme]].</center>
 </div></div>
-<!-- FIN DU TABLEAU COLIBRIS -->
-<!---- FIN des colonnes ---->
+<!------------------------------->
+<!-- FIN DU TABLEAU COLIBRIS ---->
+<!------------------------------->
 <!-- FIN INDEX DES PORTAILS ------------------------------------------------------------------------------>
+<!-------------------------------------------------------------------------------------------------------->
 ----
 ----
 {{clr}}
+<!-------------------------------------------------------------------------------------------------------->
+<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
+<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:0px;padding-bottom:0px"><div align="center">
+{| style="background-color:#F9F9F9"
+|[[Image:Crystal Clear filesystem folder home2.png|75px|left|Index des portails]]
+| valign="center" | <span style="font-size: 200%">21 thémes pour 21 portails !</span><br>
+----
+''Classement simplifié des [[Modèle:Index-thematique|besoins humains]] à satisfaire dans le temps'' :
+* [[Portail:Naître|'''Naître''']]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Fichier:Redirect_arrow_without_text.svg.png|30px]] [[Portail:S'alimenter|S'alimenter]]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp;[[Portail:Cultiver|''Cultiver'']]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp;[[Portail:Permaculture|''Permacultiver'']]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp; ?<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Fichier:Redirect_arrow_without_text.svg.png|30px]] [[Portail:Se vêtir|Se vêtir]]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp;[[Portail:Se loger|''Se loger'']]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp; ?<br>
+|}
+</div></div></div>
+{{clr}}
+<!-------------------------------------------------------------------------------------------------------->
 <!-- DEBUT LISTE ALPHABETIQUE DE TOUS LES PORTAILS -------------------------------------------------------->
 {| width="98%" class="ekotable"
 | style="background-color:#c9dbf1" |
@@ -319,11 +350,9 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer p
 <center><big><big>'''Liste''' alphabétique '''de tous les [[Ekopedia:Modèles/Portails|portails]] Ekopédia'''</big></big> (réalisée avec le modèle {{m|Multi bandeau}})</center>
 <br/>
 ----
-{{Portail|Apprendre|Écologie|Prendre soin}}
+{{Portail|Apprendre|Énergie|S'alimenter}}
 ----
-{{Portail|Cinéma engagé|Énergie|S'alimenter}}
-----
-{{Portail|Colibris|Entreprendre autrement|Se déplacer}}
+{{Portail|Cinéma engagé|Entreprendre autrement|Se déplacer}}
 ----
 {{Portail|Communiquer|Naître|Se divertir}}
 ----
@@ -331,9 +360,11 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer p
 ----
 {{Portail|Cultiver|Penser|Se vêtir}}
 ----
-{{Portail|Donner|Permaculture|Transport en commun|Vivre ensemble}}
+{{Portail|Donner|Permaculture|Transport en commun}}
 ----
-{{centre|{{Portail|Vivre ensemble}}}}
+{{Portail|Écologie|Prendre soin|Vivre ensemble}}
+----
+{{centre|{{Portail|Colibris}}}}
 ----
 <br />
 ----
@@ -341,7 +372,7 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer p
 |}
 <!-- FIN LISTE ALPHABETIQUE DE TOUS LES PORTAILS -------------------------------------------------------->
 {{clr}}
-
+<!-------------------------------------------------------------------------------------------------------->
 <noinclude>
 <!-------------------------------------------------------------------------------------------------------->
 <!------- NE PAS MODIFIER les lignes SUIVANTES qui catégorisent cette page.  Merci ! --------------------->
