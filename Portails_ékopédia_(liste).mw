@@ -1,17 +1,15 @@
+<!-------------------------------------------------------------------------------------------------------->
 <!-- DEBUT LISTE ALPHABETIQUE DE TOUS LES PORTAILS -------------------------------------------------------->
 {| width="98%" class="ekotable"
 | style="background-color:#c9dbf1" |
 ----
 ----
 <br/>
-<center><big><big>'''Liste''' alphabétique '''de tous les [[Ekopedia:Modèles/Portails|portails]] Ekopédia'''</big></big></center>
-<br/>
+<center><big><big>'''Liste''' alphabétique '''des 21 [[Ekopedia:Modèles/Portails|portails]] Ekopédia'''</big></big><br><br> (réalisée par assemblage de modèles {{m|Multi bandeau}})</center>
 ----
-{{Portail|Apprendre|Écologie|Prendre soin}}
+{{Portail|Apprendre|Énergie|S'alimenter}}
 ----
-{{Portail|Cinéma engagé|Énergie|S'alimenter}}
-----
-{{Portail|Colibris|Entreprendre autrement|Se déplacer}}
+{{Portail|Cinéma engagé|Entreprendre autrement|Se déplacer}}
 ----
 {{Portail|Communiquer|Naître|Se divertir}}
 ----
@@ -19,17 +17,16 @@
 ----
 {{Portail|Cultiver|Penser|Se vêtir}}
 ----
-{{Portail|Donner|Permaculture|Transport en commun|Vivre ensemble}}
+{{Portail|Donner|Permaculture|Transport en commun}}
 ----
-{{centre|{{Portail|Vivre ensemble}}}}
+{{Portail|Écologie|Prendre soin|Vivre ensemble}}
 ----
-<center><small>- Liste réalisée par assemblage de modèles {{m|Multi bandeau}}) -</small></center>
+{{centre|{{Portail|Colibris}}}}
 ----
 ----
 |}
 <!-- FIN LISTE ALPHABETIQUE DE TOUS LES PORTAILS -------------------------------------------------------->
 {{clr}}
-
 <noinclude>
 <!-------------------------------------------------------------------------------------------------------->
 <!------- NE PAS MODIFIER les lignes SUIVANTES qui catégorisent cette page.  Merci ! --------------------->
