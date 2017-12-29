@@ -1,9 +1,10 @@
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!---  |-
 <!---  |<center>{{Rouge|'''mardi DATE_JOUR'''}}</center>
-<!---  |
-<!---  *En ce jour, fêtons ''':'''<small>{{rose|'''''St PRENOM'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »</small>
+<!---  |<small>
+<!---  *En ce jour, fêtons ''':'''{{rose|'''''St PRENOM'''''}}<br> 
+**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »
+----</small><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------------------------------------------------------------------------------------------------------->
 <!----DEBUT de PAGE -------------------------------------------------------------------------------->
@@ -37,20 +38,17 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <!-- DÉBUT de SAISON (Au mois de...)---------->
 <!-------------------------------------------->
 [[Image:Water drop animation enhanced small.gif|thumb|50px|left|[[Almanach Ekopedia|'''{{Violet|Tel est le temps}}''']]]]
-<center><big>{{vert|'''''[http://www.almanach.free.fr/  {{Rose|- Semaine n° {{CURRENTWEEK}}}} -&nbsp;&nbsp;]'''''}}</big></center>
-<center><big>{{vert|'''''[http://www.almanach.free.fr/  {{Rose|- La présente semaine est la {{CURRENTWEEK}}ème de l'année {{CURRENTYEAR}}}} -&nbsp;&nbsp;]'''''}}</big></center>
-----
-<center><small>
+<center><big>{{vert|'''''[http://www.almanach.free.fr/  {{Rose|Nous sommes en {{CURRENTWEEK}}ème semaine de l'année {{CURRENTYEAR}}}}&nbsp;&nbsp;]'''''}}</big></center>
+----<center><small>
 '''[http://i.imgur.com/HqdyvaC.gif Tendances MÉTÉOS ]''' ''...''<br>
 [http://canwarnquebec.ca/index.php?p=1_125_Satellite-anim-H-misph-re-Nord '''Canada''' (ce jour) ] ''...''[http://meteoalerte.com/ '''{{vert| Alerte ! }}''' ''...'' ]<br>
 [http://meteoparapente.free.fr/littoviewer.htm '''France''' (3 jours) ] ''...'' [http://vigilance.meteofrance.com/ '''{{orange| Alerte ! }}''' ''...'' ]<br>
 [http://actualite.lachainemeteo.com/alerte-meteo/communique-special-vigilance-meteo.php '''Recherche pays''' ] ''.'' [http://www.meteoalarm.eu/?lang=fr_FR '''{{rouge| Alerte ! }}''' ''...'' ]
-----
+----</small>
 <br>
 <CENTER>
 == Mois de '''Janvier''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -62,10 +60,10 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''L.01'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{orange|'''''Jour de l'an'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez sur ce jour...]''' »</small>
-----
+|<small>
+*En ce jour, fêtons ''':'''{{orange|'''''Jour de l'an'''''}}<br> 
+**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez sur ce jour...]''' »
+----</small><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!--- --->
@@ -75,8 +73,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Fèvrier''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -89,8 +86,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Mars''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -103,8 +99,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Avril''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -117,8 +112,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Mai''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -131,8 +125,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Juin''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -145,8 +138,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Juillet''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -159,8 +151,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Aout''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -173,8 +164,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Septembre''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -187,8 +177,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Octobre''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -201,8 +190,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Novembre''' ==
-</CENTER>
-----
+----</small></center><br>
 ----
 {| border="0" align="left"
 |+ 
@@ -215,35 +203,34 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 == Mois de '''Décembre''' ==
-</CENTER>
-----<br>
-<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''[http://www.mon-poeme.fr/dictons-meteo/ {{Bleu_foncé|« A tel Avent, tel printemps... »}}<br>{{Bleu_foncé|« Neige de décembre est engrais pour la terre. »}}<br>{{Bleu_foncé|« Froid et neige en décembre, du blé à revendre. »}}<br>{{Bleu_foncé|« Neige 8 jours est fumure, 8 jours au-delà: c'est poison »}}]'''</center>
-</small></center><br>
+----</small></center><br>
 ----
+<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''[http://www.mon-poeme.fr/dictons-meteo/ {{Bleu_foncé|« A tel Avent, tel printemps... »}}<br>{{Bleu_foncé|« Neige de décembre est engrais pour la terre. »}}<br>{{Bleu_foncé|« Froid et neige en décembre, du blé à revendre. »}}<br>{{Bleu_foncé|« Neige 8 jours est fumure, 8 jours au-delà: c'est poison »}}]'''</center>
+----</small></center><br>
 {| border="0" align="left"
 |+ 
 <!----------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
 <!----- REPORT à la suite des JOURS SUPPRIMES ET REMPLACES EN ACCUEIL (pour reprise l'an prochain) ---->
 <!----------------------------------------------------------------------------------------------------->
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''J. 21'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{Bleu_foncé|'''''St Thomas'''''}}<br> qui {{Bleu_foncé|« ''porte l'hiver dans ses bras...'' »}}</small>
+|<small>
+*En ce jour, fêtons ''':'''{{Bleu_foncé|'''''St Thomas'''''}}<br> qui {{Bleu_foncé|« ''porte l'hiver dans ses bras...'' »}}
 *En ce 21 e jour de l'[[Noël#L.E2.80.99Avent_et_son_calendrier|Avent]], découvrez ce [http://calendrier.ina.fr/ cadeau vidéo de l'INA] (Institut National de l'Audiovisuel), une occasion de [[Portail:Cinéma engagé|rédigez un petit sujet pour le  portail « Cinéma engagé »]].
 *Participez à la journée mondiale du « global orgasm », puis [[Portail:Naître|lire et modifiez le portail « Naître »]] pour dans... 9 mois !
 *En ces temps de préparatifs festifs :
 **compléter votre [[liste de produits alimentaires]],
 **vérifier la bonne tenue de vos [[fruits et légumes]] stockés en [[cave]] ou [[cellier]]<br>
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''V. 22'''}}</center>
-|
+|<small>
 *{{Bleu_foncé|[[Calendrier_du_potager#.3E.3E.3E_Solstice_hiver.2C_vers_le_21_d.C3.A9cembre|Jour du solstice d’hiver]]}} ''':'''
 **l'axe terrestre a bougé de 30 degrés en 6 mois,
 **cette journée apporte la nuit la plus longue de l'année dans l'hémisphère nord :<br> {{Violet| « En décembre, journée courte, longue nuit ; l'[[abeille]] se tait, le [[jonc]] gémit. »}}
@@ -252,24 +239,24 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 ***[[plante]]s en dormance;
 *vérifiez dans votre [[potager bio|potager]] si des [[:Catégorie:Récolte en hiver|récoltes hivernales]] sont possibles.
 *courte journée et [http://meteoparapente.free.fr/littoviewer.htm météo difficile] vous laissent le temps de consultez et [[Portail:Permaculture|modifiez le portail « Permaculture »]].
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''S. 23'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{Bleu_foncé|'''''St Armand'''''}}<br> 
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit A la St Armand, décembre prend et ne se rend.]''' »</small>
+|<small>
+*En ce jour, fêtons ''':'''{{Bleu_foncé|'''''St Armand'''''}}<br> 
+**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit A la St Armand, décembre prend et ne se rend.]''' »
 *vérifiez les [[navet]]s et les [[chou]]x dans votre [[potager bio|potager]] car ''':'''<br> {{Vert|« Chaque chose en son temps, les [[navet]]s et les [[chou]]x pour le mois de l'Avent. »}}
 *Avant de prendre du repos, préparez les chauffes de l'an prochain: {{Marron|« En décembre, fais du bois, - Et endors-toi... »}}
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''D. 24'''}}</center>
-|
-* ''{{Marron|En ce jour, fêtons''}} ''':''' <small>{{rose|'''''Ste Adèle'''''}}<br> 
-**« '''[[Almanach Ekopedia|Entre Sainte-Adèle et Saint-Vincent (22 janvier) les gelées ont plus de mordant.]]''' »</small> 
+|<small>
+* ''{{Marron|En ce jour, fêtons''}} ''':''' {{rose|'''''Ste Adèle'''''}}<br> 
+**« '''[[Almanach Ekopedia|Entre Sainte-Adèle et Saint-Vincent (22 janvier) les gelées ont plus de mordant.]]''' »
 **Dernier jour de l'Avent (mois qui prédède la nativité) :
 ***« {{Bleu_foncé|A tel Avent, tel printemps... }} »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour''}}
@@ -292,65 +279,70 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 #** de l'[[engrais]] (mélange [[compost]] + [[Fumier|fumure]]s), des éléments nutritifs qui se diffuseront lentement vers les racines de chaque fruitier; et ceci sans danger car le froid tuera d'éventuels [[parasite]]s.
 #** et lancez sur votre mélange d'engrais quelques poignées de [[cendre de bois]] (sels minéraux) pris dans la [[cheminée]], le [[four à pain]] ou le [[barbecue]]. 
 # ''{{Marron|Geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos futurs enfants''}}
-#* Je fuis l'achat d'impulsion car je ne suis pas un "[[pigeon]]". Au moment de chaque achat, j'ai le réflexe de me poser 3 petites questions sur le produit :  [[Durabilité|Durable]] et sans [[Obsolescence programmée]] ??? - [[Empreinte écologique|Ecologique]] et [[Biologique|Bio]] ??? - [[Banque éthique|Ethique]] et [[Commerce équitable|équitable]] ??? j'achete sans hésiter si la réponse est OUI pour les trois réponses. Mon reflexe et celui de centaines de milliers de personnes est une lame qui fait évoluer les mentalités et les actes des entreprises productrices de biens de consommations.
-----<br>
+#* Je fuis l'achat d'impulsion car je ne suis pas un "[[pigeon]]". Au moment de chaque achat, j'ai le réflexe de me poser 3 petites questions sur le produit :  [[Durabilité|Durable]] et sans [[Obsolescence programmée]] ? - [[Empreinte écologique|Ecologique]] et [[Biologique|Bio]] ? - [[Banque éthique|Ethique]] et [[Commerce équitable|équitable]] ? j'achete sans hésiter si la réponse est OUI pour les trois réponses. Mon reflexe et celui de centaines de milliers de personnes est une lame qui fait évoluer les mentalités et les actes des entreprises productrices de biens de consommations.
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''L. 25'''}}</center>
-|
-* ''{{Marron|En ce jour, fêtons''}} ''':''' <small>{{rose|'''''NOËL'''''}} (Nativité de jésus-Christ)<br> 
+|<small>
+* ''{{Marron|En ce jour, fêtons}}'' ''':''' {{rose|'''''NOËL'''''}} (Nativité de jésus-Christ)<br> 
 **« '''[[Almanach Ekopedia|Noël au perron, Pâques aux tisons.]]'''
-**« '''[[Almanach Ekopedia|A la Noël les moucherons, à Pâques les glaçons.]]''' »</small>
-* ''{{Marron|Brin d'humour}}'' 
-** <small>« '''{{vert|La [[dinde]] est un [[oiseau|oiseau très tolérant]] avec tous... sauf envers les [[farceur]]s !}} »'''
-# ''{{Marron|Une pensée pour ceux qui sont parti en ce jour''}}
+**« '''[[Almanach Ekopedia|A la Noël les moucherons, à Pâques les glaçons.]]''' »
+# ''{{Marron|Participons à la journée mondiale de...}}''
 #* NOM
 #* NOM
-# ''{{Marron|Citation d'un jour''}}
-#* « ... »  - ''' ''' -
-# ''{{Marron|Un DICO ouvert au hasard''}}
+# ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
+#* NOM
+#* NOM
+# ''{{Marron|L'info du jour}}''
+#* « '''{{vert|[Une jeune et charmante étudiant Femen s'est mise nue devant le parlement ukrainien pour protester contre...] avec tous... sauf envers les [[farceur]]s !}} »'''
+# ''{{Marron|Un DICO ouvert au hasard}}''
 #* MOT ''':''' ...[[|]]
-# ''{{Marron|La "colle" du jour''}}
+# ''{{Marron|Le brin d'humour du jour}}''
+#* « '''{{vert|La [[dinde]] est un [[oiseau|oiseau très tolérant]] avec tous... sauf envers les [[farceur]]s !}} »'''
+# ''{{Marron|Citation d'un jour}}''
+#* « ... »  - ''' ''' -
+# ''{{Marron|La "colle" du jour}}''
 #* L'... c'est ?... La
 # ''{{Marron|Mamy dévoile sa [[Astuces de grands-mères|"super astuce"]] du jour''}}
 #* Pour...
-# ''{{Marron|Notre idée culinaire''}}
+# ''{{Marron|Notre idée culinaire}}''
 #* Je ....
-# ''{{Marron|Histoire et techniques, un jour de...''}}
+# ''{{Marron|Histoire et techniques, un jour de...}}''
 #* [[]], année où 
-# ''{{Marron|Papy propose son "ptit truc"''}}
+# ''{{Marron|Papy propose son ptit "Bricotruc"}}''
 #* Pour...
-# ''{{Marron|Conseils jardinage de la journée''}}
+# ''{{Marron|Conseils jardinage de la journée}}''
 #* Pensez à...
-# ''{{Marron|Geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos futurs enfants''}}
+# ''{{Marron|Geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos futurs enfants}}''
 #* Je ....
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''M. 26'''}}</center>
-|
-* ''{{Marron|En ce jour, fêtons''}} ''':''' <small>{{Bleu|'''''St Etienne}}'''''}}<br> 
-**« '''[[Almanach Ekopedia|A la Saint-Etienne, les jours croissent d'une aiguillée de laine...]]''' »</small>
-----<br>
+|<small>
+* ''{{Marron|En ce jour, fêtons''}} ''':''' {{Bleu|'''''St Etienne}}'''''}}<br> 
+**« '''[[Almanach Ekopedia|A la Saint-Etienne, les jours croissent d'une aiguillée de laine...]]''' »
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''M. 27'''}}</center>
-|
-* ''{{Marron|En ce jour, fêtons''}} ''':''' <small>{{Bleu_foncé|'''''Saint Jean l'Evangéliste'''''}}<br> 
-**« '''[[Almanach Ekopedia|A la Saint-Jean d'hiver, les feux sont grands.]]''' »</small>
-----<br>
+|<small>
+* ''{{Marron|En ce jour, fêtons''}} ''':''' {{Bleu_foncé|'''''Saint Jean l'Evangéliste'''''}}<br> 
+**« '''[[Almanach Ekopedia|A la Saint-Jean d'hiver, les feux sont grands.]]''' »
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''J. 28'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{rose|'''''Ste Elenore + Saints Innocents'''''}}<br> 
+|<small>
+*En ce jour, fêtons ''':'''{{rose|'''''Ste Elenore + Saints Innocents'''''}}<br> 
 **« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit S'il neige à la sainte Eléonore, Les récoltes seront d'or...]''' »
-* Pour mémoire : Les saints Innocents sont les petits enfants de moins de 2 ans que le roi juif Herode a fait massacrer à Bethléem (En Israel, au 1er siècle) pour tenter d'éliminer le futur Christos (Jésus).</small>
-----<br>
+* Pour mémoire : Les saints Innocents sont les petits enfants de moins de 2 ans que le roi juif Herode a fait massacrer à Bethléem (En Israel, au 1er siècle) pour tenter d'éliminer le futur Christos (Jésus).
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!--- --->
@@ -385,42 +377,42 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''V. 29'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{Bleu_foncé|'''''St-Evroult'''''}}<br> 
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Les froids de Saint-Evroult sont des froids de loup.]''' »</small>
-----<br>
+|<small>
+*En ce jour, fêtons ''':'''{{Bleu_foncé|'''''St-Evroult'''''}}<br> 
+**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Les froids de Saint-Evroult sont des froids de loup.]''' »
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''S. 30'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{Bleu_foncé|'''''St Roger'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »</small>
+|<small>
+*En ce jour, fêtons ''':'''{{Bleu_foncé|'''''St Roger'''''}}<br> 
+**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »
 * Pensez à mettre vos plantes d'intérieure, vos animaux et vos conduites d'eau, hors gel, car :<br> {{Bleu_foncé|« En décembre, quand le jour croît, aussi fait le froid...»}}
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''D. 31'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{Bleu_foncé|'''''St Sylvestre + St André'''''}}<br> 
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit A la saint André, la neige menace les cent jours qui viennent...]''' »</small>
-----<br>
+|<small>
+*En ce jour, fêtons ''':'''{{Bleu_foncé|'''''St Sylvestre + St André'''''}}<br> 
+**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit A la saint André, la neige menace les cent jours qui viennent...]''' »
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!---  |-
-<!---  |<center><small>{{orange|'''mardi DATE_JOUR'''}}</small></center>
-<!---  |
-<!---  *En ce jour, fêtons ''':'''<small>{{rose|'''''St PRENOM'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »</small>
-----<br>
+<!---  |<center>{{orange|'''mardi DATE_JOUR'''}}</center>
+<!---  |<small>
+<!---  *En ce jour, fêtons ''':'''{{rose|'''''St PRENOM'''''}}<br> 
+**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''X. 00'''}}</center>
-|
-*En ce jour, fêtons ''':'''<small>{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}} <small>'' ([[Almanach Ekopedia|Almanach Ekopedia]])''</small>
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »</small>
+|<small>
+*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
+**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour''}}
 #* NOM
 #* NOM
@@ -428,21 +420,21 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 #* « ... »  - ''' ''' -
 # ''{{Marron|Un DICO ouvert au hasard''}}
 #* MOT ''':''' ...[[|]]
-# ''{{Marron|La "colle" du jour''}}
+# ''{{Marron|La "ptite colle" du jour''}}
 #* L'... c'est ?... La
-# ''{{Marron|Mamy dévoile sa [[Astuces de grands-mères|"super astuce"]] du jour''}}
+# ''{{Marron|Mamy nous dévoile son [[Astuces de grands-mères|"astuce maison" du jour}}''
 #* Pour...
-# ''{{Marron|Notre idée culinaire''}}
+# ''{{Marron|Idée culinaire ekopédienne''}}
 #* Je ....
-# ''{{Marron|Histoire et techniques, un jour de...''}}
+# ''{{Marron|Histoire et technique, un jour de...''}}
 #* [[]], année où 
-# ''{{Marron|Papy propose son "ptit truc"''}}
+# ''{{Marron|Papy nous propose son "Bricotruc" du jour}}''
 #* Pour...
 # ''{{Marron|Conseils jardinage de la journée''}}
 #* Pensez à...
 # ''{{Marron|Geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos futurs enfants''}}
 #* Je ....
-----<br>
+----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!--- --->
