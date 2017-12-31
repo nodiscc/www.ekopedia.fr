@@ -1,20 +1,12 @@
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!---  |-
-<!---  |<center>{{Rouge|'''mardi DATE_JOUR'''}}</center>
-<!---  |<small>
-<!---  *En ce jour, fêtons ''':'''{{rose|'''''St PRENOM'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »
-----</small><br>
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------------------------------------------------------------------------------------------------------->
-<!----DEBUT de PAGE -------------------------------------------------------------------------------->
+<!----DÉBUT de PAGE ------------------------------------------------------------------------------------->
 <!------------------------------------------------------------------------------------------------------->
 [[Ekopedia:Saison]]
 {{Apprendre}}
 <!------------------------------------------------------------------------------------------------------->
-<!---- INTRODUCTION -------------------------------------------------------------------------------->
+<!---- INTRODUCTION ------------------------------------------------------------------------------------->
 <!------------------------------------------------------------------------------------------------------->
-Un '''Almanach''' (de l'arabe, al-manakh) esr un [[calendrier]] (suite chronologique de jours) qui est pourvu d'observations complémentaires et de conseils pratiques. D'abord rédigé de manières manuscrites, à la suite de l'invention de l'imprimerie (par Gutenberg), il est de plus en plus imprimé en fin du Moyen-age. Jusquà nos jours, l'almanach est rédigé chaque année sur support papier sous forme de livre imprimé. Alors qu'autre forme de calendrier, l'[[éphéméride]] (''de "hêmera": sur ce jour''), a été peu à peu imprimé sur feuillets séparés car à chaque jour passé, on y détache une feuille.<br>
+Un '''Almanach''' (de l'arabe, al-manakh) est un [[calendrier]] (suite chronologique de jours) qui est pourvu d'observations complémentaires et de conseils pratiques. D'abord rédigé de manières manuscrites, à la suite de l'invention de l'imprimerie (par Gutenberg), il est de plus en plus imprimé en fin du Moyen-age. Jusqu'à nos jours, l'almanach est rédigé chaque année sur support papier sous forme de livre imprimé. Alors qu'autre forme de calendrier, l'[[éphéméride]] (''de "hêmera": sur ce jour''), a été peu à peu imprimé sur feuillets séparés car à chaque jour passé, on y détache une feuille.<br>
 Dans cet ouvrage, se trouvaient consignées les saints du jour, les "prévisions" météorologiques (dictons), les évènements historiques généralistes ou thématiques arrivés à la même date (guerres, naissances, décès, célébrations, etc.)<br>
 On y trouvait aussi décrits les travaux quotidiens du monde [[agriculture|agricole]], et ceux utiles aux [[calendrier du potager|potagers]]. Et ceci, en fonctions des saisons, et souvent aussi, des [[calendrier (lunaire)|phases]] de la [[lune]].<br> 
 Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique (''ci-dessus''), les jours passés de l'éphéméride situé en [[Accueil|page d'Accueil]] de l'encyclopédie...<br>
@@ -25,7 +17,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <!----------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
-<!----- DEBUT DU TABLEAU ------------------------------------------------------------------------------>
+<!----- DÉBUT DU TABLEAU ------------------------------------------------------------------------------>
 <!----------------------------------------------------------------------------------------------------->
 <div style="text-align: center; border:1px solid #cccccc; -moz-border-radius: 10px; padding: 5px; margin: 0px 0px 0px 0px; background: #ffffff;"></div>
 {|id="mp-upper" style="margin:0px 0px 0px 0px; background:none;"
@@ -47,15 +39,13 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 ----</small>
 <br>
 <CENTER>
-== Mois de '''Janvier''' ==
+= Mois de '''Janvier''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
 <!--- --->
 <!--- --->
-----<br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
@@ -1216,9 +1206,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 
-== Mois de '''Fèvrier''' ==
+= Mois de '''Fèvrier''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2271,9 +2260,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 <CENTER>
 
-== Mois de '''Mars''' ==
+= Mois de '''Mars''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2284,9 +2272,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Avril''' ==
+= Mois de '''Avril''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2297,9 +2284,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Mai''' ==
+= Mois de '''Mai''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2310,9 +2296,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Juin''' ==
+= Mois de '''Juin''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2323,9 +2308,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Juillet''' ==
+= Mois de '''Juillet''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2336,9 +2320,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Aout''' ==
+= Mois de '''Aout''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2349,9 +2332,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Septembre''' ==
+= Mois de '''Septembre''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2362,9 +2344,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Octobre''' ==
+= Mois de '''Octobre''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2375,9 +2356,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Novembre''' ==
+= Mois de '''Novembre''' =
 ----</small></center><br>
-----
 {| border="0" align="left"
 |+ 
 <!--- --->
@@ -2388,9 +2368,8 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 {{Clr}}
 <br>
 <CENTER>
-== Mois de '''Décembre''' ==
+= Mois de '''Décembre''' =
 ----</small></center><br>
-----
 <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''[http://www.mon-poeme.fr/dictons-meteo/ {{Bleu_foncé|« A tel Avent, tel printemps... »}}<br>{{Bleu_foncé|« Neige de décembre est engrais pour la terre. »}}<br>{{Bleu_foncé|« Froid et neige en décembre, du blé à revendre. »}}<br>{{Bleu_foncé|« Neige 8 jours est fumure, 8 jours au-delà: c'est poison »}}]'''</center>
 ----</small></center><br>
 {| border="0" align="left"
@@ -2699,75 +2678,15 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <!--- --->
 <!--- --->
 <!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
 <!----------------------------------------------------------------------------------------------------->
 <!------- FIN D'ANNEE ---------------------- FIN D'ANNEE -------------------- FIN D'ANNEE ------------->
-<!----------------------------------------------------------------------------------------------------->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
 <!----------------------------------------------------------------------------------------------------->
 ----
 |}
 {{Clr}}
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
 <!----------------------------------------------------------------------------------------------------->
 <!------- FIN de PAGE en CONSTRUCTION ----------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
@@ -2784,7 +2703,10 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 <br>
 {{Clr}}
 
-== Voir aussi ==
+<small><small>
+
+
+= Voir aussi =
 {{Wikimedia Commons|Category:Calendars|Calendriers}}
 ** Le [[Ekopedia:%C3%80_propos#Histoire|calendrier historique]] de l'encyclopédie; de sa naissance à nos jours
 ** Le [[Ekopedia:Annonces/Annonces précédentes|calendrier des annonces]] faites à la [[Ekopedia:Communaut%C3%A9|communauté des ékopédiens]]<br>
@@ -2837,43 +2759,7 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 ----
 {{Portail|Cultiver|Écologie|S'alimenter}}
 ----
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 *[[http://www.ephemeride-jour.fr/index.php?jourR=01-Decembre ephemeride-jour dicton-01 decembre]
 *[[http://www.ephemeride-jour.fr/index.php?jourR=02-Decembre ephemeride-jour dicton-02 decembre]
 *[[http://www.ephemeride-jour.fr/index.php?jourR=03-Decembre ephemeride-jour dicton-03 decembre]
@@ -2913,3 +2799,6 @@ https://www.trucsdegrandmere.com/
 [[Catégorie:Récoltes|*]]
 [[Catégorie:Conservation des aliments|*]]
 [[Catégorie:Agenda des initiatives de Transition|*]]
+
+
+</small></small>
