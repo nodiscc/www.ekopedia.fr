@@ -87,6 +87,24 @@ Ainsi l'almanach Ekopédia réunit sur l'année et en une liste chronologique ('
 ----</small></center><br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
+<!--- --->
+<!--- --->
+<!--- --->
+<!--- --->
+<!--- --->
+<!----------------------------------------------------------------------------------------------------->
+<!------- DATE DU JOUR ---------------------- AUJOURD HUI -------------------- NOUS SOMMES LE --------->
+<!----------------------------------------------------------------------------------------------------->
+! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier|'''{{Marron|- Semaine n° {{CURRENTWEEK}} -}}]]'''</big></center>
+----
+<center><big>[[Ekopedia:Saison|{{Violet|En ce {{CURRENTDAYNAME}},&nbsp;<br>nous sommes le<br> {{CURRENTDAY}}&nbsp;{{CURRENTMONTHNAME}}&nbsp;{{CURRENTYEAR}}<br>}}]]'''</big></center><br></h2>
+<!--- --->
+<!--- --->
+<!--- --->
+<!--- --->
+<!--- --->
+<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
+<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
 |<center>{{Rouge|'''M. 02'''}}</center>
 |<small>
