@@ -13,7 +13,7 @@ De nos jours, l'almanach est encore rédigé chaque année sur support papier so
 Autrefois, on y trouvait aussi décrits les travaux quotidiens du monde [[agriculture|agricole]], et ceux utiles au [[calendrier du potager|potager]] et au [[verger]]. Ceci, en fonctions des saisons et des [[calendrier (lunaire)|phases]] de la [[lune]].<br> 
 Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour effeuillé de notre éphéméride situé en [[Accueil|Accueil]]...<br>
 <br>
-{{début cadre Marron}}
+{{début cadre Marron}}<CENTER><BIG>
 <!----------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
 <!----- REPORT à la suite des JOURS SUPPRIMES ET REMPLACES EN ACCUEIL (pour reprise l'an prochain) ---->
@@ -33,8 +33,8 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 <!-- DÉBUT de SAISON (Au mois de...)---------->
 <!-------------------------------------------->
 [[Image:Water drop animation enhanced small.gif|thumb|50px|left|[[Almanach Ekopedia|'''{{Violet|Tel est le temps}}''']]]]
-<center><big>{{vert|'''''[http://www.almanach.free.fr/  {{Rose|Nous sommes en {{CURRENTWEEK}}ème semaine de l'année {{CURRENTYEAR}}}}&nbsp;&nbsp;]'''''}}</big></center>
-----<center><small>
+<center><big>{{vert|'''''[http://www.almanach.free.fr/  {{Rose|Nous sommes en semaine {{CURRENTWEEK}} de l'année {{CURRENTYEAR}}}}&nbsp;&nbsp;]'''''}}</big></center>
+----<center></small>
 '''[http://i.imgur.com/HqdyvaC.gif Tendances MÉTÉOS ]''' ''...''<br>
 [http://canwarnquebec.ca/index.php?p=1_125_Satellite-anim-H-misph-re-Nord '''Canada''' (ce jour) ] ''...''[http://meteoalerte.com/ '''{{vert| Alerte ! }}''' ''...'' ]<br>
 [http://meteoparapente.free.fr/littoviewer.htm '''France''' (3 jours) ] ''...'' [http://vigilance.meteofrance.com/ '''{{orange| Alerte ! }}''' ''...'' ]<br>
@@ -250,7 +250,7 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 <!----------------------------------------------------------------------------------------------------->
 ! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier| '''{{Marron|Semaine n° {{CURRENTWEEK}} }}]]'''</big></center>
 ----
-<center><big>[[Ekopedia:Saison|{{Violet|En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> {{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}&nbsp;&nbsp;{{CURRENTYEAR}}</big></center><br>
+<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> {{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}&nbsp;&nbsp;{{CURRENTYEAR}}</big></center><br>
 ----
 <center>{{CURRENTHOUR}}&nbsp;&nbsp;<small>heures se sont déjà écoulées en ce jour...</small><br>}}]]'''</center></h2>
 <!--- --->
@@ -2488,12 +2488,9 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 <!------- FIN D'ANNEE ---------------------- FIN D'ANNEE -------------------- FIN D'ANNEE ------------->
 <!----------------------------------------------------------------------------------------------------->
 ----
-|}
+|}</BIG></CENTER>
 {{fin cadre}}
 |}</div>{{clr}}
-
-
-
 <!----------------------------------------------------------------------------------------------------->
 <!------- FIN de PAGE en CONSTRUCTION ----------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
@@ -2511,7 +2508,6 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 {{Clr}}
 
 <small>
-
 = Voir aussi =
 {{Wikimedia Commons|Category:Calendars|Calendriers}}
 ** Le [[Ekopedia:%C3%80_propos#Histoire|calendrier historique]] de l'encyclopédie; de sa naissance à nos jours
@@ -2562,9 +2558,9 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 * A lire sur Google Livre : Dictionnaire de la fable: Mythologie grecque, latine, égyptienne, celtique, persane, syriaque, indienne, chinoise, mahométane, slavone, scandinave, africaine, américaine, iconologique, rabbinique, cabalistique, etc, par François Noel [http://books.google.fr/books?id=L6sdAAAAYAAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false VOLUME 1] et [http://books.google.fr/books?id=kYMdAAAAYAAJ&printsec=frontcover&dq=dictionnaire+de+la+fable+%22Fran%C3%A7ois+Noel%22&hl=fr&sa=X&ei=DSOcUPnsAeuW0QX4oYGQBA&ved=0CC4Q6AEwAA VOLUME 2] (Livre numérique Google)
 * Recherches d'ouvrages sur Wikisource : [http://fr.wikisource.org/w/index.php?search=Calendrier&button=&title=Sp%C3%A9cial%3ARecherche sur "Calendriers"] ''(puis cliquer sur "Tout")''
 <br />
-----</small>
-{{Portail|Cultiver|Écologie|S'alimenter}}
 ----
+{{Portail|Cultiver|Écologie|S'alimenter}}
+----</small>
 [[Catégorie:Comment fait-on ceci ?|*]]
 [[Catégorie:Listes|*]]
 [[Catégorie:Sources|*]]
