@@ -11,7 +11,7 @@ Un '''Almanach''' (de l'arabe, al-manakh) est un [[calendrier]] (suite chronolog
 Les premiers almanachs, comme les livres d'heures, étaient rédigés de manières manuscrites et illustrés d'enluminures, et ceci jusqu'à l'invention de l'imprimerie (par Gutenberg, au Moyen-age). Mais dès le début de la Renaissance, les almanachs seront le plus souvent imprimés.<br>
 De nos jours, l'almanach est encore rédigé chaque année sur support papier sous forme de [[livre]] imprimé. Dans cet ouvrage, se trouvent consignées les saints du jour, les "prévisions" météorologiques (dictons), les évènements historiques généralistes ou thématiques arrivés à la même date (guerres, naissances, décès, célébrations, etc.)<br>
 Autrefois, on y trouvait aussi décrits les travaux quotidiens du monde [[agriculture|agricole]], et ceux utiles au [[calendrier du potager|potager]] et au [[verger]]. Ceci, en fonctions des saisons et des [[calendrier (lunaire)|phases]] de la [[lune]].<br> 
-Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour effeuillé de notre éphéméride situé en [[Accueil|Accueil]]...<br>
+L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour effeuillé de l'éphéméride situé en [[Accueil|Accueil]].<br>
 <br>
 {{début cadre Orange}}<CENTER><BIG>
 <!----------------------------------------------------------------------------------------------------->
@@ -283,7 +283,7 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |<center>{{Rouge|'''Di. 07'''}}</center>
 |<small>
 *'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
-**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<---'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<||>>''' ''NUIT''] ''--->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
 *En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''St Raymond''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
 **« '''[http://www.saint-dicton.com/ S'il neige à la St Raymond, l'hiver sera long.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
@@ -327,7 +327,7 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 ----
 <center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> {{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}&nbsp;&nbsp;{{CURRENTYEAR}} : </big></center><br>
 ----
-<center> {{CURRENTHOUR}} <small>heures se sont déjà écoulées en ce jour...</small><br>}}]]'''</center></h2>
+<center> {{CURRENTHOUR}} <small> heures se sont déjà écoulées en ce jour</small><br>}}]]'''</center></h2>
 <!--- --->
 <!--- --->
 <!--- --->
@@ -338,9 +338,13 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''L.08'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{orange|'''''Jour de l'an'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez sur ce jour...]''' »
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''{{rouge|XXe}} jour du [[Calendrier#Nouveau_calendrier_Gr.C3.A9gorien_de_365.2C24_jours_.281582.29_.2B_un_saint_d.C3.A9calage_.2810_jours.29|calendrier grégorien]]''' ''([[Almanach Ekopedia|Almanach]] / [https://www.calendrier-365.fr/horloge-universelle.html Horloges])''
+**Il reste '''[https://www.calendrier-365.fr/numeros-de-jour/2018.html XX jours]''' d'ici la fin de l'[http://www.almanach.free.fr/ année civile].
+***''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html Date du jour selon 20 calendriers de l'Histoire]''
+****[https://www.lecalendrier.fr/calendrier-solaire lever Soleil] ''<>'' [http://dateaujourdhui.com/ ''zone jour'' '''-|-''' ''zone nuit''] ''<>'' [https://www.lecalendrier.fr/calendrier-lunaire coucher Lune]
+*Aujourd'hui, nous fêtons ''':'''{{Bleu_foncé|[https://nominis.cef.fr/ '''''Saint XXXX et Sainte XXXX''''']}} <small></small><br>
+**« '''[http://www.saint-dicton.com/ À la St XXXX...]''' »
+**« '''[http://www.saint-dicton.com/ À la St XXXX...]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -372,8 +376,13 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''M. 09'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''{{rouge|XXe}} jour du [[Calendrier#Nouveau_calendrier_Gr.C3.A9gorien_de_365.2C24_jours_.281582.29_.2B_un_saint_d.C3.A9calage_.2810_jours.29|calendrier grégorien]]''' ''([[Almanach Ekopedia|Almanach]] / [https://www.calendrier-365.fr/horloge-universelle.html Horloges])''
+**Il reste '''[https://www.calendrier-365.fr/numeros-de-jour/2018.html XX jours]''' d'ici la fin de l'[http://www.almanach.free.fr/ année civile].
+***''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html Date du jour selon 20 calendriers de l'Histoire]''
+****[https://www.lecalendrier.fr/calendrier-solaire lever Soleil] ''<>'' [http://dateaujourdhui.com/ ''zone jour'' '''-|-''' ''zone nuit''] ''<>'' [https://www.lecalendrier.fr/calendrier-lunaire coucher Lune]
+*Aujourd'hui, nous fêtons ''':'''{{Bleu_foncé|[https://nominis.cef.fr/ '''''Saint XXXX et Sainte XXXX''''']}} <small></small><br>
+**« '''[http://www.saint-dicton.com/ À la St XXXX...]''' »
+**« '''[http://www.saint-dicton.com/ À la St XXXX...]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -405,8 +414,13 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''M. 10'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''{{rouge|XXe}} jour du [[Calendrier#Nouveau_calendrier_Gr.C3.A9gorien_de_365.2C24_jours_.281582.29_.2B_un_saint_d.C3.A9calage_.2810_jours.29|calendrier grégorien]]''' ''([[Almanach Ekopedia|Almanach]] / [https://www.calendrier-365.fr/horloge-universelle.html Horloges])''
+**Il reste '''[https://www.calendrier-365.fr/numeros-de-jour/2018.html XX jours]''' d'ici la fin de l'[http://www.almanach.free.fr/ année civile].
+***''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html Date du jour selon 20 calendriers de l'Histoire]''
+****[https://www.lecalendrier.fr/calendrier-solaire lever Soleil] ''<>'' [http://dateaujourdhui.com/ ''zone jour'' '''-|-''' ''zone nuit''] ''<>'' [https://www.lecalendrier.fr/calendrier-lunaire coucher Lune]
+*Aujourd'hui, nous fêtons ''':'''{{Bleu_foncé|[https://nominis.cef.fr/ '''''Saint XXXX et Sainte XXXX''''']}} <small></small><br>
+**« '''[http://www.saint-dicton.com/ À la St XXXX...]''' »
+**« '''[http://www.saint-dicton.com/ À la St XXXX...]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -438,8 +452,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''J. 11'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -471,8 +488,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''V. 12'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -504,8 +524,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''S. 13'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -537,8 +560,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''D. 14'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -570,9 +596,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''L.15'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{orange|'''''Jour de l'an'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez sur ce jour...]''' »
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -604,8 +632,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''M. 16'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -637,8 +668,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''M. 17'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -670,8 +704,11 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 |-
 |<center>{{Rouge|'''J. 18'''}}</center>
 |<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
+*'''Aujourd'hui''' décliné en ''[https://www.ephemeride.com/calendrier/autrescalendriers/21/autres-types-de-calendriers.html 30 calendriers du Monde]''
+**'''[https://www.lecalendrier.fr/calendrier-solaire Soleil]''' ''<--'' [https://www.ephemeride.com/generic/32/ ''JOUR'' '''<<|>>''' ''NUIT''] ''-->'' '''[https://www.lecalendrier.fr/calendrier-lunaire Lune]'''
+*En ce jour, fêtons ''':'''{{Bleu_foncé|[http://www.almanach.free.fr/ '''''Saint XXXXXX''''']}} ''([[Almanach Ekopedia|Almanach Ekopedia]])''<br>
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
+**« '''[http://www.saint-dicton.com/ Saint XXXXXX.]''' »
 # ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
 #* NOM
 #* NOM
@@ -2433,61 +2470,7 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 #* Pensez à...
 # ''{{Marron|Mon geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos enfants}}''
 #* Je ....
-----</small></center>
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-'''Complétez''' [[Ekopedia:Saison|une de ces 14 rubriques...]] '''C'est à vous !'''
-----</small></center>
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!---  |-
-<!---  |<center>{{orange|'''mardi DATE_JOUR'''}}</center>
-<!---  |<small>
-<!---  *En ce jour, fêtons ''':'''{{rose|'''''St PRENOM'''''}}<br> 
-**qui « '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit Ajoutez jour ou dicton de ce saint...]''' »
 ----</small></center><br>
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-|-
-|<center>{{Rouge|'''X. 00'''}}</center>
-|<small>
-*En ce jour, fêtons ''':'''{{Bleu_foncé/Rose|'''''St NOM SAINT'''''}}'' ([[Almanach Ekopedia|Almanach Ekopedia]])''
-**« '''[https://www.ekopedia.fr/index.php?title=Ekopedia:Saison&action=submit DICTON DU JOUR.]''' »
-# ''{{Marron|Une pensée pour ceux qui sont parti en ce jour}}''
-#* NOM
-#* NOM
-# ''{{Marron|Participons à la journée mondiale...}}''
-#*  '''de'''
-# ''{{Marron|L'info du jour}}''
-#* '''[https://francais.rt.com/en-direct Site RT Télé] :''' [https://francais.rt.com/international/...]
-# ''{{Marron|Un brin d'humour au quotidien}}''
-#* « '''{{vert|}} »'''
-# ''{{Marron|Citation d'un jour}}''
-#* « ... »  - ''' ''' -
-# ''{{Marron|Mon "ÉcoloDICO" ouvert au hasard''}}
-#* MOT ''':''' ...[[|]]
-# ''{{Marron|La "colle" du jour}}''
-#* L'... c'est ?... La
-# ''{{Marron|Mamy nous dévoile son [[Astuces de grands-mères|"astuce maison"]] du jour}}''
-#* Pour...
-# ''{{Marron|Histoire et [[Technologies appropriées|techniques]]'' ''':''' ''C'est arrivé en ce jour de l'année...}}''
-#* [[]], où 
-# ''{{Marron|Papy nous propose son "[[:Catégorie:Outil|Bricotruc]]" du jour}}''
-#* Pour...
-# ''{{Marron|Mon conseil [[Bio]]-[[Potager en carrés|jardin]] pour la journée}}''
-#* Pensez à...
-# ''{{Marron|Mon geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos enfants}}''
-#* Je ....
-----</small></center><br>
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-< '''COMPLETEZ''' [[Ekopedia:Saison|UNE DE CES 12 RUBRIQUES...]] '''C'est à vous !''' >
-----</small></center><br>
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
-<!--- --->
 <!--- --->
 <!--- --->
 <!--- --->
@@ -2495,27 +2478,28 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 <!----------------------------------------------------------------------------------------------------->
 <!------- FIN D'ANNEE ---------------------- FIN D'ANNEE -------------------- FIN D'ANNEE ------------->
 <!----------------------------------------------------------------------------------------------------->
+<!--- --->
+<!--- --->
+<!--- --->
+<!--- --->
 ----
 |}</BIG></CENTER>
 {{fin cadre}}</div>
 |}</div>{{clr}}
-<!----------------------------------------------------------------------------------------------------->
-<!------- FIN de PAGE en CONSTRUCTION ----------------------------------------------------------------->
-<!----------------------------------------------------------------------------------------------------->
-<!--- --->
-<!--- --->
-<!--- --->
 <center>
 {| align="center" border="0" cellpadding="4" cellspacing="4" style="border: 2px solid red; background:#FFF0FF;"
-| <font size="+2"> '''[[%C4%88efpa%C4%9Do| <big>'''- FIN de PAGE en CONSTRUCTION -'''</big><br/>]]''' </font>
+| <font size="+2"> '''[[%C4%88efpa%C4%9Do| <big>'''- PAGE en CONSTRUCTION -'''</big><br/>]]''' </font>
 |}
 </center>
 ----
 ----
 <br>
 {{Clr}}
-
 <small>
+<!----------------------------------------------------------------------------------------------------->
+<!------- FIN de PAGE en CONSTRUCTION ----------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+<!---
 = Voir aussi =
 {{Wikimedia Commons|Category:Calendars|Calendriers}}
 ** Le [[Ekopedia:%C3%80_propos#Histoire|calendrier historique]] de l'encyclopédie; de sa naissance à nos jours
@@ -2569,6 +2553,7 @@ Notre almanach Ekopédia réunit sur l'année en une liste chronologique chaque 
 ----
 {{Portail|Cultiver|Écologie|S'alimenter}}
 ----</small>
+--->
 [[Catégorie:Comment fait-on ceci ?|*]]
 [[Catégorie:Listes|*]]
 [[Catégorie:Sources|*]]
