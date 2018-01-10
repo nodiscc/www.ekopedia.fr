@@ -445,7 +445,7 @@ ________________________________________________________________________________
 #* Pensez à enfoncer en terre" à la sauvage" des bulbes en dormance hivernale pour avoir des fleurs au printemps suivant. Il ne faut pas les planter de façon symétrique. Pour que les fleurs sortent un peu en désordre, planter des bulbes groupés et rapprochés en variant la profondeur. 
 # ''{{Marron|Mon geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos enfants}}''
 #* Je pense à alléger ma voiture pour dépenser moins d'[[énergie]], gaspiller moins de [[carburant]] et diminuer les [[pollution]]s. Par exemple, je vide régulièrement mon coffre de [[voiture]].
-----</small></center>
+____________________________________________________________________________________________________________
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
@@ -487,7 +487,7 @@ ________________________________________________________________________________
 #* En cette période d'inondation et de plantations hivernales, pensez à plantez des iris des marais dans le coin de votre jardin où l'eau s'accumule le plus. Ils absorberont l'eau et le terrain restera plus sec.
 # ''{{Marron|Mon geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos enfants}}''
 #*J'emballe mes [[aliment]]s avec du papier alimentaire [[biodégradable]], du papier sulfurisé, des boîtes de conservation ou encore divers emballages réutilisables. J'évite le papier d'[[aluminium]] (dont les microparticules endommagent les systèmes nerveux) et les [[film plastique|films plastiques]] qui finissent en "soupe" dans nos mers ou dans l'estomac des tortues et [[oiseau]]x marins (qui en meurent). 
-----</small></center><br>
+____________________________________________________________________________________________________________
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
@@ -505,9 +505,10 @@ ________________________________________________________________________________
 <!----------------------------------------------------------------------------------------------------->
 ! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier| '''{{Marron|Semaine n° {{CURRENTWEEK}} }}]]'''</big></center>
 ----
-<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> {{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}</big></center><br>
+<br><br>
+<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> {{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}</big></center><br><br><br>
 ----
-<center> et {{CURRENTHOUR}} <small> heures se sont déjà écoulées en ce jour</small><br>}}]]'''</center></h2>
+<center> et {{CURRENTHOUR}} <small> heures<br> se sont déjà écoulées...</small><br>}}]]'''</center></h2>
 <!--- --->
 <!--- --->
 <!--- --->
