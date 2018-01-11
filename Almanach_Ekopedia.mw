@@ -22,6 +22,7 @@ L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour
 <!----------------------------------------------------------------------------------------------------->
 <!----- DÉBUT DU TABLEAU ------------------------------------------------------------------------------>
 <!----------------------------------------------------------------------------------------------------->
+= '''Almanach de l'année en cours''' =
 <div style="text-align: center; border:1px solid #cccccc; -moz-border-radius: 10px; padding: 5px; margin: 0px 0px 0px 0px; background: #ffffff;"></div>
 {|id="mp-upper" style="margin:0px 0px 0px 0px; background:none;"
 |class="MainPageBG" style="width:40%; border:1px solid #ccc; background:#FFFFFF; vertical-align:top; color:#000;"|
@@ -41,7 +42,7 @@ L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour
 [http://actualite.lachainemeteo.com/alerte-meteo/communique-special-vigilance-meteo.php '''Recherche pays''' ] ''.'' [http://www.meteoalarm.eu/?lang=fr_FR '''{{vert| Alerte ! }}''' ''...'' ]
 <br>
 <CENTER>
-= Mois de '''Janvier''' =
+== Mois de '''Janvier''' ==
 ----
 {| border="0" align="left"
 |+ <center>« {{Bleu_foncé|Gelée en Janvier, blé au grenier.}} »<br>« {{Bleu_foncé|Janvier d'eau chiche fait le paysan riche.}} »<br>
@@ -551,12 +552,12 @@ ________________________________________________________________________________
 <!----------------------------------------------------------------------------------------------------->
 <!------- DATE DU JOUR ---------------------- AUJOURD HUI -------------------- NOUS SOMMES LE --------->
 <!----------------------------------------------------------------------------------------------------->
-! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier| '''{{Marron|Semaine n° {{CURRENTWEEK}} }}]]'''</big></center>
+! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier| '''{{Orange|Semaine n° {{CURRENTWEEK}} }} ]]'''</big></center>
 ----
-<br><br>
-<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> {{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}</big></center><br><br><br>
+<br><br><br>
+<center><big>[[Ekopedia:Saison|{{Violet|<br> - En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> '''{{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}'''</big></center><br><br><br><br><br>
 ----
-<center> et {{CURRENTHOUR}} <small> heures<br> se sont déjà écoulées...</small><br>}}]]'''</center></h2>
+<center> ''...et {{CURRENTHOUR}} <small> heures<br> se sont déjà écoulées.''</small><br>}}]]'''</center></h2>
 <!--- --->
 <!--- --->
 <!--- --->
@@ -1416,7 +1417,7 @@ ________________________________________________________________________________
 <br>
 <CENTER>
 
-= Mois de '''Fèvrier''' =
+== Mois de '''Fèvrier''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2607,7 +2608,7 @@ ________________________________________________________________________________
 <br>
 <CENTER>
 
-= Mois de '''Mars''' =
+== Mois de '''Mars''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2619,7 +2620,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Avril''' =
+== Mois de '''Avril''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2631,7 +2632,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Mai''' =
+== Mois de '''Mai''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2643,7 +2644,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Juin''' =
+== Mois de '''Juin''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2655,7 +2656,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Juillet''' =
+== Mois de '''Juillet''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2667,7 +2668,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Aout''' =
+== Mois de '''Aout''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2679,7 +2680,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Septembre''' =
+== Mois de '''Septembre''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2691,7 +2692,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Octobre''' =
+== Mois de '''Octobre''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2703,7 +2704,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Novembre''' =
+== Mois de '''Novembre''' ==
 ----</small></center><br>
 {| border="0" align="left"
 |+ 
@@ -2715,7 +2716,7 @@ ________________________________________________________________________________
 {{Clr}}
 <br>
 <CENTER>
-= Mois de '''Décembre''' =
+== Mois de '''Décembre''' ==
 ----</small></center><br>
 <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''[http://www.mon-poeme.fr/dictons-meteo/ {{Bleu_foncé|« A tel Avent, tel printemps... »}}<br>{{Bleu_foncé|« Neige de décembre est engrais pour la terre. »}}<br>{{Bleu_foncé|« Froid et neige en décembre, du blé à revendre. »}}<br>{{Bleu_foncé|« Neige 8 jours est fumure, 8 jours au-delà: c'est poison »}}]'''</center>
 ----</small></center><br>
