@@ -22,7 +22,8 @@ L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour
 <!----------------------------------------------------------------------------------------------------->
 <!----- DÉBUT DU TABLEAU ------------------------------------------------------------------------------>
 <!----------------------------------------------------------------------------------------------------->
-= '''Almanach de l'année en cours''' =
+
+= <br><br>'''Almanach de l'année en cours''' =
 <div style="text-align: center; border:1px solid #cccccc; -moz-border-radius: 10px; padding: 5px; margin: 0px 0px 0px 0px; background: #ffffff;"></div>
 {|id="mp-upper" style="margin:0px 0px 0px 0px; background:none;"
 |class="MainPageBG" style="width:40%; border:1px solid #ccc; background:#FFFFFF; vertical-align:top; color:#000;"|
