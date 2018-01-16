@@ -12,7 +12,7 @@ En formant des individus à un ensemble de principes de conception, l'objectif e
 * - de créer des habitats humains de plus en plus autosuffisants,
 * - de former une société moins dépendante des systèmes industriels de [[production]] et de distribution.<br>
 Le Mandala de la permaculture (ci-contre) résume les principes de la permaculture. Selon le père de la permaculture, c'est une [[philosophie]] qui propose de travailler avec, plutôt que contre la [[nature]]; d'observer longuement en réfléchissant plutôt que de travailler longtemps de façon irréfléchie; et de regarder les [[plante]]s et les [[animaux]] dans toutes leurs fonctions, plutôt que de traiter tout un site en tant que système monocultural. Les systèmes industriels de production et de distribution sont aussi identifiés par Jim Mollison, comme le fondement de la destruction systématique des écosystèmes.
-|}{{Clr}}
+|}
 <!-------------------------------------------------------------------------------------------------------------->
 <!-- DÉBUT COLONNE GAUCHE -->
 <!-------------------------------------------------------------------------------------------------------------->
@@ -37,7 +37,7 @@ Le Mandala de la permaculture (ci-contre) résume les principes de la permacultu
 {{{{NAMESPACE}}:{{PAGENAME}}/Section 
 |titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] La permaculture...
 |tailleTitre = 100% 
-|partie = {{NAMESPACE}}:{{PAGENAME}}/Présentation}}<br>
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Présentation}}
 <!-------------------------------------------------------------------------------------------------------------->
 {{{{NAMESPACE}}:{{PAGENAME}}/Section 
 |titre = [[image:Vista-licq.png|25px]] Image du mois 
@@ -54,14 +54,6 @@ Le Mandala de la permaculture (ci-contre) résume les principes de la permacultu
 |tailleTitre = 100% 
 |partie = {{NAMESPACE}}:{{PAGENAME}}/Le saviez vous}}
 <!-------------------------------------------------------------------------------------------------------------->
-<!-- Début MODELE {{Permaculture}} -->
-<!-------------------------------------------------------------------------------------------------------------->
-----
-<center>Modèle à copier-coller dans un article :<br>'''<NOWIKI>{{Permaculture}}</NOWIKI>'''</center>
-<center><br>[[Image:Noia_64_apps_cookie.png|60px|center]]
-Cet article fait partie du<br/>Thème [[Culture|Permaculture]]</center>
-----
-<!-------------------------------------------------------------------------------------------------------------->
 <!-- FIN MODELE {{Permaculture}} -->
 <!-------------------------------------------------------------------------------------------------------------->
 {{{{NAMESPACE}}:{{PAGENAME}}/Section 
@@ -72,7 +64,21 @@ Cet article fait partie du<br/>Thème [[Culture|Permaculture]]</center>
 {{{{NAMESPACE}}:{{PAGENAME}}/Section 
 |titre = [[Image:Nuvola filesystems services.gif|25px|link=]] Contribuer 
 |tailleTitre = 100% 
-|partie = {{NAMESPACE}}:{{PAGENAME}}/Contribuer}}</div>
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Contribuer}}
+<!-------------------------------------------------------------------------------------------------------------->
+<!-- Début MODELE {{Permaculture}} -->
+<!-------------------------------------------------------------------------------------------------------------->
+<center>[[Image:Vista-licq.png|60px|center]]</center>
+<center>Thème [[Culture|Permaculture]]</center>
+<center>''Modèle à copier-coller en 1ère ligne d'article'' ''':'''<br>'''<NOWIKI>{{Permaculture}}</NOWIKI>'''</center><br>
+<!-------------------------------------------------------------------------------------------------------------->
+<!------ VOIR AUSSI PORTAILS ----------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------->
+{{{{NAMESPACE}}:{{PAGENAME}}/Section 
+|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi 
+|tailleTitre = 100% 
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}</div>
+<!-------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------->
 <!-- FIN COLONNE DROITE -->
 <!-------------------------------------------------------------------------------------------------------------->
@@ -84,19 +90,12 @@ Cet article fait partie du<br/>Thème [[Culture|Permaculture]]</center>
 |titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Citations
 |tailleTitre = 100% 
 |partie = {{NAMESPACE}}:{{PAGENAME}}/Citations}}
+{{Multi bandeau|Portail Apprendre|Portail Colibris|Portail Vivre ensemble}}
 <!-------------------------------------------------------------------------------------------------------------->
+<!------- Pied de Portail (index et cache) --------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------->
-<!------ VOIR AUSSI PORTAILS PLEINE PAGE ----------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------------------------------->
-<div style="width:100%; display:block; float:left; align:left;">
-{{{{NAMESPACE}}:{{PAGENAME}}/Section 
-|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi 
-|tailleTitre = 100% 
-|partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}</div>
-<!-------------------------------------------------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------------------------------->
-<br clear="all" /><!--pour éviter les chevauchements-->
 {{Portail/pied}}
+<br clear="all" /><!--pour éviter les chevauchements-->
 <!-------------------------------------------------------------------------------------------------------------->
 <!------- NE PAS MODIFIER les lignes SUIVANTES qui catégorisent cette page.  Merci ! --------------------------->
 <!-------------------------------------------------------------------------------------------------------------->
