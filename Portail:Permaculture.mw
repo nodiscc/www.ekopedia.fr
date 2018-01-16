@@ -39,45 +39,47 @@ En formant rapidement des individus à un ensemble de principes de conception, l
 |tailleTitre = 100% 
 |partie = {{NAMESPACE}}:{{PAGENAME}}/Lumière sur}}
 {{{{NAMESPACE}}:{{PAGENAME}}/Section 
-|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi 
+|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Catégories
 |tailleTitre = 100% 
-|partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Catégories}}
 {{{{NAMESPACE}}:{{PAGENAME}}/Section 
 |titre = [[Image:Nuvola filesystems services.gif|25px|link=]] Contribuer 
 |tailleTitre = 100% 
-|partie = {{NAMESPACE}}:{{PAGENAME}}/Contribuer}}
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Contribuer}}<br>
 <!-------------------------------------------------------------------------------------------------------------->
 <!-- Début MODELE {{Permaculture}} -->
 <!-------------------------------------------------------------------------------------------------------------->
+----
+<center>Modèle à copier-coller dans un article :<br>'''<NOWIKI>{{Permaculture}}</NOWIKI>'''</center>
+<center><br>[[Image:Noia_64_apps_cookie.png|60px|center]]
+Cet article fait partie du<br/>Thème [[Culture|Permaculture]]</center>
+----
 <center>
-[[Image:Noia_64_apps_cookie.png|60px|center]]<br>
-Cet article fait partie du<br/>Thème [[Culture|Permaculture]]
-----
 <small>
-[[Haie]]<br/>
-[[Apiculture]]<br/>
-[[Agriculture bio-dynamique|bio-dynamique]] ou [[Agriculture naturelle|naturelle]]<br/>
-[[Jardinage]] : ([[Potager]] et [[Verger]])<br/>
-[[Cultures associées]]<br/>
-[[Compost]] et [[Paillage]]<br/>
-[[Plante]] ([[Liste de plantes|liste]])<br/>
-[[Liste de fleurs comestibles]]<br/>
-[[Associations pour le maintien d'une agriculture paysanne|Producteurs AMAP]]<br/>
-[[Récolter les semences]]<br/>
-[[Reproduire les plantes]]<br/>
-[[Semis]], [[graines Bio]]<br/>
-[[Bouturage]] / [[Greffage]] / [[Marcottage]]<br/>
-[[Calendrier (lunaire)]]<br/>
+[[Haie]]<br>
+[[Apiculture]]<br>
+[[Agriculture bio-dynamique|bio-dynamique]] ou [[Agriculture naturelle|naturelle]]<br>
+[[Jardinage]] : ([[Potager]] et [[Verger]])<br>
+[[Cultures associées]]<br>
+[[Compost]] et [[Paillage]]<br>
+[[Plante]] ([[Liste de plantes|liste]])<br>
+[[Liste de fleurs comestibles]]<br>
+[[Associations pour le maintien d'une agriculture paysanne|Producteurs AMAP]]<br>
+[[Récolter les semences]]<br>
+[[Reproduire les plantes]]<br>
+[[Semis]], [[graines Bio]]<br>
+[[Bouturage]] / [[Greffage]] / [[Marcottage]]<br>
+[[Calendrier (lunaire)]]<br>
 ----
-</small>''Voir aussi'' ''':'''<br>
-[[:Catégorie:Permaculture]]<br/>
-[[Portail:Permaculture]]
-</center><br>
+</small></center><br>
 <!-------------------------------------------------------------------------------------------------------------->
 <!-- FIN MODELE {{Permaculture}} -->
 <!-------------------------------------------------------------------------------------------------------------->
-----
-<center>Modèle à copier-coller dans un article :<br>'''<NOWIKI>{{Permaculture}}</NOWIKI>'''</center><br></div>
+{{{{NAMESPACE}}:{{PAGENAME}}/Section 
+|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi 
+|tailleTitre = 100% 
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}
+</div>
 <!-------------------------------------------------------------------------------------------------------------->
 <!-- FIN COLONNE DROITE -->
 <!-------------------------------------------------------------------------------------------------------------->
