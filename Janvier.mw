@@ -14,8 +14,8 @@
 <!----------------------------------------------------------------------------------------------------->
 ! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center>{{Palette calendrier}}</center>
 ----
-<br><br><br>
-<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}}&nbsp;&nbsp;<br><small>nous sommes le</small><br> '''{{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}'''</big></center><br><br><br><br><br>
+<br>
+<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}}&nbsp;&nbsp;<br><small>nous sommes le</small><br> '''{{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}'''</big></center><br><br>
 ----
 <center> ''...et {{CURRENTHOUR}} <small> heures<br> se sont déjà écoulées.''</small><br>}}]]'''</center></h2>
 <!--- --->
