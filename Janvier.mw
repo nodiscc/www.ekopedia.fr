@@ -12,7 +12,7 @@
 <!----------------------------------------------------------------------------------------------------->
 <!------- DATE DU JOUR ---------------------- AUJOURD HUI -------------------- NOUS SOMMES LE --------->
 <!----------------------------------------------------------------------------------------------------->
-<h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center>{{Palette calendrier}}</center>
+<h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><small>{{Palette calendrier}}</small></center>
 ----
 <br>
 <center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}}&nbsp;&nbsp;<br><small>nous sommes le</small><br> '''{{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}'''</big></center><br><br>
@@ -31,14 +31,14 @@
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 == Mois de '''[[Janvier]]''' ==
 ----
-{| border="0" align="left"
-|+ <center>
+<center>
 « {{Bleu_foncé|Gelée en Janvier, blé au grenier.}} »<br>
 « {{Bleu_foncé|Janvier d'eau chiche fait le paysan riche.}} »<br>
 « {{Bleu_foncé|Mieux vaut chien enragé que chaud soleil en Janvier.}} »<br>
 « {{Bleu_foncé|Quand est sec le mois de Janvier, ne doit se plaindre le fermier.}} »<br>
-----
-----<br>
+</center>
+{{Clr}}
+{| width="100%" align="left" border="3" border="9" cellpadding="13" cellspacing="7" style="float:left; margin:0; font-size:125%; font-weight:Garamond; border: 1px solid #4C6099; background-color:#E5F6FF; -moz-border-radius-topright:1.5em; -moz-border-radius-topleft:1.5em;" valign="top"
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
@@ -373,7 +373,7 @@
 **[https://www.lecalendrier.fr/calendrier-solaire '''''lever Soleil'''''] ''<>'' [http://dateaujourdhui.com/ ''zone jour'' -'''|'''- ''nuit''] ''<>'' [https://www.lecalendrier.fr/calendrier-lunaire '''''lever Lune''''']
 **[https://www.calendrier-365.fr/horloge-universelle.html Carte du Monde et Horloge universelle des pays]
 ----
-*'''Aujourd'hui''', nous fêtons ''':''' '''''[https://www.ecosia.org/search?q=nominis+saint+patron {{Bleu_foncé|St Lucien et Ste Gudule}}]''''' <small></small><br>
+*'''Aujourd'hui''', nous fêtons ''':''' '''''[https://www.ecosia.org/search?q=nominis+saint+patron {{Bleu_foncé|St Lucien et Ste Gudule}}]'''''<br>
 **« '''[http://www.saint-dicton.com/ Temps de St Lucien, temps de chien.]''' »
 **« '''[http://www.saint-dicton.com/ Au jour de sainte Gudule, le jour croît, mais le froid ne recule.]''' »
 ----
@@ -1440,15 +1440,9 @@
 # ''{{Marron|Mon geste du jour pour [[1001 trucs pour sauver la planète|sauver la planète]] de nos enfants}}''
 #* Je ....
 [https://www.resiway.org/question/107/pour-la-lessive-combien-de-balles-de-lavage-utiliser {{Bleu_foncé|<small>'''Source'''}}][https://www.resiway.org/categories {{Bleu_foncé| '''partenaire'''}}] {{Bleu_foncé| '''[[RésiWay]]'''</small>}}
-<br>
-----
-----<br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
-<!--- --->
-<!--- --->
 |}
 {{Clr}}
-<br>
-<CENTER>
+{{Portail|Écologie|Permaculture|Vivre ensemble}}
 [[Catégorie:Janvier|!]]
