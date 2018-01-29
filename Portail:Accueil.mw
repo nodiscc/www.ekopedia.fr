@@ -20,7 +20,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
 <div style="padding:5px;padding-bottom:5px">
-==== <small>''A noter : [[Spécial:Toutes_les_pages|Chaque article]] de l'encyclopédie est une page écrite pour au moins une de nos [[Modèle:Index-thematique|21 thématiques d'activités humaines]]''</small> ====
+==== <small>''A noter : Chacun des [[Spécial:Toutes_les_pages|articles]] de l'encyclopédie est une page entrant dans une des [[Modèle:Index-thematique|14 grandes thématiques]] d'activités humaines''</small> ====
 </div></div>
 <!-- FIN DU NOTA BENE --------->
 <!--------------------------------------------------------------------------------------------------->
@@ -146,12 +146,12 @@ __NOTOC__ __NOEDITSECTION__
 </div></div>
 <!-- FIN DU TABLEAU SE LOGER -->
 <!--------------------------------------------------->
-<!-- DÉBUT DU TABLEAU PERMACULTIVER -->
+<!-- DÉBUT DU TABLEAU CULTIVER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #5273A0;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #5273A0;background: #D0DAE8"></div>
 <div style="padding:5px;padding-bottom:5px">
 [[Image:Noia 64 apps cookie.png|40px|right|Portail:S'alimenter|link=]]
-==[[Portail:Permaculture|'''Permacultiver''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- De la cueillette écologique à la culture biologique  -''</small></small> ==
+==[[Portail:Cultiver|'''Cultiver''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- De la cueillette écologique à la culture biologique  -''</small></small> ==
 <br>
 
 &nbsp;&nbsp;{{nobr|''[[AMAP]]''}}
@@ -316,14 +316,33 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!------------------------------->
 <!------ FIN des colonnes ------->
 <!------------------------------->
+<!------------------------------->
+<!-- DÉBUT DU TABLEAU RESIWAY --->
+<!------------------------------->
+<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
+<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:5px;padding-bottom:5px">
+[[File:Resiway-logo-medium.jpg|50px|right|link=Portail:Permaculture|Logo de "Resiway, mouvement pour l'autonomie, la transition et la permaculture"]]
+== <center>Mouvement [[résilience|résilient]] '''[https://www.resiway.org/resiway.fr Resiway]'''</center> ==
+<center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[RésiWay|, RésiWay, association belge pour l'autonomie, la transition et la permaculture]].</center>
+----
+{{centre|{{Portail|Permaculture}}}}
+----
+</div></div>
+<!------------------------------->
+<!-- FIN DU TABLEAU RESIWAY ----->
+<!------------------------------->
 <!-- DÉBUT DU TABLEAU COLIBRIS -->
 <!------------------------------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
 <div style="padding:5px;padding-bottom:5px">
 [[File:Logo colibris2.png|50px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
-== <center>[[Portail:Colibris|'''Mouvement Colibris''']]</center> ==
-<center>L'encyclopédie [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme]].</center>
+== <center>Réseau citoyen '''[http://colibris.ning.com/ Colibris]'''</center> ==
+<center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme|Colibris, mouvement français pour la Terre et l’humanisme]].</center>
+----
+{{centre|{{Portail|Colibris}}}}
+----
 </div></div>
 <!------------------------------->
 <!-- FIN DU TABLEAU COLIBRIS ---->
@@ -334,6 +353,9 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 ----
 {{clr}}
 <!-------------------------------------------------------------------------------------------------------->
+<!--- EN SOMMEIL : 21 thémes pour 21 portails !  --------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------->
+<!---
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
 <div style="padding:0px;padding-bottom:0px"><div align="center">
@@ -348,6 +370,7 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Fichier:Redirect_arrow_without_text.svg.png|30px]] [[Portail:Se vêtir|Se vêtir]]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp;[[Portail:Se loger|''Se loger'']]&nbsp;&nbsp;&nbsp;''' >> '''&nbsp;&nbsp;&nbsp; ?<br>
 |}
 </div></div></div>
+---->
 {{clr}}
 <!-------------------------------------------------------------------------------------------------------->
 <!-- DEBUT LISTE ALPHABETIQUE DE TOUS LES PORTAILS -------------------------------------------------------->
@@ -372,10 +395,6 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 {{Portail|Donner|Permaculture|Transport en commun}}
 ----
 {{Portail|Écologie|Prendre soin|Vivre ensemble}}
-----
-{{centre|{{Portail|Colibris}}}}
-----
-<br />
 ----
 ----
 |}
