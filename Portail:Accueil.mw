@@ -20,7 +20,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
 <div style="padding:5px;padding-bottom:5px">
-==== <small>''A noter : Chacun des [[Spécial:Toutes_les_pages|articles]] de l'encyclopédie est une page entrant dans une des [[Modèle:Index-thematique|14 grandes thématiques]] d'activités humaines''</small> ====
+==== <small>''A noter : Chaque [[Spécial:Toutes_les_pages|article]] de l'encyclopédie est une page complétant un des [[Modèle:Index-thematique|14 grandes thémes]] d'activités humaines''.</small> ====
 </div></div>
 <!-- FIN DU NOTA BENE --------->
 <!--------------------------------------------------------------------------------------------------->
@@ -316,6 +316,21 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!------------------------------->
 <!------ FIN des colonnes ------->
 <!------------------------------->
+<!-- DÉBUT DU TABLEAU COLIBRIS -->
+<!------------------------------->
+<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
+<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:5px;padding-bottom:5px">
+[[File:Logo colibris2.png|50px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
+== <center>Réseau citoyen '''[http://colibris.ning.com/ Colibris]'''</center> ==
+<center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme|Colibris, mouvement français pour la Terre et l’humanisme]].</center>
+----
+{{centre|{{Portail|Colibris}}}}
+----
+</div></div>
+<!------------------------------->
+<!-- FIN DU TABLEAU COLIBRIS ---->
+<!------------------------------->
 <!------------------------------->
 <!-- DÉBUT DU TABLEAU RESIWAY --->
 <!------------------------------->
@@ -331,21 +346,6 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 </div></div>
 <!------------------------------->
 <!-- FIN DU TABLEAU RESIWAY ----->
-<!------------------------------->
-<!-- DÉBUT DU TABLEAU COLIBRIS -->
-<!------------------------------->
-<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[File:Logo colibris2.png|50px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
-== <center>Réseau citoyen '''[http://colibris.ning.com/ Colibris]'''</center> ==
-<center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme|Colibris, mouvement français pour la Terre et l’humanisme]].</center>
-----
-{{centre|{{Portail|Colibris}}}}
-----
-</div></div>
-<!------------------------------->
-<!-- FIN DU TABLEAU COLIBRIS ---->
 <!------------------------------->
 <!-- FIN INDEX DES PORTAILS ------------------------------------------------------------------------------>
 <!-------------------------------------------------------------------------------------------------------->
