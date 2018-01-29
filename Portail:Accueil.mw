@@ -288,17 +288,24 @@ N'hésitez pas à [[Spécial:Connexion/signup|vous inscrire]] ''(facile et gratu
 Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer personnellement]] l'un des projets que vous estimez le plus digne d'intérèt !'''
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=16}} Modifier]</small></div></div></div>
 <!-- FIN DU TABLEAU PARTICIPATION A UN PROJET -->
+<!-------------------------------------------------------------------------------------------------------------->
+<!------ VOIR AUSSI PORTAILS ----------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------->
+{{{{NAMESPACE}}:{{PAGENAME}}/Section 
+|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi 
+|tailleTitre = 100% 
+|partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}</div>
 <!--------------------------------------------------->
-<!-- DÉBUT POUR AJOUTER UN NOUVEAU TABLEAU
+<!-- 
+DÉBUT POUR AJOUTER UN NOUVEAU TABLEAU
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
 <div style="padding:5px;padding-bottom:5px">
 [[Image:Crystal Clear filesystem folder home2.png|38px|right|Portail du mois|link=]]
 == NOUVEAU TITRE ==
-
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=17}} Modifier]</small></div></div></div>
-
-     FIN POUR AJOUTER UN NOUVEAU TABLEAU -->
+FIN POUR AJOUTER UN NOUVEAU TABLEAU 
+---->
 <!--------------------------------------------------->
 <!-- Ajout optionnel bandeau rafraichir page -------->
 <!-- {{Portail/pied}} ------------------------------->
