@@ -26,7 +26,7 @@ L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour
 <!----------------------------------------------------------------------------------------------------->
 <!----- DÉBUT DU TABLEAU Almanach de l'année en cours ------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------->
-= <br>'''Almanach de l'année en cours''' =
+= <br>'''Almanach de l'année''' =
 <div style="text-align: center; border:1px solid #cccccc; -moz-border-radius: 10px; padding: 5px; margin: 0px 0px 0px 0px; background: #ffffff;"></div>
 {|id="mp-upper" style="margin:0px 0px 0px 0px; background:none;"
 |class="MainPageBG" style="width:40%; border:1px solid #ccc; background:#FFFFFF; vertical-align:top; color:#000;"|
@@ -1431,12 +1431,12 @@ L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour
 <!----------------------------------------------------------------------------------------------------->
 <!------- DATE DU JOUR ---------------------- AUJOURD HUI -------------------- NOUS SOMMES LE --------->
 <!----------------------------------------------------------------------------------------------------->
-! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><center><big><big><big>Année {{CURRENTYEAR}}</big></big></big><br><br><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier| '''{{Orange|Semaine n°{{CURRENTWEEK}} }} ]]'''</big></center>
+! <h2 style="margin:0; background:#F7D59B; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#FFF0FF; padding:0.2em 0.4em;"><br><br><br><center><big><big><big>Année {{CURRENTYEAR}}&nbsp;&nbsp;&nbsp;</big></big></big><br><br><br><big>[[Calendrier#Utilisations_tr.C3.A8s_diverses_du_calendrier| '''{{Orange|Semaine n°{{CURRENTWEEK}}&nbsp;&nbsp;&nbsp;}} ]]'''</big></center><br>
 ----
 <br><br><br>
-<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}}&nbsp;&nbsp;<br><small>nous sommes le</small><br> '''{{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}'''</big></center><br><br><br><br><br>
+<center><big>[[Ekopedia:Saison|{{Violet|<br>En ce {{CURRENTDAYNAME}},&nbsp;&nbsp;<br><small>nous sommes le</small><br> '''{{CURRENTDAY}}&nbsp;&nbsp;{{CURRENTMONTHNAME}}'''</big></center><br><br><br><br><br>
 ----
-<center> ''...et {{CURRENTHOUR}} <small> heures<br> se sont déjà écoulées.''</small><br>}}]]'''</center></h2>
+<br><center> ''&nbsp;&nbsp;&nbsp;...et {{CURRENTHOUR}} <small> heures<br> se sont déjà écoulées.''</small><br><br><br>}}]]'''</center></h2>
 <!--- --->
 <!--- --->
 <!--- --->
@@ -1447,9 +1447,6 @@ L'almanach Ekopédia réunit sur l'année en une liste chronologique chaque jour
 <!--- --->
 <!--- --->
 <!--- --->
-<br>
-----
-----<br>
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 <!------- Nouvelle journée ----------------- Nouvelle journée -------------- Nouvelle journée --------->
 |-
