@@ -1,12 +1,12 @@
 __NOTOC__ __NOEDITSECTION__ 
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:0px;padding-bottom:0px"><div align="center">
+<div style="height:6px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px"><div align="center">
 {| style="background-color:#F9F9F9"
-|[[Image:Crystal Clear filesystem folder home2.png|75px|left|Index des portails]]
+|<center>[[Image:Crystal Clear filesystem folder home2.png|55px|left|Index des portails]]</center>
 | valign="center" | <span style="font-size: 200%">Bienvenue sur l'index des portails d'Ékopédia !</span><br>
 <br>
-<center>{{Vert|'''''«&nbsp;&nbsp; D'un appel de son nom, un portail tu franchiras,<br> pour atteindre un autre monde en création... &nbsp;&nbsp;» '''''}}</center><br>
+<center>{{Vert|'''''«&nbsp;&nbsp; D'un appel de son nom, un portail tu franchiras,<br> aux fins de construire un nouveau monde... &nbsp;&nbsp;» '''''}}</center><br>
 |}
 </div></div></div>
 {|width="100%" cellspacing="0" cellpadding="0" style="background-color: transparent"
@@ -18,34 +18,34 @@ __NOTOC__ __NOEDITSECTION__
 <!---------------------------------------------------------------------------------------------------->
 <!-- DÉBUT DU NOTE -------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
-<div style="padding:5px;padding-bottom:5px">
-==== <center><small>''À noter : Chaque [[Spécial:Toutes_les_pages|article]] de l'encyclopédie est une page complétant une de ses [[Modèle:Index-thematique|14 thématiques]] d'activités humaines''.</small></center> ====
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
+<div style="padding:3px;padding-bottom:2px">
+==== <center><small>''Chaque [[Spécial:Toutes_les_pages|article]] est une page qui compléte une des 14 thématiques de [[:Catégorie:Besoins fondamentaux humains|besoins fondamentaux]] et d'[[Modèle:Index-thematique|activités humaines]]''.</small></center> ====
 </div></div>
 <!-- FIN DU NOTA BENE --------->
 <!--------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------->
 <!-- DÉBUT DU TABLEAU NAÎTRE -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #7D2020;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #7D2020;background: #EEBBBB"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps licq.png|40px|right|Portail:Naître|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #7D2020;background: #EEBBBB"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps licq.png|35px|right|Portail:Naître|link=]]
 ==[[Portail:Naître|'''Naître''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Premier acte de vie de tout être humain -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Éphéméride|Éphéméride du jour]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Naissance naturelle]]''}}
+&nbsp;&nbsp;{{nobr|[[:catégorie:Naître|Ses articles :]]}} &nbsp;&nbsp;{{nobr|''[[Allaitement]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Colostrum]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Allaitement]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Éphéméride|Éphéméride]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réseaux d'échanges et de dons|Dons]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Fourniture|Fournitures]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réseaux d'échanges et de dons|Échange / don]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Naissance naturelle]]''}}
 </div></div>
 <!-- FIN DU TABLEAU NAÎTRE -->
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU S'ALIMENTER-->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #5273A0;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #5273A0;background: #D0DAE8"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps cookie.png|40px|right|Portail:S'alimenter|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #5273A0;background: #D0DAE8"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps cookie.png|35px|right|Portail:S'alimenter|link=]]
 ==[[Portail:S'alimenter|'''S'alimenter''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- Du besoin primaire au savoir culinaire -''</small></small> ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Aliment biologique|Aliments bio]]''}}
@@ -58,9 +58,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU APPRENDRE -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #D98200;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #D98200;background: #FFDFB0"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps kdict.png|40px|right|Portail:Apprendre|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #D98200;background: #FFDFB0"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps kdict.png|35px|right|Portail:Apprendre|link=]]
 ==[[Portail:Apprendre|'''Apprendre''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Apprendre des autres pour se construire soi-même -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Calendrier]]''}}
@@ -75,9 +75,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU SE VÊTIR -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3416A9;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3416A9;background: #D9D1F8"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps tux.png|40px|right|Portail:Se vêtir|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3416A9;background: #D9D1F8"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps tux.png|35px|right|Portail:Se vêtir|link=]]
 ==[[Portail:Se vêtir|'''Se vêtir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De la protection du corps à l'acte sociétal -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Blanchir le linge]]''}}
@@ -93,9 +93,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU COMMUNIQUER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Crystal Clear app linneighborhood.png|40px|right|Portail:Communiquer|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Crystal Clear app linneighborhood.png|35px|right|Portail:Communiquer|link=]]
 ==[[Portail:Communiquer|'''Communiquer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'antique language sifflé à l'internet du futur -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Avant de communiquer]]''}}
@@ -110,9 +110,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU PENSER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #A0690E;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #A0690E;background: #F7D59B"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 filesystems exec.png|40px|right|Portail:Penser|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #A0690E;background: #F7D59B"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 filesystems exec.png|35px|right|Portail:Penser|link=]]
 ==[[Portail:Penser|'''Penser''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Elever le monde à dimension de curiosité -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
@@ -122,9 +122,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU CRÉER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps kthememgr.png|40px|right|Portail:Créer|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps kthememgr.png|35px|right|Portail:Créer|link=]]
 ==[[Portail:Créer|'''Créer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Evoluer entre Art et artisanat -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Économie alternative]]''}}
@@ -137,9 +137,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU SE LOGER-->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #9B9B9B;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #9B9B9B;background: #E0E0E0"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps kfm home.png|40px|right|Portail:Se loger|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #9B9B9B;background: #E0E0E0"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps kfm home.png|35px|right|Portail:Se loger|link=]]
 ==[[Portail:Se loger|'''Se loger''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Nécessité face aux éléments, besoin primaire -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Maison passive]]''}}
@@ -153,9 +153,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU CULTIVER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #5273A0;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #5273A0;background: #D0DAE8"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps cookie.png|40px|right|Portail:S'alimenter|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #5273A0;background: #D0DAE8"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps cookie.png|35px|right|Portail:S'alimenter|link=]]
 ==[[Portail:Cultiver|'''Cultiver''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- De la cueillette écologique à la culture biologique  -''</small></small> ==
 <br>
 
@@ -170,9 +170,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU PRENDRE SOIN -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #7D2020;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #7D2020;background: #EFCEBA"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps kcmdrkonqi.png|40px|right|Portail:Prendre soin|link=]]
+<div style="height4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #7D2020;background: #EFCEBA"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps kcmdrkonqi.png|35px|right|Portail:Prendre soin|link=]]
 ==[[Portail:Prendre soin|'''Prendre soin''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Prendre soin des autres, de soi-même, par le soin alternatif -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Bicarbonate de soude|Bicarbonate]]''}}
@@ -187,9 +187,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU SE DÉPLACER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #354A1C;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #354A1C;background: #C4DDA4"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps galeon.png|40px|right|Portail:Se déplacer|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #354A1C;background: #C4DDA4"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps galeon.png|35px|right|Portail:Se déplacer|link=]]
 ==[[Portail:Se déplacer|'''Se déplacer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Des muscles inférieurs aux transports alternatifs -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
@@ -199,9 +199,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU SE DIVERTIR -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #9C4374;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #9C4374;background: #E7C7D9"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps kpackage.png|40px|right|Portail:Se divertir|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #9C4374;background: #E7C7D9"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps kpackage.png|35px|right|Portail:Se divertir|link=]]
 ==[[Portail:Se divertir|'''Se divertir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'entrainement de l'enfant à la distraction d'adulte -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
@@ -209,18 +209,35 @@ __NOTOC__ __NOEDITSECTION__
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Cinéma engagé|Cinéma engagé]]}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Cultiver|'''Cultiver''']]}}
 </div></div>
-<!-- FIN DU TABLEAU DONNER -->
+<!-- FIN DU TABLEAU SE DIVERTIR -->
 <!--------------------------------------------------->
+<!-- DÉBUT DU TABLEAU DONNER -->
+<!---
+<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #9C4374;background: #F9F9F9;padding:0">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #9C4374;background: #E7C7D9"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps kpackage.png|35px|right|Portail:Se divertir|link=]]
+==[[Portail:Se divertir|'''Se divertir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'entrainement de l'enfant à la distraction d'adulte -</small></small>'' ==
+<br>
+&nbsp;&nbsp;{{nobr|''[[]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[]]}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[]]}}
+</div></div>
+--->
+<!-- FIN DU TABLEAU DONNER -->
 <!-- DÉBUT DU TABLEAU VIVRE ENSEMBLE -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #007700;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #007700;background: #DBFFB7"></div>
-<div style="padding:5px;padding-bottom:5px">
-[[Image:Noia 64 apps locale.png|40px|right|Portail:Vivre ensemble|link=]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #007700;background: #DBFFB7"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps locale.png|35px|right|Portail:Vivre ensemble|link=]]
 ==[[Portail:Vivre ensemble|'''Vivre ensemble''']]&nbsp;&nbsp; ''<small><small>- Survivre ensemble, vivre ensemble pour les autres  -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Portail:Organismes|Organismes]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Écologie|Écologie]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Donner|Donner]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Écologie|Écologie]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réseaux d'échanges et de dons|Réseaux échanges et dons]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|}}
 </div></div>
 <!-- FIN DU TABLEAU VIVRE ENSEMBLE -->
@@ -234,16 +251,16 @@ __NOTOC__ __NOEDITSECTION__
 <!---------------------------------------------------------------------------------------------------------->
 <!-- DÉBUT DU TABLEAU PORTAIL DU MOIS -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
-<div style="padding:5px;padding-bottom:5px">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:3px;padding-bottom:2px">
 [[Image:Nuvola apps kghostview.png|38px|right|Portail du mois|link=]]
 == Portail du mois ==
-<center>[[File:Logo colibris2.png|40px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]</center>
+<center>[[File:Logo colibris2.png|35px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]</center>
 
 '''[[Portail:Colibris|Portail Colibris]]''' solutions locales pour une société fondée sur l'[[autonomie]], l'[[écologie]] et l'[[humanisme]].
 
 Tout le monde peut participer en 
-* ajoutant des informations ou des [[:Catégorie:Témoignage|témoignages]], 
+* ajoutant des infos ou des [[:Catégorie:Témoignage|témoignages]], 
 * en complétant ou en corrigeant des articles, 
 * ou encore en apportant des photos ou des schémas pour illustrer les portails et articles.<br />
 
@@ -253,19 +270,18 @@ Tout le monde peut participer en
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU CONTRIBUER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:5px;padding-bottom:5px">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px">
 [[Image:Nuvola filesystems services.gif|38px|right|Portail du mois|link=]]
 
 == Comment contribuer ==
-Vous pouvez facilement [[Aide:Sommaire|aider Ékopédia]], en [[Aide:Comment modifier une page|modifant]] ou en [[Aide:Comment créer une page|créant]] des articles. Dans chacun des tableaux ci-contre, il y a une série d'[[:Catégorie:Ébauche|articles à compléter]].<br />
-<center>{{Statistiques}}</center><br>
+Vous pouvez facilement [[Aide:Sommaire|aider Ékopédia]], en [[Aide:Comment modifier une page|modifant]] ou en [[Aide:Comment créer une page|créant]] des articles. Dans chacun des tableaux ci-contre, il y a une série d'[[:Catégorie:Ébauche|articles à compléter]].<br>
 
 <center>{{Vert|N'hésitez pas à vous lancer !}}</center>
 
 '''[[Special:Wantedpages|Créer des articles]]'''<br>Cette page regroupe les articles les plus demandés sur Ékopedia, en ordre décroissant.<br>
 '''[[:catégorie:Espace encyclopédique|Espace encyclopédique]] :''' chercher l'inspiration dans les catégories [[:catégorie:Sciences|scientifiques]]
-'''[[:Catégorie:Ébauche|Modifer/Améliorer les articles]]'''<br>Vous trouverez les articles en ordre alphabétique contenants le bandeau <nowiki>{{Ébauche}}</nowiki><br>
+'''[[:Catégorie:Ébauche|Modifer/Améliorer les articles]]'''<br>Vous trouverez les articles en ordre alphabétique avec bandeau <nowiki>{{Ébauche}}</nowiki><br>
 '''[[:Catégorie:Article à wikifier|Wikifier les articles]]'''<br>La [[Ekopedia:Mise en page|mise en page]] des articles favorise l'uniformité et les contributions de passage.<br>
 '''[[Ekopedia:Modèles/Portails|Ajouter les bandeaux des portails]]'''<br>Chacun des articles se rapporte à un portail. Vous pouvez ajouter le bandeau approprié. 
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=14}} Modifier]</small></div></div></div>
@@ -273,8 +289,8 @@ Vous pouvez facilement [[Aide:Sommaire|aider Ékopédia]], en [[Aide:Comment mod
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU CRÉATION D'UN PORTAIL -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:5px;padding-bottom:5px">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px">
 [[Image:Crystal Clear filesystem folder home2.png|38px|right|Portail du mois|link=]]
 == Création d'un portail ==
 Vous voulez démarrer un nouveau portail ? 
@@ -287,16 +303,16 @@ Vous voulez démarrer un nouveau portail ?
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU PARTICIPATION A UN PROJET -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:5px;padding-bottom:5px">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px">
 [[Image:Crystal Clear filesystem folder home2.png|38px|right|Portail du mois|link=]]
 == Participation à un projet ==
 <center>
 Un '''[[Projet:Accueil|projet]]''' permet de coordonner en interne, les efforts de contributeurs autour de sujets précis.
-Chaque projet regroupe des ressources, des discussions; ainsi que des outils de travail...<br />
-<br />
+Chaque projet regroupe des ressources, des discussions; ainsi que des outils de travail...
+<center>{{Statistiques}}</center>
 N'hésitez pas à [[Spécial:Connexion/signup|vous inscrire]] ''(facile et gratuit)''<br />
-Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer personnellement]] l'un des projets que vous estimez le plus digne d'intérèt !'''
+Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|animer personnellement]] l'un des projets que vous estimez le plus digne d'intérèt !'''
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=16}} Modifier]</small></div></div></div>
 <!-- FIN DU TABLEAU PARTICIPATION A UN PROJET -->
 <!-------------------------------------------------------------------------------------------------------------->
@@ -310,8 +326,8 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|contribuer et animer p
 <!-- 
 DÉBUT POUR AJOUTER UN NOUVEAU TABLEAU
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:5px;padding-bottom:5px">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px">
 [[Image:Crystal Clear filesystem folder home2.png|38px|right|Portail du mois|link=]]
 == NOUVEAU TITRE ==
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=17}} Modifier]</small></div></div></div>
@@ -328,8 +344,8 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!-- DÉBUT DU TABLEAU COLIBRIS -->
 <!------------------------------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
-<div style="height:7px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
-<div style="padding:5px;padding-bottom:5px">[[File:Logo colibris2.png|50px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:3px;padding-bottom:2px">[[File:Logo colibris2.png|50px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
 == <center>Réseau citoyen '''[http://colibris.ning.com/ Colibris]'''</center> ==
 <center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme|Colibris, mouvement français pour la Terre et l’humanisme]].</center>
 ----
@@ -343,8 +359,8 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!-- DÉBUT DU TABLEAU RESIWAY --->
 <!------------------------------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
-<div style="height:7px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
-<div style="padding:5px;padding-bottom:5px">[[File:Resiway-logo-medium.jpg|50px|right|link=Portail:Permaculture|Logo de "Resiway, mouvement pour l'autonomie, la transition et la permaculture"]]
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:3px;padding-bottom:2px">[[File:Resiway-logo-medium.jpg|50px|right|link=Portail:Permaculture|Logo de "Resiway, mouvement pour l'autonomie, la transition et la permaculture"]]
 == <center>Mouvement [[résilience|résilient]] '''[https://www.resiway.org/resiway.fr Resiway]'''</center> ==
 <center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[RésiWay|, RésiWay, association belge pour l'autonomie, la transition et la permaculture]].</center>
 ----
@@ -364,8 +380,8 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!-------------------------------------------------------------------------------------------------------->
 <!---
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
-<div style="height:7px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
-<div style="padding:0px;padding-bottom:0px"><div align="center">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px"><div align="center">
 {| style="background-color:#F9F9F9"
 |[[Image:Crystal Clear filesystem folder home2.png|75px|left|Index des portails]]
 | valign="center" | <span style="font-size: 200%">21 thémes pour 21 portails !</span><br>
