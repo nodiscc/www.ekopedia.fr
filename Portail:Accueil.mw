@@ -4,9 +4,9 @@ __NOTOC__ __NOEDITSECTION__
 <div style="padding:3px;padding-bottom:2px"><div align="center">
 {| style="background-color:#F9F9F9"
 |<center>[[Image:Crystal Clear filesystem folder home2.png|55px|left|Index des portails]]</center>
-| valign="center" | <span style="font-size: 200%">Bienvenue sur l'index des portails d'Ékopédia !</span><br>
+| valign="center" | <span style="font-size: 200%">Bienvenue en Accueil des portails d'Ékopédia !</span><br>
 <br>
-<center>{{Vert|'''«'''&nbsp;&nbsp; '''''D'un appel de son nom, un portail tu franchiras,<br> aux fins de construire un nouveau monde...''''' &nbsp;&nbsp;'''»'''}}</center><br>
+<center>{{Vert|'''«'''&nbsp;&nbsp; '''''D'un appel de son nom, un portail tu franchiras,<br> pour y planifier et bâtir un nouveau monde...''''' &nbsp;&nbsp;'''»'''}}</center><br>
 |}
 </div></div></div>
 {|width="100%" cellspacing="0" cellpadding="0" style="background-color: transparent"
@@ -20,7 +20,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
 <div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
 <div style="padding:3px;padding-bottom:2px">
-==== <center><small>''Chaque [[Spécial:Toutes_les_pages|article]] est une page qui compléte une des 14 thématiques de [[:Catégorie:Besoins fondamentaux humains|besoins fondamentaux]] et d'[[Modèle:Index-thematique|activités humaines]]''.</small></center> ====
+==== <center><small>''Chaque [[Spécial:Toutes_les_pages|article]] est une page qui complète une des 14 thématiques de [[:Catégorie:Besoins fondamentaux humains|besoins fondamentaux]] et d'[[Modèle:Index-thematique|activités humaines]]''.</small></center> ====
 </div></div>
 <!-- FIN DU NOTA BENE --------->
 <!--------------------------------------------------------------------------------------------------->
@@ -66,13 +66,13 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kdict.png|35px|right|Portail:Apprendre|link=]]
 ==[[Portail:Apprendre|'''Apprendre''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Apprendre des autres pour se construire soi-même -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Calendrier]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réduire, Réutiliser, Recycler|Les 3RRR]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Apprendre|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Calendrier]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réduire, Réutiliser, Recycler|RRR]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Écologie|Écologie]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[1001 trucs pour protéger l'environnement|1001 trucs pour l'environnement]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[1001 trucs pour protéger l'environnement|1001 Trucs environnement]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Publicité]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Secte]]s''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Wiki]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Apprendre|etc...]]}}''
 </div></div>
 <!-- FIN DU TABLEAU APPRENDRE -->
 <!--------------------------------------------------->
@@ -83,14 +83,14 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps tux.png|35px|right|Portail:Se vêtir|link=]]
 ==[[Portail:Se vêtir|'''Se vêtir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De la protection du corps à l'acte sociétal -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Blanchir le linge]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Mode éthique]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Nettoyer les taches|Nettoyer taches]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Se vêtir|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Blanchir le linge|Linge blanchi]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Lessive]]s''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Lin cultivé|Lin]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Mode éthique|Mode éthique]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Nettoyer les taches|Tâches]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Textile|Textiles]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Tricoter|Tricot]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Troc]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Tricoter|Tricots]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Se vêtir|etc...]]}}''
 </div></div>
 <!-- FIN DU TABLEAU SE VÊTIR -->
 <!--------------------------------------------------->
@@ -101,13 +101,14 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Crystal Clear app linneighborhood.png|35px|right|Portail:Communiquer|link=]]
 ==[[Portail:Communiquer|'''Communiquer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'antique language sifflé à l'internet du futur -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Avant de communiquer]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Écoute]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Formes de communication|Ses diverses formes]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Communiquer|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Écoute]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Formes de communication|Ses formes]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Espéranto]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[:catégorie:Internet|Internet]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Morse]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Avant de communiquer|Préparation]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Wiki]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Communiquer|etc...]]}}''
 </div></div>
 <!-- FIN DU TABLEAU COMMUNIQUER -->
 <!--------------------------------------------------->
@@ -118,7 +119,8 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 filesystems exec.png|35px|right|Portail:Penser|link=]]
 ==[[Portail:Penser|'''Penser''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Elever le monde à dimension de curiosité -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Penser|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Secte]]s''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Simplicité volontaire]]''}}
 </div></div>
 <!-- FIN DU TABLEAU PENSER -->
@@ -130,11 +132,11 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kthememgr.png|35px|right|Portail:Créer|link=]]
 ==[[Portail:Créer|'''Créer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Evoluer entre Art et artisanat -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Économie alternative]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Entreprendre autrement|Entreprendre autrement]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Commerce équitable]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Poésie]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Créer|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Commerce équitable]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Cinéma engagé|Cinéma engagé]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Économie alternative]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Entreprendre autrement|Entreprendre autrement]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Poésie]]''}}
 </div></div>
 <!-- FIN DU TABLEAU CRÉER -->
 <!--------------------------------------------------->
@@ -145,11 +147,11 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kfm home.png|35px|right|Portail:Se loger|link=]]
 ==[[Portail:Se loger|'''Se loger''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Nécessité face aux éléments, besoin primaire -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Maison passive]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Se loger|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Maison passive]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Gestion des déchets|Déchets]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Énergie|Énergie]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Énergie renouvelable|Énergies renouvelables]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Énergie renouvelable|Énergies vertes]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Puits canadien]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Gestion des déchets|Gestion déchets]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Haie|Haies]]''}}
 </div></div>
 <!-- FIN DU TABLEAU SE LOGER -->
@@ -162,7 +164,7 @@ __NOTOC__ __NOEDITSECTION__
 ==[[Portail:Cultiver|'''Cultiver''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><small>''- De la cueillette écologique à la culture biologique  -''</small></small> ==
 <br>
 
-&nbsp;&nbsp;{{nobr|''[[AMAP]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Cultiver|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[AMAP]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Cultures associées|Compagnonnage végétal]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Calendrier du potager]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Permaculture|Permaculture]]''}}
@@ -178,10 +180,10 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kcmdrkonqi.png|35px|right|Portail:Prendre soin|link=]]
 ==[[Portail:Prendre soin|'''Prendre soin''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Prendre soin des autres, de soi-même, par le soin alternatif -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Bicarbonate de soude|Bicarbonate]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Prendre soin|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Bicarbonate de soude|Bicarbonate]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Cheveu]]x''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Herboristerie]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Huile essentielle]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Huile essentielle|H.E.]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Résilience]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Santé]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Savon]]''}}
@@ -195,7 +197,7 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps galeon.png|35px|right|Portail:Se déplacer|link=]]
 ==[[Portail:Se déplacer|'''Se déplacer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Des muscles inférieurs aux transports alternatifs -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Se déplacer|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Transport en commun|Transport en commun]]''}}
 </div></div>
 <!-- FIN DU TABLEAU SE DEPLACER -->
@@ -207,7 +209,7 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kpackage.png|35px|right|Portail:Se divertir|link=]]
 ==[[Portail:Se divertir|'''Se divertir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'entrainement de l'enfant à la distraction d'adulte -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Se divertir|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Simplicité volontaire]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Cinéma engagé|Cinéma engagé]]}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Cultiver|'''Cultiver''']]}}
@@ -222,7 +224,7 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kpackage.png|35px|right|Portail:Se divertir|link=]]
 ==[[Portail:Se divertir|'''Se divertir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'entrainement de l'enfant à la distraction d'adulte -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Donner|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[]]}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[]]}}
@@ -236,11 +238,12 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps locale.png|35px|right|Portail:Vivre ensemble|link=]]
 ==[[Portail:Vivre ensemble|'''Vivre ensemble''']]&nbsp;&nbsp; ''<small><small>- Survivre ensemble, vivre ensemble pour les autres  -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Portail:Organismes|Organismes]]''}}
+&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Vivre ensemble|INDEX]]}}'' ''':''' &nbsp;&nbsp;{{nobr|''[[Portail:Organismes|Organismes]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Donner|Donner]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Écologie|Écologie]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réseaux d'échanges et de dons|Réseaux échanges et dons]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Troc]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|}}
 </div></div>
 <!-- FIN DU TABLEAU VIVRE ENSEMBLE -->
