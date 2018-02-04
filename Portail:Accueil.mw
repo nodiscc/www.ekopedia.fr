@@ -6,7 +6,7 @@ __NOTOC__ __NOEDITSECTION__
 |[[Image:Crystal Clear filesystem folder home2.png|75px|left|Index des portails]]
 | valign="center" | <span style="font-size: 200%">Bienvenue sur l'index des portails d'Ékopédia !</span><br>
 <br>
-<center>{{Vert|'''''«&nbsp;&nbsp; D'un appel de son nom, un portail tu franchiras,<br> pour entrer en un autre monde... &nbsp;&nbsp;» '''''}}</center><br>
+<center>{{Vert|'''''«&nbsp;&nbsp; D'un appel de son nom, un portail tu franchiras,<br> pour atteindre un autre monde en création... &nbsp;&nbsp;» '''''}}</center><br>
 |}
 </div></div></div>
 {|width="100%" cellspacing="0" cellpadding="0" style="background-color: transparent"
@@ -20,7 +20,7 @@ __NOTOC__ __NOEDITSECTION__
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
 <div style="height:8px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
 <div style="padding:5px;padding-bottom:5px">
-==== <small>''A noter : Chaque [[Spécial:Toutes_les_pages|article]] de l'encyclopédie est une page complétant un des [[Modèle:Index-thematique|14 grandes thémes]] d'activités humaines''.</small> ====
+==== <center><small>''À noter : Chaque [[Spécial:Toutes_les_pages|article]] de l'encyclopédie est une page complétant une de ses [[Modèle:Index-thematique|14 thématiques]] d'activités humaines''.</small></center> ====
 </div></div>
 <!-- FIN DU NOTA BENE --------->
 <!--------------------------------------------------------------------------------------------------->
@@ -37,7 +37,7 @@ __NOTOC__ __NOEDITSECTION__
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Colostrum]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Allaitement]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Fourniture|Fournitures]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réseaux d'échanges et de dons|Echange / don]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réseaux d'échanges et de dons|Échange / don]]''}}
 </div></div>
 <!-- FIN DU TABLEAU NAÎTRE -->
 <!--------------------------------------------------->
@@ -89,7 +89,7 @@ __NOTOC__ __NOEDITSECTION__
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Tricoter|Tricot]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Troc]]''}}
 </div></div>
-<!-- FIN DU TABLEAU SE VETIR -->
+<!-- FIN DU TABLEAU SE VÊTIR -->
 <!--------------------------------------------------->
 <!-- DÉBUT DU TABLEAU COMMUNIQUER -->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
@@ -98,8 +98,13 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Crystal Clear app linneighborhood.png|40px|right|Portail:Communiquer|link=]]
 ==[[Portail:Communiquer|'''Communiquer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'antique language sifflé à l'internet du futur -</small></small>'' ==
 <br>
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|}}
+&nbsp;&nbsp;{{nobr|''[[Avant de communiquer]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Écoute]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Formes de communication|Ses diverses formes]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Espéranto]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[:catégorie:Internet|Internet]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Morse]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Wiki]]''}}
 </div></div>
 <!-- FIN DU TABLEAU COMMUNIQUER -->
 <!--------------------------------------------------->
@@ -110,8 +115,8 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 filesystems exec.png|40px|right|Portail:Penser|link=]]
 ==[[Portail:Penser|'''Penser''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Elever le monde à dimension de curiosité -</small></small>'' ==
 <br>
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|}}
+&nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Simplicité volontaire]]''}}
 </div></div>
 <!-- FIN DU TABLEAU PENSER -->
 <!--------------------------------------------------->
@@ -170,12 +175,13 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kcmdrkonqi.png|40px|right|Portail:Prendre soin|link=]]
 ==[[Portail:Prendre soin|'''Prendre soin''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Prendre soin des autres, de soi-même, par le soin alternatif -</small></small>'' ==
 <br>
+&nbsp;&nbsp;{{nobr|''[[Bicarbonate de soude|Bicarbonate]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Cheveu]]x''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Savon]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Bicarbonate de soude|Bicarbonate]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Herboristerie]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Huile essentielle]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Résilience]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Santé]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Savon]]''}}
 </div></div>
 <!-- FIN DU TABLEAU PRENDRE SOIN -->
 <!--------------------------------------------------->
@@ -186,7 +192,8 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps galeon.png|40px|right|Portail:Se déplacer|link=]]
 ==[[Portail:Se déplacer|'''Se déplacer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Des muscles inférieurs aux transports alternatifs -</small></small>'' ==
 <br>
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Transport en commun|Transport en commun]]}}
+&nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Portail:Transport en commun|Transport en commun]]''}}
 </div></div>
 <!-- FIN DU TABLEAU SE DEPLACER -->
 <!--------------------------------------------------->
@@ -197,6 +204,8 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kpackage.png|40px|right|Portail:Se divertir|link=]]
 ==[[Portail:Se divertir|'''Se divertir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'entrainement de l'enfant à la distraction d'adulte -</small></small>'' ==
 <br>
+&nbsp;&nbsp;{{nobr|''[[Autonomie]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Simplicité volontaire]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Cinéma engagé|Cinéma engagé]]}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|[[Portail:Cultiver|'''Cultiver''']]}}
 </div></div>
