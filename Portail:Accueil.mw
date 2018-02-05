@@ -6,7 +6,7 @@ __NOTOC__ __NOEDITSECTION__
 |<center>[[Image:Crystal Clear filesystem folder home2.png|55px|left|Index des portails]]</center>
 | valign="center" | <span style="font-size: 200%">Bienvenue en Accueil des portails d'Ékopédia !</span><br>
 <br>
-<center>{{Vert|'''«'''&nbsp;&nbsp; '''''D'un appel de son nom, un portail tu franchiras,<br> pour y planifier et bâtir un nouveau monde...''''' &nbsp;&nbsp;'''»'''}}</center><br>
+<center>'''«'''&nbsp;&nbsp; {{Vert|'''''D'un appel de son nom, un portail tu franchiras,<br> pour y préparer un monde nouveau...'''''}} &nbsp;&nbsp;'''»'''</center><br>
 |}
 </div></div></div>
 {|width="100%" cellspacing="0" cellpadding="0" style="background-color: transparent"
@@ -20,8 +20,8 @@ __NOTOC__ __NOEDITSECTION__
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #8D810E;background: #F9F9F9;padding:0">
 <div style="height:7px;font-size:1px;margin:0;border:0;border-bottom:1px solid #8D810E;background: #FAF3C7"></div>
 <div style="padding:3px;padding-bottom:2px">
-==== <center><small>''Chaque [[Spécial:Toutes_les_pages|article]] est une page qui complète une des 14 thématiques de [[:Catégorie:Besoins fondamentaux humains|besoins fondamentaux]] et d'[[Modèle:Index-thematique|activités humaines]]''.</small></center><br> ====
-</div></div>
+=== <small>Chaque [[Spécial:Toutes_les_pages|article d'Ékopédia]] complète les 14 thématiques de [[:Catégorie:Besoins fondamentaux humains|besoins fondamentaux]] et [[Modèle:Index-thematique|activités humaines]]...</small> ===
+<br></div></div>
 <!-- FIN DU NOTA BENE --------->
 <!--------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------->
@@ -52,8 +52,8 @@ __NOTOC__ __NOEDITSECTION__
 <br>
 &nbsp;&nbsp;{{nobr|''[[Aliment biologique|Aliments bio]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Conservation des aliments|Conservation]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Graines germées]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Fruits et légumes de saison|Fruits de saison]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Graines germées]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Pain doré]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:S'alimenter|... + en index]]}}''
 </div></div>
@@ -66,11 +66,11 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps kdict.png|35px|right|Portail:Apprendre|link=]]
 ==[[Portail:Apprendre|'''Apprendre''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- Apprendre des autres pour se construire soi-même -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Calendrier]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réduire, Réutiliser, Recycler|RRR]]''}}
+&nbsp;&nbsp;{{nobr|''[[1001 trucs pour protéger l'environnement|1001 Trucs environnement]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Calendrier]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Écologie]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[1001 trucs pour protéger l'environnement|1001 Trucs environnement]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Publicité]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Réduire, Réutiliser, Recycler|RRR]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Wiki]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Apprendre|... + en index]]}}''
 </div></div>
@@ -83,9 +83,9 @@ __NOTOC__ __NOEDITSECTION__
 [[Image:Noia 64 apps tux.png|35px|right|Portail:Se vêtir|link=]]
 ==[[Portail:Se vêtir|'''Se vêtir''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De la protection du corps à l'acte sociétal -</small></small>'' ==
 <br>
-&nbsp;&nbsp;{{nobr|''[[Blanchir le linge|Linge blanchi]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Lessive]]s''}}
+&nbsp;&nbsp;{{nobr|''[[Lessive]]s''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Lin cultivé|Lin]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Blanchir le linge|Linge blanchi]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Mode éthique|Mode éthique]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Nettoyer les taches|Tâches]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Textile|Textiles]]''}}
@@ -102,11 +102,11 @@ __NOTOC__ __NOEDITSECTION__
 ==[[Portail:Communiquer|'''Communiquer''']]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ''<small><small>- De l'antique language sifflé à l'internet du futur -</small></small>'' ==
 <br>
 &nbsp;&nbsp;{{nobr|''[[Écoute]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Formes de communication|Ses formes]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Espéranto]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[:catégorie:Internet|Internet]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Morse]]''}}
-&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Avant de communiquer|Préparation]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Avant de communiquer|S'y préparer]]''}}
+&nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Formes de communication|Ses formes]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;{{nobr|''[[Wiki]]''}}
 &nbsp;&nbsp;'' • ''&nbsp;&nbsp;''{{Bleu_foncé|[[:catégorie:Communiquer|... + en index]]}}''
 </div></div>
@@ -356,12 +356,12 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!-- DÉBUT DU TABLEAU COLIBRIS -->
 <!------------------------------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
-<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
-<div style="padding:3px;padding-bottom:2px">[[File:Logo colibris2.png|50px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
+<div style="height:7px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:3px;padding-bottom:2px">[[File:Logo colibris2.png|33px|right|link=Portail:Colibris|Logo de "Colibris, mouvement pour la Terre et l’humanisme"]]
 == <center>Réseau citoyen '''[http://colibris.ning.com/ Colibris]'''</center> ==
 <center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[Colibris, mouvement pour la Terre et l’humanisme|Colibris, mouvement français pour la Terre et l’humanisme]].</center>
 ----
-{{centre|{{Portail|Colibris}}}}
+<small>{{centre|{{Portail|Colibris}}}}</small>
 ----
 </div></div>
 <!------------------------------->
@@ -371,12 +371,12 @@ FIN POUR AJOUTER UN NOUVEAU TABLEAU
 <!-- DÉBUT DU TABLEAU RESIWAY --->
 <!------------------------------->
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3c1903;background: #F9F9F9;padding:0">
-<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
-<div style="padding:3px;padding-bottom:2px">[[File:Resiway-logo-medium.jpg|50px|right|link=Portail:Permaculture|Logo de "Resiway, mouvement pour l'autonomie, la transition et la permaculture"]]
+<div style="height:7px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #fff2c4"></div>
+<div style="padding:3px;padding-bottom:2px">[[File:Resiway-logo-medium.jpg|33px|right|link=Portail:Permaculture|Logo de "Resiway, mouvement pour l'autonomie, la transition et la permaculture"]]
 == <center>Mouvement [[résilience|résilient]] '''[https://www.resiway.org/resiway.fr Resiway]'''</center> ==
 <center>L'encyclopédie francophone [[Ekopedia:Encyclopédie|Ékopédia]], en partenariat avec [[RésiWay|, RésiWay, association belge pour l'autonomie, la transition et la permaculture]].</center>
 ----
-{{centre|{{Portail|Permaculture}}}}
+<small>{{centre|{{Portail|Permaculture}}}}</small>
 ----
 </div></div>
 <!------------------------------->
