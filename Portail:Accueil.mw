@@ -341,23 +341,40 @@ Et à [[Ekopedia:Pourquoi contribuer au projet Ékopédia|animer personnellement
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=16}} Modifier]</small></div></div></div>
 <!-- FIN DU TABLEAU PARTICIPATION A UN PROJET -->
 <!-------------------------------------------------------------------------------------------------------------->
-<!------ VOIR AUSSI PORTAILS ----------------------------------------------------------------------------------->
+<!------ Début VOIR AUSSI PORTAILS ----------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------->
-{{{{NAMESPACE}}:{{PAGENAME}}/Section 
-|titre = [[Image:Noia 64 apps xeyes.png|25px|link=]] Voir aussi 
-|tailleTitre = 100% 
-|partie = {{NAMESPACE}}:{{PAGENAME}}/Voir aussi}}</div>
+<div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
+<div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
+<div style="padding:3px;padding-bottom:2px">
+[[Image:Noia 64 apps xeyes.png|38px|right|Voir aussi |link=]]
+== Voir aussi ==
+<center> 
+[[File:Vista-licq.png||22px|link=Portail:Écologie|Écologie]] [[Portail:Écologie|Portail de l'Écologie]]<br>
+[[File:Nuvola apps kuickshow.png|22px|link=Portail:Cultiver|Cultiver]] [[Portail:Cultiver|Portail cultures agricoles]]<br>
+[[File:Tramway1.JPG||25px|link=Portail:Transport en commun|Transport en commun]] [[Portail:Transport en commun|Portail transports en communs]]<br>
+[[File:Nuvola_apps_kweather.png||25px|link=Portail Entreprendre autrement|Entreprendre autrement]] [[Portail:Entreprendre autrement|Portail méthodes et entreprises alternatives]]<br>
+[[File:Nuvola apps kuser.png||25px|link=Portail:Organismes|Organismes]] [[Portail:Organismes|Portail assoces, fondations, et autres]]<br>
+[[File:Nuvola apps cache.png|25px|link=Portail:Énergie|Énergie]] [[Portail:Énergie|Portail Énergies renouvelables]]<br>
+[[File:Cash.png||22px|link=Portail:Donner|Donner]] [[Portail:Donner|Portail dons et gratuité]]<br>
+</center>
+</div></div>
+<!-------------------------------------------------------------------------------------------------------------->
+<!------ Fin VOIR AUSSI PORTAILS ------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------->
+<!-- DÉBUT POUR AJOUTER UN NOUVEAU TABLEAU  --------->
 <!--------------------------------------------------->
 <!-- 
-DÉBUT POUR AJOUTER UN NOUVEAU TABLEAU
 <div style="width:100%" style="margin-bottom:1.25em;border:1px solid #3C3CFF;background: #F9F9F9;padding:0">
 <div style="height:4px;font-size:1px;margin:0;border:0;border-bottom:1px solid #3C3CFF;background: #AEAEFF"></div>
 <div style="padding:3px;padding-bottom:2px">
 [[Image:Crystal Clear filesystem folder home2.png|38px|right|Portail du mois|link=]]
 == NOUVEAU TITRE ==
 <div align="right"><small>[{{fullurl:{{FULLPAGENAME}}|action=edit&section=17}} Modifier]</small></div></div></div>
-FIN POUR AJOUTER UN NOUVEAU TABLEAU 
 ---->
+<!--------------------------------------------------->
+<!-- FIN POUR AJOUTER UN NOUVEAU TABLEAU ------------>
+<!--------------------------------------------------->
 <!--------------------------------------------------->
 <!-- Ajout optionnel bandeau rafraichir page -------->
 <!-- {{Portail/pied}} ------------------------------->
